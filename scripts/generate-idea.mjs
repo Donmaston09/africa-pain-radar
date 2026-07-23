@@ -126,7 +126,10 @@ async function sendDailyEmail(idea) {
     method: "POST",
     headers: {
       "Authorization": `Token ${BUTTONDOWN_API_KEY}`,
-      "content-type": "application/json"
+      "content-type": "application/json",
+      // Required once per API key by Buttondown as a safety confirmation before
+      // it will actually send (not just draft) an email created via the API.
+      "X-Buttondown-Live-Dangerously": "true"
     },
     body: JSON.stringify({
       subject: `Today's idea: ${idea.title}`,
