@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Africa Pain Radar — Premium Blueprints</title>
+<meta name="robots" content="noindex, nofollow">
+<style>
+  :root {
+    color-scheme: light;
+    --bg: #faf8f4;
+    --card: #ffffff;
+    --ink: #1c1a17;
+    --sub: #6b6259;
+    --line: #e9e3d8;
+    --accent: #c65d2e;
+    --accent-2: #1f6f5c;
+    --gold: #d9a441;
+    --chip-bg: #f3ede1;
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background: var(--bg); color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height:1.5; }
+
+  .banner {
+    background: linear-gradient(135deg, var(--gold), #b98a2f); color: #2a1e08;
+    text-align:center; padding: 14px 20px; font-size: 13.5px; font-weight: 700;
+  }
+  header.top { padding: 32px 20px 18px; text-align:center; border-bottom: 1px solid var(--line); background: #fff; }
+  .brand { font-size: 15px; font-weight: 800; letter-spacing:.08em; text-transform: uppercase; color: var(--accent); margin-bottom: 10px; }
+  h1 { font-size: 28px; font-weight: 800; letter-spacing:-0.02em; margin: 0 0 8px; }
+  .sub { font-size: 14.5px; color: var(--sub); max-width: 560px; margin: 0 auto; }
+
+  main { max-width: 900px; margin: 0 auto; padding: 30px 20px 60px; }
+
+  .card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+    padding: 20px 22px; margin-bottom: 18px;
+  }
+  .chip {
+    display:inline-block; font-size: 11px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .04em; color: var(--accent-2); background: var(--chip-bg);
+    padding: 3px 9px; border-radius: 999px; margin-bottom: 8px;
+  }
+  .card-title { font-size: 19px; font-weight: 800; margin: 0 0 4px; }
+  .card-tagline { font-size: 14px; color: var(--sub); margin: 0 0 14px; }
+
+  .section-label {
+    font-size: 11.5px; font-weight: 800; text-transform: uppercase; letter-spacing: .05em;
+    color: var(--accent); margin: 14px 0 6px;
+  }
+  .section-label.blueprint { color: var(--gold); }
+  .section-text { font-size: 14px; margin: 0; }
+  .blueprint-box {
+    background: #fffaf0; border: 1px solid var(--gold); border-radius: 10px;
+    padding: 14px 16px; margin-top: 6px;
+  }
+  ul.proof-list { margin: 4px 0 0; padding-left: 18px; }
+  ul.proof-list li { font-size: 14px; margin-bottom: 4px; }
+  a { color: var(--accent-2); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .facts-row { display:flex; gap: 24px; flex-wrap: wrap; margin-top: 12px; }
+  .fact { font-size: 12.5px; color: var(--sub); }
+  .fact b { color: var(--ink); }
+
+  .creator-credit { text-align:center; font-size: 12.5px; color: var(--sub); margin: 30px 0 6px; }
+  .creator-credit b { color: var(--ink); }
+  footer { max-width: 900px; margin: 0 auto 50px; padding: 0 20px; font-size: 12px; color: var(--sub); text-align:center; }
+</style>
+</head>
+<body>
+
+<div class="banner">🔓 Premium access — full build blueprints for every idea below. Bookmark this page.</div>
+
+<header class="top">
+  <div class="brand">Africa Pain Radar</div>
+  <h1>Premium Blueprints</h1>
+  <p class="sub">Every idea from the free feed, with the full execution plan unlocked — MVP scope, first build steps, and monetization approach.</p>
+</header>
+
+<main id="cardList"></main>
+
+<footer>
+  <p class="creator-credit">Created by <b>Anthony Onoja, Ph.D.</b> — <a href="mailto:donmaston09@gmail.com">donmaston09@gmail.com</a></p>
+  This page is unlisted — please don't share the link publicly. Research digest, not investment or legal advice.
+</footer>
+
+<script>
+const IDEAS = [
+  {
+    id: "pos-uptime-failover-router",
+    title: "Real-Time Outage & Failover Router for Nigerian POS Agents",
+    category: "POS & Agent Banking",
+    tagline: "When a POS transfer platform goes down, Nigerian agents have no way to know before they tap 'send' — leaving them holding the loss, facing furious customers, and in some cases hauled to a police station over money the system swallowed.",
+    dateAdded: "2026-07-23",
+    whyNow: "A Baxi transfer glitch that began in early May 2026 dragged on for weeks — transactions showed as successful while funds vanished, agents had no visibility into the outage, and many switched providers mid-crisis with no tool to guide the move. With CBN's new single-principal rule pushing agents onto one PSP at a time, an outage now strands a bigger slice of the market at once.",
+    proof: [
+      { text: "A prolonged Baxi transfer glitch beginning in early May 2026 left hundreds of thousands of POS agents unable to complete transfers, with funds appearing sent but never arriving in recipients' accounts.", url: "https://saharareporters.com/2026/05/11/nigerian-pos-agents-traders-stranded-baxi-fintech-transfer-glitch-traps-funds-disrupts" },
+      { text: "Agents were confronted by angry customers and in some cases taken to police stations over funds the system had processed but not delivered; one customer's children were sent home from school after a school-fee transfer failed.", url: "https://innovation-village.com/baxi-pos-glitch-leaves-nigerian-agents-stranded/" },
+      { text: "As the outage dragged on, POS operators began migrating ad hoc to rival platforms like Moniepoint and OPay just to keep serving customers, with no tool to guide which provider was actually working.", url: "https://bankibusiness.com/baxi-transfer-problems-spark-outrage-over-delayed-transactions-nigeria/" }
+    ],
+    marketGap: "No independent, real-time status dashboard exists for Nigeria's POS/agent-banking rails (Baxi, OPay, Moniepoint, PalmPay, Paga). Agents currently learn a provider is down only after a transaction fails or funds disappear, and have no fast way to route the next transaction to a terminal that's actually working.",
+    executionPlan: "MVP: a WhatsApp/SMS-first status board fed by crowdsourced agent reports (\"is transfer working?\" one-tap check-ins) plus polling of provider status/apology pages, showing live up/down status per provider per state. Add a 'nearest working terminal' lookup for agents who carry multiple POS devices, and a customer-facing bot to verify a stuck transfer before escalating. Pilot in Lagos/Abuja agent WhatsApp communities; monetize via a paid multi-terminal alert tier for agents and a B2B monitoring feed sold to fintechs and their agent-network managers.",
+    competitor: "No dedicated tool exists; agents currently rely on informal WhatsApp/Twitter grapevine and provider apology notices to learn of outages.",
+    trend: "CBN's 2026 single-principal rule is consolidating agent banking onto fewer PSPs per agent, concentrating outage risk just as reliance on POS transfer rails for daily income keeps growing."
+  },
+  {
+    id: "cross-border-cost-router",
+    title: "Landed-Cost Router for African SME Exporters",
+    category: "Trade & Logistics",
+    tagline: "SMEs shipping across African borders can't see their true total cost until after they've committed — a single quote-comparison and cost-prediction layer doesn't exist.",
+    dateAdded: "2026-07-22",
+    whyNow: "AfCFTA is pushing intra-African trade higher just as manufacturers publicly blame high, opaque logistics costs for locking SMEs out of neighboring markets. E-commerce cross-border volume is rising faster than the tooling to price it.",
+    proof: [
+      { text: "Kenyan manufacturers say high logistics costs are locking SMEs out of African export markets.", url: "https://eastleighvoice.co.ke/business/323646/manufacturers-fault-high-logistics-costs-for-locking-smes-out-of-african-markets" },
+      { text: "Demurrage on a 40ft container in Kenya can run KES 15,000+ per day; shipping the same Sh30,000 goods costs Sh14,000 to Rwanda vs Sh17,000 to Nigeria — pricing swings 2–4x by corridor with no upfront visibility.", url: "https://www.smartbizsystems.co.ke/blog/import-tracking-tools" },
+      { text: "Cross-border payment friction (FX spreads, settlement delays, intermediary charges) compounds the logistics cost problem for Kenyan SMEs.", url: "https://www.businessdailyafrica.com/bd/opinion-analysis/columnists/cross-border-payment-costs-are-quietly-hurting-kenyan-smes-5508946" }
+    ],
+    marketGap: "No tool aggregates freight-forwarder rate cards, port dwell/demurrage risk, customs paperwork, and payment-settlement cost into one predictive “landed cost” figure before an SME commits to shipping.",
+    executionPlan: "MVP: a WhatsApp bot + lightweight web form where an SME enters product, weight/volume, origin and destination. The tool returns an estimated landed cost (freight + duties + demurrage risk + FX) and a recommended broker, starting with one corridor cluster (Kenya → Nigeria → Rwanda) before expanding. Monetize via broker referral fees and a paid “priority quote” tier.",
+    competitor: "SmartBizSystems (Kenya) — offers import tracking, not pre-shipment cost prediction or cross-corridor comparison.",
+    trend: "AfCFTA implementation and rising African e-commerce cross-border volume are both increasing demand for cost transparency faster than incumbents are building it."
+  },
+  {
+    id: "remittance-router",
+    title: "Diaspora Remittance Fee & Speed Comparator",
+    category: "Fintech & Payments",
+    tagline: "Sub-Saharan Africa is the most expensive region in the world to receive money in, and no neutral tool compares African remittance fintechs corridor by corridor, in real time.",
+    dateAdded: "2026-07-22",
+    whyNow: "Global banks cut ties with 127 African institutions in 2024–25 over compliance costs, forcing remittance providers to reroute through UAE/Europe hubs — right as African-founded remittance fintechs fragment pricing across corridors.",
+    proof: [
+      { text: "83.3% of Kenyan remittance recipients name fees as their #1 concern; SSA averages 8.45–8.78% cost to send $200 vs a 6.49% global average.", url: "https://kenyanwallstreet.com/remittance-costs" },
+      { text: "Only 42% of retail payments/remittances in Sub-Saharan Africa arrive within one hour.", url: "https://www.un.org/osaa/news/reducing-remittance-costs-africa-path-resilient-financing-development" },
+      { text: "Global banks terminated relationships with 127 African institutions in 2024-2025.", url: "https://tryduplo.com/blog/why-cross-border-payments-africa-slow-expensive" }
+    ],
+    marketGap: "No neutral, real-time comparison exists across LemFi, Nala, Chipper Cash, Sendwave, Grey, Leatherback etc. by corridor and amount, auto-routing the sender to the best option that day.",
+    executionPlan: "MVP: start with the 3 busiest corridors (US/UK/Canada → Nigeria/Kenya/Ghana). Pull public pricing pages / partner APIs daily, rank by effective cost (fee + FX spread) and delivery speed, and recommend the best option per amount tier. Monetize via affiliate referral to the winning provider.",
+    competitor: "Generic global remittance-comparison sites exist but don't specialize in African corridors.",
+    trend: "Bank de-risking of African financial institutions plus a fast-growing set of African remittance fintechs competing on price."
+  },
+  {
+    id: "diagnostic-triage-router",
+    title: "Nearest-Diagnostic Router for Rural Clinics",
+    category: "Health-tech",
+    tagline: "Four in five Africans visiting a primary health facility can't get a basic diagnostic test there.",
+    dateAdded: "2026-07-22",
+    whyNow: "Africa's diagnostics gap is now being called an emergency in 2026 policy op-eds, just as point-of-care test kits get cheaper and mobile-money enables micro-payment for diagnostics.",
+    proof: [
+      { text: "Only 19% of primary health facility visits across Africa have access to basic diagnostics.", url: "https://healthwise.punchng.com/four-in-five-africans-lack-access-to-basic-diagnostics-at-primary-health-facilities-report/" },
+      { text: "Africa's diagnostics crisis is described as demanding “emergency action” in 2026 commentary.", url: "https://guardian.ng/opinion/letters/africas-diagnostics-crisis-demands-emergency-action/" },
+      { text: "A 2025 Nigerian study found 30% of patients experienced care delays due to transport-related barriers.", url: "https://africanhealthreport.com/distance-decides-survival-nigeria-healthcare-access/" }
+    ],
+    marketGap: "No lightweight system connects rural clinic staff to the nearest functioning diagnostic option with live availability.",
+    executionPlan: "MVP: SMS/USSD-first tool (works on basic phones) where clinic staff enters a symptom pattern and gets routed to the nearest available diagnostic resource with distance and estimated cost. Pilot in one Kenyan county or Nigerian state with an NGO or state health ministry partner before scaling.",
+    competitor: "General digital health platforms exist but none focus on real-time diagnostic-resource routing.",
+    trend: "Diagnostics access has become a named policy emergency in 2026."
+  },
+  {
+    id: "smallholder-financing-matchmaker",
+    title: "Smallholder Farmer Financing Matchmaker",
+    category: "Agri-fintech",
+    tagline: "Smallholders grow 70–80% of Africa's food but face a $75B annual financing gap.",
+    dateAdded: "2026-07-22",
+    whyNow: "AfDB and financial-sector experts are publicly pushing for stronger smallholder financing collaboration in 2026, fertiliser shortages are being called an emergency, and mobile money makes micro-disbursement practical.",
+    proof: [
+      { text: "A $75B annual financing gap persists for African smallholder farmers.", url: "https://www.afdb.org/en/news-and-events/global-and-african-financial-experts-urge-action-enhance-smallholder-farmer-financing-81871" },
+      { text: "African governments are being urged to take urgent action on fertiliser shortages hitting smallholders.", url: "https://www.afdb.org/en/news-and-events/african-governments-need-take-urgent-action-fertiliser-shortages-92779" },
+      { text: "Research at AfDB's 2026 Annual Meetings found financing compacts implicate 11M+ smallholders with limited control over terms.", url: "https://www.newsghana.com.gh/civil-society-challenges-afdb-farm-billions-in-brazzaville/" }
+    ],
+    marketGap: "No transparent matchmaking layer lets a farmer cooperative compare and apply to financing/input programs matching their crop, region, and need.",
+    executionPlan: "MVP: a directory + guided-application tool where cooperatives enter crop, region, and need, matched against a curated database of active financing and input programs. Start with 1–2 crops (maize, cassava) in 2 countries before expanding.",
+    competitor: "Single-lender input-financing apps exist, but none matchmake across multiple funders.",
+    trend: "AfDB's public advocacy on the financing gap is building demand for a transparent alternative."
+  }
+];
+
+function fmtDate(d){
+  const dt = new Date(d + "T00:00:00");
+  return dt.toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" });
+}
+
+const list = document.getElementById("cardList");
+IDEAS.forEach(idea => {
+  const card = document.createElement("div");
+  card.className = "card";
+  card.innerHTML = `
+    <div class="chip">${idea.category}</div>
+    <p class="card-title">${idea.title}</p>
+    <p class="card-tagline">${idea.tagline}</p>
+
+    <div class="section-label">Why Now</div>
+    <p class="section-text">${idea.whyNow}</p>
+
+    <div class="section-label">Proof &amp; Signals</div>
+    <ul class="proof-list">
+      ${idea.proof.map(p => `<li>${p.text} <a href="${p.url}" target="_blank" rel="noopener">source ↗</a></li>`).join("")}
+    </ul>
+
+    <div class="section-label">Market Gap</div>
+    <p class="section-text">${idea.marketGap}</p>
+
+    <div class="section-label blueprint">🔓 Build Blueprint</div>
+    <div class="blueprint-box">
+      <p class="section-text">${idea.executionPlan}</p>
+    </div>
+
+    <div class="facts-row">
+      <div class="fact"><b>Category:</b> ${idea.category}</div>
+      <div class="fact"><b>Main competitor:</b> ${idea.competitor}</div>
+    </div>
+
+    <div class="section-label">Trend</div>
+    <p class="section-text">${idea.trend}</p>
+  `;
+  list.appendChild(card);
+});
+</script>
+
+</body>
+</html>
