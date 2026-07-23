@@ -1,0 +1,87 @@
+[
+  {
+    "id": "pos-uptime-failover-router",
+    "title": "Real-Time Outage & Failover Router for Nigerian POS Agents",
+    "category": "POS & Agent Banking",
+    "tagline": "When a POS transfer platform goes down, Nigerian agents have no way to know before they tap 'send' — leaving them holding the loss, facing furious customers, and in some cases hauled to a police station over money the system swallowed.",
+    "dateAdded": "2026-07-23",
+    "whyNow": "A Baxi transfer glitch that began in early May 2026 dragged on for weeks — transactions showed as successful while funds vanished, agents had no visibility into the outage, and many switched providers mid-crisis with no tool to guide the move. With CBN's new single-principal rule pushing agents onto one PSP at a time, an outage now strands a bigger slice of the market at once.",
+    "proof": [
+      { "text": "A prolonged Baxi transfer glitch beginning in early May 2026 left hundreds of thousands of POS agents unable to complete transfers, with funds appearing sent but never arriving in recipients' accounts.", "url": "https://saharareporters.com/2026/05/11/nigerian-pos-agents-traders-stranded-baxi-fintech-transfer-glitch-traps-funds-disrupts" },
+      { "text": "Agents were confronted by angry customers and in some cases taken to police stations over funds the system had processed but not delivered; one customer's children were sent home from school after a school-fee transfer failed.", "url": "https://innovation-village.com/baxi-pos-glitch-leaves-nigerian-agents-stranded/" },
+      { "text": "As the outage dragged on, POS operators began migrating ad hoc to rival platforms like Moniepoint and OPay just to keep serving customers, with no tool to guide which provider was actually working.", "url": "https://bankibusiness.com/baxi-transfer-problems-spark-outrage-over-delayed-transactions-nigeria/" }
+    ],
+    "marketGap": "No independent, real-time status dashboard exists for Nigeria's POS/agent-banking rails (Baxi, OPay, Moniepoint, PalmPay, Paga). Agents currently learn a provider is down only after a transaction fails or funds disappear, and have no fast way to route the next transaction to a terminal that's actually working.",
+    "executionPlan": "MVP: a WhatsApp/SMS-first status board fed by crowdsourced agent reports (\"is transfer working?\" one-tap check-ins) plus polling of provider status/apology pages, showing live up/down status per provider per state. Add a 'nearest working terminal' lookup for agents who carry multiple POS devices, and a customer-facing bot to verify a stuck transfer before escalating. Pilot in Lagos/Abuja agent WhatsApp communities; monetize via a paid multi-terminal alert tier for agents and a B2B monitoring feed sold to fintechs and their agent-network managers.",
+    "competitor": "No dedicated tool exists; agents currently rely on informal WhatsApp/Twitter grapevine and provider apology notices to learn of outages.",
+    "trend": "CBN's 2026 single-principal rule is consolidating agent banking onto fewer PSPs per agent, concentrating outage risk just as reliance on POS transfer rails for daily income keeps growing."
+  },
+  {
+    "id": "cross-border-cost-router",
+    "title": "Landed-Cost Router for African SME Exporters",
+    "category": "Trade & Logistics",
+    "tagline": "SMEs shipping across African borders can't see their true total cost until after they've committed — a single quote-comparison and cost-prediction layer doesn't exist.",
+    "dateAdded": "2026-07-22",
+    "whyNow": "AfCFTA is pushing intra-African trade higher just as manufacturers publicly blame high, opaque logistics costs for locking SMEs out of neighboring markets. E-commerce cross-border volume is rising faster than the tooling to price it.",
+    "proof": [
+      { "text": "Kenyan manufacturers say high logistics costs are locking SMEs out of African export markets.", "url": "https://eastleighvoice.co.ke/business/323646/manufacturers-fault-high-logistics-costs-for-locking-smes-out-of-african-markets" },
+      { "text": "Demurrage on a 40ft container in Kenya can run KES 15,000+ per day; shipping the same Sh30,000 goods costs Sh14,000 to Rwanda vs Sh17,000 to Nigeria — pricing swings 2–4x by corridor with no upfront visibility.", "url": "https://www.smartbizsystems.co.ke/blog/import-tracking-tools" },
+      { "text": "Cross-border payment friction (FX spreads, settlement delays, intermediary charges) compounds the logistics cost problem for Kenyan SMEs.", "url": "https://www.businessdailyafrica.com/bd/opinion-analysis/columnists/cross-border-payment-costs-are-quietly-hurting-kenyan-smes-5508946" }
+    ],
+    "marketGap": "No tool aggregates freight-forwarder rate cards, port dwell/demurrage risk, customs paperwork, and payment-settlement cost into one predictive \"landed cost\" figure before an SME commits to shipping.",
+    "executionPlan": "MVP: a WhatsApp bot + lightweight web form where an SME enters product, weight/volume, origin and destination. The tool returns an estimated landed cost (freight + duties + demurrage risk + FX) and a recommended broker, starting with one corridor cluster (Kenya → Nigeria → Rwanda) before expanding. Monetize via broker referral fees and a paid \"priority quote\" tier.",
+    "competitor": "SmartBizSystems (Kenya) — offers import tracking, not pre-shipment cost prediction or cross-corridor comparison.",
+    "trend": "AfCFTA implementation and rising African e-commerce cross-border volume are both increasing demand for cost transparency faster than incumbents are building it."
+  },
+  {
+    "id": "remittance-router",
+    "title": "Diaspora Remittance Fee & Speed Comparator",
+    "category": "Fintech & Payments",
+    "tagline": "Sub-Saharan Africa is the most expensive region in the world to receive money in, and no neutral tool compares African remittance fintechs corridor by corridor, in real time.",
+    "dateAdded": "2026-07-22",
+    "whyNow": "Global banks cut ties with 127 African institutions in 2024–25 over compliance costs, forcing remittance providers to reroute through UAE/Europe hubs — right as African-founded remittance fintechs fragment pricing across corridors.",
+    "proof": [
+      { "text": "83.3% of Kenyan remittance recipients name fees as their #1 concern; SSA averages 8.45–8.78% cost to send $200 vs a 6.49% global average.", "url": "https://kenyanwallstreet.com/remittance-costs" },
+      { "text": "Only 42% of retail payments/remittances in Sub-Saharan Africa arrive within one hour.", "url": "https://www.un.org/osaa/news/reducing-remittance-costs-africa-path-resilient-financing-development" },
+      { "text": "Global banks terminated relationships with 127 African institutions in 2024-2025.", "url": "https://tryduplo.com/blog/why-cross-border-payments-africa-slow-expensive" }
+    ],
+    "marketGap": "No neutral, real-time comparison exists across LemFi, Nala, Chipper Cash, Sendwave, Grey, Leatherback etc. by corridor and amount, auto-routing the sender to the best option that day.",
+    "executionPlan": "MVP: start with the 3 busiest corridors (US/UK/Canada → Nigeria/Kenya/Ghana). Pull public pricing pages / partner APIs daily, rank by effective cost (fee + FX spread) and delivery speed, and recommend the best option per amount tier. Monetize via affiliate referral to the winning provider.",
+    "competitor": "Generic global remittance-comparison sites exist but don't specialize in African corridors.",
+    "trend": "Bank de-risking of African financial institutions plus a fast-growing set of African remittance fintechs competing on price."
+  },
+  {
+    "id": "diagnostic-triage-router",
+    "title": "Nearest-Diagnostic Router for Rural Clinics",
+    "category": "Health-tech",
+    "tagline": "Four in five Africans visiting a primary health facility can't get a basic diagnostic test there.",
+    "dateAdded": "2026-07-22",
+    "whyNow": "Africa's diagnostics gap is now being called an emergency in 2026 policy op-eds, just as point-of-care test kits get cheaper and mobile-money enables micro-payment for diagnostics.",
+    "proof": [
+      { "text": "Only 19% of primary health facility visits across Africa have access to basic diagnostics.", "url": "https://healthwise.punchng.com/four-in-five-africans-lack-access-to-basic-diagnostics-at-primary-health-facilities-report/" },
+      { "text": "Africa's diagnostics crisis is described as demanding \"emergency action\" in 2026 commentary.", "url": "https://guardian.ng/opinion/letters/africas-diagnostics-crisis-demands-emergency-action/" },
+      { "text": "A 2025 Nigerian study found 30% of patients experienced care delays due to transport-related barriers.", "url": "https://africanhealthreport.com/distance-decides-survival-nigeria-healthcare-access/" }
+    ],
+    "marketGap": "No lightweight system connects rural clinic staff to the nearest functioning diagnostic option with live availability.",
+    "executionPlan": "MVP: SMS/USSD-first tool (works on basic phones) where clinic staff enters a symptom pattern and gets routed to the nearest available diagnostic resource with distance and estimated cost. Pilot in one Kenyan county or Nigerian state with an NGO or state health ministry partner before scaling.",
+    "competitor": "General digital health platforms exist but none focus on real-time diagnostic-resource routing.",
+    "trend": "Diagnostics access has become a named policy emergency in 2026."
+  },
+  {
+    "id": "smallholder-financing-matchmaker",
+    "title": "Smallholder Farmer Financing Matchmaker",
+    "category": "Agri-fintech",
+    "tagline": "Smallholders grow 70–80% of Africa's food but face a $75B annual financing gap.",
+    "dateAdded": "2026-07-22",
+    "whyNow": "AfDB and financial-sector experts are publicly pushing for stronger smallholder financing collaboration in 2026, fertiliser shortages are being called an emergency, and mobile money makes micro-disbursement practical.",
+    "proof": [
+      { "text": "A $75B annual financing gap persists for African smallholder farmers.", "url": "https://www.afdb.org/en/news-and-events/global-and-african-financial-experts-urge-action-enhance-smallholder-farmer-financing-81871" },
+      { "text": "African governments are being urged to take urgent action on fertiliser shortages hitting smallholders.", "url": "https://www.afdb.org/en/news-and-events/african-governments-need-take-urgent-action-fertiliser-shortages-92779" },
+      { "text": "Research at AfDB's 2026 Annual Meetings found financing compacts implicate 11M+ smallholders with limited control over terms.", "url": "https://www.newsghana.com.gh/civil-society-challenges-afdb-farm-billions-in-brazzaville/" }
+    ],
+    "marketGap": "No transparent matchmaking layer lets a farmer cooperative compare and apply to financing/input programs matching their crop, region, and need.",
+    "executionPlan": "MVP: a directory + guided-application tool where cooperatives enter crop, region, and need, matched against a curated database of active financing and input programs. Start with 1–2 crops (maize, cassava) in 2 countries before expanding.",
+    "competitor": "Single-lender input-financing apps exist, but none matchmake across multiple funders.",
+    "trend": "AfDB's public advocacy on the financing gap is building demand for a transparent alternative."
+  }
+]

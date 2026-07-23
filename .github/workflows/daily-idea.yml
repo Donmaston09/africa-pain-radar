@@ -1,0 +1,41 @@
+name: Daily Africa Pain Radar Update
+
+on:
+  schedule:
+    # 6:15 UTC ≈ 7:15am UK time in summer (BST). Will run ~1hr earlier/later
+    # relative to UK local time during winter (GMT), since GitHub Actions cron
+    # is always UTC and doesn't shift for daylight saving.
+    - cron: "15 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-idea:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate today's idea
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/generate-idea.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "Africa Pain Radar Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add ideas.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily idea update: $(date -u +%Y-%m-%d)"
+            git push
+          fi

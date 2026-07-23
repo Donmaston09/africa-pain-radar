@@ -190,78 +190,8 @@
 </footer>
 
 <script>
-const IDEAS = [
-  {
-    id: "cross-border-cost-router",
-    title: "Landed-Cost Router for African SME Exporters",
-    category: "Trade & Logistics",
-    tagline: "SMEs shipping across African borders can't see their true total cost until after they've committed — a single quote-comparison and cost-prediction layer doesn't exist.",
-    dateAdded: "2026-07-22",
-    whyNow: "AfCFTA is pushing intra-African trade higher just as manufacturers publicly blame high, opaque logistics costs for locking SMEs out of neighboring markets. E-commerce cross-border volume is rising faster than the tooling to price it.",
-    proof: [
-      { text: "Kenyan manufacturers say high logistics costs are locking SMEs out of African export markets.", url: "https://eastleighvoice.co.ke/business/323646/manufacturers-fault-high-logistics-costs-for-locking-smes-out-of-african-markets" },
-      { text: "Demurrage on a 40ft container in Kenya can run KES 15,000+ per day; shipping the same Sh30,000 goods costs Sh14,000 to Rwanda vs Sh17,000 to Nigeria — pricing swings 2–4x by corridor with no upfront visibility.", url: "https://www.smartbizsystems.co.ke/blog/import-tracking-tools" },
-      { text: "Cross-border payment friction (FX spreads, settlement delays, intermediary charges) compounds the logistics cost problem for Kenyan SMEs.", url: "https://www.businessdailyafrica.com/bd/opinion-analysis/columnists/cross-border-payment-costs-are-quietly-hurting-kenyan-smes-5508946" }
-    ],
-    marketGap: "No tool aggregates freight-forwarder rate cards, port dwell/demurrage risk, customs paperwork, and payment-settlement cost into one predictive “landed cost” figure before an SME commits to shipping. Existing tools (e.g. import tracking apps) only track shipments already in motion — none predict cost beforehand or compare corridors.",
-    executionPlan: "MVP: a WhatsApp bot + lightweight web form where an SME enters product, weight/volume, origin and destination. The tool returns an estimated landed cost (freight + duties + demurrage risk + FX) and a recommended broker, starting with one corridor cluster (Kenya → Nigeria → Rwanda) before expanding. Monetize via broker referral fees and a paid “priority quote” tier.",
-    competitor: "SmartBizSystems (Kenya) — offers import tracking, not pre-shipment cost prediction or cross-corridor comparison.",
-    trend: "AfCFTA implementation and rising African e-commerce cross-border volume are both increasing demand for cost transparency faster than incumbents are building it."
-  },
-  {
-    id: "remittance-router",
-    title: "Diaspora Remittance Fee & Speed Comparator",
-    category: "Fintech & Payments",
-    tagline: "Sub-Saharan Africa is the most expensive region in the world to receive money in, and no neutral tool compares the growing pile of African remittance fintechs corridor by corridor, in real time.",
-    dateAdded: "2026-07-22",
-    whyNow: "Global banks cut ties with 127 African institutions in 2024–25 over compliance costs, forcing remittance providers to reroute through UAE/Europe hubs — right as a wave of African-founded remittance fintechs (LemFi, Nala, Chipper Cash, Sendwave, Grey, Leatherback) has fragmented pricing across corridors.",
-    proof: [
-      { text: "83.3% of Kenyan remittance recipients name fees as their #1 concern; SSA averages 8.45–8.78% cost to send $200 vs a 6.49% global average and a 3% G20 target.", url: "https://kenyanwallstreet.com/remittance-costs" },
-      { text: "Only 42% of retail payments/remittances in Sub-Saharan Africa arrive within one hour, against a 75% G20 target; correspondent-banking transfers average 3–5 business days.", url: "https://www.un.org/osaa/news/reducing-remittance-costs-africa-path-resilient-financing-development" },
-      { text: "Global banks terminated relationships with 127 African institutions in 2024-2025, pushing providers to reroute through UAE and European hubs.", url: "https://tryduplo.com/blog/why-cross-border-payments-africa-slow-expensive" }
-    ],
-    marketGap: "No neutral, real-time “Kayak for African remittances” exists that compares fee + speed + real exchange rate across LemFi, Nala, Chipper Cash, Sendwave, Grey, Leatherback etc. by corridor and amount, and auto-routes the sender to the best option that day.",
-    executionPlan: "MVP: start with the 3 busiest corridors (US/UK/Canada → Nigeria/Kenya/Ghana). Pull public pricing pages / partner APIs daily, rank by effective cost (fee + FX spread) and delivery speed, and recommend the best option per amount tier. Monetize via affiliate referral to the winning provider.",
-    competitor: "Generic global remittance-comparison sites exist but don't specialize in African corridors or track African-founded fintech pricing specifically.",
-    trend: "Bank de-risking of African financial institutions plus a fast-growing set of African remittance fintechs competing on price — comparison tooling hasn't caught up to the choice available."
-  },
-  {
-    id: "diagnostic-triage-router",
-    title: "Nearest-Diagnostic Router for Rural Clinics",
-    category: "Health-tech",
-    tagline: "Four in five Africans visiting a primary health facility can't get a basic diagnostic test there — clinics have no way to know, in real time, where the nearest working test kit or lab actually is.",
-    dateAdded: "2026-07-22",
-    whyNow: "Africa's diagnostics gap is now being called an emergency in 2026 policy op-eds, just as point-of-care test kits get cheaper and mobile-money enables micro-payment for diagnostics — and early pilots (Nairobi slum health apps) are already cutting wait times from days to hours.",
-    proof: [
-      { text: "Only 19% of primary health facility visits across Africa have access to basic diagnostics — 81% of patients are treated without an accurate test.", url: "https://healthwise.punchng.com/four-in-five-africans-lack-access-to-basic-diagnostics-at-primary-health-facilities-report/" },
-      { text: "Africa's diagnostics crisis is described as demanding “emergency action” in 2026 commentary.", url: "https://guardian.ng/opinion/letters/africas-diagnostics-crisis-demands-emergency-action/" },
-      { text: "A 2025 Nigerian study found 30% of patients experienced care delays specifically due to transport-related barriers reaching diagnostic or treatment services.", url: "https://africanhealthreport.com/distance-decides-survival-nigeria-healthcare-access/" }
-    ],
-    marketGap: "No lightweight system connects rural clinic staff to the nearest functioning diagnostic option — mobile lab van, pharmacy with rapid test kits, or referral hospital — with live availability. Patients currently discover the gap only after traveling to a clinic that can't test them.",
-    executionPlan: "MVP: SMS/USSD-first tool (works on basic phones) where clinic staff enters a symptom pattern and gets routed to the nearest available diagnostic resource with distance and estimated cost. Pilot in one Kenyan county or Nigerian state with an NGO or state health ministry partner before scaling.",
-    competitor: "General digital health platforms (e.g. broad telemedicine or health-records apps) exist but none focus specifically on real-time diagnostic-resource routing.",
-    trend: "Diagnostics access has become a named policy emergency in 2026, and point-of-care hardware costs are dropping enough to make a routing layer viable."
-  },
-  {
-    id: "smallholder-financing-matchmaker",
-    title: "Smallholder Farmer Financing Matchmaker",
-    category: "Agri-fintech",
-    tagline: "Smallholders grow 70–80% of Africa's food but face a $75B annual financing gap, routed through opaque intermediaries they can't compare or trust.",
-    dateAdded: "2026-07-22",
-    whyNow: "AfDB and financial-sector experts are publicly pushing for stronger smallholder financing collaboration in 2026, fertiliser shortages are being called an emergency, and mobile money penetration now makes micro-disbursement to individual farmers practical.",
-    proof: [
-      { text: "A $75B annual financing gap persists for African smallholder farmers, who together with SMEs produce 80% of the continent's food.", url: "https://www.afdb.org/en/news-and-events/global-and-african-financial-experts-urge-action-enhance-smallholder-farmer-financing-81871" },
-      { text: "African governments are being urged to take urgent action on fertiliser shortages hitting smallholders.", url: "https://www.afdb.org/en/news-and-events/african-governments-need-take-urgent-action-fertiliser-shortages-92779" },
-      { text: "Research presented at AfDB's 2026 Annual Meetings found agricultural financing compacts implicate 11M+ smallholders in contract-farming arrangements with limited control or transparency over terms.", url: "https://www.newsghana.com.gh/civil-society-challenges-afdb-farm-billions-in-brazzaville/" }
-    ],
-    marketGap: "No transparent matchmaking layer lets a farmer cooperative see, compare, and apply to the many disparate microfinance, impact-fund, and input-financing programs that actually match their crop, region, and need — access today runs through opaque intermediary chains.",
-    executionPlan: "MVP: a directory + guided-application tool where cooperatives enter crop, region, and need, matched against a curated, regularly-updated database of active financing and input programs (sourced from AfDB, FAO, and local development-bank public listings). Start with 1–2 crops (maize, cassava) in 2 countries before expanding.",
-    competitor: "Single-lender input-financing apps exist, but none matchmake across multiple funders with transparent terms.",
-    trend: "AfDB's public advocacy on the financing gap plus scrutiny of opaque contract-farming deals is building demand for a transparent alternative."
-  }
-];
-
 const STRIPE_PREMIUM_LINK = "https://buy.stripe.com/cNi6oHbhzfPT5Eldhu5wI00";
+let IDEAS = [];
 
 function fmtDate(d){
   const dt = new Date(d + "T00:00:00");
@@ -342,11 +272,19 @@ function renderFilters() {
   });
 }
 
-document.getElementById("statCount").textContent = IDEAS.length;
-document.getElementById("statCats").textContent = new Set(IDEAS.map(i => i.category)).size;
-
-renderFilters();
-render("All");
+fetch("./ideas.json")
+  .then(r => r.json())
+  .then(data => {
+    IDEAS = data;
+    document.getElementById("statCount").textContent = IDEAS.length;
+    document.getElementById("statCats").textContent = new Set(IDEAS.map(i => i.category)).size;
+    renderFilters();
+    render("All");
+  })
+  .catch(err => {
+    document.getElementById("cardList").innerHTML = "<p style='text-align:center;color:#6b6259;'>Couldn't load today's ideas — please refresh.</p>";
+    console.error("Failed to load ideas.json", err);
+  });
 </script>
 
 <script src="https://www.paypal.com/sdk/js?client-id=BAAj8BP3W00X1BrLIfv3Lv1143J7Aa_SmsWduPagtAe0T00eCDre3YhjCpRHJ60DN9O6MH1mwJhexXEQ2s&vault=true&intent=subscription" data-sdk-integration-source="button-factory"></script>
