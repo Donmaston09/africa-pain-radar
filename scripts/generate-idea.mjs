@@ -1,8 +1,8 @@
 // Daily "Africa Pain Radar" idea generator.
 // Pulls recent headlines from Google News RSS (no API key needed) for a rotating
-// topic/category, then asks Claude to turn the most concrete one into a single
-// idea entry matching ideas.json's schema. Never invents sources — only cites
-// URLs actually returned by the news search.
+// topic/category, then asks a Groq-hosted model to turn the most concrete one into
+// a single idea entry matching ideas.json's schema. Never invents sources — only
+// cites URLs actually returned by the news search.
 
 import fs from "node:fs";
 import path from "node:path";
@@ -11,9 +11,9 @@ import { fileURLToPath } from "node:url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const IDEAS_PATH = path.join(__dirname, "..", "ideas.json");
 
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
-if (!ANTHROPIC_API_KEY) {
-  console.error("Missing ANTHROPIC_API_KEY secret. Set it in repo Settings -> Secrets and variables -> Actions.");
+const GROQ_API_KEY = process.env.GROQ_API_KEY;
+if (!GROQ_API_KEY) {
+  console.error("Missing GROQ_API_KEY secret. Set it in repo Settings -> Secrets and variables -> Actions.");
   process.exit(1);
 }
 
@@ -60,26 +60,26 @@ async function fetchNews(query) {
   return items;
 }
 
-async function callClaude(prompt) {
-  const res = await fetch("https://api.anthropic.com/v1/messages", {
+async function callGroq(prompt) {
+  const res = await fetch("https://api.groq.com/openai/v1/chat/completions", {
     method: "POST",
     headers: {
-      "x-api-key": ANTHROPIC_API_KEY,
-      "anthropic-version": "2023-06-01",
+      "Authorization": `Bearer ${GROQ_API_KEY}`,
       "content-type": "application/json"
     },
     body: JSON.stringify({
-      model: "claude-sonnet-5",
+      model: "llama-3.3-70b-versatile",
       max_tokens: 1500,
+      temperature: 0.7,
       messages: [{ role: "user", content: prompt }]
     })
   });
   if (!res.ok) {
     const errText = await res.text();
-    throw new Error(`Anthropic API error ${res.status}: ${errText}`);
+    throw new Error(`Groq API error ${res.status}: ${errText}`);
   }
   const data = await res.json();
-  return data.content?.[0]?.text || "";
+  return data.choices?.[0]?.message?.content || "";
 }
 
 async function main() {
@@ -138,7 +138,7 @@ Pick the single most concrete, specific pain point from the sources above and re
 
 Include 2-3 items in "proof", each citing a different one of the URLs above where possible. If the sources lack enough concrete detail, pick whichever has the most specific facts and quote them directly rather than generalizing.`;
 
-  const raw = await callClaude(prompt);
+  const raw = await callGroq(prompt);
   const jsonMatch = raw.match(/\{[\s\S]*\}/);
   if (!jsonMatch) {
     throw new Error("Could not find a JSON object in the model's response:\n" + raw);

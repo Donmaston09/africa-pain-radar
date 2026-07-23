@@ -33,17 +33,20 @@ once this is switched on.
 
 ONE-TIME SETUP TO ACTIVATE FULL AUTOMATION (about 5 minutes)
 
-1. Get an Anthropic API key:
-   - Go to https://console.anthropic.com → Settings → API Keys → Create Key.
-   - Copy it (starts with "sk-ant-...").
-   - Note: this is billed separately from your Claude subscription — API usage is pay-as-you-go,
-     but one short idea-generation call per day costs a small fraction of a cent, so expect
-     well under $1/month for this.
+The generator script calls Groq (not Anthropic) — a free inference API, no credit card
+required, running an open model (Llama 3.3 70B) that's plenty capable for "read these
+headlines, write one JSON entry."
+
+1. Get a Groq API key:
+   - Go to https://console.groq.com → sign up (email or Google/GitHub) → API Keys → Create API Key.
+   - Copy it immediately (only shown once).
+   - This is genuinely free — no card needed, and the daily limit is far higher than the
+     one call/day this job makes.
 
 2. Add it as a GitHub repository secret:
    - Go to https://github.com/Donmaston09/africa-pain-radar/settings/secrets/actions
    - Click "New repository secret"
-   - Name: ANTHROPIC_API_KEY
+   - Name: GROQ_API_KEY
    - Value: paste the key you copied
    - Click "Add secret"
 
