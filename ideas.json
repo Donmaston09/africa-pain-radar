@@ -1,5 +1,31 @@
 [
   {
+    "id": "nigerian-small-business-power-outage-solution",
+    "title": "Power Backup as a Service for Nigerian SMEs",
+    "category": "Energy",
+    "tagline": "Nigerian small businesses are struggling to stay operational due to frequent and prolonged power outages, resulting in significant financial losses",
+    "dateAdded": "2026-07-23",
+    "whyNow": "The ongoing power crisis in Nigeria is stalling industrialization and affecting the livelihoods of many small business owners, making a reliable power backup solution urgent and timely. The surge in demand for alternative power sources also presents a huge market opportunity",
+    "proof": [
+      {
+        "text": "TCN announces 32-hour power outage across seven northeastern cities",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNelpMRVV1YWdaVkloTXVMV3haOGc2RVQ3RGc3emNuYXdjbktfVUN2czM2aFJUSDAzLUJVMEdLLWVwb2YzY0JQeDRPeGMtY19tUkhtQUlvMmluNTYweWRrSm8xY2lSRUIyUEMtR1QtVjNEaXpNejZzQm9jN1RkWHlCM3VmWHVMNDVaMUc2MGhmOURpSmlSNW1SaHpDUQ?oc=5"
+      },
+      {
+        "text": "Nigeria Joins Africa’s Fastest Growing Solar Markets as Demand for Alternative Power Surges",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSXJuN0pTcVlEeTJhTW1Wa3R3ZEpxWGVYRWlxUGx4S19BRXZjakpPZUo2am80WUMxMXZLbFVnMnZudHNrb1J5UEdvYy1JT0plUHJqb1ZlSWdaSnNnN2k0UHAzc3k0MVFZakI5cUZhQkcxYjk5SXg4N1RnbDVDdG1DOHZzQTZxRGs3aDJZZjdNRmEyVEozRDFJczdQX2FPMERSc1lFamhGYlhmYTVMRFFYSm90M3hQdw?oc=5"
+      },
+      {
+        "text": "Power Crisis Threatens Tailoring Renaissance As Nigeria’s Fashion Economy Stages Remarkable Comeback",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORVhzY3lqX1ZhM3JUNkVjNlhGNDhpNV93WU1SSVQ4WFVHVmxhRFBCOWM0NEhKOFJ6anR2VWFwSWtjNE5tSjEtTkZ5NWFUUG5FdlQzTEo4bWdlbXpGbmdWQnlJUnZ6YUppVENja2lSZVFidFAyeEpLOFVPUHBjMTkzb2h1VmJzM0dCSFVZenBJRjAxbUZ2R21MdGxDOTRfbjB4WG01bUdqTjVxa1dpaVQ4UUZDSUpycmlkWFd5SWs5dlU?oc=5"
+      }
+    ],
+    "marketGap": "While there are some alternative power sources available, many Nigerian small businesses cannot afford the high upfront costs of purchasing and installing solar panels or other backup power systems. A power backup as a service solution could fill this gap by providing affordable and reliable access to power",
+    "executionPlan": "The MVP scope could include a mobile app for customers to order and schedule power backup services, partnered with local solar panel and generator installation companies to provide the backup power. First build steps would involve establishing partnerships with these companies and developing the mobile app. A potential monetization angle could be a subscription-based model where customers pay a monthly fee for access to backup power",
+    "competitor": "None exists, but some companies like IBEDC are working on restoring power to communities after prolonged blackouts",
+    "trend": "The trend of increasing demand for alternative power sources and the growing need for reliable backup power solutions in Nigeria makes this startup idea timely and urgent"
+  },
+  {
     "id": "scholarship-fund-tracker",
     "title": "Scholarship Fund Tracker for Nigerian Students",
     "category": "Education",
