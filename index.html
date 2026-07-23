@@ -139,6 +139,16 @@
 
   footer { max-width: 980px; margin: 10px auto 50px; padding: 0 20px; font-size: 12px; color: var(--sub); text-align:center; }
 </style>
+
+<!-- MailerLite Universal -->
+<script>
+(function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+.push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+ml('account', '2525512');
+</script>
+<!-- End MailerLite Universal -->
 </head>
 <body>
 
@@ -148,19 +158,11 @@
   <p class="sub">Sourced from news, development-bank reports, and public discussion — not guesses. Sign up to get the daily idea in your inbox.</p>
 
   <div class="signup-box">
-    <h3>Get tomorrow's idea free</h3>
-    <p>One email a day. Unsubscribe anytime.</p>
 
-    <!--
-      MAILERLITE EMBED — replace this whole comment block with your
-      MailerLite embedded form code:
-      MailerLite dashboard → Forms → Embedded forms → Create/select form → Embed → copy the <script>/<div> snippet → paste here.
-      Until you do, the fallback form below just shows a "connect this" message on submit.
-    -->
-    <form class="fallback-form" onsubmit="event.preventDefault(); document.getElementById('formNote').textContent='This form isn\'t wired to MailerLite yet — paste your embed code in index.html to go live.';">
-      <input type="email" placeholder="you@email.com" required>
-      <button type="submit">Sign up</button>
-    </form>
+    <!-- MailerLite embedded form: Africa Pain Radar — Daily Signup -->
+    <div class="ml-embedded" data-form="lRtwYu"></div>
+    <!-- End MailerLite embedded form -->
+
     <p class="form-note" id="formNote">Free — see every idea's pain point, proof, and market gap.</p>
     <p class="form-note">Want the step-by-step build blueprint too? <a href="https://buy.stripe.com/cNi6oHbhzfPT5Eldhu5wI00" target="_blank" rel="noopener">Go Premium — $20/mo</a></p>
 
