@@ -148,23 +148,34 @@ async function main() {
   const existingIds = new Set(ideas.map(i => i.id));
 
   const today = new Date();
-  let idx = dayOfYear(today) % QUERIES.length;
-  let chosen = QUERIES[idx];
-  let attempts = 0;
-  // Skip categories used in the last 7 entries where possible.
-  while (recentCategories.includes(chosen.category) && attempts < QUERIES.length) {
-    idx = (idx + 1) % QUERIES.length;
-    chosen = QUERIES[idx];
-    attempts++;
+  const startIdx = dayOfYear(today) % QUERIES.length;
+
+  // Walk the rotation starting from today's slot, skipping categories used
+  // recently, and skipping any topic that turns up zero news items — so one
+  // quiet topic doesn't cause the whole day's update (and email) to be skipped.
+  let chosen = null;
+  let newsItems = [];
+  for (let step = 0; step < QUERIES.length; step++) {
+    const candidate = QUERIES[(startIdx + step) % QUERIES.length];
+    if (recentCategories.includes(candidate.category) && step < QUERIES.length - 1) {
+      continue; // prefer a fresh category, but don't rule out the last resort
+    }
+    console.log("Trying topic:", candidate.q, "| category:", candidate.category);
+    const items = await fetchNews(candidate.q);
+    if (items.length > 0) {
+      chosen = candidate;
+      newsItems = items;
+      break;
+    }
+    console.log("No news items found for that topic, trying the next one...");
+  }
+
+  if (!chosen) {
+    console.log("No news items found for any topic today — skipping this run without failing the workflow.");
+    return;
   }
 
   console.log("Chosen topic:", chosen.q, "| category:", chosen.category);
-
-  const newsItems = await fetchNews(chosen.q);
-  if (newsItems.length === 0) {
-    console.log("No news items found for today's topic — skipping this run without failing the workflow.");
-    return;
-  }
 
   const sourcesBlock = newsItems
     .map((it, i) => `${i + 1}. "${it.title}" — ${it.link} (published: ${it.pubDate})`)
