@@ -1,5 +1,31 @@
 [
   {
+    "id": "scholarship-fund-tracker",
+    "title": "Scholarship Fund Tracker for Nigerian Students",
+    "category": "Education",
+    "tagline": "Nigerian students are struggling to access their federal scholarship funds due to delays and lack of transparency in the disbursement process",
+    "dateAdded": "2026-07-23",
+    "whyNow": "The issue of delayed scholarship funds has been ongoing, and recently, the National Association of Nigerian Students (NANS) appealed to the Education Minister for a swift release of outstanding federal scholarship funds, highlighting the urgency of the problem. This situation is affecting the education and livelihood of many students, making it a timely problem to solve",
+    "proof": [
+      {
+        "text": "NANS appeals to Education Minister for swift release of outstanding federal scholarship funds",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUnlIWnBrbGdQQk9yeG1rNUt0VktlQ0lHWnowUzhhMFFtX2tsMUtIT1RjX3hLZmFmRTN0a0lkZDZIZHowZEZFZklRaklXRTZCM2RWSVgyRkhjTWRMQ0pjSEd3cHcyQmxRYy1QbWt3b2lydk5INW1WZnJmYUFSNmhfVkdlSkNhYU8zVkZ4RVlCalRWUmt4dXA1c2VKbXhJb3M5RGxRbnY2RFh1X0YxYW9PbjhFTE9UVnPSAbcBQVVfeXFMTVJ5SFpwa2xnUEJPcnhtazVLdFZLZUNJR1p6MFM4YTBRbV9rbDFLSE9UY194S2ZhZkUzdGtJZGQ2SGR6MGRGRWZJUWpJV0U2QjNkVklYMkZIY01kTENKY0hHd3B3MkJsUWMtUG1rd29pcnZOSDVtVmZyZmFBUjZoX1ZHZUpDYWFPM1ZGeEVZQmpUVlJreHVwNXNlSm14SW9zOURsUW52NkRYdV9GMWFvT244RUxPVFZz"
+      },
+      {
+        "text": "NELFUND denies suspending upkeep allowance amid students’ complaints over non-payment",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSXhTbE5DMHlpS3U5WWNia1JOSUNGWUlFci1HM1RkVG5jZjdhc2pnMmZtVjZMRnMwSWs3OVpfd3BRUHBNOE9EU2FhNVBxTGJoUkduQlVESHVLY0sxOVFfYTBhYVpneklibXJsN3ZubnU4QnFYWm5LdGFjUDVlNU5ZeFV2OXJwZHE5ek5qaEV2RTRMWm9aamxIVkE4WHVvYVFCdnVpWW05Nk9WSXNCZ3JQSlhUcVQ0YjJKcE9ZcG9n"
+      },
+      {
+        "text": "Corruption in the Education System: Need for transparency in disbursement of NELFUND",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSkk3MkdjMVpKN3BZdnVweXl4Uk52QWFMQjdBNjZCNDAwVTVYSGlMRjZteEh4a0ZscUQwTEhvbnpDQ0JLTFZMVHNhd0xyNWo3Uk51OHpLMUxjWC1wSjE5clVYc1Z0RzVyZ0JNbDVoRnhqTkdZNzJIUHFtUEF5TWtKTnlzRzM0eHc4X1BVRExCOGpoUXJHb0doZEtuMENIUVI5dW0yM1NNRE94RUZHOF9zY2h6MnVSUdIBuwFBVV95cUxOdmFJSVRfQlBORW1aV08zOEpmTEhLNGVrZlc0Wk5FWERQemVDS21mMENVUmlIQXdHQWN2MEhVU0oteTROcHloMjYzRVlZM0swYy1iVHR3MWZZT1BLSGlGNHhlemN6MkxaQnRWemF1VWd6X0hZZ2hrRVh5OWhTRGU3cGRaa0gwU01aM0tPeG1BZ2MyLWtJeHd2MTR1azBWZVg4NHBpbjE0bUo5Y3FucUhiaUF4ZWFTZk05QlR3"
+      }
+    ],
+    "marketGap": "Currently, there is no dedicated platform that allows students to track the status of their scholarship funds, making it difficult for them to plan and manage their education. The existing systems are opaque, and students are often left in the dark about the disbursement of their funds",
+    "executionPlan": "The first step would be to develop a minimal viable product (MVP) that allows students to register and track the status of their scholarship funds. This can be done by integrating with existing databases and working with relevant authorities to obtain the necessary information. The platform can then be expanded to include features such as automated updates, payment tracking, and alerts. Monetization can be achieved through partnerships with educational institutions and organizations that offer scholarships, as well as through advertising and premium services",
+    "competitor": "None exists",
+    "trend": "The growing demand for transparency and accountability in the education sector, particularly in the disbursement of scholarship funds, is driving the need for innovative solutions that can provide students with real-time information and support"
+  },
+  {
     "id": "water-scarcity-solutions-for-south-african-food-businesses",
     "title": "Climate-Resilient Water Management for South African Food Businesses",
     "category": "Climate & Water",
