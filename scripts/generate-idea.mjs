@@ -17,6 +17,11 @@ if (!GROQ_API_KEY) {
   process.exit(1);
 }
 
+// Buttondown sends the daily idea by email (no domain purchase required — it
+// sends from Buttondown's own shared infrastructure). Optional: if this secret
+// isn't set, email sending is just skipped (site + ideas.json still update fine).
+const BUTTONDOWN_API_KEY = process.env.BUTTONDOWN_API_KEY;
+
 // Rotating list of (query, category) pairs. Add more over time to keep variety up.
 const QUERIES = [
   { q: "Nigeria POS agent banking network down complaint", category: "POS & Agent Banking" },
@@ -80,6 +85,61 @@ async function callGroq(prompt) {
   }
   const data = await res.json();
   return data.choices?.[0]?.message?.content || "";
+}
+
+function buildEmailHtml(idea) {
+  const proofItems = (idea.proof || [])
+    .map(p => `<li style="font-size:14px;margin-bottom:4px;">${p.text}${p.url ? ` <a href="${p.url}" style="color:#1f6f5c;">source ↗</a>` : ""}</li>`)
+    .join("");
+  return `<!-- buttondown-editor-mode: fancy --><!DOCTYPE html><html><body style="margin:0;padding:0;background:#faf8f4;font-family:Helvetica,Arial,sans-serif;color:#1c1a17;">
+<table width="100%" cellpadding="0" cellspacing="0"><tr><td align="center" style="padding:28px 16px;">
+<table width="100%" style="max-width:560px;background:#ffffff;border:1px solid #e9e3d8;border-radius:14px;padding:28px 26px;"><tr><td>
+<div style="font-size:13px;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;color:#c65d2e;margin-bottom:14px;">Africa Pain Radar — Daily Idea</div>
+<h1 style="font-size:22px;margin:0 0 8px;">${idea.title}</h1>
+<p style="font-size:14px;color:#6b6259;margin:0 0 20px;">${idea.tagline}</p>
+<div style="font-size:11.5px;font-weight:800;text-transform:uppercase;letter-spacing:0.05em;color:#c65d2e;margin:16px 0 6px;">Why Now</div>
+<p style="font-size:14px;margin:0 0 4px;">${idea.whyNow}</p>
+<div style="font-size:11.5px;font-weight:800;text-transform:uppercase;letter-spacing:0.05em;color:#c65d2e;margin:16px 0 6px;">Proof &amp; Signals</div>
+<ul style="margin:4px 0 0;padding-left:18px;">${proofItems}</ul>
+<div style="font-size:11.5px;font-weight:800;text-transform:uppercase;letter-spacing:0.05em;color:#c65d2e;margin:16px 0 6px;">Market Gap</div>
+<p style="font-size:14px;margin:0 0 4px;">${idea.marketGap}</p>
+<div style="margin-top:22px;padding:16px 18px;background:#fffaf0;border:1px dashed #d9a441;border-radius:10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;text-transform:uppercase;letter-spacing:0.05em;color:#d9a441;margin-bottom:6px;">🔓 Build Blueprint — Premium</div>
+<p style="font-size:13px;color:#6b6259;margin:0 0 12px;">Get the full MVP scope, first build steps, and monetization plan for this idea (and every past idea).</p>
+<a href="https://buy.stripe.com/cNi6oHbhzfPT5Eldhu5wI00" style="display:inline-block;background:#d9a441;color:#2a1e08;font-weight:800;font-size:13.5px;padding:10px 20px;border-radius:999px;text-decoration:none;">Unlock Premium — $20/mo</a>
+</div>
+</td></tr></table>
+<table width="100%" style="max-width:560px;"><tr><td align="center" style="padding:18px 10px;font-size:12px;color:#6b6259;">
+See all ideas any time at <a href="https://africa-pain-radar.onrender.com" style="color:#1f6f5c;">africa-pain-radar.onrender.com</a><br>
+Created by Anthony Onoja, Ph.D. — donmaston09@gmail.com
+</td></tr></table>
+</td></tr></table>
+</body></html>`;
+}
+
+async function sendDailyEmail(idea) {
+  if (!BUTTONDOWN_API_KEY) {
+    console.log("BUTTONDOWN_API_KEY not set — skipping email send (site still updated fine).");
+    return;
+  }
+  const res = await fetch("https://api.buttondown.com/v1/emails", {
+    method: "POST",
+    headers: {
+      "Authorization": `Token ${BUTTONDOWN_API_KEY}`,
+      "content-type": "application/json"
+    },
+    body: JSON.stringify({
+      subject: `Today's idea: ${idea.title}`,
+      body: buildEmailHtml(idea),
+      status: "about_to_send"
+    })
+  });
+  if (!res.ok) {
+    const errText = await res.text();
+    console.error(`Buttondown API error ${res.status}: ${errText}`);
+    return; // don't fail the whole workflow just because the email didn't send
+  }
+  console.log("Daily email queued via Buttondown for:", idea.title);
 }
 
 async function main() {
@@ -153,6 +213,8 @@ Include 2-3 items in "proof", each citing a different one of the URLs above wher
   const updated = [newIdea, ...ideas].slice(0, 20);
   fs.writeFileSync(IDEAS_PATH, JSON.stringify(updated, null, 2) + "\n");
   console.log("Added new idea:", newIdea.title);
+
+  await sendDailyEmail(newIdea);
 }
 
 main().catch(err => {
