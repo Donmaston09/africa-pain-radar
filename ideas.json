@@ -1,5 +1,31 @@
 [
   {
+    "id": "kenyan-smallholder-farmer-financing-gap",
+    "title": "Financing Platform for Kenyan Smallholder Farmers",
+    "category": "Agri-fintech",
+    "tagline": "Kenyan smallholder farmers face significant financing gaps, hindering their ability to invest in climate-resilient agricultural practices and increase productivity",
+    "dateAdded": "2026-07-23",
+    "whyNow": "The need for climate-resilient agricultural practices is increasingly urgent due to the impacts of climate change, and access to financing is a critical component of this effort. Kenyan smallholder farmers require innovative financing solutions to address the existing gap",
+    "proof": [
+      {
+        "text": "Proparco has invested USD 12 million in climate-resilient agricultural innovation via ARAF II",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3BqeWFUR3lvNmFyalVoVnY5UmxsVHNTVHlnTzJwal9PTF80UTJfWnViblBWRE03OEFCUjRRbkN2RmtEempOSy1XTGdXOXhYWVAweV9xNUpVTXlyVzI1N0t1Yl9kR3BoNENNWHp5b0g0MlVwVkdFeDIzSTA5dnhULVpBS1pmd2kzVXVDdEpRS01wZno4Z3EwSnJaZWloWmwwWmFhQXBGRFRVQ29nbnNURnR3?oc=5"
+      },
+      {
+        "text": "Africa's food future won't be fixed by finance alone, indicating a need for holistic approaches to agricultural development",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUZ5TzhtZm9PMmdlVnpKLUFhNHZUck1MVkljNmFteHIzYWlHU0NfUDVEY1NhTFltVVh1TENRTXRmaEgtcHZqbzJNR1VPSC1fLTdmTGxxWFZJTVBWbFM2VEVtc1o5N2FJRmMtdGVzeW9DLXd1RlFRWmZUS3p3a1R0RGZmNm14cTdCUlRfTTB4WVpaMzBJbTFVWTJ6ME1OdGpwRm9GNFRsdThmeXVBZWZkYnpLN01nNkpQMFdpLTJ0TGtEVE0?oc=5"
+      },
+      {
+        "text": "Kenyan fintech companies are using AI to offer quick credit to small agribusinesses, demonstrating the potential for technology-driven financing solutions",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFTHJrVzJZQTliWlNzdzJjOGpBeWRPYzZXWXNDYm1RejRlX3FueW50WFBuR0sxUlduSU1DYTB5b3FBZzU0dVNrLWZBaVZiREh4SU1KaFV4cm1JMDJITjlQbXI5TDFmV0JlajlscWpEczNXYVduWHhUZA?oc=5"
+      }
+    ],
+    "marketGap": "While there are existing financing options for Kenyan smallholder farmers, the market lacks a comprehensive platform that addresses the specific needs of these farmers, including climate-resilient agricultural practices and technology-driven financing solutions. Current solutions often focus on traditional financing models, neglecting the unique challenges faced by smallholder farmers",
+    "executionPlan": "The initial MVP would focus on developing a digital platform that connects smallholder farmers with financing options, leveraging AI-driven credit scoring and climate-resilient agricultural practices. The first build steps would involve partnering with local farming organizations and financial institutions to develop a robust and user-friendly platform. Monetization would be achieved through transaction fees and interest on loans, with a potential expansion into value-added services such as agricultural insurance and market access",
+    "competitor": "None exists, as current solutions are fragmented and lack a holistic approach to addressing the financing needs of Kenyan smallholder farmers",
+    "trend": "The increasing focus on climate-resilient agriculture and the growing adoption of digital technologies in the agricultural sector make this a timely and relevant startup idea"
+  },
+  {
     "id": "nigerian-small-business-power-outage-solution",
     "title": "Power Backup as a Service for Nigerian SMEs",
     "category": "Energy",
