@@ -46,9 +46,28 @@ function dayOfYear(d) {
   return Math.floor((d - start) / 86400000);
 }
 
+// Every network call below goes through this so a slow/unresponsive server
+// can never hang the whole GitHub Actions job (it used to have no timeout at
+// all, which let one bad request stall the run indefinitely).
+async function fetchWithTimeout(url, options = {}, timeoutMs = 15000) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    return await fetch(url, { ...options, signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
 async function fetchNews(query) {
   const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query + " when:14d")}&hl=en-NG&gl=NG&ceid=NG:en`;
-  const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0 (compatible; AfricaPainRadarBot/1.0)" } });
+  let res;
+  try {
+    res = await fetchWithTimeout(url, { headers: { "User-Agent": "Mozilla/5.0 (compatible; AfricaPainRadarBot/1.0)" } }, 10000);
+  } catch (err) {
+    console.error("News fetch timed out or failed:", err.message);
+    return [];
+  }
   if (!res.ok) {
     console.error("News fetch failed:", res.status);
     return [];
@@ -66,7 +85,7 @@ async function fetchNews(query) {
 }
 
 async function callGroq(prompt) {
-  const res = await fetch("https://api.groq.com/openai/v1/chat/completions", {
+  const res = await fetchWithTimeout("https://api.groq.com/openai/v1/chat/completions", {
     method: "POST",
     headers: {
       "Authorization": `Bearer ${GROQ_API_KEY}`,
@@ -78,7 +97,7 @@ async function callGroq(prompt) {
       temperature: 0.7,
       messages: [{ role: "user", content: prompt }]
     })
-  });
+  }, 30000);
   if (!res.ok) {
     const errText = await res.text();
     throw new Error(`Groq API error ${res.status}: ${errText}`);
@@ -122,21 +141,27 @@ async function sendDailyEmail(idea) {
     console.log("BUTTONDOWN_API_KEY not set — skipping email send (site still updated fine).");
     return;
   }
-  const res = await fetch("https://api.buttondown.com/v1/emails", {
-    method: "POST",
-    headers: {
-      "Authorization": `Token ${BUTTONDOWN_API_KEY}`,
-      "content-type": "application/json",
-      // Required once per API key by Buttondown as a safety confirmation before
-      // it will actually send (not just draft) an email created via the API.
-      "X-Buttondown-Live-Dangerously": "true"
-    },
-    body: JSON.stringify({
-      subject: `Today's idea: ${idea.title}`,
-      body: buildEmailHtml(idea),
-      status: "about_to_send"
-    })
-  });
+  let res;
+  try {
+    res = await fetchWithTimeout("https://api.buttondown.com/v1/emails", {
+      method: "POST",
+      headers: {
+        "Authorization": `Token ${BUTTONDOWN_API_KEY}`,
+        "content-type": "application/json",
+        // Required once per API key by Buttondown as a safety confirmation before
+        // it will actually send (not just draft) an email created via the API.
+        "X-Buttondown-Live-Dangerously": "true"
+      },
+      body: JSON.stringify({
+        subject: `Today's idea: ${idea.title}`,
+        body: buildEmailHtml(idea),
+        status: "about_to_send"
+      })
+    }, 15000);
+  } catch (err) {
+    console.error("Buttondown request timed out or failed:", err.message);
+    return; // don't fail the whole workflow just because the email didn't send
+  }
   if (!res.ok) {
     const errText = await res.text();
     console.error(`Buttondown API error ${res.status}: ${errText}`);
