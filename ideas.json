@@ -1,5 +1,31 @@
 [
   {
+    "id": "rural-diagnostics-access-gap",
+    "title": "Rural Diagnostics Access Platform",
+    "category": "Health-tech",
+    "tagline": "Half of Africa’s critical disease tests remain beyond primary healthcare, leaving rural communities without access to basic diagnostic services",
+    "dateAdded": "2026-07-24",
+    "whyNow": "The lack of access to diagnostic services in rural Africa is a pressing issue that needs to be addressed urgently, as it hinders the ability to provide timely and effective healthcare, and with the current hospital construction boom, it's essential to focus on the talent gap and diagnostic deficits",
+    "proof": [
+      {
+        "text": "Half of Africa’s Critical Disease Tests Remain Beyond Primary Healthcare",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUXoxVGpRZ2VVdmRxeVhZQzNaRHBhMHdyeGVQZ1plV0w5T1NPVmZsVDBWMXJZdUhJR2hnWjFOQ0xhck5wX2RDem9xVzQyV0l3MXUzM2VGa3RpX3BVLTZFZVpzMnhsaGFscmxOeHpMazVVZVNIX2tic0loY2RWazhFdFRWcnkwRGlrTUxUQktsMkpEc1hjZ3NRQkR2Tms3OERzVjBtN0paZ2E?oc=5"
+      },
+      {
+        "text": "Africa faces 12-year talent gap despite hospital construction boom",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMlNkQjlBMnZzNHN3dXp4NF9fZWJUT011N0NWVWFqalRQU2VMbEV1ZGdvU2daQ1lMcXlVWDNtNlgyWlh4a255ZmJETU9CejVRTzZjeXdVN1JnV3FWaXpoRGQ1N2tpNjczUExpRmFuWWtGM3k1SjlSaHRGOHd1UWhjQ29fUUVpSGpHUGdkSDVOYXg5UnBDMDU3MWd4SGF2bWZlWGZKRlFB?oc=5"
+      },
+      {
+        "text": "Severe Laboratory Diagnostic Deficits Across African Clinics",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOVRpRlJnYzBSY0plV0pwSzRTNlZNUkllVzRnTUFucmNCQWJoampyamVqMlZtTy1zcVVIa3g2LWxuVDdwWGllYmVoT0xwUEpkNGtXLWd3ZFYtaW5rN3cybVg3ZmpaWWxLVjVfcFpnVDVXRWhkaTY1NGdINTJTLWRNVWg0WEF5dHgxdFRQV0dXNHpWZnhvSEFHWXNTU3QwQzY4TDFUV2NTZ2NQV3B0UDFpejR6bUI?oc=5"
+      }
+    ],
+    "marketGap": "The current market lacks a platform that provides access to diagnostic services for rural communities in Africa, and existing healthcare infrastructure is insufficient to meet the demand for diagnostic tests",
+    "executionPlan": "The initial MVP would focus on partnering with local healthcare providers to offer a range of diagnostic tests, and then expand to include telemedicine services and digital health records, with a monetization strategy based on a subscription model for patients and healthcare providers, and revenue sharing with local labs and hospitals",
+    "competitor": "None exists",
+    "trend": "The trend towards digital health and telemedicine is driving the need for innovative solutions to address the diagnostic deficits in rural Africa"
+  },
+  {
     "id": "kenyan-smallholder-farmer-financing-gap",
     "title": "Financing Platform for Kenyan Smallholder Farmers",
     "category": "Agri-fintech",
