@@ -1,5 +1,31 @@
 [
   {
+    "id": "mobile-money-fraud-protection",
+    "title": "FraudShield",
+    "category": "Fintech & Payments",
+    "tagline": "Mobile money users are losing millions to scams and fraud, with no effective protection in place",
+    "dateAdded": "2026-07-25",
+    "whyNow": "The rise of mobile money in Africa has created new opportunities for scammers, with victims losing nearly GHC300k in 6 months in Ghana alone, and the problem is expected to worsen as mobile money growth continues, making a fraud protection solution urgent",
+    "proof": [
+      {
+        "text": "Fake restaurant and food vendor scams surge as victims lose nearly GHC300k in 6 months",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQ01NTTlfT3ZZX0pWXzVYMUlwbG9EWWFBN2h0YWRJSE50b1ZqTWhVVHp4TmppX3pqelE0Y00wY2IzWHNmekJQVmVwVWhwa3BjRXdpVnlLZWJVU09Yb0hucDdZLVM4Q2ppSFd5UU9wV3JPQndHZmNNaWRfOW96SUxvYVVhZGcwMThXTnJyRTY5MlFxYW5Sd0JlNHJVYUttNjRJQjNoVDR5b1hYbUhXaUJ4LXBFX0pZR2wzLUp4T0FIN3lRMmdBcjVLcVIxQ2JQWC12NzA0dmdVa1JLUzQxMmdFY09peXlMeU0"
+      },
+      {
+        "text": "How Scammers Are Exploiting Kenya’s Economic Pressure, Mobile Money Growth And Election Anxiety",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdUQ1NTNsSWNZSVc4MDctUXZnSHpTRUdzWEY0dVcxTnZwWUgzUlc4dW4tS2tqcnpNRkxNQjQyZHh3a00yMUg2UUtPQzlYN2w4MlktN08za3A2WjRHUkNIWEhzMWV5ZXNpS0lxSlN6YmpBSzgzeWJORGl1VWpzNFNuaWtpU2NmLTNzb1FaMThueVNfelVURVFSM3VzbjdzN1VjdW9HdUttemlxbzBqVkk2Q2dLZnlUU1Uyd2RN0g"
+      },
+      {
+        "text": "Text message scams jump 146% in India amid rise in scam-led digital fraud",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYlBWTW1ZdGxwTmVBVDliUnY0WmtrVW55MzZCbkxFYUd3ems4Nm9KT2w5dnVnWnJhNEZfYU9lQy1aQm5GRDUwUElDYUhrakJxZmJidVZURUxOX21zNDlqY2pZNXYxV1B5WllvWGRWQjVNcDJDaHV0YzVMZTZ4NE10THFlVHlJV0pTV2dFX0xTVTNFVlVsSE9WZDV2WUxJMmFIMmhhOTVXRjRMaHRMVEh2TkV2REJoSWJwb284cVFPdndRMm9UV05rRElMZDZubjBzX0hzV0ZfaFZkMmVYMTRZNGN3Q3hmNDZDWU1NdFloWVpNR0RBSWfSAfsBQVVfeXFMUFFvQV9ZUzdRUlk5OUg5YmtRWkJWSDl0S1Z0UEx4Z3dnT0hPSVllbjJUQngyVGZabkNaT3Awb21tUEljVVZBM1RFY3RjR0MyempLdl90NTlZeTdzd1NGSGg4bjFiaWNhdnpYWlRZM0tBdmJjTG1Kb0dhZVNpRDVrN2NCYjhkdW9NTmc2Y19OWWRRMHhkQ25tZ2ZsdUViVTQ2VzBuVXpzSXAwNDRzcWloazY5SzF0ZE9GUzRHS0VzTFhucTl6SktvdTNIR01saHNULXY0VEVvckpQR2RWcnhVSkNBOTNZMXVSaXBMUzdnaC10V2VCOWZ0VHliVzQ"
+      }
+    ],
+    "marketGap": "Current mobile money platforms lack robust fraud protection, leaving users vulnerable to scams and fraud, and existing solutions are often inadequate or inaccessible to most users",
+    "executionPlan": "The MVP of FraudShield will be a mobile app that uses machine learning to detect and prevent fraudulent transactions, with a focus on user education and awareness, the first build steps will involve partnering with mobile money operators to access transaction data, and the monetization angle will be a subscription-based model for premium features, with revenue sharing with mobile money operators",
+    "competitor": "None exists, but similar solutions include traditional banking fraud protection services",
+    "trend": "The rise of mobile money in Africa, driven by increasing smartphone penetration and economic growth, is creating new opportunities for fintech innovation and solutions that address the unique challenges of the African market"
+  },
+  {
     "id": "rural-diagnostics-access-gap",
     "title": "Rural Diagnostics Access Platform",
     "category": "Health-tech",
