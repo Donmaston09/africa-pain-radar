@@ -1,5 +1,31 @@
 [
   {
+    "id": "affordable-mobile-data",
+    "title": "DataSaver",
+    "category": "Connectivity",
+    "tagline": "African mobile users are frustrated with costly data and hidden subscriptions, seeking affordable and transparent internet access",
+    "dateAdded": "2026-07-26",
+    "whyNow": "The demand for affordable mobile data is increasingly urgent as more Africans rely on mobile internet for daily activities, and recent surveys highlight the frustration with current telecom services. With the growing digital economy, it's essential to address this pain point to ensure equal access to opportunities",
+    "proof": [
+      {
+        "text": "Fraud, costly data and hidden subscriptions frustrate telecom users",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDNYN2RaY0k0ZHF0XzU0VTd6alR0Z1J3LXVxS0xLRFg3UkJHR2lLbThuQW5KQU1SSGRuQkxWTmJ5bnZwcTllXzNIekh3Nm9kZFp2UkN0bERDeC1IME9EY3BjaXlCX0NHYXNzTmZDUHQtaThseGRSaWIzM2ZLbUtvbUgzSDh4ZlZlWWxNd0NMcUdVQUVrYlpYZlJ3bFBEWndZR0VaUmVDY2RnSVdxT1NGRA?oc=5"
+      },
+      {
+        "text": "Fraud, hidden subscriptions and costly data top telecom consumer complaints",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLTZpRnZRLW53bF82VHIzc2VtVnh4TXFrVVlyQ2NIckUzYXNNNVVaYzVTTTJMRmREcWpiMGxDbzFPR1F1SlM2RkV2Z1ZBU0FlVlJBY0pDYXY0VG1iaGlFZ2NrdjU2YjJScDhzVHB4ZTU3ME9KR0F5emVUVUIyRFlENVg1TGFLaWQwSVU2MDdPamU4NTR1N2pvOTlqU1Jsc0RBaXN3RTFaY3QtRW1BTUFrR3RJMnVBZ293dFdVTnNZWFdXbjZ0UUFDTG9jckFUTHVLb3VR?oc=5"
+      },
+      {
+        "text": "Best Data Removal Services of 2026",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lR1dWYk8ya2VVSmZVSmp6ejVMVk10SXNSbjRYdTBXX0IycGM0cVdVWmFtcGd1eTdsbkxvZUpvWVo1UFFKR01mX0h1WW8wRTBMaC1pd19PVnZ3Xy1TWGZxT0F5SQ?oc=5"
+      }
+    ],
+    "marketGap": "Current telecom services often prioritize profits over customer needs, leaving a gap for innovative, user-centric solutions that provide transparent, affordable, and high-quality mobile data. Existing services may not effectively address the issue of hidden subscriptions and costly data",
+    "executionPlan": "The MVP for DataSaver would involve developing a user-friendly app that helps users track and manage their mobile data usage, detect hidden subscriptions, and provide personalized recommendations for affordable data plans. The first build steps would include conducting market research, designing the app's UI/UX, and integrating with telecom operators' APIs. DataSaver could monetize through affiliate partnerships with telecom operators, offering exclusive deals to users, and providing premium features for a subscription fee",
+    "competitor": "None exists, but existing telecom services and data management apps may provide some similar features",
+    "trend": "The growing demand for digital services and online access in Africa is driving the need for affordable, reliable, and transparent mobile data solutions"
+  },
+  {
     "id": "mobile-money-fraud-protection",
     "title": "FraudShield",
     "category": "Fintech & Payments",
