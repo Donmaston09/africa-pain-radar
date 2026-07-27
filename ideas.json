@@ -1,5 +1,31 @@
 [
   {
+    "id": "affordable-housing-scheme",
+    "title": "Rent Relief Platform",
+    "category": "Housing",
+    "tagline": "Nigerians are being priced out of their homes due to unaffordable rent and mortgage costs",
+    "dateAdded": "2026-07-27",
+    "whyNow": "The current housing crisis in Nigeria is exacerbated by the landlords' economy, making it urgent to find alternative solutions for affordable housing, and the recent news highlights the need for immediate action",
+    "proof": [
+      {
+        "text": "FG’s housing scheme faces affordability test as mortgage costs exceed workers’ pay",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRGxrSHdTbVZsc0lSdDBsRUhKWFhHbGtBWXBXUXE4ODF1b0Z6eUJKSkEyZ2piZGJlaXdyVWotV01Zckd2RTJTamZuTXNXckt4RzRfSkxPVVRUTXJMbk1PeVIzNVFaRnBRaTRDc3U3RHA1akFyQ1FwVGg0bFBiNElwcFJqT29VTUVjcHF2cUw2SFVZWVpvZlRzRV9RZFN4N2poTkdyalJnT2owWmNLRVY0aUpHYTVpVC1Y"
+      },
+      {
+        "text": "How the landlords’ economy is pricing Nigerians out of home",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU1I3RE0wMGxLRE9WTEdjV0VReGxuS3FXUGF0NWRDRWpfeVlfTFdQa18yYmFHNVNpR3VtTjVtdFFGSW4xdy1ETmsxalladTZXWTNxTDd1c3NDLW5sdjFpN0lKVTgta0plbWFvVy1ZeWZYak5oNHVueWswV0IxLXU2Z05OSUY0YWhyWU40bkluWnd4RXoyYno2SmVJTQ"
+      },
+      {
+        "text": "How building demolitions are deepening Lagos’ housing crisis",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObU83VGs5UmM1ZVNvY1JaMWlWbUZWZ2NlWGFfbjBRclhTUnZmWXpocXFLWFdsRnJyVEpQZXdVVzFfYWxZWUo1QXNKbDVLYVZNYTZXZXFGak4xOUctT0ZPNXo5aDBxZW5fMFlzRUxZN1VGS2hFUTJyX1hvbjM4eUU2dGlMQ1nSAYoBQVVfeXFMTkJJY3VTMmR6UTBUNWRxMl9ZMnEyTGhLcTF2em8wT0tsTU1iU2o0d0psZzg1Q0JscTRjOWVINTdtVTdHYnZ6TFZ3UVhYNFlDRk1ETVJwQ2VqYTFiNldtWlV4b2NwMUU3R1hOR3p6RGRtYVNRNVdKWUVkWEt0OXhkTGZJYXpRNTFVSjZB"
+      }
+    ],
+    "marketGap": "There is a lack of affordable housing options in Nigeria, and current schemes are not addressing the issue effectively, leaving a gap for innovative solutions to provide relief to those struggling with high rent and mortgage costs",
+    "executionPlan": "The MVP would involve creating a platform that connects homeowners with affordable housing options, including rent-to-own schemes and community land trusts, with the first build steps focusing on developing a user-friendly interface and partnering with local housing organizations, and monetization could come from commission-based sales and advertising from relevant businesses",
+    "competitor": "None exists that specifically addresses the affordable housing crisis in Nigeria",
+    "trend": "The trend of using technology to address social issues, such as housing affordability, is on the rise, making this a timely opportunity for a startup to make a meaningful impact"
+  },
+  {
     "id": "affordable-mobile-data",
     "title": "DataSaver",
     "category": "Connectivity",
