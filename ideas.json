@@ -1,5 +1,23 @@
 [
   {
+    "id": "fuel-scarcity-transport-relief",
+    "title": "FuelScout",
+    "category": "Logistics & Transport",
+    "tagline": "Nigerians are struggling with increased transport costs due to fuel scarcity",
+    "dateAdded": "2026-07-29",
+    "whyNow": "The recent subsidy removal has led to economic hardship, making it urgent to find solutions to mitigate the effects of fuel scarcity on transportation costs. As the situation continues to affect Lagos residents, a timely solution is needed to provide relief",
+    "proof": [
+      {
+        "text": "Lagos Residents Blame Subsidy Removal for Economic Hardship",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Fakp6cmtJek1Nbmc3d1dXd2hnWEsxQVVkTW1tcnhLNjE5VzZTWWR2RXd2ZDFoRVpZQnNZSm55X21yWUdUT0Q4OE5QcUJKTVJSTlUtNWdB?oc=5"
+      }
+    ],
+    "marketGap": "Current transport services in Nigeria do not account for the fluctuations in fuel prices, leading to inconsistent pricing and unreliable services. There is a need for a platform that can efficiently match passengers with transport providers while considering the impact of fuel scarcity",
+    "executionPlan": "The MVP for FuelScout will involve developing a mobile app that allows users to input their route and preferred mode of transport, then provides a list of available transport options with estimated costs based on current fuel prices. The first build steps will include partnering with local transport providers to gather data on their routes and pricing. FuelScout can monetize by taking a commission on each booking made through the platform",
+    "competitor": "None exists",
+    "trend": "The increasing demand for convenient and affordable transportation solutions in Nigeria, coupled with the growing need for adaptability in the face of economic uncertainty, makes FuelScout a timely solution"
+  },
+  {
     "id": "affordable-housing-scheme",
     "title": "Rent Relief Platform",
     "category": "Housing",
