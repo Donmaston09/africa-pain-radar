@@ -1,5 +1,31 @@
 [
   {
+    "id": "water-for-sex-exchange-platform",
+    "title": "SafeWater Exchange",
+    "category": "Climate & Water",
+    "tagline": "Some women are forced to exchange sex for water due to scarcity and lack of affordable access",
+    "dateAdded": "2026-07-30",
+    "whyNow": "The climate crisis is exacerbating water scarcity, and the situation is urgent as it affects the most vulnerable populations, particularly women, who are often pressured into transactional sex for this basic necessity. The recent reports of such incidents highlight the need for immediate action.",
+    "proof": [
+      {
+        "text": "Some women who can't afford water are often pressured to provide sex for it",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2J3QzM0bnRlWElSX200VTU5N2FUYmtxVnVVNHpIOVdOUzN3eUQ1RW5DQmJsOC1pczFGZWhEdzBRaFJxeXh0Rmp3SUNjdkVfTnVoTW5TTTFPTmJzS2duRlZDRTZVenBaRXZOTWlEUzVmUDFiNmtRcEhVbEtLRmNhaHBrMGFJNXpTOERpUTRtQnVrSmxV"
+      },
+      {
+        "text": "The cities managing climate risk by investing in resilience",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVC1wQ3pTVkxMVll2QTJFVTZRVDRNRU5SRUZieWJfQld0NG9FbVROTXdrSGsyRWRXN2ZRSTZtODZfLVBaRldMMi1DckNkUnJlajN2X0l6alZGOU14c29uUm84dTRGbzlpUHNyQlNIMGhJM0lEQVVsNG1VTlNyeERud3FBU0xGbDhaZVJGLTUzWGNscGo0ZDV6UlR3"
+      },
+      {
+        "text": "Why smarter water technologies hold key to ending continent hunger crisis",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUWsxS19DM28wZlJ2VGI2ZWtGcS1NZFRVdmdEVnl3RmxSUWtkU0FNZUlBOVZ0aXMza0pRVWVGTWZEaVBFb2VMcklydGdPSC1rZUlFQTdpQ3RDWGxrbW4yUVdpWXpoQ2hMOVl2RU11ZkFBUlNsZmNOVTYtY2VKTEpWdFFCNlAtR1NqeEVrd3pVYmxxVjFTNHB1YkREMm1LdHBDUUx2Y2liUHJjZUVVNlZENGY1ZzJXcndvcFhXTFNpcTlhYy1saUlZcEIwX1hyUnIxVXltRw"
+      }
+    ],
+    "marketGap": "Current solutions do not address the specific issue of women being forced into transactional sex for water, and there is a lack of platforms or initiatives that provide safe and affordable access to water for vulnerable populations. Existing water technologies and initiatives often focus on larger-scale solutions, neglecting the immediate needs of individuals, particularly women, in water-scarce areas.",
+    "executionPlan": "The initial MVP scope would involve developing a platform that connects women in need of water with local organizations or individuals who can provide affordable access to this resource. The first build steps would include conducting thorough research on the target audience, building partnerships with local stakeholders, and designing a user-friendly interface for the platform. A potential monetization angle could involve partnering with organizations that provide water-related services or products, offering premium features or services for a fee, and applying for grants or funding from organizations focused on women's empowerment and water scarcity issues.",
+    "competitor": "None exists, as current platforms and initiatives do not specifically address the issue of women being forced into transactional sex for water",
+    "trend": "The increasing focus on climate resilience and water scarcity is driving the need for innovative solutions that address the specific needs of vulnerable populations, particularly women, and provide safe and affordable access to this basic necessity."
+  },
+  {
     "id": "fuel-scarcity-transport-relief",
     "title": "FuelScout",
     "category": "Logistics & Transport",
