@@ -1,5 +1,31 @@
 [
   {
+    "id": "nelfund-refund-tracker",
+    "title": "NELFUND Refund Tracker",
+    "category": "Education",
+    "tagline": "Students are struggling to receive timely upkeep allowances and refunds from schools, causing financial hardship and uncertainty",
+    "dateAdded": "2026-08-01",
+    "whyNow": "The issue of withheld refunds and inflated tuition has become a pressing concern for students in Nigeria, with the National Association of Nigerian Students (NANS) urging the government to sanction schools responsible, making it an urgent problem to solve. Recent news headlines have highlighted the plight of students, emphasizing the need for a solution",
+    "proof": [
+      {
+        "text": "Students Seek Prompt Payment Of NELFUND Upkeep Allowances",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMGVnMzJRMnNwSTJpeDlOWGpqWFJ3OVZ1akp0ZXcwb0VlVGM5WUhublRORGJneTFoekpWcmpKRTVBV3g0d2todlVnUy1wdmg5QU5NWEtrZ0czdDd4amVlYjl1aFlxZGNhVk9RRlBKZktlQ196TFkxNU0ycEVpVWZIU3VuNFFobGRqbVBpdGttVUFpUEpTVnV0X2lUdw?oc=5"
+      },
+      {
+        "text": "NANS seeks sanction for schools withholding, inflating tuition",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZC1OdTc2Qzc3bEhrREloWEV4bkRYZEpPNWRfbXJPMEZOTnBwWHd5eHFIQUozeG44T0lveTFTeWZyUVZ4VXFsRUF6Ri04TWNZS2ZyZUd5YzdXZzZoOFNmcTQ4cDlnMnlTUmxOV2xPbmo1Uk90dDVhSzNHTmlHY2ZsVi1vSldKSy12bG5tTVZEM3B0OWF0SVdMejgyTDBDZG0xVXB5czFR?oc=5"
+      },
+      {
+        "text": "NANS Urges Tinubu to Sanction VCs Withholding NELFUND Refunds",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3VnSHRBRG9JeDc4S2FuYXJMa2ZHUHEySF9rZTlDSXVkSU1maU1IcF9DTkRscHVmeWItbS1zY2k5LUhZTG9UdzdndDhUUWlNT1RWRG13cFRablJia3BUWDdsSXZVUkwwNFdWMXl3aXpGNUpXa1UzNkY1OEtubDdPWHRDdWJEeHBZZ2RTdnRn?oc=5"
+      }
+    ],
+    "marketGap": "There is currently no centralized platform or system in place to track and facilitate the payment of NELFUND upkeep allowances and refunds to students, leaving them vulnerable to exploitation and financial hardship. A digital solution could help bridge this gap and provide transparency and accountability",
+    "executionPlan": "The MVP scope would involve developing a user-friendly platform where students can register and track the status of their upkeep allowances and refunds, with integration with schools and NELFUND to verify payments. First build steps would include conducting market research and gathering feedback from students and stakeholders, followed by designing and testing the platform. A potential monetization angle could involve offering premium services, such as personalized payment tracking and alerts, for a subscription fee",
+    "competitor": "None exists, as current solutions are largely manual and fragmented, with no centralized platform or system in place to address this specific pain point",
+    "trend": "The growing demand for digital solutions to address financial inclusion and transparency in education, particularly in Nigeria, makes this startup idea timely and relevant"
+  },
+  {
     "id": "power-outage-relief-platform",
     "title": "Blackout Buddy",
     "category": "Energy",
