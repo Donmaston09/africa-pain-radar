@@ -1,5 +1,27 @@
 [
   {
+    "id": "rural-diagnostic-access",
+    "title": "Rural Diagnostic Hub",
+    "category": "Health-tech",
+    "tagline": "Millions of rural Africans lack access to basic diagnostic healthcare services, hindering effective disease management and treatment",
+    "dateAdded": "2026-08-02",
+    "whyNow": "The COVID-19 pandemic has highlighted the need for accessible healthcare services, and with the increasing adoption of technology in Africa, now is the time to bridge the rural diagnostic access gap. The recent focus on integrating mobile clinics into healthcare systems presents an opportunity to leverage technology and create innovative solutions",
+    "proof": [
+      {
+        "text": "Expert urges integration of mobile clinics into healthcare system",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmlfclVSNlFKSU94V1gyUUt0bDY5MnNCUTlITFhfWXEybTNNUEtZQTN6cGNtRlBXRC1pVFpCV2NabzRvQS03b0twZTRhZlZhLWd2Q1U5aUp1NS1MYnI4R1dKZUh4aW9LdndTejk3QXY2Wno3dm5xS0pGMnZwS0VNX3ZaZ1JjTG5QajZRd1poUXFYR2d1eEtmc0tQTW9GR2ZVWVBHcg?oc=5"
+      },
+      {
+        "text": "telehealth is helping close the healthcare gap in rural Zimbabwe",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaDlHaV9MUGJ1VHViWnNZNzl4OFRqLWNmUWI3MFBtM3FMR1Y4b1V2SFFhX3M1dkJLdlJMc1FfZkdLbUNUeDdjd19fYnJuUUVZaXh1dF9SZFlYZ211eURBZDFweGZDOVQtWndMd2tDZkVBLTNZMDJRX0dzak0wMXV5b2pLV0kyMEpBVlZUNndocTU2bERkblB4ZXZoNG1qYnhwdmVLa0cxQTlZNVlOZVHSAbMBQVVfeXFMTXh0VE01THpsRHo1YTdGUDBqWHhobEdBX0RXRUhMcEZqUm5FX0RMOElNTDhpekFBbFZWbVZiaXc0Ti1SV1JOYXJyLVhrVUJpTXhIZkF6T3oybTJycVJjdXlDRmdJeDFuXzFsdC1XaUVaWlFZU0Z3SVFPUWJ5Y285NGZxbnNuY01uSVJmR1RVVUpKWkh5V050VFFjWTZzdDlSRjBCOVRmdXBCSEVmdG1OU0k1SVk?oc=5"
+      }
+    ],
+    "marketGap": "Current healthcare systems in rural Africa often lack diagnostic capabilities, relying on referral systems that can be slow and ineffective. There is a need for innovative, technology-driven solutions that can provide timely and accurate diagnoses, enabling effective disease management and treatment",
+    "executionPlan": "The initial MVP scope will focus on developing a telehealth platform that connects rural patients with healthcare professionals in urban areas, utilizing mobile clinics as hubs for diagnostic services. The first build steps will involve partnering with existing mobile clinic operators and healthcare providers to integrate their services into the platform. A monetization angle could involve a subscription-based model for patients, as well as partnerships with pharmaceutical companies and medical device manufacturers to offer bundled services",
+    "competitor": "None exists, but similar models have been implemented in other regions, such as Africa Telemedicine",
+    "trend": "The increasing adoption of digital health technologies in Africa, coupled with the growing focus on universal health coverage, presents a timely opportunity to develop innovative solutions that address the rural diagnostic access gap"
+  },
+  {
     "id": "nelfund-refund-tracker",
     "title": "NELFUND Refund Tracker",
     "category": "Education",
