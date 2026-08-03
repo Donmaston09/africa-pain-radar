@@ -1,5 +1,31 @@
 [
   {
+    "id": "mobile-money-fraud-prevention",
+    "title": "SecureMomo",
+    "category": "Fintech & Payments",
+    "tagline": "Mobile money users in Africa are losing millions to scams and fraud, with a lack of trust in digital transactions",
+    "dateAdded": "2026-08-03",
+    "whyNow": "The rise of mobile money transactions in Africa has created a fertile ground for scammers, and with the increasing use of AI in cybercrime, the problem is becoming more complex and urgent. As digital economies grow, trust is being tested, making a solution to this problem timely and necessary",
+    "proof": [
+      {
+        "text": "Ghanaians lost $1.3m to MOMO fraud in the first quarter of 2025",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzB3dU5qcXJLZEQtOXk2VnJxeW5PalJvZnR2d1pIcm83Z19na0ViQzl5S1htaTFJMDRmdkQxZWNlejdKU19FUnNTWU4wUGg2OUVHaG80MVJhZlJhamswWHc3N0RGSmtnSGxlLUI4OXBFVVFONjE4TFNtWHVxV0IyOUJkQXg4SzQ5WHMzQWFpLVpsRlBMUXh4THVxMEoxWkpnUmlWRWpCYlc?oc=5"
+      },
+      {
+        "text": "INTERPOL report finds AI linked to more than half of cybercrime in Africa",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNVpob1dlS0xiRmVRaEs0WU5UTG1qMGpjczN6bWM0bkprZWM0Um5feXJRcTBqLVVoeHNuVFQ2eHNqN1dEVUlRa2VQa0tQRVBrZTdhTGQ5eldhQXFrQjhTOGM3UmlQRWozdVVCN21QeDVUTmxnUjJ2ZzVzOXJYRmsxVFFXYjVkLVVDS2JTSDdGWU5PVk9tREx1UXRpc1k2eE1uZ05GM1hhdHNVbnBEbkFaM1NhMVJFWVRZUndoeXNWRkE4dw?oc=5"
+      },
+      {
+        "text": "Nigeria's Digital Economy Faces Trust Test Amid Rising Fraud",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OYXVLZE1VNGZtUWF4a0VQY2YxekZheTVmb2RBSFdMNmdub0ZxYUJkajJuWVBscTFYb041bldOaGYydXcwNEs5aUhzWjR0dHNNc09HRUl3UzdwLWk1QlBJT1hjM1p5MWplcTd2UE9zS0cweE16?oc=5"
+      }
+    ],
+    "marketGap": "Current solutions to prevent mobile money fraud are inadequate, and there is a need for a more comprehensive and AI-powered solution to detect and prevent scams. The market lacks a user-friendly and accessible platform that can provide real-time alerts and education to mobile money users",
+    "executionPlan": "The MVP of SecureMomo will focus on developing an AI-powered scam detection system that can analyze transaction patterns and provide real-time alerts to users. The first build steps will involve collecting and analyzing data on mobile money transactions and scams, and developing a user-friendly interface for the platform. The platform will generate revenue through a subscription-based model, where users can pay a small fee for premium features such as advanced scam detection and personalized alerts",
+    "competitor": "None exists, but similar solutions such as fraud detection systems for banks and credit card companies can be considered as indirect competitors",
+    "trend": "The increasing use of mobile money transactions in Africa, combined with the growing threat of AI-powered cybercrime, is creating a pressing need for a secure and trustworthy digital transaction platform"
+  },
+  {
     "id": "rural-diagnostic-access",
     "title": "Rural Diagnostic Hub",
     "category": "Health-tech",
