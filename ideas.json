@@ -1,5 +1,31 @@
 [
   {
+    "id": "rent-affordability-crisis",
+    "title": "Rent Relief",
+    "category": "Housing",
+    "tagline": "Nigerians are being priced out of their homes due to unaffordable rent",
+    "dateAdded": "2026-08-05",
+    "whyNow": "The rent affordability crisis is worsening, and immediate action is needed to prevent more Nigerians from becoming homeless. The current economic situation has made it even more challenging for people to pay their rent, making this issue urgent and timely.",
+    "proof": [
+      {
+        "text": "landlords’ economy is pricing Nigerians out of homes",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclJ2VlNxZnZ1Tk5lbl8zeWxaNnZBZ3g2Zi1UUTNhdWxoYnJYV2xrRndFcHlScnFCS1VOdXRQcHMwTTRoZGhJMXM0T2ttd2llc1Y3d1diLUtVbGtjQXYxanBsMnNrcDRLU0x5ZHBjenVfWTAza3plbzBtRFJmczFKdEp3NF94M1F0QkI1Uk5yONIBlAFBVV95cUxPY0EyMFNZcUhCX29TbU9TcG84alN2T2hQQWJFeFFIWDFjb1piTjlQN2JUWGtGRXZVU2VsOHZPeHV1YkhOek5vdkJ5SXRQUGJvdGFyT0ZtMUFTM09vaURmMXRLM3JfcDQ2ZHZHNGcxZ1Q4YnB6aUt6MW5PdEhaNEtvdElnMlF5cjMxend3UlFzdEJXTldY?oc=5"
+      },
+      {
+        "text": "Declare emergency on building costs, not rent",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHlpZTJOd0NJa3Q0R3hmWjR3dmVSa2tkbTkzNU0zTDlGMEFBcElhdXEwY1BnckVkQ2MwY1Z1bzVrWG82a0pFZ1VvalgwX0pTNDU3Y0oxRlRFR1ZIdHhNcHp0Z2RfSGRldDZiajRFQ2c4Yk1zdmttS0E4T0lNN0NIVWJXQXoyZkZoSEt1UVVOMVlpTjFRRGhGRjdkcWM4T000TGNyaWk2MNIBrAFBVV95cUxQNDFkQVJOeVQ2UUd4bk1rUWhRVkRKODJPXzhCREFTYjhRNlpjRlhwU2ZWOGxGNTFTQ3hGZm9pSUxaejFkeGJScmtVMUh0dXRlMUEtVWhwTzFieDZBbTVNX3AzRHNnQjRaeWQwMlVSeHE4UGFiaFZvWGlKRTBOUmt6ZWs1V3EteXN0MkthS2tjMVl6V3RvSGk0ckNPUWdYTkhnTjlJUTZiU0pMWVpP?oc=5"
+      },
+      {
+        "text": "The housing crisis you’re not hearing about",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVWF5WVN1aTBpdWhsdnlGVHFqY3N0a3g0ZGV1SDhMREtaLW5VTnF4cG11UEJXT0RVWTBCZ0NMb2hDNEtTVWhGemtqSEhCQTlBWlUwcjBIQ29QQ1VYT3ZUQjBCd3QxUE5BMUNxb2dfRzNRaXNfMGVaMFlmM01JX2c5cw?oc=5"
+      }
+    ],
+    "marketGap": "There is a lack of affordable housing options in Nigeria, and current solutions are not addressing the root cause of the problem. Rent Relief could fill this gap by providing a platform that connects tenants with affordable housing options and offers financial assistance to those in need.",
+    "executionPlan": "The MVP of Rent Relief would involve creating a user-friendly platform that allows tenants to search for affordable housing options and apply for financial assistance. The first build steps would include partnering with local landlords and property managers to list affordable housing options on the platform, and developing a robust application and review process for financial assistance. Rent Relief could generate revenue through a subscription-based model for landlords and property managers, as well as through partnerships with financial institutions to offer affordable financing options to tenants.",
+    "competitor": "None exists",
+    "trend": "The trend of increasing housing costs and decreasing affordability is making it timely for a solution like Rent Relief to emerge and address the needs of tenants and landlords alike."
+  },
+  {
     "id": "data-expiry-tracker",
     "title": "Data Saver",
     "category": "Connectivity",
@@ -480,31 +506,5 @@
     "executionPlan": "MVP: SMS/USSD-first tool (works on basic phones) where clinic staff enters a symptom pattern and gets routed to the nearest available diagnostic resource with distance and estimated cost. Pilot in one Kenyan county or Nigerian state with an NGO or state health ministry partner before scaling.",
     "competitor": "General digital health platforms exist but none focus on real-time diagnostic-resource routing.",
     "trend": "Diagnostics access has become a named policy emergency in 2026."
-  },
-  {
-    "id": "smallholder-financing-matchmaker",
-    "title": "Smallholder Farmer Financing Matchmaker",
-    "category": "Agri-fintech",
-    "tagline": "Smallholders grow 70–80% of Africa's food but face a $75B annual financing gap.",
-    "dateAdded": "2026-07-22",
-    "whyNow": "AfDB and financial-sector experts are publicly pushing for stronger smallholder financing collaboration in 2026, fertiliser shortages are being called an emergency, and mobile money makes micro-disbursement practical.",
-    "proof": [
-      {
-        "text": "A $75B annual financing gap persists for African smallholder farmers.",
-        "url": "https://www.afdb.org/en/news-and-events/global-and-african-financial-experts-urge-action-enhance-smallholder-farmer-financing-81871"
-      },
-      {
-        "text": "African governments are being urged to take urgent action on fertiliser shortages hitting smallholders.",
-        "url": "https://www.afdb.org/en/news-and-events/african-governments-need-take-urgent-action-fertiliser-shortages-92779"
-      },
-      {
-        "text": "Research at AfDB's 2026 Annual Meetings found financing compacts implicate 11M+ smallholders with limited control over terms.",
-        "url": "https://www.newsghana.com.gh/civil-society-challenges-afdb-farm-billions-in-brazzaville/"
-      }
-    ],
-    "marketGap": "No transparent matchmaking layer lets a farmer cooperative compare and apply to financing/input programs matching their crop, region, and need.",
-    "executionPlan": "MVP: a directory + guided-application tool where cooperatives enter crop, region, and need, matched against a curated database of active financing and input programs. Start with 1–2 crops (maize, cassava) in 2 countries before expanding.",
-    "competitor": "Single-lender input-financing apps exist, but none matchmake across multiple funders.",
-    "trend": "AfDB's public advocacy on the financing gap is building demand for a transparent alternative."
   }
 ]
