@@ -1,5 +1,23 @@
 [
   {
+    "id": "small-business-loan-access-complaint",
+    "title": "LoanLadder",
+    "category": "SME Finance",
+    "tagline": "Small businesses in Ghana and South Africa struggle to access loans, hindering their growth and survival",
+    "dateAdded": "2026-08-06",
+    "whyNow": "The current economic climate has increased the need for small businesses to access loans, and the lack of access to financing is a major pain point for these businesses. With the growing number of small businesses in Ghana and South Africa, it's essential to address this issue now",
+    "proof": [
+      {
+        "text": "Accra's Small Businesses Survive and Thrive",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYnh6aUxxTVpQSWZkMHo5WWNaZGQ4RzNhZks2U3NUa3dwbzVxeUd5clpieFR4NW1XWmItem9Td3VBZmpYXzJmTk8waXVDSmQ0bTVfaVB6TjRMXzdIOEcwM1l0b3VyTTJ3aW5uM25hM3h4WmZ1NENwLU02ZmNqanNIWmhURUxweEdBMHpJWUFSSk9nWWw4REFlYQ?oc=5"
+      }
+    ],
+    "marketGap": "The market lacks a platform that provides easy access to loans for small businesses in Ghana and South Africa, and existing solutions often have stringent requirements and high interest rates. A platform that addresses these issues could fill the gap and provide a valuable service to small businesses",
+    "executionPlan": "The MVP scope for LoanLadder would be to develop a platform that connects small businesses with lenders and provides a streamlined application process. The first build steps would involve partnering with lenders and developing a user-friendly interface. Monetization could be through commission-based lending and premium services for businesses",
+    "competitor": "None exists",
+    "trend": "The trend of digital lending and financial inclusion is on the rise, making it an ideal time to launch a platform like LoanLadder"
+  },
+  {
     "id": "rent-affordability-crisis",
     "title": "Rent Relief",
     "category": "Housing",
@@ -480,31 +498,5 @@
     "executionPlan": "MVP: start with the 3 busiest corridors (US/UK/Canada → Nigeria/Kenya/Ghana). Pull public pricing pages / partner APIs daily, rank by effective cost (fee + FX spread) and delivery speed, and recommend the best option per amount tier. Monetize via affiliate referral to the winning provider.",
     "competitor": "Generic global remittance-comparison sites exist but don't specialize in African corridors.",
     "trend": "Bank de-risking of African financial institutions plus a fast-growing set of African remittance fintechs competing on price."
-  },
-  {
-    "id": "diagnostic-triage-router",
-    "title": "Nearest-Diagnostic Router for Rural Clinics",
-    "category": "Health-tech",
-    "tagline": "Four in five Africans visiting a primary health facility can't get a basic diagnostic test there.",
-    "dateAdded": "2026-07-22",
-    "whyNow": "Africa's diagnostics gap is now being called an emergency in 2026 policy op-eds, just as point-of-care test kits get cheaper and mobile-money enables micro-payment for diagnostics.",
-    "proof": [
-      {
-        "text": "Only 19% of primary health facility visits across Africa have access to basic diagnostics.",
-        "url": "https://healthwise.punchng.com/four-in-five-africans-lack-access-to-basic-diagnostics-at-primary-health-facilities-report/"
-      },
-      {
-        "text": "Africa's diagnostics crisis is described as demanding \"emergency action\" in 2026 commentary.",
-        "url": "https://guardian.ng/opinion/letters/africas-diagnostics-crisis-demands-emergency-action/"
-      },
-      {
-        "text": "A 2025 Nigerian study found 30% of patients experienced care delays due to transport-related barriers.",
-        "url": "https://africanhealthreport.com/distance-decides-survival-nigeria-healthcare-access/"
-      }
-    ],
-    "marketGap": "No lightweight system connects rural clinic staff to the nearest functioning diagnostic option with live availability.",
-    "executionPlan": "MVP: SMS/USSD-first tool (works on basic phones) where clinic staff enters a symptom pattern and gets routed to the nearest available diagnostic resource with distance and estimated cost. Pilot in one Kenyan county or Nigerian state with an NGO or state health ministry partner before scaling.",
-    "competitor": "General digital health platforms exist but none focus on real-time diagnostic-resource routing.",
-    "trend": "Diagnostics access has become a named policy emergency in 2026."
   }
 ]
