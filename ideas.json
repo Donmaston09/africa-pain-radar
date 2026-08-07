@@ -1,5 +1,31 @@
 [
   {
+    "id": "water-for-sex-trade",
+    "title": "H2OShield",
+    "category": "Climate & Water",
+    "tagline": "Some women are forced to trade sex for water due to scarcity and unaffordability",
+    "dateAdded": "2026-08-07",
+    "whyNow": "The climate crisis is exacerbating water scarcity, and the issue is particularly urgent for vulnerable populations like women in poverty, as highlighted by recent reports of women being pressured into providing sex for water",
+    "proof": [
+      {
+        "text": "Some women who can't afford water are often pressured to provide sex for it",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2J3QzM0bnRlWElSX200VTU5N2FUYmtxVnVVNHpIOVdOUzN3eUQ1RW5DQmJsOC1pczFGZWhEdzBRaFJxeXh0Rmp3SUNjdkVfTnVoTW5TTTFPTmJzS2duRlZDRTZVenBaRXZOTWlEUzVmUDFiNmtRcEhVbEtLRmNhaHBrMGFJNXpTOERpUTRtQnVrSmxV"
+      },
+      {
+        "text": "The true cost of finance for water infrastructure is a significant burden",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWMzQk4zMTE4ZElFXzlYVVFZekd5cjktV3Fxeng4Y29SUmkxZy1ncHd5Q2hhNWN3aUZWa1J2X1k0RUVJbXJBSng2ZEZuNEYxcW9acFhmVFd4OUZZUkhmaWZsTEgtM1FoRVJjZUNtaG1fY201c3NCdGg2b3JsN3M2UkpDVldKdlA0ZzNBZlNzcXB1clNkNWotNXlWbETSAaQBQVVfeXFMTkd4N21iQmNrYW8zMEZYZVhhUWZiNXRaWXRnWHZxaEJELVE3SnAwd1dIcDRFb3Jnb20ybTFjRjZKV3hOWWNNaFFKRU5GclNRWW9IYmtncHNyZ3dXdkIyeWNscENraWFDSzM5bzNaMEdUZ05SbEtDQ1hXVXFVNXZNOHlMZFVsYzVSUWVPWHowandTcXBjR1pHYnlrMHY1Z2F5WkZzZWE"
+      },
+      {
+        "text": "Smarter water technologies hold the key to ending the continent's hunger crisis",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUWsxS19DM28wZlJ2VGI2ZWtGcS1NZFRVdmdEVnl3RmxSUWtkU0FNZUlBOVZ0aXMza0pRVWVGTWZEaVBFb2VMcklydGdPSC1rZUlFQTdpQ3RDWGxrbW4yUVdpWXpoQ2hMOVl2RU11ZkFBUlNsZmNOVTYtY2VKTEpWdFFCNlAtR1NqeEVrd3pVYmxxVjFTNHB1YkREMm1LdHBDUUx2Y2liUHJjZUVVNlZENGY1ZzJXcndvcFhXTFNpcTlhYy1saUlZcEIwX1hyUnIxVXltRw"
+      }
+    ],
+    "marketGap": "Existing solutions often focus on large-scale infrastructure or technological fixes, neglecting the immediate needs of vulnerable populations like women in poverty, who require affordable and safe access to water",
+    "executionPlan": "H2OShield would start by conducting thorough research on the water-for-sex trade issue, identifying key stakeholders and potential partners, and developing a minimum viable product (MVP) that provides affordable and safe water access to women in poverty, potentially through a pay-as-you-go model or community-based water management system, with a monetization angle focused on subscription fees and partnerships with NGOs and government agencies",
+    "competitor": "None exists, as current solutions do not specifically address the water-for-sex trade issue",
+    "trend": "The growing recognition of the intersectionality of climate change, poverty, and gender inequality is creating a trend towards more nuanced and inclusive solutions that address the specific needs of vulnerable populations"
+  },
+  {
     "id": "small-business-loan-access-complaint",
     "title": "LoanLadder",
     "category": "SME Finance",
@@ -472,31 +498,5 @@
     "executionPlan": "MVP: a WhatsApp bot + lightweight web form where an SME enters product, weight/volume, origin and destination. The tool returns an estimated landed cost (freight + duties + demurrage risk + FX) and a recommended broker, starting with one corridor cluster (Kenya → Nigeria → Rwanda) before expanding. Monetize via broker referral fees and a paid \"priority quote\" tier.",
     "competitor": "SmartBizSystems (Kenya) — offers import tracking, not pre-shipment cost prediction or cross-corridor comparison.",
     "trend": "AfCFTA implementation and rising African e-commerce cross-border volume are both increasing demand for cost transparency faster than incumbents are building it."
-  },
-  {
-    "id": "remittance-router",
-    "title": "Diaspora Remittance Fee & Speed Comparator",
-    "category": "Fintech & Payments",
-    "tagline": "Sub-Saharan Africa is the most expensive region in the world to receive money in, and no neutral tool compares African remittance fintechs corridor by corridor, in real time.",
-    "dateAdded": "2026-07-22",
-    "whyNow": "Global banks cut ties with 127 African institutions in 2024–25 over compliance costs, forcing remittance providers to reroute through UAE/Europe hubs — right as African-founded remittance fintechs fragment pricing across corridors.",
-    "proof": [
-      {
-        "text": "83.3% of Kenyan remittance recipients name fees as their #1 concern; SSA averages 8.45–8.78% cost to send $200 vs a 6.49% global average.",
-        "url": "https://kenyanwallstreet.com/remittance-costs"
-      },
-      {
-        "text": "Only 42% of retail payments/remittances in Sub-Saharan Africa arrive within one hour.",
-        "url": "https://www.un.org/osaa/news/reducing-remittance-costs-africa-path-resilient-financing-development"
-      },
-      {
-        "text": "Global banks terminated relationships with 127 African institutions in 2024-2025.",
-        "url": "https://tryduplo.com/blog/why-cross-border-payments-africa-slow-expensive"
-      }
-    ],
-    "marketGap": "No neutral, real-time comparison exists across LemFi, Nala, Chipper Cash, Sendwave, Grey, Leatherback etc. by corridor and amount, auto-routing the sender to the best option that day.",
-    "executionPlan": "MVP: start with the 3 busiest corridors (US/UK/Canada → Nigeria/Kenya/Ghana). Pull public pricing pages / partner APIs daily, rank by effective cost (fee + FX spread) and delivery speed, and recommend the best option per amount tier. Monetize via affiliate referral to the winning provider.",
-    "competitor": "Generic global remittance-comparison sites exist but don't specialize in African corridors.",
-    "trend": "Bank de-risking of African financial institutions plus a fast-growing set of African remittance fintechs competing on price."
   }
 ]
