@@ -1,5 +1,31 @@
 [
   {
+    "id": "kenya-smallholder-farmer-financing-gap",
+    "title": "FinVerd",
+    "category": "Agri-fintech",
+    "tagline": "Kenyan smallholder farmers lack access to financing, hindering their ability to scale and improve their livelihoods",
+    "dateAdded": "2026-08-08",
+    "whyNow": "The current trade finance crisis in Kenya is threatening the livelihoods of smallholder farmers, making it urgent to address the financing gap, and with the rise of AI-powered agriculture, there is a growing need for innovative financial solutions to support these farmers",
+    "proof": [
+      {
+        "text": "Scaling digital financial services for smallholder farmers in Kenya is a key challenge",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rVlo3T3RMdjRqQkZqc3VpYUFLb1g5TGtoVFdjQ25BbTB4a1g3M2dTa2N4NkVzMEhCcENNbWRXc3k3dDhSenNteFdEbTVhMmg5X1o5RmF4RQ?oc=5"
+      },
+      {
+        "text": "Africa's farmers are not unbankable, but they face significant challenges in accessing financial services",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zdDlEQWlMTzlFT2NfdlBYU0pPZ0l5MWhxTi1wbGtRWjl3ZDVUUFNWdFlldWJkdWhxVG1Tem4wVlNOalhLLVIzRjZUeTAxM2pHb1JJSmIxN3FZUVYtN0xSUWpjRXJwMGk5ZzQ4aA?oc=5"
+      },
+      {
+        "text": "Trade finance crisis is threatening Kenya’s farmers, co-operatives",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbzdBNDluQ3ZaXzBFdld2bmhLZ0N2NVgtdnN2R1I5SVBrS1B1ck11QWxGcGFVZ05NVF80azl2dEdlMGxIRFNTRWI2Y2pGWFBqZktuel9ZdjRGQm1YNTlqUEhMMXg4V25DSjkzYzA0aElEb3ZCZjExOFRXbUNYRTROZDBKUDNpeU5nWV85eEx2dzlMdw?oc=5"
+      }
+    ],
+    "marketGap": "Current financial services often fail to meet the unique needs of smallholder farmers in Kenya, leaving a significant gap in the market for innovative, farmer-centric financial solutions, and existing trade finance solutions are not adequately addressing the current crisis",
+    "executionPlan": "FinVerd will start by developing a digital platform that connects smallholder farmers with financial institutions and investors, providing access to financing, insurance, and other financial services, the initial MVP will focus on a specific crop or region, and the platform will generate revenue through transaction fees and premium services for farmers and financial institutions",
+    "competitor": "None exists that specifically targets the smallholder farmer financing gap in Kenya",
+    "trend": "The rise of digital financial services and AI-powered agriculture in Africa is creating new opportunities for innovative financial solutions to support smallholder farmers and improve their livelihoods"
+  },
+  {
     "id": "water-for-sex-trade",
     "title": "H2OShield",
     "category": "Climate & Water",
@@ -472,31 +498,5 @@
     "executionPlan": "MVP: a WhatsApp/SMS-first status board fed by crowdsourced agent reports (\"is transfer working?\" one-tap check-ins) plus polling of provider status/apology pages, showing live up/down status per provider per state. Add a 'nearest working terminal' lookup for agents who carry multiple POS devices, and a customer-facing bot to verify a stuck transfer before escalating. Pilot in Lagos/Abuja agent WhatsApp communities; monetize via a paid multi-terminal alert tier for agents and a B2B monitoring feed sold to fintechs and their agent-network managers.",
     "competitor": "No dedicated tool exists; agents currently rely on informal WhatsApp/Twitter grapevine and provider apology notices to learn of outages.",
     "trend": "CBN's 2026 single-principal rule is consolidating agent banking onto fewer PSPs per agent, concentrating outage risk just as reliance on POS transfer rails for daily income keeps growing."
-  },
-  {
-    "id": "cross-border-cost-router",
-    "title": "Landed-Cost Router for African SME Exporters",
-    "category": "Trade & Logistics",
-    "tagline": "SMEs shipping across African borders can't see their true total cost until after they've committed — a single quote-comparison and cost-prediction layer doesn't exist.",
-    "dateAdded": "2026-07-22",
-    "whyNow": "AfCFTA is pushing intra-African trade higher just as manufacturers publicly blame high, opaque logistics costs for locking SMEs out of neighboring markets. E-commerce cross-border volume is rising faster than the tooling to price it.",
-    "proof": [
-      {
-        "text": "Kenyan manufacturers say high logistics costs are locking SMEs out of African export markets.",
-        "url": "https://eastleighvoice.co.ke/business/323646/manufacturers-fault-high-logistics-costs-for-locking-smes-out-of-african-markets"
-      },
-      {
-        "text": "Demurrage on a 40ft container in Kenya can run KES 15,000+ per day; shipping the same Sh30,000 goods costs Sh14,000 to Rwanda vs Sh17,000 to Nigeria — pricing swings 2–4x by corridor with no upfront visibility.",
-        "url": "https://www.smartbizsystems.co.ke/blog/import-tracking-tools"
-      },
-      {
-        "text": "Cross-border payment friction (FX spreads, settlement delays, intermediary charges) compounds the logistics cost problem for Kenyan SMEs.",
-        "url": "https://www.businessdailyafrica.com/bd/opinion-analysis/columnists/cross-border-payment-costs-are-quietly-hurting-kenyan-smes-5508946"
-      }
-    ],
-    "marketGap": "No tool aggregates freight-forwarder rate cards, port dwell/demurrage risk, customs paperwork, and payment-settlement cost into one predictive \"landed cost\" figure before an SME commits to shipping.",
-    "executionPlan": "MVP: a WhatsApp bot + lightweight web form where an SME enters product, weight/volume, origin and destination. The tool returns an estimated landed cost (freight + duties + demurrage risk + FX) and a recommended broker, starting with one corridor cluster (Kenya → Nigeria → Rwanda) before expanding. Monetize via broker referral fees and a paid \"priority quote\" tier.",
-    "competitor": "SmartBizSystems (Kenya) — offers import tracking, not pre-shipment cost prediction or cross-corridor comparison.",
-    "trend": "AfCFTA implementation and rising African e-commerce cross-border volume are both increasing demand for cost transparency faster than incumbents are building it."
   }
 ]
