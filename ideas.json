@@ -1,5 +1,27 @@
 [
   {
+    "id": "school-fee-relief",
+    "title": "School Fee Manager",
+    "category": "Education",
+    "tagline": "Nigerian students and parents struggle to pay school fees on time due to lack of financial management tools",
+    "dateAdded": "2026-08-09",
+    "whyNow": "The recent call for prompt payment of upkeep allowance by students and parents at Bayero University Kano highlights the urgency of addressing school fee management issues, and the Kano state government's capping of private school fee increases at 10 percent shows the need for a solution to help families manage education costs",
+    "proof": [
+      {
+        "text": "BUK students, parents seek prompt payment of upkeep allowance",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFhvNFlXQXhwYldibTNyeGxkQ2YtY05uU2lZdFkzYllYN3dsZURFVGlULUxfQlg4bDZQN3ZRQlpSTlJQb2F4eTF0U2pHTWpidWZ4eWNKdFhlTmVqbkVuenVQMl9rbmh1WjVYd1pQZEc5UjE4cXE4ZlIxR292b0Zvc29ZQUUzX0V0YXY4b1BoeVdtSXJwVE1TTTZXdjE4ekJ0cFkzbg?oc=5"
+      },
+      {
+        "text": "Kano Caps Private School Fee Increases at 10 Percent",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlp2bHVFOENIVmliRllQbHlfMkNBQjVWZ3BhQ1dySUFfdGV6ajVSMDBNelRjeUwwWDJRQkdnS1dVbnM0VWhfckRyMXRvVzJEUW5RRkM2bkUxSE5YcXNlcTdMNHU0aWxqRkV6Nkw1cXE3WnYyYk1Dd0taN05CRHV1NTVIU1JFUU5KcGgyWEY0SQ?oc=5"
+      }
+    ],
+    "marketGap": "Current school fee management systems often fail to provide families with a comprehensive and user-friendly platform to track and manage education expenses, leading to late payments and financial stress",
+    "executionPlan": "The School Fee Manager will start by developing a minimal viable product (MVP) that allows users to track and manage school fees, with features such as automated payment reminders and expense tracking, and will monetize through a freemium model with premium features for paid subscribers, and partnerships with schools and financial institutions to offer exclusive discounts and services",
+    "competitor": "None exists in the Nigerian market, but international competitors such as SchoolMint and FeePay provide similar services",
+    "trend": "The growing demand for digital financial management tools and the increasing awareness of the importance of education in Nigeria's economic development make this a timely opportunity for a school fee management platform"
+  },
+  {
     "id": "kenya-smallholder-farmer-financing-gap",
     "title": "FinVerd",
     "category": "Agri-fintech",
@@ -472,31 +494,5 @@
     "executionPlan": "The initial MVP would involve conducting research with South African food businesses to understand their specific water management challenges and developing a tailored solution. This could involve creating a water management toolkit or platform that provides businesses with climate-resilient strategies and technologies. The first build steps would involve partnering with local stakeholders, such as the African Development Bank, to gather insights and resources. Monetization could come through subscription-based models or consulting services for food businesses.",
     "competitor": "None exists in the market currently, but similar solutions for general water conservation include companies like Watershed Management",
     "trend": "The growing trend of climate change and its impact on food security is making climate-resilient water management solutions increasingly important for businesses in South Africa."
-  },
-  {
-    "id": "pos-uptime-failover-router",
-    "title": "Real-Time Outage & Failover Router for Nigerian POS Agents",
-    "category": "POS & Agent Banking",
-    "tagline": "When a POS transfer platform goes down, Nigerian agents have no way to know before they tap 'send' — leaving them holding the loss, facing furious customers, and in some cases hauled to a police station over money the system swallowed.",
-    "dateAdded": "2026-07-23",
-    "whyNow": "A Baxi transfer glitch that began in early May 2026 dragged on for weeks — transactions showed as successful while funds vanished, agents had no visibility into the outage, and many switched providers mid-crisis with no tool to guide the move. With CBN's new single-principal rule pushing agents onto one PSP at a time, an outage now strands a bigger slice of the market at once.",
-    "proof": [
-      {
-        "text": "A prolonged Baxi transfer glitch beginning in early May 2026 left hundreds of thousands of POS agents unable to complete transfers, with funds appearing sent but never arriving in recipients' accounts.",
-        "url": "https://saharareporters.com/2026/05/11/nigerian-pos-agents-traders-stranded-baxi-fintech-transfer-glitch-traps-funds-disrupts"
-      },
-      {
-        "text": "Agents were confronted by angry customers and in some cases taken to police stations over funds the system had processed but not delivered; one customer's children were sent home from school after a school-fee transfer failed.",
-        "url": "https://innovation-village.com/baxi-pos-glitch-leaves-nigerian-agents-stranded/"
-      },
-      {
-        "text": "As the outage dragged on, POS operators began migrating ad hoc to rival platforms like Moniepoint and OPay just to keep serving customers, with no tool to guide which provider was actually working.",
-        "url": "https://bankibusiness.com/baxi-transfer-problems-spark-outrage-over-delayed-transactions-nigeria/"
-      }
-    ],
-    "marketGap": "No independent, real-time status dashboard exists for Nigeria's POS/agent-banking rails (Baxi, OPay, Moniepoint, PalmPay, Paga). Agents currently learn a provider is down only after a transaction fails or funds disappear, and have no fast way to route the next transaction to a terminal that's actually working.",
-    "executionPlan": "MVP: a WhatsApp/SMS-first status board fed by crowdsourced agent reports (\"is transfer working?\" one-tap check-ins) plus polling of provider status/apology pages, showing live up/down status per provider per state. Add a 'nearest working terminal' lookup for agents who carry multiple POS devices, and a customer-facing bot to verify a stuck transfer before escalating. Pilot in Lagos/Abuja agent WhatsApp communities; monetize via a paid multi-terminal alert tier for agents and a B2B monitoring feed sold to fintechs and their agent-network managers.",
-    "competitor": "No dedicated tool exists; agents currently rely on informal WhatsApp/Twitter grapevine and provider apology notices to learn of outages.",
-    "trend": "CBN's 2026 single-principal rule is consolidating agent banking onto fewer PSPs per agent, concentrating outage risk just as reliance on POS transfer rails for daily income keeps growing."
   }
 ]
