@@ -1,5 +1,31 @@
 [
   {
+    "id": "rural-diagnostics-access",
+    "title": "Rural Diagnostics Bridge",
+    "category": "Health-tech",
+    "tagline": "Millions of rural Africans lack access to basic healthcare diagnostics, leading to delayed treatment and poor health outcomes",
+    "dateAdded": "2026-08-10",
+    "whyNow": "The COVID-19 pandemic has highlighted the need for accessible healthcare services, and with the growing adoption of telehealth and mobile clinics, now is the time to bridge the diagnostics gap in rural Africa. As the continent's population continues to grow, the demand for healthcare services will only increase",
+    "proof": [
+      {
+        "text": "Expert urges integration of mobile clinics into healthcare system",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmlfclVSNlFKSU94V1gyUUt0bDY5MnNCUTlITFhfWXEybTNNUEtZQTN6cGNtRlBXRC1pVFpCV2NabzRvQS03b0twZTRhZlZhLWd2Q1U5aUp1NS1MYnI4R1dKZUh4aW9LdndTejk3QXY2Wno3dm5xS0pGMnZwS0VNX3ZaZ1JjTG5QajZRd1poUXFYR2d1eEtmc0tQTW9GR2ZVWVBHcg?oc=5"
+      },
+      {
+        "text": "How telehealth is helping close the healthcare gap in rural Zimbabwe",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaDlHaV9MUGJ1VHViWnNZNzl4OFRqLWNmUWI3MFBtM3FMR1Y4b1V2SFFhX3M1dkJLdlJMc1FfZkdLbUNUeDdjd19fYnJuUUVZaXh1dF9SZFlYZ211eURBZDFweGZDOVQtWndMd2tDZkVBLTNZMDJRX0dzak0wMXV5b2pLV0kyMEpBVlZUNndocTU2bERkblB4ZXZoNG1qYnhwdmVLa0cxQTlZNVlOZVHSAbMBQVVfeXFMTXh0VE01THpsRHo1YTdGUDBqWHhobEdBX0RXRUhMcEZqUm5FX0RMOElNTDhpekFBbFZWbVZiaXc0Ti1SV1JOYXJyLVhrVUJpTXhIZkF6T3oybTJycVJjdXlDRmdJeDFuXzFsdC1XaUVaWlFZU0Z3SVFPUWJ5Y285NGZxbnNuY01uSVJmR1RVVUpKWkh5V050VFFjWTZzdDlSRjBCOVRmdXBCSEVmdG1OU0k1SVk?oc=5"
+      },
+      {
+        "text": "Rural Health Hub Revolutionizes Care for Britain's Most Isolated Farmers",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGFRSHhBTUpWVG9JU0V6VmtaeGZTUk01b2pVaUlhbEdHRTRKajNWM1VacWxGWjN3ejNUVi13YkhtenFKdEJyc2ZRVU80Q0RiWWVvWnZBVXlFT29ibkdfY29wNGVISms4R0stR2duSmNKcG9HTmNZSTVkb3JDcFJySUZVazV6SThsN2ZtRjUxT05ZRzIxc3YwVktlN2tUTjZwWXJ4T3F0R2U?oc=5"
+      }
+    ],
+    "marketGap": "While there are existing telehealth and mobile clinic solutions, they often lack the diagnostic capabilities to provide comprehensive care, leaving a significant gap in the market for a solution that can provide accessible and accurate diagnostics to rural communities. Current solutions also tend to focus on urban areas, neglecting the unique needs of rural populations",
+    "executionPlan": "The Rural Diagnostics Bridge will start by developing a mobile diagnostics unit that can be easily transported to rural areas, equipped with basic diagnostic tools such as blood tests and imaging equipment. The unit will be staffed by trained healthcare professionals who can conduct tests and provide preliminary diagnoses. The platform will also integrate with existing telehealth solutions to provide remote consultations and follow-up care. Revenue will be generated through a combination of government partnerships, private insurance reimbursements, and out-of-pocket payments from patients",
+    "competitor": "None exists, but similar solutions such as Medecins Sans Frontieres' mobile clinics provide some diagnostic services, although they are often limited in scope and accessibility",
+    "trend": "The growing adoption of telehealth and mobile health technologies, coupled with the increasing recognition of the need for accessible healthcare services in rural areas, makes this a timely and urgent problem to solve"
+  },
+  {
     "id": "school-fee-relief",
     "title": "School Fee Manager",
     "category": "Education",
@@ -468,31 +494,5 @@
     "executionPlan": "The first step would be to develop a minimal viable product (MVP) that allows students to register and track the status of their scholarship funds. This can be done by integrating with existing databases and working with relevant authorities to obtain the necessary information. The platform can then be expanded to include features such as automated updates, payment tracking, and alerts. Monetization can be achieved through partnerships with educational institutions and organizations that offer scholarships, as well as through advertising and premium services",
     "competitor": "None exists",
     "trend": "The growing demand for transparency and accountability in the education sector, particularly in the disbursement of scholarship funds, is driving the need for innovative solutions that can provide students with real-time information and support"
-  },
-  {
-    "id": "water-scarcity-solutions-for-south-african-food-businesses",
-    "title": "Climate-Resilient Water Management for South African Food Businesses",
-    "category": "Climate & Water",
-    "tagline": "South African food businesses need adaptive water management solutions to withstand climate shocks",
-    "dateAdded": "2026-07-23",
-    "whyNow": "Climate change is increasingly affecting South Africa's food sector, making it urgent for businesses to adapt and find resilient water management solutions. The African Development Bank's recent $400 million approval for municipal utility reform in South Africa highlights the growing need for innovative water management approaches.",
-    "proof": [
-      {
-        "text": "Climate shocks are hitting South Africa's food businesses",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5b2NrWkRidDBOUUhiazlxNFZ2ZUxHTzFzYXI3eGs3dzZ1M3dUZE5BQTROX0l1ZjlES09BaGtMUWpBdi1FOHdiWnNaV3B1M2VqbmVHeV96N0FZa0llTXh3TlpVLUNBSWdvV0o5VW1WdXdfY1hxS2xWQ2Myaw"
-      },
-      {
-        "text": "African Development Bank Approves $400 Million for Municipal Utility Reform in South Africa",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWF0dFVGcURpZkpnSUl2MUZRekNXeUlOOTUta1Z5UkVYZHFITkxQaC1ickhhaFJ0b0lrRmdFU0xRZW9NODB1LU9IbC1fRWVXNVFWdGwzbGQtVlBrNDBVZ0FuZlluRkNhTUJXNzV5UHBicjJpVEpOLUdMX3FBWHFFTV96Z3JtdXktVVljQlI5QTRyRlNtTzZROXRQSGdKd3FXQ3ZIRVNYQ1N3VEVrdFR6MTFnVklac25tVnd5YkZTWEJYOG5rME9Ba2NBTVE"
-      },
-      {
-        "text": "10 African Startups Tackling Water Scarcity",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tcXlzSDVDMDdVdVNuY2JGRVpXeE91c1l3dWdYUGRlOXctcGJ6S2tLeUlHeUliRUg2VGk3Z2VLT05lTmxtMzlnR0k2YTZRS3JFZnZONGVGbEg0U3NzZ2VTVllHYnJyV3l6WkpLbmZ4ZnpRU3NmU1E"
-      }
-    ],
-    "marketGap": "While there are existing solutions for water scarcity, the market lacks tailored solutions for South African food businesses to adapt to climate change. Current solutions often focus on general water conservation rather than addressing the specific needs of food businesses in the face of climate shocks.",
-    "executionPlan": "The initial MVP would involve conducting research with South African food businesses to understand their specific water management challenges and developing a tailored solution. This could involve creating a water management toolkit or platform that provides businesses with climate-resilient strategies and technologies. The first build steps would involve partnering with local stakeholders, such as the African Development Bank, to gather insights and resources. Monetization could come through subscription-based models or consulting services for food businesses.",
-    "competitor": "None exists in the market currently, but similar solutions for general water conservation include companies like Watershed Management",
-    "trend": "The growing trend of climate change and its impact on food security is making climate-resilient water management solutions increasingly important for businesses in South Africa."
   }
 ]
