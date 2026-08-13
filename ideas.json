@@ -1,5 +1,27 @@
 [
   {
+    "id": "affordable-mobile-data-msr7z15f",
+    "title": "DataSaver",
+    "category": "Connectivity",
+    "tagline": "Parts of major African cities still struggle to access affordable and reliable mobile internet, hindering economic and social development",
+    "dateAdded": "2026-08-13",
+    "whyNow": "The urgent need for affordable mobile data is heightened by the increasing importance of digital connectivity in daily life, and recent concerns over potential collusion among mobile giants that could further exacerbate the issue. As the African continent continues to urbanize, the demand for reliable and affordable internet access is more pressing than ever",
+    "proof": [
+      {
+        "text": "parts of Accra still struggling to get online",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmlEZnp6M3ZtZFBqZWZwcW9vRFdQLXdiTjBkNnZpTDZsc0RuaGVZblJ4Mmx3ZWktYkhBMGxGVHE3X2E5SWEzeWNjRlpFN1JRZ0VZNXNlZDQ5SS11Q0tzOXlDU1N2RWJzeVlpOV9LZjh3VHhEMy1ZNEtxQnpMZk9UVl9zaGw0dGYtZktrZjFlQk1ZM2tvcXl0WW1uRnVqLWpDYnVRLQ?oc=5"
+      },
+      {
+        "text": "Icasa raises fears of collusion among mobile giants",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSlFoejFMUXRBanFDM1ppZS1jdHpucV9oMzJSVXcxYkhKZHBqVVJyUzhRZTJhZ2x6dUMxUEFSLVZkdTRKUUZoaVBzbmhqZHpvZS1hMmZTU1JhZ3NJaXBDX25xcjZLVUIwWDJmeTVhZVZEZzA1Y0JSRmJUS2J0MXgzT25tMHBYWVlJc1dUYU5xZ2lUbnAzSTFCZURRWUU0d2JQeVJUT3BzYlQycEljc01DZ0xTSQ?oc=5"
+      }
+    ],
+    "marketGap": "The current market lacks a comprehensive platform that addresses the issue of affordable mobile data, providing users with options to optimize their data usage and access affordable plans. Existing solutions often focus on specific aspects, such as data compression or ad-blocking, but a holistic approach to affordable mobile data is missing",
+    "executionPlan": "The initial MVP of DataSaver would focus on developing a user-friendly platform that allows users to track and optimize their mobile data usage, providing personalized recommendations for affordable data plans. The first build steps would involve partnering with local mobile operators to offer exclusive discounts and promotions, and integrating AI-powered data analytics to provide users with real-time usage insights. Monetization could be achieved through affiliate partnerships with mobile operators and data plan providers, as well as offering premium features and data optimization tools for a subscription fee",
+    "competitor": "None exists",
+    "trend": "The increasing demand for digital connectivity and the growing concern over data affordability are driving the need for innovative solutions that address the issue of expensive mobile data, making this a timely and relevant startup idea"
+  },
+  {
     "id": "electricity-blackout-relief-for-smes",
     "title": "Blackout Shield",
     "category": "Energy",
@@ -468,31 +490,5 @@
     "executionPlan": "The initial MVP would focus on developing a digital platform that connects smallholder farmers with financing options, leveraging AI-driven credit scoring and climate-resilient agricultural practices. The first build steps would involve partnering with local farming organizations and financial institutions to develop a robust and user-friendly platform. Monetization would be achieved through transaction fees and interest on loans, with a potential expansion into value-added services such as agricultural insurance and market access",
     "competitor": "None exists, as current solutions are fragmented and lack a holistic approach to addressing the financing needs of Kenyan smallholder farmers",
     "trend": "The increasing focus on climate-resilient agriculture and the growing adoption of digital technologies in the agricultural sector make this a timely and relevant startup idea"
-  },
-  {
-    "id": "nigerian-small-business-power-outage-solution",
-    "title": "Power Backup as a Service for Nigerian SMEs",
-    "category": "Energy",
-    "tagline": "Nigerian small businesses are struggling to stay operational due to frequent and prolonged power outages, resulting in significant financial losses",
-    "dateAdded": "2026-07-23",
-    "whyNow": "The ongoing power crisis in Nigeria is stalling industrialization and affecting the livelihoods of many small business owners, making a reliable power backup solution urgent and timely. The surge in demand for alternative power sources also presents a huge market opportunity",
-    "proof": [
-      {
-        "text": "TCN announces 32-hour power outage across seven northeastern cities",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNelpMRVV1YWdaVkloTXVMV3haOGc2RVQ3RGc3emNuYXdjbktfVUN2czM2aFJUSDAzLUJVMEdLLWVwb2YzY0JQeDRPeGMtY19tUkhtQUlvMmluNTYweWRrSm8xY2lSRUIyUEMtR1QtVjNEaXpNejZzQm9jN1RkWHlCM3VmWHVMNDVaMUc2MGhmOURpSmlSNW1SaHpDUQ?oc=5"
-      },
-      {
-        "text": "Nigeria Joins Africa’s Fastest Growing Solar Markets as Demand for Alternative Power Surges",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSXJuN0pTcVlEeTJhTW1Wa3R3ZEpxWGVYRWlxUGx4S19BRXZjakpPZUo2am80WUMxMXZLbFVnMnZudHNrb1J5UEdvYy1JT0plUHJqb1ZlSWdaSnNnN2k0UHAzc3k0MVFZakI5cUZhQkcxYjk5SXg4N1RnbDVDdG1DOHZzQTZxRGs3aDJZZjdNRmEyVEozRDFJczdQX2FPMERSc1lFamhGYlhmYTVMRFFYSm90M3hQdw?oc=5"
-      },
-      {
-        "text": "Power Crisis Threatens Tailoring Renaissance As Nigeria’s Fashion Economy Stages Remarkable Comeback",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORVhzY3lqX1ZhM3JUNkVjNlhGNDhpNV93WU1SSVQ4WFVHVmxhRFBCOWM0NEhKOFJ6anR2VWFwSWtjNE5tSjEtTkZ5NWFUUG5FdlQzTEo4bWdlbXpGbmdWQnlJUnZ6YUppVENja2lSZVFidFAyeEpLOFVPUHBjMTkzb2h1VmJzM0dCSFVZenBJRjAxbUZ2R21MdGxDOTRfbjB4WG01bUdqTjVxa1dpaVQ4UUZDSUpycmlkWFd5SWs5dlU?oc=5"
-      }
-    ],
-    "marketGap": "While there are some alternative power sources available, many Nigerian small businesses cannot afford the high upfront costs of purchasing and installing solar panels or other backup power systems. A power backup as a service solution could fill this gap by providing affordable and reliable access to power",
-    "executionPlan": "The MVP scope could include a mobile app for customers to order and schedule power backup services, partnered with local solar panel and generator installation companies to provide the backup power. First build steps would involve establishing partnerships with these companies and developing the mobile app. A potential monetization angle could be a subscription-based model where customers pay a monthly fee for access to backup power",
-    "competitor": "None exists, but some companies like IBEDC are working on restoring power to communities after prolonged blackouts",
-    "trend": "The trend of increasing demand for alternative power sources and the growing need for reliable backup power solutions in Nigeria makes this startup idea timely and urgent"
   }
 ]
