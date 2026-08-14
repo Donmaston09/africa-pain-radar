@@ -1,5 +1,31 @@
 [
   {
+    "id": "affordable-rental-platform",
+    "title": "RentSaver",
+    "category": "Housing",
+    "tagline": "Millions of Africans struggle to find affordable rental housing, exacerbating the housing crisis",
+    "dateAdded": "2026-08-14",
+    "whyNow": "The housing crisis is worsening, with nearly half of humanity impacted, and Africans are particularly affected due to limited affordable housing options. The urgency to address this issue is heightened by the growing population and increasing demand for housing",
+    "proof": [
+      {
+        "text": "Affordable Housing Often Costs More To Build Than Market‑Rate Housing",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSzhvNm80NDhmbi1JOHplV1pCLXREZE9FdlNyWGtaNG0wSkdYUlp0SFVIcEkxdWtDcUY4QVpiOGZHWlp6WUN6bmNld3FOcmRvajNKRFhaNldOQmR4S3FpSE1tWXJDa3ppbTRpOEJiNWxCM01pdmxDUXliNEw3M25IV0ZPWVpaMG5BTFV6RTZITGw4VE0xNFplWQ?oc=5"
+      },
+      {
+        "text": "World’s housing crisis impacts nearly half of humanity",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3T1QtYTRZVmFYWjFLYlFsM1E2LW9DVmhmZ0VxMF8xS0ZUVGRfX1h2SVJIT2pBWDNPRWZyQVU4OG9IaTZmQy12dzVKLUpBemw4WTNxWjVGVHowenFBcW1tSndNbTBqNXpW?oc=5"
+      },
+      {
+        "text": "Tenant advocates push back on Carney’s plan for thousands of Toronto rentals",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTGFYSTZ2eS10ZlNSb2dZcFBTMU5lUURCM3RDMHVra0ltdzRGUmVVLTkyLWlsXzRlS3lRMVMyS0pRT2l4SGxWNWY0RmNpNlpoMW40V3U3aHpXRkg1eTNqRmlnOEFWUnc4VzB2cmoxYzJvU3dJVndWaUVEZDBxTll0UXd6d2xfZ0lIV0lINHNQdUZpclNUTmotY2o2cnlva2I5MVlweWp2WkFCNXhVR1l3REV4d3VPMWw1?oc=5"
+      }
+    ],
+    "marketGap": "Current housing platforms often prioritize luxury or high-end rentals, neglecting the needs of low- and middle-income individuals. There is a lack of platforms that cater specifically to affordable housing, exacerbating the housing crisis",
+    "executionPlan": "RentSaver will start by developing a user-friendly platform that aggregates affordable rental listings from various sources. The MVP will include features such as rent price tracking, neighborhood guides, and tenant reviews. The platform will generate revenue through subscription-based services for landlords and property managers, as well as partnerships with financial institutions to offer affordable housing finance options",
+    "competitor": "None exists, but closest alternatives include general property listing platforms like Property24 or OLX",
+    "trend": "The trend towards affordable housing is driven by the growing demand for housing and increasing awareness of the need for inclusive and equitable housing solutions"
+  },
+  {
     "id": "affordable-mobile-data-msr7z15f",
     "title": "DataSaver",
     "category": "Connectivity",
@@ -464,31 +490,5 @@
     "executionPlan": "The initial MVP would focus on partnering with local healthcare providers to offer a range of diagnostic tests, and then expand to include telemedicine services and digital health records, with a monetization strategy based on a subscription model for patients and healthcare providers, and revenue sharing with local labs and hospitals",
     "competitor": "None exists",
     "trend": "The trend towards digital health and telemedicine is driving the need for innovative solutions to address the diagnostic deficits in rural Africa"
-  },
-  {
-    "id": "kenyan-smallholder-farmer-financing-gap",
-    "title": "Financing Platform for Kenyan Smallholder Farmers",
-    "category": "Agri-fintech",
-    "tagline": "Kenyan smallholder farmers face significant financing gaps, hindering their ability to invest in climate-resilient agricultural practices and increase productivity",
-    "dateAdded": "2026-07-23",
-    "whyNow": "The need for climate-resilient agricultural practices is increasingly urgent due to the impacts of climate change, and access to financing is a critical component of this effort. Kenyan smallholder farmers require innovative financing solutions to address the existing gap",
-    "proof": [
-      {
-        "text": "Proparco has invested USD 12 million in climate-resilient agricultural innovation via ARAF II",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3BqeWFUR3lvNmFyalVoVnY5UmxsVHNTVHlnTzJwal9PTF80UTJfWnViblBWRE03OEFCUjRRbkN2RmtEempOSy1XTGdXOXhYWVAweV9xNUpVTXlyVzI1N0t1Yl9kR3BoNENNWHp5b0g0MlVwVkdFeDIzSTA5dnhULVpBS1pmd2kzVXVDdEpRS01wZno4Z3EwSnJaZWloWmwwWmFhQXBGRFRVQ29nbnNURnR3?oc=5"
-      },
-      {
-        "text": "Africa's food future won't be fixed by finance alone, indicating a need for holistic approaches to agricultural development",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUZ5TzhtZm9PMmdlVnpKLUFhNHZUck1MVkljNmFteHIzYWlHU0NfUDVEY1NhTFltVVh1TENRTXRmaEgtcHZqbzJNR1VPSC1fLTdmTGxxWFZJTVBWbFM2VEVtc1o5N2FJRmMtdGVzeW9DLXd1RlFRWmZUS3p3a1R0RGZmNm14cTdCUlRfTTB4WVpaMzBJbTFVWTJ6ME1OdGpwRm9GNFRsdThmeXVBZWZkYnpLN01nNkpQMFdpLTJ0TGtEVE0?oc=5"
-      },
-      {
-        "text": "Kenyan fintech companies are using AI to offer quick credit to small agribusinesses, demonstrating the potential for technology-driven financing solutions",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFTHJrVzJZQTliWlNzdzJjOGpBeWRPYzZXWXNDYm1RejRlX3FueW50WFBuR0sxUlduSU1DYTB5b3FBZzU0dVNrLWZBaVZiREh4SU1KaFV4cm1JMDJITjlQbXI5TDFmV0JlajlscWpEczNXYVduWHhUZA?oc=5"
-      }
-    ],
-    "marketGap": "While there are existing financing options for Kenyan smallholder farmers, the market lacks a comprehensive platform that addresses the specific needs of these farmers, including climate-resilient agricultural practices and technology-driven financing solutions. Current solutions often focus on traditional financing models, neglecting the unique challenges faced by smallholder farmers",
-    "executionPlan": "The initial MVP would focus on developing a digital platform that connects smallholder farmers with financing options, leveraging AI-driven credit scoring and climate-resilient agricultural practices. The first build steps would involve partnering with local farming organizations and financial institutions to develop a robust and user-friendly platform. Monetization would be achieved through transaction fees and interest on loans, with a potential expansion into value-added services such as agricultural insurance and market access",
-    "competitor": "None exists, as current solutions are fragmented and lack a holistic approach to addressing the financing needs of Kenyan smallholder farmers",
-    "trend": "The increasing focus on climate-resilient agriculture and the growing adoption of digital technologies in the agricultural sector make this a timely and relevant startup idea"
   }
 ]
