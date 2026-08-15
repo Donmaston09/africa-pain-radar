@@ -1,5 +1,23 @@
 [
   {
+    "id": "small-business-loan-access",
+    "title": "LoanLadder",
+    "category": "SME Finance",
+    "tagline": "Small businesses in Ghana and South Africa struggle to access loans due to lack of credit history and stringent requirements",
+    "dateAdded": "2026-08-15",
+    "whyNow": "The current economic climate has made it even more challenging for small businesses to access loans, and with the growing number of entrepreneurs in Ghana and South Africa, there is a pressing need for innovative financing solutions. The lack of access to loans can hinder business growth and job creation, making it urgent to address this issue.",
+    "proof": [
+      {
+        "text": "Accra's Small Businesses Survive and Thrive",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaUFaSG5zY3JiTjZ0UGw5eTNYWTMtQk5SaDVpTXdVVTZkTGx4dUFPVHdFR1NmcExOZ21mS0dpYktPbENCTWppRzkxS1NrRmNEeG8tZ2ZyRF9WcXR3WTVfYzBTd2IyT2pBdVNxOEFjMVItZlpxYVJxUG9peVNrTTQxZ1VvMU8yNnBQZFQyb1lPQkVzRngyZm5rU0t30gGYAUFVX3lxTE9ieHppTHFNWlBJZmQwejlZY1pkZDhHM2FmSzZTc1Rrd3BvNXF5R3lyWmJ4VHg1bVdaYi16b1N3dUFmalhfMmZOTzBpdUNKZDRtNV9pUHpONExfN0g4RzAzWXRvdXJNMndpbm4zbmEzeHhaZnU0Q3AtTTZmY2pqc0haaFRFTHB4R0EweklZQVJKT2dZbDhEQWVh?oc=5"
+      }
+    ],
+    "marketGap": "Current financing options for small businesses in Ghana and South Africa are limited, and traditional lenders often require collateral and a credit history, making it difficult for new businesses to access loans. There is a need for alternative financing solutions that can cater to the unique needs of small businesses in these regions.",
+    "executionPlan": "The initial MVP scope for LoanLadder will focus on developing a digital platform that connects small businesses with alternative lenders, using a credit scoring system based on non-traditional data such as social media and online sales. The first build steps will involve partnering with local lenders and gathering data on small businesses in Ghana and South Africa. LoanLadder can monetize its platform by charging a commission on successful loan applications and offering additional services such as business advisory and financial management tools.",
+    "competitor": "None exists",
+    "trend": "The growing demand for alternative financing solutions and the increasing use of technology to improve access to financial services makes this a timely opportunity for LoanLadder to fill the market gap."
+  },
+  {
     "id": "affordable-rental-platform",
     "title": "RentSaver",
     "category": "Housing",
@@ -464,31 +482,5 @@
     "executionPlan": "The MVP of FraudShield will be a mobile app that uses machine learning to detect and prevent fraudulent transactions, with a focus on user education and awareness, the first build steps will involve partnering with mobile money operators to access transaction data, and the monetization angle will be a subscription-based model for premium features, with revenue sharing with mobile money operators",
     "competitor": "None exists, but similar solutions include traditional banking fraud protection services",
     "trend": "The rise of mobile money in Africa, driven by increasing smartphone penetration and economic growth, is creating new opportunities for fintech innovation and solutions that address the unique challenges of the African market"
-  },
-  {
-    "id": "rural-diagnostics-access-gap",
-    "title": "Rural Diagnostics Access Platform",
-    "category": "Health-tech",
-    "tagline": "Half of Africa’s critical disease tests remain beyond primary healthcare, leaving rural communities without access to basic diagnostic services",
-    "dateAdded": "2026-07-24",
-    "whyNow": "The lack of access to diagnostic services in rural Africa is a pressing issue that needs to be addressed urgently, as it hinders the ability to provide timely and effective healthcare, and with the current hospital construction boom, it's essential to focus on the talent gap and diagnostic deficits",
-    "proof": [
-      {
-        "text": "Half of Africa’s Critical Disease Tests Remain Beyond Primary Healthcare",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUXoxVGpRZ2VVdmRxeVhZQzNaRHBhMHdyeGVQZ1plV0w5T1NPVmZsVDBWMXJZdUhJR2hnWjFOQ0xhck5wX2RDem9xVzQyV0l3MXUzM2VGa3RpX3BVLTZFZVpzMnhsaGFscmxOeHpMazVVZVNIX2tic0loY2RWazhFdFRWcnkwRGlrTUxUQktsMkpEc1hjZ3NRQkR2Tms3OERzVjBtN0paZ2E?oc=5"
-      },
-      {
-        "text": "Africa faces 12-year talent gap despite hospital construction boom",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMlNkQjlBMnZzNHN3dXp4NF9fZWJUT011N0NWVWFqalRQU2VMbEV1ZGdvU2daQ1lMcXlVWDNtNlgyWlh4a255ZmJETU9CejVRTzZjeXdVN1JnV3FWaXpoRGQ1N2tpNjczUExpRmFuWWtGM3k1SjlSaHRGOHd1UWhjQ29fUUVpSGpHUGdkSDVOYXg5UnBDMDU3MWd4SGF2bWZlWGZKRlFB?oc=5"
-      },
-      {
-        "text": "Severe Laboratory Diagnostic Deficits Across African Clinics",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOVRpRlJnYzBSY0plV0pwSzRTNlZNUkllVzRnTUFucmNCQWJoampyamVqMlZtTy1zcVVIa3g2LWxuVDdwWGllYmVoT0xwUEpkNGtXLWd3ZFYtaW5rN3cybVg3ZmpaWWxLVjVfcFpnVDVXRWhkaTY1NGdINTJTLWRNVWg0WEF5dHgxdFRQV0dXNHpWZnhvSEFHWXNTU3QwQzY4TDFUV2NTZ2NQV3B0UDFpejR6bUI?oc=5"
-      }
-    ],
-    "marketGap": "The current market lacks a platform that provides access to diagnostic services for rural communities in Africa, and existing healthcare infrastructure is insufficient to meet the demand for diagnostic tests",
-    "executionPlan": "The initial MVP would focus on partnering with local healthcare providers to offer a range of diagnostic tests, and then expand to include telemedicine services and digital health records, with a monetization strategy based on a subscription model for patients and healthcare providers, and revenue sharing with local labs and hospitals",
-    "competitor": "None exists",
-    "trend": "The trend towards digital health and telemedicine is driving the need for innovative solutions to address the diagnostic deficits in rural Africa"
   }
 ]
