@@ -1,5 +1,31 @@
 [
   {
+    "id": "water-rationing-platform",
+    "title": "Drought Defender",
+    "category": "Climate & Water",
+    "tagline": "Helping small businesses and communities cope with water scarcity through innovative rationing and management solutions",
+    "dateAdded": "2026-08-16",
+    "whyNow": "The current drought in England and water scarcity in other parts of the world make it urgent to develop solutions that help small businesses and communities manage their water resources efficiently. With more than two-thirds of England now in drought, the need for water rationing platforms has never been more pressing.",
+    "proof": [
+      {
+        "text": "More than two-thirds of England now in drought",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Sb1llZml0blZHczAwT0dvNUxCT3NCVmhSTXdTV3NNVVpRcS1sVXIxSXloUG8tTEpJSDZEZFRxU1dTRkZyaE56MHRmMERmVmw4Q2Nlako4QmZPQQ"
+      },
+      {
+        "text": "Puerto Rico Will Begin Rationing Water Amid Fresh Crisis",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckFHMGNadGxUX2VrWVNSamZqaEVHVXhLVWFtWmZtVFB4bkJ3dFVNYWdickQzTE9qZnFjRFRySi1wZlBZSGFmd0dJR0dtTDRGUE0zU0VCcmliMmdOMkJsYjhEQWdBMnQzUkItZmdzbzJxUDFxUXlyT1ZOOGFGbk1kSw"
+      },
+      {
+        "text": "The true cost of finance for water infrastructure",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWMzQk4zMTE4ZElFXzlYVVFZekd5cjktV3Fxeng4Y29SUmkxZy1ncHd5Q2hhNWN3aUZWa1J2X1k0RUVJbXJBSng2ZEZuNEYxcW9acFhmVFd4OUZZUkhmaWZsTEgtM1FoRVJjZUNtaG1fY201c3NCdGg2b3JsN3M2UkpDVldKdlA0ZzNBZlNzcXB1clNkNWotNXlWbETSAaQBQVVfeXFMTkd4N21iQmNrYW8zMEZYZVhhUWZiNXRaWXRnWHZxaEJELVE3SnAwd1dIcDRFb3Jnb20ybTFjRjZKV3hOWWNNaFFKRU5GclNRWW9IYmtncHNyZ3dXdkIyeWNscENraWFDSzM5bzNaMEdUZ05SbEtDQ1hXVXFVNXZNOHlMZFVsYzVSUWVPWHowandTcXBjR1pHYnlrMHY1Z2F5WkZzZWE"
+      }
+    ],
+    "marketGap": "While there are existing solutions for water management, there is a lack of platforms that specifically cater to the needs of small businesses and communities in Africa, particularly in the context of drought and water scarcity. A platform that provides innovative rationing and management solutions could fill this gap.",
+    "executionPlan": "The MVP scope will include a user-friendly interface for small businesses and communities to track their water usage, set rationing goals, and receive alerts and recommendations for efficient water management. The first build steps will involve developing a data analytics engine to provide insights on water usage patterns and trends. The platform will generate revenue through subscription-based models and partnerships with water management companies.",
+    "competitor": "None exists",
+    "trend": "The growing concern about climate change and water scarcity is driving the demand for innovative solutions that help small businesses and communities manage their water resources efficiently, making this a timely and urgent problem to solve."
+  },
+  {
     "id": "small-business-loan-access",
     "title": "LoanLadder",
     "category": "SME Finance",
@@ -456,31 +482,5 @@
     "executionPlan": "The MVP for DataSaver would involve developing a user-friendly app that helps users track and manage their mobile data usage, detect hidden subscriptions, and provide personalized recommendations for affordable data plans. The first build steps would include conducting market research, designing the app's UI/UX, and integrating with telecom operators' APIs. DataSaver could monetize through affiliate partnerships with telecom operators, offering exclusive deals to users, and providing premium features for a subscription fee",
     "competitor": "None exists, but existing telecom services and data management apps may provide some similar features",
     "trend": "The growing demand for digital services and online access in Africa is driving the need for affordable, reliable, and transparent mobile data solutions"
-  },
-  {
-    "id": "mobile-money-fraud-protection",
-    "title": "FraudShield",
-    "category": "Fintech & Payments",
-    "tagline": "Mobile money users are losing millions to scams and fraud, with no effective protection in place",
-    "dateAdded": "2026-07-25",
-    "whyNow": "The rise of mobile money in Africa has created new opportunities for scammers, with victims losing nearly GHC300k in 6 months in Ghana alone, and the problem is expected to worsen as mobile money growth continues, making a fraud protection solution urgent",
-    "proof": [
-      {
-        "text": "Fake restaurant and food vendor scams surge as victims lose nearly GHC300k in 6 months",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQ01NTTlfT3ZZX0pWXzVYMUlwbG9EWWFBN2h0YWRJSE50b1ZqTWhVVHp4TmppX3pqelE0Y00wY2IzWHNmekJQVmVwVWhwa3BjRXdpVnlLZWJVU09Yb0hucDdZLVM4Q2ppSFd5UU9wV3JPQndHZmNNaWRfOW96SUxvYVVhZGcwMThXTnJyRTY5MlFxYW5Sd0JlNHJVYUttNjRJQjNoVDR5b1hYbUhXaUJ4LXBFX0pZR2wzLUp4T0FIN3lRMmdBcjVLcVIxQ2JQWC12NzA0dmdVa1JLUzQxMmdFY09peXlMeU0"
-      },
-      {
-        "text": "How Scammers Are Exploiting Kenya’s Economic Pressure, Mobile Money Growth And Election Anxiety",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdUQ1NTNsSWNZSVc4MDctUXZnSHpTRUdzWEY0dVcxTnZwWUgzUlc4dW4tS2tqcnpNRkxNQjQyZHh3a00yMUg2UUtPQzlYN2w4MlktN08za3A2WjRHUkNIWEhzMWV5ZXNpS0lxSlN6YmpBSzgzeWJORGl1VWpzNFNuaWtpU2NmLTNzb1FaMThueVNfelVURVFSM3VzbjdzN1VjdW9HdUttemlxbzBqVkk2Q2dLZnlUU1Uyd2RN0g"
-      },
-      {
-        "text": "Text message scams jump 146% in India amid rise in scam-led digital fraud",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYlBWTW1ZdGxwTmVBVDliUnY0WmtrVW55MzZCbkxFYUd3ems4Nm9KT2w5dnVnWnJhNEZfYU9lQy1aQm5GRDUwUElDYUhrakJxZmJidVZURUxOX21zNDlqY2pZNXYxV1B5WllvWGRWQjVNcDJDaHV0YzVMZTZ4NE10THFlVHlJV0pTV2dFX0xTVTNFVlVsSE9WZDV2WUxJMmFIMmhhOTVXRjRMaHRMVEh2TkV2REJoSWJwb284cVFPdndRMm9UV05rRElMZDZubjBzX0hzV0ZfaFZkMmVYMTRZNGN3Q3hmNDZDWU1NdFloWVpNR0RBSWfSAfsBQVVfeXFMUFFvQV9ZUzdRUlk5OUg5YmtRWkJWSDl0S1Z0UEx4Z3dnT0hPSVllbjJUQngyVGZabkNaT3Awb21tUEljVVZBM1RFY3RjR0MyempLdl90NTlZeTdzd1NGSGg4bjFiaWNhdnpYWlRZM0tBdmJjTG1Kb0dhZVNpRDVrN2NCYjhkdW9NTmc2Y19OWWRRMHhkQ25tZ2ZsdUViVTQ2VzBuVXpzSXAwNDRzcWloazY5SzF0ZE9GUzRHS0VzTFhucTl6SktvdTNIR01saHNULXY0VEVvckpQR2RWcnhVSkNBOTNZMXVSaXBMUzdnaC10V2VCOWZ0VHliVzQ"
-      }
-    ],
-    "marketGap": "Current mobile money platforms lack robust fraud protection, leaving users vulnerable to scams and fraud, and existing solutions are often inadequate or inaccessible to most users",
-    "executionPlan": "The MVP of FraudShield will be a mobile app that uses machine learning to detect and prevent fraudulent transactions, with a focus on user education and awareness, the first build steps will involve partnering with mobile money operators to access transaction data, and the monetization angle will be a subscription-based model for premium features, with revenue sharing with mobile money operators",
-    "competitor": "None exists, but similar solutions include traditional banking fraud protection services",
-    "trend": "The rise of mobile money in Africa, driven by increasing smartphone penetration and economic growth, is creating new opportunities for fintech innovation and solutions that address the unique challenges of the African market"
   }
 ]
