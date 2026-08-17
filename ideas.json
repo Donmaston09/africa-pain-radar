@@ -1,5 +1,31 @@
 [
   {
+    "id": "cybercrime-shield",
+    "title": "AI-Powered Cybercrime Protection",
+    "category": "Fintech & Payments",
+    "tagline": "Nigerians and others are losing millions to AI-fueled cyberattacks, with limited expertise to fight back",
+    "dateAdded": "2026-08-17",
+    "whyNow": "The surge in AI-driven cybercrime across Africa, with losses exceeding $484m, makes it urgent to develop effective countermeasures. Furthermore, the lack of advanced skills among intelligence analysts, with only 8% having the necessary expertise, highlights the need for innovative solutions.",
+    "proof": [
+      {
+        "text": "AI fuels more than half of cybercrime in Africa",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHNVNCWUprYzZWWFFudkJRU1lNRjJxanRfUXBOdGp5SlFZUFpQSVRSMnNBLWNXb1VROWJVcmZZckIyQndKMWp4d01oZ3lWaEtPYTBtQjZsV3A4TzltUklybnJRVUc?oc=5"
+      },
+      {
+        "text": "Cybercrime losses in Africa more than double to $484m as AI accelerates fraud",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHNVNCWUprYzZWWFFudkJRU1lNRjJxanRfUXBOdGp5SlFZUFpQSVRSMnNBLWNXb1VROWJVcmZZckIyQndKMWp4d01oZ3lWaEtPYTBtQjZsV3A4TzltUklybnJRVUc?oc=5"
+      },
+      {
+        "text": "AI is involved in 55% of cybercrime across Africa, but only 8% of intelligence analysts have advanced skills to fight it",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdloyNFIybGUzVkhLUjF3Nk1RdHltQUI5ZlRTQVk0a1ZNakIxaHlQaGlDWmZIalB0WXFMZWZQRHVQaEtOUTZFdm9yY0lqQ1hxUUdneXUyQWRBYW5FS1p0d1hucDFUNFVHd1ZzWDRTN3pTMjJLNjZMWHA0TzdXV3M3Y2lEWXZrcHpzcUtiUlJYbU5FNWc3cTRXdklqU0xHWE1nRktwUDlKYjBlMzFyRzlMT0p6YmxBLWVnQWs0RFNYUFd5UU5YSk5aWGpSQ2ZwN0FkaW9pa21tM2U?oc=5"
+      }
+    ],
+    "marketGap": "Current cybersecurity solutions are not adequately addressing the surge in AI-fueled cybercrime, and there is a significant shortage of experts with the necessary skills to combat these threats. An AI-powered cybercrime protection platform could fill this gap by providing effective and accessible countermeasures.",
+    "executionPlan": "The MVP scope would involve developing an AI-driven threat detection system, integrated with a user-friendly interface for individuals and businesses to report and respond to cyberattacks. First build steps would include assembling a team of cybersecurity experts and AI engineers to design and train the system. A potential monetization angle could involve offering premium services, such as personalized threat analysis and incident response, to high-risk clients.",
+    "competitor": "None exists with the specific focus on AI-powered cybercrime protection for the African market",
+    "trend": "The increasing use of AI in cybercrime, coupled with the growing demand for digital financial services in Africa, makes AI-powered cybercrime protection a timely and critical solution."
+  },
+  {
     "id": "water-rationing-platform",
     "title": "Drought Defender",
     "category": "Climate & Water",
@@ -456,31 +482,5 @@
     "executionPlan": "The MVP would involve creating a platform that connects homeowners with affordable housing options, including rent-to-own schemes and community land trusts, with the first build steps focusing on developing a user-friendly interface and partnering with local housing organizations, and monetization could come from commission-based sales and advertising from relevant businesses",
     "competitor": "None exists that specifically addresses the affordable housing crisis in Nigeria",
     "trend": "The trend of using technology to address social issues, such as housing affordability, is on the rise, making this a timely opportunity for a startup to make a meaningful impact"
-  },
-  {
-    "id": "affordable-mobile-data",
-    "title": "DataSaver",
-    "category": "Connectivity",
-    "tagline": "African mobile users are frustrated with costly data and hidden subscriptions, seeking affordable and transparent internet access",
-    "dateAdded": "2026-07-26",
-    "whyNow": "The demand for affordable mobile data is increasingly urgent as more Africans rely on mobile internet for daily activities, and recent surveys highlight the frustration with current telecom services. With the growing digital economy, it's essential to address this pain point to ensure equal access to opportunities",
-    "proof": [
-      {
-        "text": "Fraud, costly data and hidden subscriptions frustrate telecom users",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDNYN2RaY0k0ZHF0XzU0VTd6alR0Z1J3LXVxS0xLRFg3UkJHR2lLbThuQW5KQU1SSGRuQkxWTmJ5bnZwcTllXzNIekh3Nm9kZFp2UkN0bERDeC1IME9EY3BjaXlCX0NHYXNzTmZDUHQtaThseGRSaWIzM2ZLbUtvbUgzSDh4ZlZlWWxNd0NMcUdVQUVrYlpYZlJ3bFBEWndZR0VaUmVDY2RnSVdxT1NGRA?oc=5"
-      },
-      {
-        "text": "Fraud, hidden subscriptions and costly data top telecom consumer complaints",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLTZpRnZRLW53bF82VHIzc2VtVnh4TXFrVVlyQ2NIckUzYXNNNVVaYzVTTTJMRmREcWpiMGxDbzFPR1F1SlM2RkV2Z1ZBU0FlVlJBY0pDYXY0VG1iaGlFZ2NrdjU2YjJScDhzVHB4ZTU3ME9KR0F5emVUVUIyRFlENVg1TGFLaWQwSVU2MDdPamU4NTR1N2pvOTlqU1Jsc0RBaXN3RTFaY3QtRW1BTUFrR3RJMnVBZ293dFdVTnNZWFdXbjZ0UUFDTG9jckFUTHVLb3VR?oc=5"
-      },
-      {
-        "text": "Best Data Removal Services of 2026",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lR1dWYk8ya2VVSmZVSmp6ejVMVk10SXNSbjRYdTBXX0IycGM0cVdVWmFtcGd1eTdsbkxvZUpvWVo1UFFKR01mX0h1WW8wRTBMaC1pd19PVnZ3Xy1TWGZxT0F5SQ?oc=5"
-      }
-    ],
-    "marketGap": "Current telecom services often prioritize profits over customer needs, leaving a gap for innovative, user-centric solutions that provide transparent, affordable, and high-quality mobile data. Existing services may not effectively address the issue of hidden subscriptions and costly data",
-    "executionPlan": "The MVP for DataSaver would involve developing a user-friendly app that helps users track and manage their mobile data usage, detect hidden subscriptions, and provide personalized recommendations for affordable data plans. The first build steps would include conducting market research, designing the app's UI/UX, and integrating with telecom operators' APIs. DataSaver could monetize through affiliate partnerships with telecom operators, offering exclusive deals to users, and providing premium features for a subscription fee",
-    "competitor": "None exists, but existing telecom services and data management apps may provide some similar features",
-    "trend": "The growing demand for digital services and online access in Africa is driving the need for affordable, reliable, and transparent mobile data solutions"
   }
 ]
