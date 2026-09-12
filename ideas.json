@@ -1,5 +1,31 @@
 [
   {
+    "id": "ruraldiag-ai",
+    "title": "RuralDiag AI",
+    "category": "Health-tech",
+    "tagline": "Rural clinics lack affordable, accurate diagnostics, leading to delayed treatment and higher mortality",
+    "dateAdded": "2026-09-12",
+    "whyNow": "Outbreaks like the recent Lassa fever surge highlight the cost of delayed diagnosis, while smartphone penetration and cheaper on‑device AI models make scalable solutions feasible now",
+    "proof": [
+      {
+        "text": "AI Platform bridges rural diagnostic gaps",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSkp2akVlX21ZZ2hrbEFVVmtaV2I1dDAyY1NGeXdpbE1VWHdOa200WmZ4dGFLMXZ2TmwyRy1JZUtvalEwYkRmaFotbElpMEZYY0hUaWdITk5UbzJUcVRHc2Y4aEU3VGVULTVMeVJ6dGNWVFZfbFQ0MG9mNEd3UzhSNndBSXNmUVc4aWc?oc=5"
+      },
+      {
+        "text": "Chil Group unveils E‑Ward Round platform for rural hospitals",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTXNjWmdpTll1QVUyRFdBQmxpcVo1NEg4SXE4N01ESi1yVk1PY0pPa1NaQnliOUNUdzhaSVpVYlMxU01iUVJkVUJ4MkczUk9PbjNLMWlHLWRzN1MxLU5mOWJfMmc5RFk3SFpjTklQYThMQ2V1YlVCcGVDUW8tUDl0SDhsRTNWb09kMDlmOXROdw?oc=5"
+      },
+      {
+        "text": "Closing Health Service Delivery Access Gaps with Geospatial Insights",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdW5jcnVtbmJFbzdCWU1ndUJyZWpxbG5aS0dJeG4zOEdDRG8teXZBdzNWUXBKQ0F3U3pjREZfRkx1TGR0Nkd2U25BdXo3UDVyZzdKeTBESmhuUWticFN0eUZRU2RTenpWQ2psaHF3NHlhMkdlNUJnOVV3clJuMEJUMjJybUxCT1d4THd1WUNzQzlkMlpTdHJaVDlkbE8yZTR0R2doZWhFTGRDUHFLNWpn?oc=5"
+      }
+    ],
+    "marketGap": "There is no low‑cost, on‑device AI diagnostic solution that works offline for common blood and imaging tests in remote African clinics",
+    "executionPlan": "Develop a lightweight Android app that runs pretrained AI models for malaria, anemia and chest‑X‑ray interpretation on the phone, pilot it in 5 LGAs with UbuntuCare partnership, and charge a modest monthly subscription per clinic while offering free basic usage for government health programs",
+    "competitor": "None offers an offline, AI‑powered diagnostic suite tailored for low‑bandwidth rural clinics in West Africa",
+    "trend": "Rapid growth of mobile internet and democratization of AI models is enabling affordable health‑tech solutions in underserved regions"
+  },
+  {
     "id": "farm-records-credit-score",
     "title": "FarmCred",
     "category": "Agri-fintech",
@@ -464,23 +490,5 @@
     "executionPlan": "The initial MVP scope would involve developing a platform that connects women in need of water with local organizations or individuals who can provide affordable access to this resource. The first build steps would include conducting thorough research on the target audience, building partnerships with local stakeholders, and designing a user-friendly interface for the platform. A potential monetization angle could involve partnering with organizations that provide water-related services or products, offering premium features or services for a fee, and applying for grants or funding from organizations focused on women's empowerment and water scarcity issues.",
     "competitor": "None exists, as current platforms and initiatives do not specifically address the issue of women being forced into transactional sex for water",
     "trend": "The increasing focus on climate resilience and water scarcity is driving the need for innovative solutions that address the specific needs of vulnerable populations, particularly women, and provide safe and affordable access to this basic necessity."
-  },
-  {
-    "id": "fuel-scarcity-transport-relief",
-    "title": "FuelScout",
-    "category": "Logistics & Transport",
-    "tagline": "Nigerians are struggling with increased transport costs due to fuel scarcity",
-    "dateAdded": "2026-07-29",
-    "whyNow": "The recent subsidy removal has led to economic hardship, making it urgent to find solutions to mitigate the effects of fuel scarcity on transportation costs. As the situation continues to affect Lagos residents, a timely solution is needed to provide relief",
-    "proof": [
-      {
-        "text": "Lagos Residents Blame Subsidy Removal for Economic Hardship",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Fakp6cmtJek1Nbmc3d1dXd2hnWEsxQVVkTW1tcnhLNjE5VzZTWWR2RXd2ZDFoRVpZQnNZSm55X21yWUdUT0Q4OE5QcUJKTVJSTlUtNWdB?oc=5"
-      }
-    ],
-    "marketGap": "Current transport services in Nigeria do not account for the fluctuations in fuel prices, leading to inconsistent pricing and unreliable services. There is a need for a platform that can efficiently match passengers with transport providers while considering the impact of fuel scarcity",
-    "executionPlan": "The MVP for FuelScout will involve developing a mobile app that allows users to input their route and preferred mode of transport, then provides a list of available transport options with estimated costs based on current fuel prices. The first build steps will include partnering with local transport providers to gather data on their routes and pricing. FuelScout can monetize by taking a commission on each booking made through the platform",
-    "competitor": "None exists",
-    "trend": "The increasing demand for convenient and affordable transportation solutions in Nigeria, coupled with the growing need for adaptability in the face of economic uncertainty, makes FuelScout a timely solution"
   }
 ]
