@@ -93,7 +93,7 @@ async function callGroq(prompt) {
     },
     body: JSON.stringify({
       model: "openai/gpt-oss-120b",
-      max_tokens: 1500,
+          max_tokens: 4000,
       temperature: 0.7,
       messages: [{ role: "user", content: prompt }],
             response_format: {
