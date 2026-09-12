@@ -1,5 +1,31 @@
 [
   {
+    "id": "farm-records-credit-score",
+    "title": "FarmCred",
+    "category": "Agri-fintech",
+    "tagline": "Smallholder farmers lack verifiable credit histories, blocking access to essential loans",
+    "dateAdded": "2026-09-12",
+    "whyNow": "Massive climate‑adaptation finance pools (US$200 m and $21 m initiatives) are being unlocked for East African farmers, yet the financing never reaches them because lenders can’t assess risk without reliable farm‑level data. The urgency to bridge this data gap is higher than ever.",
+    "proof": [
+      {
+        "text": "IFAD and Equity Group kick off US$200 million mechanism to make climate adaptation finance reach East Africa's farmers",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVnpaek1pWklwZmNBZVRDVWpXOFo4MUxNT0JjWHRoeU1EVFBNNGRSMTA2QnJCTjBjSURqTk1VOHFNV2R5akw0b2d0RDFEYUVYREU1SkY3ekkxMU5RdGNpajdUbzFiMzlDTndRMzh0Q1gzYnRVbEljT1ExalB2WXNTU2Nndk4wQXNwaUI1d3A3QUtIb2o1dkRBbXMzWUkyS1ppOTlycFZwT1R4dDAwb2ZLakxHbS1SRjZDcWEzN2xJQWphMG5lM29YbFpvOE1adUhVSWxMZmdBUjNSbjhtMk5SQjUzTQ?oc=5"
+      },
+      {
+        "text": "Rwanda, IFAD Unveil $21 Million Initiative to Bridge Farmer Financing Gap",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWhoUk9KX2t4cmhRWUc2eDhqeDBGTzd1VjN3NEZ3MDBlUlQxN1hrbVJhN0FHOXA0ZnZfZ1Y4MXhMT0NuU2FsSHRsOEFPSmo0anNpajBnSUR6a2hNa1l4eEhUWXJKalZLNFJ2X05wTlNYUkRTLVpsSjdORWVlYlJYdmNlU3VGZEtl?oc=5"
+      },
+      {
+        "text": "From Farm Records to Credit: Making African Agriculture Bankable",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNakRUa1FpNlg4VVRsOGt5LTctX1ZTb1NocV9nQm43dXA1S3l2VGlwLXY3UkNFblV0eVlwcFhSalIwQVFvWTh0MktLZFpBLVp1ZzB6RlBtdkdGLWdzTTRla2ROQjZnck81THU5TkhPYThlX3llSjd4ME01WE1hZWdYUHJnZDc3MGlwRDdrWEtKaTh5N3FsNGJpTE1NVE4?oc=5"
+      }
+    ],
+    "marketGap": "No existing platform systematically converts farm production records and satellite data into standardized credit scores that lenders can trust, leaving a financing void for smallholders.",
+    "executionPlan": "Build a mobile app for farmers to log field activities and harvest data, integrate satellite NDVI metrics, and generate a credit score algorithm validated with pilot micro‑finance institutions. Launch MVP with 1,000 farmers in Kenya, partner with a regional lender for loan underwriting, and monetize via a 1% loan origination fee plus subscription access for banks to the credit‑score API.",
+    "competitor": "FarmDrive (Kenya) – the closest existing agri‑fintech using mobile data for credit scoring, but it does not combine satellite imagery and detailed farm records at scale.",
+    "trend": "Accelerating climate‑finance inflows and the rise of digital agriculture platforms are creating a fertile environment for data‑driven farm credit solutions."
+  },
+  {
     "id": "cybercrime-shield",
     "title": "AI-Powered Cybercrime Protection",
     "category": "Fintech & Payments",
@@ -456,31 +482,5 @@
     "executionPlan": "The MVP for FuelScout will involve developing a mobile app that allows users to input their route and preferred mode of transport, then provides a list of available transport options with estimated costs based on current fuel prices. The first build steps will include partnering with local transport providers to gather data on their routes and pricing. FuelScout can monetize by taking a commission on each booking made through the platform",
     "competitor": "None exists",
     "trend": "The increasing demand for convenient and affordable transportation solutions in Nigeria, coupled with the growing need for adaptability in the face of economic uncertainty, makes FuelScout a timely solution"
-  },
-  {
-    "id": "affordable-housing-scheme",
-    "title": "Rent Relief Platform",
-    "category": "Housing",
-    "tagline": "Nigerians are being priced out of their homes due to unaffordable rent and mortgage costs",
-    "dateAdded": "2026-07-27",
-    "whyNow": "The current housing crisis in Nigeria is exacerbated by the landlords' economy, making it urgent to find alternative solutions for affordable housing, and the recent news highlights the need for immediate action",
-    "proof": [
-      {
-        "text": "FG’s housing scheme faces affordability test as mortgage costs exceed workers’ pay",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRGxrSHdTbVZsc0lSdDBsRUhKWFhHbGtBWXBXUXE4ODF1b0Z6eUJKSkEyZ2piZGJlaXdyVWotV01Zckd2RTJTamZuTXNXckt4RzRfSkxPVVRUTXJMbk1PeVIzNVFaRnBRaTRDc3U3RHA1akFyQ1FwVGg0bFBiNElwcFJqT29VTUVjcHF2cUw2SFVZWVpvZlRzRV9RZFN4N2poTkdyalJnT2owWmNLRVY0aUpHYTVpVC1Y"
-      },
-      {
-        "text": "How the landlords’ economy is pricing Nigerians out of home",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU1I3RE0wMGxLRE9WTEdjV0VReGxuS3FXUGF0NWRDRWpfeVlfTFdQa18yYmFHNVNpR3VtTjVtdFFGSW4xdy1ETmsxalladTZXWTNxTDd1c3NDLW5sdjFpN0lKVTgta0plbWFvVy1ZeWZYak5oNHVueWswV0IxLXU2Z05OSUY0YWhyWU40bkluWnd4RXoyYno2SmVJTQ"
-      },
-      {
-        "text": "How building demolitions are deepening Lagos’ housing crisis",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObU83VGs5UmM1ZVNvY1JaMWlWbUZWZ2NlWGFfbjBRclhTUnZmWXpocXFLWFdsRnJyVEpQZXdVVzFfYWxZWUo1QXNKbDVLYVZNYTZXZXFGak4xOUctT0ZPNXo5aDBxZW5fMFlzRUxZN1VGS2hFUTJyX1hvbjM4eUU2dGlMQ1nSAYoBQVVfeXFMTkJJY3VTMmR6UTBUNWRxMl9ZMnEyTGhLcTF2em8wT0tsTU1iU2o0d0psZzg1Q0JscTRjOWVINTdtVTdHYnZ6TFZ3UVhYNFlDRk1ETVJwQ2VqYTFiNldtWlV4b2NwMUU3R1hOR3p6RGRtYVNRNVdKWUVkWEt0OXhkTGZJYXpRNTFVSjZB"
-      }
-    ],
-    "marketGap": "There is a lack of affordable housing options in Nigeria, and current schemes are not addressing the issue effectively, leaving a gap for innovative solutions to provide relief to those struggling with high rent and mortgage costs",
-    "executionPlan": "The MVP would involve creating a platform that connects homeowners with affordable housing options, including rent-to-own schemes and community land trusts, with the first build steps focusing on developing a user-friendly interface and partnering with local housing organizations, and monetization could come from commission-based sales and advertising from relevant businesses",
-    "competitor": "None exists that specifically addresses the affordable housing crisis in Nigeria",
-    "trend": "The trend of using technology to address social issues, such as housing affordability, is on the rise, making this a timely opportunity for a startup to make a meaningful impact"
   }
 ]
