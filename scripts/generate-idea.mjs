@@ -1,4 +1,4 @@
-// Daily "Africa Pain Radar" idea generator.
+——↗—🔓————————// Daily "Africa Pain Radar" idea generator.
 // Pulls recent headlines from Google News RSS (no API key needed) for a rotating
 // topic/category, then asks a Groq-hosted model to turn the most concrete one into
 // a single idea entry matching ideas.json's schema. Never invents sources — only
@@ -95,7 +95,43 @@ async function callGroq(prompt) {
       model: "openai/gpt-oss-120b",
       max_tokens: 1500,
       temperature: 0.7,
-      messages: [{ role: "user", content: prompt }]
+      messages: [{ role: "user", content: prompt }],
+            response_format: {
+                      type: "json_schema",
+                      json_schema: {
+                                  name: "africa_pain_radar_idea",
+                                  strict: true,
+                        schema: {
+                          type: "object",
+                          properties: {
+                            id: { type: "string" },
+                            title: { type: "string" },
+                            category: { type: "string" },
+                            tagline: { type: "string" },
+                            dateAdded: { type: "string" },
+                            whyNow: { type: "string" },
+                            proof: {
+                              type: "array",
+                              items: {
+                                type: "object",
+                                properties: {
+                                  text: { type: "string" },
+                                  url: { type: "string" }
+                                },
+                                required: ["text", "url"],
+                                additionalProperties: false
+                              }
+                            },
+                            marketGap: { type: "string" },
+                            executionPlan: { type: "string" },
+                            competitor: { type: "string" },
+                            trend: { type: "string" }
+                          },
+                          required: ["id", "title", "category", "tagline", "dateAdded", "whyNow", "proof", "marketGap", "executionPlan", "competitor", "trend"],
+                          additionalProperties: false
+                        }
+                      }
+            }
     })
   }, 30000);
   if (!res.ok) {
