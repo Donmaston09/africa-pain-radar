@@ -1,4 +1,4 @@
-——↗—🔓————————// Daily "Africa Pain Radar" idea generator.
+// Daily "Africa Pain Radar" idea generator.
 // Pulls recent headlines from Google News RSS (no API key needed) for a rotating
 // topic/category, then asks a Groq-hosted model to turn the most concrete one into
 // a single idea entry matching ideas.json's schema. Never invents sources — only
