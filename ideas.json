@@ -1,5 +1,31 @@
 [
   {
+    "id": "generator-fuel-saver",
+    "title": "GenFuel Saver",
+    "category": "Energy",
+    "tagline": "Small businesses lose money to costly generators during chronic blackouts",
+    "dateAdded": "2026-09-13",
+    "whyNow": "Frequent grid failures and new transmission projects that still aren’t delivering reliable power are forcing SMEs to rely on diesel generators, driving up operating costs and making immediate cost‑saving solutions critical.",
+    "proof": [
+      {
+        "text": "Seven Months Without Power: Ayetoro’s blackout cripples homes, shops, classrooms",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnRWNlQxXzlvTC1aVjhITi1yakVmZ0RLMFJxN2RZR2xmaEpoSkpad1g1R0ZqLUxEVmVWYnNVY0JOWTFjYkZCYnJmSWJkTDFSQV8tci1vM2JDcW55T21zQkRTbC1tNjdPWFVKLXprd1pNTFlkZUVSWTNsLWlOQURHaUlXMV9LaURiVkV2WTd2cm4yWnFOTGk3Z3V6UDVLLVN6NVRxU0ZuQ1ZMWmROMGpRWGJkUQ?oc=5"
+      },
+      {
+        "text": "Power Paradox: New Transmission Capacity Yet To Light Up Businesses",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlA4Zl81U2J0NlE4dHRTdm1qSnFja0ZIcWNwTkcxbktpQWliLThsb1lLTmNld2VCNndFYXpSLU9Call6cF9Rb2RGcVlhU1hJU3VNeVd1bnNXbnVNV2ZhZjVKTDRpOHE5enk0TDAyd2JfT0Y0czBLek5xY2ZpZE5VcElqWFI4NThsT0NTcThYaW9oaHZramtv?oc=5"
+      },
+      {
+        "text": "To beat a rickety electric grid, Nigeria’s capital gets creative",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44MUItY2R5Y2lGYnQwR2VUNWE1YUFRdkVtUmFNNW0tSkkxZnhXRHRkMmkzUzdnbmF5SjBJajM4aFVOT2U4bFpIbDFtTVhEN19qZGxLdEVKWjhVQmFhbEI4ZmlZZ1AtbUM0blY3aFhZX3JZM0YwWWNXbjllZ9IBlAFBVV95cUxPWFVldW9DMFNYNlQ1emNyUGk4bnR6bjNRVGVRVFNobkJ4bjdkakxmVmVKb0FuTmVURFlkZHFVaktjbkpRd1dramdoQmFEZGNyS011X1N1MkxTdUJHTUJTb3JxUTlyb0FqcHFPUzd1d3R2VVJrRXl5VXNYOGJmRmlWZFFYMVhoU1dQdy1wNkJzSDBxT05m?oc=5"
+      }
+    ],
+    "marketGap": "There is no affordable, on‑demand service that aggregates generator fuel prices, optimizes usage, and offers shared‑ownership micro‑grid or solar‑plus‑storage rentals specifically for SMEs in Nigeria.",
+    "executionPlan": "Build an MVP platform that provides real‑time diesel fuel price listings, predictive generator run‑time analytics, and a marketplace for renting shared solar‑plus‑storage units. Launch a pilot with 100 Lagos shops, charge a monthly subscription plus a small transaction fee on fuel purchases, and reinvest revenues to expand micro‑grid assets.",
+    "competitor": "None offers a combined fuel‑price marketplace and micro‑grid rental for SMEs; closest alternatives are traditional generator rental firms.",
+    "trend": "Growing investment in renewable micro‑grids and digital marketplaces across Africa is making scalable backup power solutions increasingly viable."
+  },
+  {
     "id": "ruraldiag-ai",
     "title": "RuralDiag AI",
     "category": "Health-tech",
@@ -464,31 +490,5 @@
     "executionPlan": "The MVP will focus on developing a mobile app that provides real-time power outage updates, energy usage tracking, and resources for small businesses to reduce their energy costs, with a subscription-based model for premium features, and partnerships with energy providers and equipment suppliers to offer exclusive discounts to users",
     "competitor": "None exists that specifically caters to Nigerian small businesses",
     "trend": "The increasing awareness of the need for renewable energy and energy efficiency is driving innovation in the energy sector, making it an opportune time to develop solutions that address the specific pain points of small businesses in Nigeria"
-  },
-  {
-    "id": "water-for-sex-exchange-platform",
-    "title": "SafeWater Exchange",
-    "category": "Climate & Water",
-    "tagline": "Some women are forced to exchange sex for water due to scarcity and lack of affordable access",
-    "dateAdded": "2026-07-30",
-    "whyNow": "The climate crisis is exacerbating water scarcity, and the situation is urgent as it affects the most vulnerable populations, particularly women, who are often pressured into transactional sex for this basic necessity. The recent reports of such incidents highlight the need for immediate action.",
-    "proof": [
-      {
-        "text": "Some women who can't afford water are often pressured to provide sex for it",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2J3QzM0bnRlWElSX200VTU5N2FUYmtxVnVVNHpIOVdOUzN3eUQ1RW5DQmJsOC1pczFGZWhEdzBRaFJxeXh0Rmp3SUNjdkVfTnVoTW5TTTFPTmJzS2duRlZDRTZVenBaRXZOTWlEUzVmUDFiNmtRcEhVbEtLRmNhaHBrMGFJNXpTOERpUTRtQnVrSmxV"
-      },
-      {
-        "text": "The cities managing climate risk by investing in resilience",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVC1wQ3pTVkxMVll2QTJFVTZRVDRNRU5SRUZieWJfQld0NG9FbVROTXdrSGsyRWRXN2ZRSTZtODZfLVBaRldMMi1DckNkUnJlajN2X0l6alZGOU14c29uUm84dTRGbzlpUHNyQlNIMGhJM0lEQVVsNG1VTlNyeERud3FBU0xGbDhaZVJGLTUzWGNscGo0ZDV6UlR3"
-      },
-      {
-        "text": "Why smarter water technologies hold key to ending continent hunger crisis",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUWsxS19DM28wZlJ2VGI2ZWtGcS1NZFRVdmdEVnl3RmxSUWtkU0FNZUlBOVZ0aXMza0pRVWVGTWZEaVBFb2VMcklydGdPSC1rZUlFQTdpQ3RDWGxrbW4yUVdpWXpoQ2hMOVl2RU11ZkFBUlNsZmNOVTYtY2VKTEpWdFFCNlAtR1NqeEVrd3pVYmxxVjFTNHB1YkREMm1LdHBDUUx2Y2liUHJjZUVVNlZENGY1ZzJXcndvcFhXTFNpcTlhYy1saUlZcEIwX1hyUnIxVXltRw"
-      }
-    ],
-    "marketGap": "Current solutions do not address the specific issue of women being forced into transactional sex for water, and there is a lack of platforms or initiatives that provide safe and affordable access to water for vulnerable populations. Existing water technologies and initiatives often focus on larger-scale solutions, neglecting the immediate needs of individuals, particularly women, in water-scarce areas.",
-    "executionPlan": "The initial MVP scope would involve developing a platform that connects women in need of water with local organizations or individuals who can provide affordable access to this resource. The first build steps would include conducting thorough research on the target audience, building partnerships with local stakeholders, and designing a user-friendly interface for the platform. A potential monetization angle could involve partnering with organizations that provide water-related services or products, offering premium features or services for a fee, and applying for grants or funding from organizations focused on women's empowerment and water scarcity issues.",
-    "competitor": "None exists, as current platforms and initiatives do not specifically address the issue of women being forced into transactional sex for water",
-    "trend": "The increasing focus on climate resilience and water scarcity is driving the need for innovative solutions that address the specific needs of vulnerable populations, particularly women, and provide safe and affordable access to this basic necessity."
   }
 ]
