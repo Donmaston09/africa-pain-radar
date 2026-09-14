@@ -1,5 +1,27 @@
 [
   {
+    "id": "data-deal-affordable-mobile-data",
+    "title": "DataDeal: Affordable Mobile Data Bundles",
+    "category": "Connectivity",
+    "tagline": "Rising mobile data prices are squeezing users; we offer cheaper bundled data.",
+    "dateAdded": "2026-09-14",
+    "whyNow": "Mobile contract prices are climbing faster than inflation in South Africa, making data unaffordable for many while digital services become essential for work, education, and health.",
+    "proof": [
+      {
+        "text": "Mobile contract prices are increasing faster than inflation in South Africa.",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeXFuazVYcTB4ZUt0RElQYmlta0U0TEdDUC1nNkMyZXdNZS1SSUJ3Qm9nRXVNX3BTa1BxaURkOU1aY0Qyd29LRW00eG9QdnRXWTlGZWgwRnRPTFI2NkVWZGxHZk1UVXFTRE9KZGpQWnkzUl9xaUdtNGZRRTZzWEV6aWVrZDR3RGZkSkluZWJaRTAzM3lnTHMzRUxjSkFwcDNGMWJOQUNrYzZZMDNGc0JvcWluZngyZFRURGwxWjkwRENxTmdhdnc?oc=5"
+      },
+      {
+        "text": "The surge is forcing many users to cut back on internet usage or switch to unreliable Wi‑Fi alternatives.",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeXFuazVYcTB4ZUt0RElQYmlta0U0TEdDUC1nNkMyZXdNZS1SSUJ3Qm9nRXVNX3BTa1BxaURkOU1aY0Qyd29LRW00eG9QdnRXWTlGZWgwRnRPTFI2NkVWZGxHZk1UVXFTRE9KZGpQWnkzUl9xaUdtNGZRRTZzWEV6aWVrZDR3RGZkSkluZWJaRTAzM3lnTHMzRUxjSkFwcDNGMWJOQUNrYzZZMDNGc0JvcWluZngyZFRURGwxWjkwRENxTmdhdnc?oc=5"
+      }
+    ],
+    "marketGap": "There is no transparent marketplace that aggregates wholesale data capacity from carriers and resells it at predictable, lower prices to end‑users, leaving consumers stuck with expensive carrier‑only plans.",
+    "executionPlan": "Launch an MVP web portal that purchases bulk data bundles from South African mobile operators at wholesale rates and repackages them into affordable subscription tiers. Start with a pilot in Johannesburg, targeting price‑sensitive users, and generate revenue through a modest per‑GB margin. Once the model proves, expand to other cities and later to Nigeria, adding a mobile app and API for third‑party integration.",
+    "competitor": "None offers a dedicated wholesale‑to‑consumer data marketplace; the closest alternatives are carrier‑direct plans and informal resale groups.",
+    "trend": "Accelerating mobile internet adoption across Africa combined with inflation‑driven price hikes makes affordable data solutions increasingly critical."
+  },
+  {
     "id": "generator-fuel-saver",
     "title": "GenFuel Saver",
     "category": "Energy",
@@ -464,31 +486,5 @@
     "executionPlan": "The MVP scope would involve developing a user-friendly platform where students can register and track the status of their upkeep allowances and refunds, with integration with schools and NELFUND to verify payments. First build steps would include conducting market research and gathering feedback from students and stakeholders, followed by designing and testing the platform. A potential monetization angle could involve offering premium services, such as personalized payment tracking and alerts, for a subscription fee",
     "competitor": "None exists, as current solutions are largely manual and fragmented, with no centralized platform or system in place to address this specific pain point",
     "trend": "The growing demand for digital solutions to address financial inclusion and transparency in education, particularly in Nigeria, makes this startup idea timely and relevant"
-  },
-  {
-    "id": "power-outage-relief-platform",
-    "title": "Blackout Buddy",
-    "category": "Energy",
-    "tagline": "Small businesses in Nigeria are struggling to stay afloat due to frequent and prolonged power outages, resulting in significant financial losses",
-    "dateAdded": "2026-07-31",
-    "whyNow": "The problem is urgent as the power sector reforms in Nigeria are ongoing, and small businesses need immediate solutions to mitigate the effects of blackouts, with over 2,500MW of generated power being wasted due to grid unreliability",
-    "proof": [
-      {
-        "text": "Gencos: Over 2,500MW Generated Power Wasted Due to Grid Unreliability",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWFWakppQXV1OHdwc2Jsb3ZTZmVTTnlUUWJBTVpBZGozbkpWRkNnTnVaN0x2WDBvZjVaci00Z3JJVGFaUl9jcXNDQWVlVzRwb3VUenVyTWVyRU9QNDJtbDJ3MFgwazNQN3BvNmc4RWEzY1F0ajRkYTRBa3k1NjZyZWhMR2h3cWIwLTJqamNMWFdndkdPeV9oWWwtNXU3LVFUTm1tSjBicmhtaG8"
-      },
-      {
-        "text": "TCN announces 32-hour power outage across seven northeastern cities",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNelpMRVV1YWdaVkloTXVMV3haOGc2RVQ3RGc3emNuYXdjbktfVUN2czM2aFJUSDAzLUJVMEdLLWVwb2YzY0JQeDRPeGMtY19tUkhtQUlvMmluNTYweWRrSm8xY2lSRUIyUEMtR1QtVjNEaXpNejZzQm9jN1RkWHlCM3VmWHVMNDVaMUc2MGhmOURpSmlSNW1SaHpDUQ"
-      },
-      {
-        "text": "FESTAC residents give EKEDC 48-hour ultimatum over prolonged blackout, estimated billing",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcXlVRVNmSjdtRlF1UVFyX3AzLTd3ZnBmdHlaY0NCenRkOThZT0F3TGstVGdibm1MSkNaM1FSWGlMV3lldWt5YVNYT2drNkFyNkF4ekJiVW1COVNIanFycHM3eXVtSUphdjVhUUlzcFd6ekg1RUxTTW1Va0E5SkxjNkRld0NkRVpiNUdTSW12VTNsMVk3bkRJVUFuSDM5TlAwVkMyN3YtemNSYUhIREQ5cGVNamZlVG4zZjdqRGcwXy1SMnhEZzJz0gHHAUFVX3lxTE5xeVVFU2ZKN21GUXVRUXJfcDMtN3dmcGZ0eVpjQ0J6dGQ5OFlPQXdMay1UZ2JubUxKQ1ozUVJYaUxXeWV1a3lhU1hPZ2s2QXI2QXh6QmJVbUI5U0hqcXJwczd5dW1JSmF2NWFRSXNwV3p6SDVFTFNNbVVrQTlKTGM2RGV3Q2RFWmI1R1NJbXZVM2wxWTduRElVQW5IMzlOUDBWQzI3di16Y1JhSEhERDlwZU1qZmVUbjNmN2pEZzBfLVIyeERnMnM"
-      }
-    ],
-    "marketGap": "There is a lack of platforms that provide small businesses with real-time information and resources to mitigate the effects of power outages, and existing solutions do not address the specific needs of Nigerian businesses",
-    "executionPlan": "The MVP will focus on developing a mobile app that provides real-time power outage updates, energy usage tracking, and resources for small businesses to reduce their energy costs, with a subscription-based model for premium features, and partnerships with energy providers and equipment suppliers to offer exclusive discounts to users",
-    "competitor": "None exists that specifically caters to Nigerian small businesses",
-    "trend": "The increasing awareness of the need for renewable energy and energy efficiency is driving innovation in the energy sector, making it an opportune time to develop solutions that address the specific pain points of small businesses in Nigeria"
   }
 ]
