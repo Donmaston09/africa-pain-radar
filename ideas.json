@@ -1,5 +1,27 @@
 [
   {
+    "id": "abandoned-buildings-to-affordable-homes",
+    "title": "Repurpose Abandoned Buildings into Affordable Lagos Homes",
+    "category": "Housing",
+    "tagline": "Turning vacant public buildings into low‑cost rental homes for Lagos residents.",
+    "dateAdded": "2026-09-15",
+    "whyNow": "Lagos homeownership has fallen to just 31% as rents surge, and experts are urging the conversion of unused public buildings into affordable housing, making the timing ripe for a tech‑enabled solution.",
+    "proof": [
+      {
+        "text": "Homeownership in Lagos stands at only 31% as housing costs continue to rise.",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY2RXTEp2eXJUc29OVjh1TjFHZ2daWWRuNXJDRmhWRVlpV2Y2UlZCRm9xUndZb2I3ZjM4NHJ3OWpOM2ExM2VwVHdidG9TWWh6eDZyTEZxSUJLSEtlZ1BZUVM2MERYa0pEXzNEdUpydnpMRjY3WnBaSzJxSk5yR0NMSGhmTjV2TTl2U19HbzNPbXhyZk0?oc=5"
+      },
+      {
+        "text": "Experts are calling for the conversion of abandoned public buildings into affordable homes.",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWpRZ1hRbUZldGJ6QmpUNFdFTndnWWxHNmM0TVdjWE81NmMtZklfS3RkNTNrRmg1VmJWWGMzZVFtR0NVUjk1WExieW5PQWhGUFRzbWxYN0VxUTFjamRUc3Y4MjVSX1o0VW1BTzhVUVVzSUhpbGpxcldLNlBVbjljejlVR0RlRVFQc1N0eUIzUURYRFAyT3Q2b2VwV3BFUUFwUFZQZlBR?oc=5"
+      }
+    ],
+    "marketGap": "There is currently no digital platform that matches municipalities, investors, and construction firms to refurbish idle public assets into affordable rental units, leaving a gap between policy intent and implementation.",
+    "executionPlan": "Launch an MVP that catalogs vacant public buildings in Lagos, offers a marketplace for vetted developers to submit refurbishment proposals, and secures financing through impact investors. Start with a pilot refurbishment of one building, generate revenue via a 5% transaction fee on lease agreements and a management fee for ongoing property services.",
+    "competitor": "none exists",
+    "trend": "Rapid urbanization and rising rent pressures in African megacities are driving demand for innovative, cost‑effective housing solutions."
+  },
+  {
     "id": "data-deal-affordable-mobile-data",
     "title": "DataDeal: Affordable Mobile Data Bundles",
     "category": "Connectivity",
@@ -460,31 +482,5 @@
     "executionPlan": "The initial MVP scope will focus on developing a telehealth platform that connects rural patients with healthcare professionals in urban areas, utilizing mobile clinics as hubs for diagnostic services. The first build steps will involve partnering with existing mobile clinic operators and healthcare providers to integrate their services into the platform. A monetization angle could involve a subscription-based model for patients, as well as partnerships with pharmaceutical companies and medical device manufacturers to offer bundled services",
     "competitor": "None exists, but similar models have been implemented in other regions, such as Africa Telemedicine",
     "trend": "The increasing adoption of digital health technologies in Africa, coupled with the growing focus on universal health coverage, presents a timely opportunity to develop innovative solutions that address the rural diagnostic access gap"
-  },
-  {
-    "id": "nelfund-refund-tracker",
-    "title": "NELFUND Refund Tracker",
-    "category": "Education",
-    "tagline": "Students are struggling to receive timely upkeep allowances and refunds from schools, causing financial hardship and uncertainty",
-    "dateAdded": "2026-08-01",
-    "whyNow": "The issue of withheld refunds and inflated tuition has become a pressing concern for students in Nigeria, with the National Association of Nigerian Students (NANS) urging the government to sanction schools responsible, making it an urgent problem to solve. Recent news headlines have highlighted the plight of students, emphasizing the need for a solution",
-    "proof": [
-      {
-        "text": "Students Seek Prompt Payment Of NELFUND Upkeep Allowances",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMGVnMzJRMnNwSTJpeDlOWGpqWFJ3OVZ1akp0ZXcwb0VlVGM5WUhublRORGJneTFoekpWcmpKRTVBV3g0d2todlVnUy1wdmg5QU5NWEtrZ0czdDd4amVlYjl1aFlxZGNhVk9RRlBKZktlQ196TFkxNU0ycEVpVWZIU3VuNFFobGRqbVBpdGttVUFpUEpTVnV0X2lUdw?oc=5"
-      },
-      {
-        "text": "NANS seeks sanction for schools withholding, inflating tuition",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZC1OdTc2Qzc3bEhrREloWEV4bkRYZEpPNWRfbXJPMEZOTnBwWHd5eHFIQUozeG44T0lveTFTeWZyUVZ4VXFsRUF6Ri04TWNZS2ZyZUd5YzdXZzZoOFNmcTQ4cDlnMnlTUmxOV2xPbmo1Uk90dDVhSzNHTmlHY2ZsVi1vSldKSy12bG5tTVZEM3B0OWF0SVdMejgyTDBDZG0xVXB5czFR?oc=5"
-      },
-      {
-        "text": "NANS Urges Tinubu to Sanction VCs Withholding NELFUND Refunds",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3VnSHRBRG9JeDc4S2FuYXJMa2ZHUHEySF9rZTlDSXVkSU1maU1IcF9DTkRscHVmeWItbS1zY2k5LUhZTG9UdzdndDhUUWlNT1RWRG13cFRablJia3BUWDdsSXZVUkwwNFdWMXl3aXpGNUpXa1UzNkY1OEtubDdPWHRDdWJEeHBZZ2RTdnRn?oc=5"
-      }
-    ],
-    "marketGap": "There is currently no centralized platform or system in place to track and facilitate the payment of NELFUND upkeep allowances and refunds to students, leaving them vulnerable to exploitation and financial hardship. A digital solution could help bridge this gap and provide transparency and accountability",
-    "executionPlan": "The MVP scope would involve developing a user-friendly platform where students can register and track the status of their upkeep allowances and refunds, with integration with schools and NELFUND to verify payments. First build steps would include conducting market research and gathering feedback from students and stakeholders, followed by designing and testing the platform. A potential monetization angle could involve offering premium services, such as personalized payment tracking and alerts, for a subscription fee",
-    "competitor": "None exists, as current solutions are largely manual and fragmented, with no centralized platform or system in place to address this specific pain point",
-    "trend": "The growing demand for digital solutions to address financial inclusion and transparency in education, particularly in Nigeria, makes this startup idea timely and relevant"
   }
 ]
