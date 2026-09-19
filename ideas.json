@@ -1,5 +1,31 @@
 [
   {
+    "id": "securepay-verify",
+    "title": "SecurePay Verify: AI‑powered fraud guard for mobile money & gift cards",
+    "category": "Fintech & Payments",
+    "tagline": "Users lose money to fake gift‑card and mobile‑money scams with no real protection",
+    "dateAdded": "2026-09-19",
+    "whyNow": "Recent high‑profile romance and gift‑card scams have shown that existing payment channels lack real‑time fraud protection, and rising AI adoption makes sophisticated detection feasible now.",
+    "proof": [
+      {
+        "text": "Microsoft notes that digital trust is a critical challenge in Africa's mobile money ecosystem, hindering user adoption.",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaXFPNGZMVTh6ci1IT3hPTVZYLWhyZkxvSkRLUS1BWENUZWNtS2FJQlcwc0NCTWNuM2kyVjdKZGJRWEZzM3JkTGNDM2NjZC1ZTHpjeEU5Vzkta2JOdXRnSk42Uy1uOVVwbGhYT0J6SExuM05CN0Qwdl9SaUlWdmdCX3VrZTBweEFJT09JNm0yWi00ZklDQ01uaVowYWs5Q3hpYVN6bw?oc=5"
+      },
+      {
+        "text": "Africa Check warns that gift card scams in Nigeria routinely trick users into sending prepaid card codes, leading to significant financial losses.",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS3B5S2VYaFA2Z016dldrQ1lrUTFNRUZtem1fSXdYV3BiWkRaaUc1SmkxMFJWc0haQVVLYTg4eTVwYjdVSThEZDVvaFpRczNTZHgxUFFEekFCQ2VHV1IzNGFzOV9hMFdVS1c5bDdHZ0R4X1djSzF5UnBhamx3QVZ1cVBORzBHaGV4bnc?oc=5"
+      },
+      {
+        "text": "TikTok was found to have ignored impersonation and fraud reports from Ghanaian users, underscoring the need for better fraud detection mechanisms.",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUlpXbkc2UC1OMDc3WUdFb1hOWXZfbFVRSGhwWUpmRWVOVjJkb0tDaHZzc0NZbVZyeEVKN1ZTbUpzUzRyTXRWcFNsemVUa2J5eUZfc1lMa3MyVFk1cFU0YV8ybGhzcW92YVJfWDRkc1RrZ1VFMTg5VGZSR2JDUGc1VlhZcjVuUkNxWV9yTndBU0NzRWg0Wm5KVFY5N0pjdlNZN0twSVkzc3FPcGp2N084WDNkTkhuaXRY?oc=5"
+      }
+    ],
+    "marketGap": "No solution currently offers real‑time, AI‑driven verification and escrow for mobile‑money transfers and gift‑card payments in Nigeria, leaving users exposed to scams.",
+    "executionPlan": "Launch an MVP that integrates with popular USSD and WhatsApp payment flows, scanning transaction details against an AI fraud model and a blacklist of compromised codes. Offer an optional escrow service for gift‑card codes that releases the code only after buyer confirmation. Monetize through a subscription fee for merchants and a per‑verification charge for individual users.",
+    "competitor": "None provides AI‑powered real‑time verification for mobile‑money and gift‑card transactions in Nigeria",
+    "trend": "The surge in mobile payments across Africa combined with advances in AI‑based fraud detection makes this solution timely."
+  },
+  {
     "id": "aquapay-on-demand-water-kiosk",
     "title": "AquaPay: On‑demand water kiosks for SMEs",
     "category": "Climate & Water",
@@ -460,31 +486,5 @@
     "executionPlan": "The MVP of Rent Relief would involve creating a user-friendly platform that allows tenants to search for affordable housing options and apply for financial assistance. The first build steps would include partnering with local landlords and property managers to list affordable housing options on the platform, and developing a robust application and review process for financial assistance. Rent Relief could generate revenue through a subscription-based model for landlords and property managers, as well as through partnerships with financial institutions to offer affordable financing options to tenants.",
     "competitor": "None exists",
     "trend": "The trend of increasing housing costs and decreasing affordability is making it timely for a solution like Rent Relief to emerge and address the needs of tenants and landlords alike."
-  },
-  {
-    "id": "data-expiry-tracker",
-    "title": "Data Saver",
-    "category": "Connectivity",
-    "tagline": "African mobile users are frustrated with unexpected data depletion and expiry, leaving them without internet access when they need it most",
-    "dateAdded": "2026-08-04",
-    "whyNow": "The issue of data expiry is becoming increasingly urgent as more Africans rely on mobile internet for daily activities, and recent debates highlight the need for a solution. With the rising cost of mobile data, users are looking for ways to make the most of their data plans",
-    "proof": [
-      {
-        "text": "Malatsi backs consumer sentiment on data expiry debate",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPanJ4aTkwcjFkdlkyR2tRLWt4X0FEcWFOQ19xR3dyV2xPTWtod05fdW9uVndRakQxMUV6OGxsUUdNcEwwNHlVemdETzBrc0hRbjVrMEdNRENFRXRNV1otekhvcGI2bHZIYm9KVE9ic0NQMGdlaml0THZOajNvaGRqemlDcHpRREtSTTNOckZGaUpJQ3hTZEZibV9HTEZqWUFiRkdvdHJR?oc=5"
-      },
-      {
-        "text": "EDITORIAL ANALYSIS: Evaluating Allegations Against MTN, Data Depletion Complaints, and Calls for Retaliation",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMDVCbTAxVFZxc0pOOS1MbGJSTlR1eHpMQWxSVzZIZ25VQlBJbDR3MnVld2NNYk12cHZuS0dsRGJvVmdJQ0pLNU9vZlZ5U0ZtbzhZZFl4YVlET3A5VkxvcEo5RlhwTUxucjZZbWp6TnozcHhZUFpPbWpzWENodnM0c3g4SHZxcm0yOHhaTTM5UGVoV0x5aUFzUjUzTkFlODFpMHpoN1RvWEM1T1VrbW5jc3ZleXlrODV0M0dObXU1WkxRdElsSHFhMEZfdVZaVklVNzg1Vg?oc=5"
-      },
-      {
-        "text": "Uncapped Internet anywhere in South Africa from R599 per month",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWh2SENWUTZNMDNMTmdtTTNldDB6cy1McEROQ3JCTUpnVWh1S3d4ZE1IVlMtX3FGSFNvOUs5SmJuT25uX2hpV25KZUN6eTZiczMwZV9WWkxBeXEydW5UX1llcm1ZeVhjRWNIR1MzUk12WGd0ZnpaemVadjY0RktUZ0VyR0R0X3hGVEc0ZjJLQk1paG9TMmFtRTdPMFpkWUphUnJqTnpFWDNseHp6UURaSlZFM2FhQQ?oc=5"
-      }
-    ],
-    "marketGap": "While there are some data tracking features available, there is a lack of a comprehensive and user-friendly platform that helps mobile users track their data usage and expiry dates, and provides personalized recommendations to optimize their data plans. Current solutions often require technical expertise or are not tailored to the specific needs of African mobile users",
-    "executionPlan": "The first step would be to develop a minimum viable product (MVP) that allows users to track their data usage and receive alerts when their data is about to expire. The platform could also provide personalized recommendations for optimizing data plans based on usage patterns. To monetize the platform, we could partner with mobile operators to offer exclusive data plans or promotions to our users. Additionally, we could offer premium features such as detailed data usage analytics or automated data top-ups for a subscription fee",
-    "competitor": "None exists, but similar services such as data tracking features on mobile operator websites or apps could be considered indirect competitors",
-    "trend": "The increasing demand for mobile internet and the rising cost of data plans are driving the need for innovative solutions that help users manage their data usage and optimize their mobile budgets"
   }
 ]
