@@ -1,5 +1,31 @@
 [
   {
+    "id": "climate-finance-for-smallholders",
+    "title": "YieldLink: Climate‑Adapted Credit for Smallholder Farmers",
+    "category": "Agri-fintech",
+    "tagline": "Smallholder farmers lack affordable credit to adopt climate‑resilient practices, limiting yields and income",
+    "dateAdded": "2026-09-20",
+    "whyNow": "Recent $200 million climate adaptation financing agreements between IFAD and Equity Bank show both donor and commercial appetite for farmer credit, while the broader climate‑finance gap is intensifying risk for smallholders. With digital mobile money penetration high, the window to launch a yield‑linked loan platform is immediate.",
+    "proof": [
+      {
+        "text": "Africa’s climate finance gap is becoming a risk‑sharing problem for farmers and small businesses",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRVhoUXhIVlhVNWR6YjBTWkNsXzVjcjlSODBqbVZFUE5PYWlxekFPS1hMTWZraThsNjdlZnU2TUhOWHJ3WE9aUWJON3I1MENQR0tZY3NnYmVNT05Kd1d2ZDk0T19UblAwYmx3d0JKTUZCLTBLUmlGMjBXbXQ1b0k0TFZvdDNPNUs5Z3BwQjhpLWUyZXpPdnlYczlBQ3RoSWpVVEtHa0RSOTlheU1feU14RWpxZUpoTENfWUhaeGJrdVdLN2lVMW9EWFUwWjVlQkVvb0E?oc=5"
+      },
+      {
+        "text": "$200 million climate adaptation financing deal between IFAD and Equity Bank",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQU92Ynh5ZW5saExkUHM0ajQtclM3aTY5NDNUN2VoT1AtYm44d3VpMVZ0TW5Yb3poc3ZRLXczdC0xSFhIck5OMERtanVzdW5jTEZyRUhVU2EzUmxfUzF2aEw4UU51MlgzQkZNSHhYak51SkI4TkRZOHhPVUNVQ1BVVEZSaTAtMnQzRDNqalJHZTNUbU5PQkdsTGZ1YlM1T1dnNWF6VjZhRVNlTHRtSWZ6NDJEOGRYaUdiV3V3N21iVktWc3FRbV9KZUVmTDQtRjJ3eW1JMHFoVGZzWUl4dzgwYzIyOTNobWNZYkE?oc=5"
+      },
+      {
+        "text": "Closing the finance gap to include more women and young people is not charity, it’s smart business",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPa2pKU3JzYUw1dnVEbmp0SmdBTFg2Ylk2X3FNTjItRXlrSkZuTHZJWF9SUmNmSlJaTlBveTAyRVBycFdycGJPRDN0ZVNvbkViTTNrRlk5aXREc3U5UFAtSHRZVzZlZ0p6UGQyaVEwVG0tQXhuVFRYaWNQTk8xSHRvNklzbUJLTmZ1LTFuWjIteDh2bmc1VjIyN2txcUxjMW84VTJDcDd4TVZ3SEtMRUhNcjAxWkY3T2NZREV6QjFRNzNjYnBMUFJEaFVod3pkQkdIUzhna3NhdlpFUmVSNTFqeWxmUW9EaGFYZ2I1Ync3T2FMTkVFQmpKbExLWFd4QlU?oc=5"
+      }
+    ],
+    "marketGap": "No dedicated platform offers climate‑adapted, yield‑linked financing that aggregates donor funds, bank credit and mobile money to serve smallholders—especially women and youth—at affordable terms.",
+    "executionPlan": "Build a mobile MVP that lets farmers apply for short‑term loans tied to climate‑resilient inputs; integrate satellite‑derived yield forecasts for risk assessment; partner with Equity Group to fund the loans using the $200 m IFAD pool; charge a modest interest plus service fee. Launch pilot in Kenya’s Rift Valley, then scale to Uganda and Tanzania.",
+    "competitor": "Tulaa provides input financing but lacks climate‑risk‑linked repayment models; YieldLink would be the first to combine climate finance with yield‑linked digital loans.",
+    "trend": "Accelerating climate‑finance mobilization and high mobile‑money adoption are converging to make digital agri‑credit viable across Africa."
+  },
+  {
     "id": "securepay-verify",
     "title": "SecurePay Verify: AI‑powered fraud guard for mobile money & gift cards",
     "category": "Fintech & Payments",
@@ -460,31 +486,5 @@
     "executionPlan": "The MVP scope for LoanLadder would be to develop a platform that connects small businesses with lenders and provides a streamlined application process. The first build steps would involve partnering with lenders and developing a user-friendly interface. Monetization could be through commission-based lending and premium services for businesses",
     "competitor": "None exists",
     "trend": "The trend of digital lending and financial inclusion is on the rise, making it an ideal time to launch a platform like LoanLadder"
-  },
-  {
-    "id": "rent-affordability-crisis",
-    "title": "Rent Relief",
-    "category": "Housing",
-    "tagline": "Nigerians are being priced out of their homes due to unaffordable rent",
-    "dateAdded": "2026-08-05",
-    "whyNow": "The rent affordability crisis is worsening, and immediate action is needed to prevent more Nigerians from becoming homeless. The current economic situation has made it even more challenging for people to pay their rent, making this issue urgent and timely.",
-    "proof": [
-      {
-        "text": "landlords’ economy is pricing Nigerians out of homes",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclJ2VlNxZnZ1Tk5lbl8zeWxaNnZBZ3g2Zi1UUTNhdWxoYnJYV2xrRndFcHlScnFCS1VOdXRQcHMwTTRoZGhJMXM0T2ttd2llc1Y3d1diLUtVbGtjQXYxanBsMnNrcDRLU0x5ZHBjenVfWTAza3plbzBtRFJmczFKdEp3NF94M1F0QkI1Uk5yONIBlAFBVV95cUxPY0EyMFNZcUhCX29TbU9TcG84alN2T2hQQWJFeFFIWDFjb1piTjlQN2JUWGtGRXZVU2VsOHZPeHV1YkhOek5vdkJ5SXRQUGJvdGFyT0ZtMUFTM09vaURmMXRLM3JfcDQ2ZHZHNGcxZ1Q4YnB6aUt6MW5PdEhaNEtvdElnMlF5cjMxend3UlFzdEJXTldY?oc=5"
-      },
-      {
-        "text": "Declare emergency on building costs, not rent",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHlpZTJOd0NJa3Q0R3hmWjR3dmVSa2tkbTkzNU0zTDlGMEFBcElhdXEwY1BnckVkQ2MwY1Z1bzVrWG82a0pFZ1VvalgwX0pTNDU3Y0oxRlRFR1ZIdHhNcHp0Z2RfSGRldDZiajRFQ2c4Yk1zdmttS0E4T0lNN0NIVWJXQXoyZkZoSEt1UVVOMVlpTjFRRGhGRjdkcWM4T000TGNyaWk2MNIBrAFBVV95cUxQNDFkQVJOeVQ2UUd4bk1rUWhRVkRKODJPXzhCREFTYjhRNlpjRlhwU2ZWOGxGNTFTQ3hGZm9pSUxaejFkeGJScmtVMUh0dXRlMUEtVWhwTzFieDZBbTVNX3AzRHNnQjRaeWQwMlVSeHE4UGFiaFZvWGlKRTBOUmt6ZWs1V3EteXN0MkthS2tjMVl6V3RvSGk0ckNPUWdYTkhnTjlJUTZiU0pMWVpP?oc=5"
-      },
-      {
-        "text": "The housing crisis you’re not hearing about",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVWF5WVN1aTBpdWhsdnlGVHFqY3N0a3g0ZGV1SDhMREtaLW5VTnF4cG11UEJXT0RVWTBCZ0NMb2hDNEtTVWhGemtqSEhCQTlBWlUwcjBIQ29QQ1VYT3ZUQjBCd3QxUE5BMUNxb2dfRzNRaXNfMGVaMFlmM01JX2c5cw?oc=5"
-      }
-    ],
-    "marketGap": "There is a lack of affordable housing options in Nigeria, and current solutions are not addressing the root cause of the problem. Rent Relief could fill this gap by providing a platform that connects tenants with affordable housing options and offers financial assistance to those in need.",
-    "executionPlan": "The MVP of Rent Relief would involve creating a user-friendly platform that allows tenants to search for affordable housing options and apply for financial assistance. The first build steps would include partnering with local landlords and property managers to list affordable housing options on the platform, and developing a robust application and review process for financial assistance. Rent Relief could generate revenue through a subscription-based model for landlords and property managers, as well as through partnerships with financial institutions to offer affordable financing options to tenants.",
-    "competitor": "None exists",
-    "trend": "The trend of increasing housing costs and decreasing affordability is making it timely for a solution like Rent Relief to emerge and address the needs of tenants and landlords alike."
   }
 ]
