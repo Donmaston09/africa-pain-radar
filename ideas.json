@@ -1,5 +1,23 @@
 [
   {
+    "id": "coldchain-fuel-pooling",
+    "title": "ColdChain Fuel Pool",
+    "category": "Logistics & Transport",
+    "tagline": "Transporters lose revenue as fuel scarcity forces freezers to shut down and perishables spoil",
+    "dateAdded": "2026-09-21",
+    "whyNow": "Nigeria’s chronic fuel shortages are worsening after recent refinery outages, inflating transport costs and threatening food security, making an immediate solution critical",
+    "proof": [
+      {
+        "text": "Let The Freezers Freeze, Not Nigerians",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKTEZlVEU0TTZYNGt3aWZHWm85VmxGZWVSdlMyUHYtVEZramtnamI1X0s4MjJDdURLVEhLVm8zWWg3SGJsQWw4a0pONEJnUUJTMlFRY3JYQXFJRjNlcVNEbGZfVHJoRk5ra3ZVNHBMb1A?oc=5"
+      }
+    ],
+    "marketGap": "No service currently aggregates transporters to collectively purchase fuel and share backup power, leaving each operator vulnerable to supply gaps",
+    "executionPlan": "Build a mobile app that lets refrigerated truck owners join a fuel pool, prepay for bulk diesel deliveries and access shared portable generators. Launch a pilot in Lagos with 20 operators, charging a small subscription fee plus a transaction margin",
+    "competitor": "None directly; closest is generic fuel delivery services like Oando’s fleet fuel, but they don’t offer pooled buying or backup power",
+    "trend": "Rising fuel scarcity and the growth of e‑commerce cold‑chain logistics are driving demand for resilient transport solutions"
+  },
+  {
     "id": "climate-finance-for-smallholders",
     "title": "YieldLink: Climate‑Adapted Credit for Smallholder Farmers",
     "category": "Agri-fintech",
@@ -468,23 +486,5 @@
     "executionPlan": "H2OShield would start by conducting thorough research on the water-for-sex trade issue, identifying key stakeholders and potential partners, and developing a minimum viable product (MVP) that provides affordable and safe water access to women in poverty, potentially through a pay-as-you-go model or community-based water management system, with a monetization angle focused on subscription fees and partnerships with NGOs and government agencies",
     "competitor": "None exists, as current solutions do not specifically address the water-for-sex trade issue",
     "trend": "The growing recognition of the intersectionality of climate change, poverty, and gender inequality is creating a trend towards more nuanced and inclusive solutions that address the specific needs of vulnerable populations"
-  },
-  {
-    "id": "small-business-loan-access-complaint",
-    "title": "LoanLadder",
-    "category": "SME Finance",
-    "tagline": "Small businesses in Ghana and South Africa struggle to access loans, hindering their growth and survival",
-    "dateAdded": "2026-08-06",
-    "whyNow": "The current economic climate has increased the need for small businesses to access loans, and the lack of access to financing is a major pain point for these businesses. With the growing number of small businesses in Ghana and South Africa, it's essential to address this issue now",
-    "proof": [
-      {
-        "text": "Accra's Small Businesses Survive and Thrive",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYnh6aUxxTVpQSWZkMHo5WWNaZGQ4RzNhZks2U3NUa3dwbzVxeUd5clpieFR4NW1XWmItem9Td3VBZmpYXzJmTk8waXVDSmQ0bTVfaVB6TjRMXzdIOEcwM1l0b3VyTTJ3aW5uM25hM3h4WmZ1NENwLU02ZmNqanNIWmhURUxweEdBMHpJWUFSSk9nWWw4REFlYQ?oc=5"
-      }
-    ],
-    "marketGap": "The market lacks a platform that provides easy access to loans for small businesses in Ghana and South Africa, and existing solutions often have stringent requirements and high interest rates. A platform that addresses these issues could fill the gap and provide a valuable service to small businesses",
-    "executionPlan": "The MVP scope for LoanLadder would be to develop a platform that connects small businesses with lenders and provides a streamlined application process. The first build steps would involve partnering with lenders and developing a user-friendly interface. Monetization could be through commission-based lending and premium services for businesses",
-    "competitor": "None exists",
-    "trend": "The trend of digital lending and financial inclusion is on the rise, making it an ideal time to launch a platform like LoanLadder"
   }
 ]
