@@ -1,5 +1,27 @@
 [
   {
+    "id": "rural-lung-diagnostics-ng",
+    "title": "Rural Lung Diagnostics Hub",
+    "category": "Health-tech",
+    "tagline": "Patients in remote Kenyan villages travel hundreds of kilometers for basic lung tests",
+    "dateAdded": "2026-09-22",
+    "whyNow": "Rising respiratory disease rates and limited clinic capacity make immediate action critical, especially as telehealth uptake accelerates across Africa",
+    "proof": [
+      {
+        "text": "Kenya’s Lung Health Services Face Major Gaps Beyond Tuberculosis",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0w4SXlodHRJSW5yT0YzaVFWSkh3Q0FPYjRaNUJzVExULTlITG9vc25neng1UDk2R3VzWk5FMWRNbGthUkxiVzZNVWFNaGlUa0gtOU80a2pNMFRBSWxoVmExSndRYnVqd3dWRXg4bV9FS04zTjRLakk3SmF5dXZIUVdkUWFvX1JUYjJ2aFpuRDNVby13RjBRdA?oc=5"
+      },
+      {
+        "text": "Telehealth Market Size, Share & Growth Report | MRFR - Market Research Future",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LNGktRThrNE1tNjlpYXhpMVVpZ0pPeG5LdnZxWGpYM3N5YllkTXhpSDVDZFE2ZUt3d3ExbjJlalJMVVBxU2lsdWZUZTZ2Z0NJaWtJcG10N1RMVlh4NzRJQTRrQTk4eXhYMHJGSGVPVENMXzgz?oc=5"
+      }
+    ],
+    "marketGap": "No affordable, portable diagnostic service currently brings spirometry and basic lung testing to rural health centers, forcing patients to travel long distances for care",
+    "executionPlan": "Build a mobile diagnostic unit equipped with portable spirometers and AI‑driven interpretation, schedule weekly visits to partner clinics, charge a per‑test fee and offer subscription packages to clinics for unlimited access",
+    "competitor": "None directly; closest alternatives are generic telehealth platforms such as Babylon Health Africa",
+    "trend": "Rapid growth of telehealth and mobile health devices across Africa is lowering barriers to remote diagnostics"
+  },
+  {
     "id": "coldchain-fuel-pooling",
     "title": "ColdChain Fuel Pool",
     "category": "Logistics & Transport",
@@ -460,31 +482,5 @@
     "executionPlan": "FinVerd will start by developing a digital platform that connects smallholder farmers with financial institutions and investors, providing access to financing, insurance, and other financial services, the initial MVP will focus on a specific crop or region, and the platform will generate revenue through transaction fees and premium services for farmers and financial institutions",
     "competitor": "None exists that specifically targets the smallholder farmer financing gap in Kenya",
     "trend": "The rise of digital financial services and AI-powered agriculture in Africa is creating new opportunities for innovative financial solutions to support smallholder farmers and improve their livelihoods"
-  },
-  {
-    "id": "water-for-sex-trade",
-    "title": "H2OShield",
-    "category": "Climate & Water",
-    "tagline": "Some women are forced to trade sex for water due to scarcity and unaffordability",
-    "dateAdded": "2026-08-07",
-    "whyNow": "The climate crisis is exacerbating water scarcity, and the issue is particularly urgent for vulnerable populations like women in poverty, as highlighted by recent reports of women being pressured into providing sex for water",
-    "proof": [
-      {
-        "text": "Some women who can't afford water are often pressured to provide sex for it",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2J3QzM0bnRlWElSX200VTU5N2FUYmtxVnVVNHpIOVdOUzN3eUQ1RW5DQmJsOC1pczFGZWhEdzBRaFJxeXh0Rmp3SUNjdkVfTnVoTW5TTTFPTmJzS2duRlZDRTZVenBaRXZOTWlEUzVmUDFiNmtRcEhVbEtLRmNhaHBrMGFJNXpTOERpUTRtQnVrSmxV"
-      },
-      {
-        "text": "The true cost of finance for water infrastructure is a significant burden",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWMzQk4zMTE4ZElFXzlYVVFZekd5cjktV3Fxeng4Y29SUmkxZy1ncHd5Q2hhNWN3aUZWa1J2X1k0RUVJbXJBSng2ZEZuNEYxcW9acFhmVFd4OUZZUkhmaWZsTEgtM1FoRVJjZUNtaG1fY201c3NCdGg2b3JsN3M2UkpDVldKdlA0ZzNBZlNzcXB1clNkNWotNXlWbETSAaQBQVVfeXFMTkd4N21iQmNrYW8zMEZYZVhhUWZiNXRaWXRnWHZxaEJELVE3SnAwd1dIcDRFb3Jnb20ybTFjRjZKV3hOWWNNaFFKRU5GclNRWW9IYmtncHNyZ3dXdkIyeWNscENraWFDSzM5bzNaMEdUZ05SbEtDQ1hXVXFVNXZNOHlMZFVsYzVSUWVPWHowandTcXBjR1pHYnlrMHY1Z2F5WkZzZWE"
-      },
-      {
-        "text": "Smarter water technologies hold the key to ending the continent's hunger crisis",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUWsxS19DM28wZlJ2VGI2ZWtGcS1NZFRVdmdEVnl3RmxSUWtkU0FNZUlBOVZ0aXMza0pRVWVGTWZEaVBFb2VMcklydGdPSC1rZUlFQTdpQ3RDWGxrbW4yUVdpWXpoQ2hMOVl2RU11ZkFBUlNsZmNOVTYtY2VKTEpWdFFCNlAtR1NqeEVrd3pVYmxxVjFTNHB1YkREMm1LdHBDUUx2Y2liUHJjZUVVNlZENGY1ZzJXcndvcFhXTFNpcTlhYy1saUlZcEIwX1hyUnIxVXltRw"
-      }
-    ],
-    "marketGap": "Existing solutions often focus on large-scale infrastructure or technological fixes, neglecting the immediate needs of vulnerable populations like women in poverty, who require affordable and safe access to water",
-    "executionPlan": "H2OShield would start by conducting thorough research on the water-for-sex trade issue, identifying key stakeholders and potential partners, and developing a minimum viable product (MVP) that provides affordable and safe water access to women in poverty, potentially through a pay-as-you-go model or community-based water management system, with a monetization angle focused on subscription fees and partnerships with NGOs and government agencies",
-    "competitor": "None exists, as current solutions do not specifically address the water-for-sex trade issue",
-    "trend": "The growing recognition of the intersectionality of climate change, poverty, and gender inequality is creating a trend towards more nuanced and inclusive solutions that address the specific needs of vulnerable populations"
   }
 ]
