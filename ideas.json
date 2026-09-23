@@ -1,5 +1,31 @@
 [
   {
+    "id": "solar-backup-sme",
+    "title": "Solar Backup & Cold Chain for Nigerian SMEs",
+    "category": "Energy",
+    "tagline": "Frequent blackouts are forcing small businesses to waste money and spoil inventory",
+    "dateAdded": "2026-09-23",
+    "whyNow": "Nigeria’s grid failures are worsening, and recent reports show off‑grid solar can cut costs while new solar‑powered freezers are hitting the market, creating immediate demand.",
+    "proof": [
+      {
+        "text": "The Businessfront article notes that off‑grid solar can help solve Nigeria’s electricity crisis for small businesses.",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONGxSQVBQUE9tZ3EtcXNIb090XzVWTVpqS0laaFltemcyUl9RcGZlcHZiSlRpN20tV1RPemgyWXc4UHV0MHR0d2VhRDJKeVY0a2pZSGJyenBJUDc0SC1QQ2VySEVMYUZlamxKdjBUYkw5eUVTRlJfLUp6TlVnWkVCVk9hbHQxYk1lQXlUenJ0NUYyN0dhWTdPcy1PX1c?oc=5"
+      },
+      {
+        "text": "Sun King launched a solar‑powered freezer to keep perishable goods cold for businesses.",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzFwUEVUTnJlZU5BQW81c2ZoVnM4OTBmSXR5U042YzlIV3FOLVBYSU03clBlN2x3WUlyaDR1RmxDdW52c0ZvUWM4NjhNcENkX2trbjAzX3VrZEF0VmVHNE1wUWZ2UERvYS1nWmVIWmxPUkxINHNDbThLSGFnM0hXMWU2MW8taVpkaXpDdGF5aFVhWFNfdVdsa1hkcElZMGxReHdnX2JZSFl0a0FF?oc=5"
+      },
+      {
+        "text": "Elektron claims embedded power can cut corporate capital costs by 40% in Nigeria.",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUjJJUHBVR3lTVUNadF9hYzVPdGtBanJEV2J0LVVabzFrNE9MR3dHelQ0bURWeHZjY1FSMDBPZV9NbGVwQXBkZGxjZUk2LWJnaWJYNDVzRDhkOHRNUGlhYnJrMmVQVWZEdEZkMG13dFp6SjhTa09LbDdBcE1sOTlRMlFOcWlSVFo0SkUxaHpnSkhhMm02VUpCSHhWNDJfLVhYb3ZHN0pUZUE3WFdLVEUtbnRzYXM?oc=5"
+      }
+    ],
+    "marketGap": "There is no affordable, plug‑and‑play solar backup system that also provides cold‑chain capability specifically designed for small retailers and food vendors.",
+    "executionPlan": "Develop a modular kit with a 5kW solar panel, battery storage, inverter and an attachable solar freezer. Launch a pilot with 20 SMEs in Lagos on a subscription model, charging a monthly fee for power and refrigeration. Revenue comes from hardware lease and service fees.",
+    "competitor": "Sun King",
+    "trend": "Off‑grid solar adoption is accelerating across Africa as component costs fall and governments push for energy diversification."
+  },
+  {
     "id": "rural-lung-diagnostics-ng",
     "title": "Rural Lung Diagnostics Hub",
     "category": "Health-tech",
@@ -456,31 +482,5 @@
     "executionPlan": "The School Fee Manager will start by developing a minimal viable product (MVP) that allows users to track and manage school fees, with features such as automated payment reminders and expense tracking, and will monetize through a freemium model with premium features for paid subscribers, and partnerships with schools and financial institutions to offer exclusive discounts and services",
     "competitor": "None exists in the Nigerian market, but international competitors such as SchoolMint and FeePay provide similar services",
     "trend": "The growing demand for digital financial management tools and the increasing awareness of the importance of education in Nigeria's economic development make this a timely opportunity for a school fee management platform"
-  },
-  {
-    "id": "kenya-smallholder-farmer-financing-gap",
-    "title": "FinVerd",
-    "category": "Agri-fintech",
-    "tagline": "Kenyan smallholder farmers lack access to financing, hindering their ability to scale and improve their livelihoods",
-    "dateAdded": "2026-08-08",
-    "whyNow": "The current trade finance crisis in Kenya is threatening the livelihoods of smallholder farmers, making it urgent to address the financing gap, and with the rise of AI-powered agriculture, there is a growing need for innovative financial solutions to support these farmers",
-    "proof": [
-      {
-        "text": "Scaling digital financial services for smallholder farmers in Kenya is a key challenge",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rVlo3T3RMdjRqQkZqc3VpYUFLb1g5TGtoVFdjQ25BbTB4a1g3M2dTa2N4NkVzMEhCcENNbWRXc3k3dDhSenNteFdEbTVhMmg5X1o5RmF4RQ?oc=5"
-      },
-      {
-        "text": "Africa's farmers are not unbankable, but they face significant challenges in accessing financial services",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zdDlEQWlMTzlFT2NfdlBYU0pPZ0l5MWhxTi1wbGtRWjl3ZDVUUFNWdFlldWJkdWhxVG1Tem4wVlNOalhLLVIzRjZUeTAxM2pHb1JJSmIxN3FZUVYtN0xSUWpjRXJwMGk5ZzQ4aA?oc=5"
-      },
-      {
-        "text": "Trade finance crisis is threatening Kenya’s farmers, co-operatives",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbzdBNDluQ3ZaXzBFdld2bmhLZ0N2NVgtdnN2R1I5SVBrS1B1ck11QWxGcGFVZ05NVF80azl2dEdlMGxIRFNTRWI2Y2pGWFBqZktuel9ZdjRGQm1YNTlqUEhMMXg4V25DSjkzYzA0aElEb3ZCZjExOFRXbUNYRTROZDBKUDNpeU5nWV85eEx2dzlMdw?oc=5"
-      }
-    ],
-    "marketGap": "Current financial services often fail to meet the unique needs of smallholder farmers in Kenya, leaving a significant gap in the market for innovative, farmer-centric financial solutions, and existing trade finance solutions are not adequately addressing the current crisis",
-    "executionPlan": "FinVerd will start by developing a digital platform that connects smallholder farmers with financial institutions and investors, providing access to financing, insurance, and other financial services, the initial MVP will focus on a specific crop or region, and the platform will generate revenue through transaction fees and premium services for farmers and financial institutions",
-    "competitor": "None exists that specifically targets the smallholder farmer financing gap in Kenya",
-    "trend": "The rise of digital financial services and AI-powered agriculture in Africa is creating new opportunities for innovative financial solutions to support smallholder farmers and improve their livelihoods"
   }
 ]
