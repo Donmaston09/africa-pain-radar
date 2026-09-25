@@ -1,5 +1,31 @@
 [
   {
+    "id": "employer-assisted-affordable-rent-platform",
+    "title": "Employer-Assisted Affordable Rental Platform",
+    "category": "Housing",
+    "tagline": "Employees can’t afford soaring rents, causing financial strain and turnover risk",
+    "dateAdded": "2026-09-25",
+    "whyNow": "Rent prices in Nigeria have surged, pushing millions out of affordable housing just as companies compete for talent and need to improve employee retention.",
+    "proof": [
+      {
+        "text": "Soaring Property Prices Shut Millions Out of Homeownership",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1ZBZU16eWtuR3NSdzNGdERuUTdGU3RVb1NrcW5xUGowMVVJSV92dVIxS0NDYzYwNXVxRTRGMnlrZXJTdmJnenVnRzU3OW1jMGhPRjhIWkFGTkZ2ZHU2UmpZY29vM1Z2cUN4NzZpMW5VWWFfa1lMeDVsWFJPTVBibGhLS0dpQWR3T0Nsek5kaGNlS3k1bVR2dkY4ZTd1dWc?oc=5"
+      },
+      {
+        "text": "Nigeria’s Housing Crisis Needs More Than Housing Projects, Expert Says",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3I5RWNid29LLXRKcGx4ZGQ5UkNsUGE5THNLSEc3bUFiOXI5R2hJWldMUXVBMS15WkNuY1NEbVNiMEJQRDVEcFpZOXl0aWVFU09za3A0NGh3bWk1WDFvX0o4a0ZTNDg0VnBySlVMOUp5MEF6bVdvcmVJRU5hNVkxcmhTTHQyV1hfOTJUN3FlV0E?oc=5"
+      },
+      {
+        "text": "Experts seek conversion of abandoned public buildings to affordable homes",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWpRZ1hRbUZldGJ6QmpUNFdFTndnWWxHNmM0TVdjWE81NmMtZklfS3RkNTNrRmg1VmJWWGMzZVFtR0NVUjk1WExieW5PQWhGUFRzbWxYN0VxUTFjamRUc3Y4MjVSX1o0VW1BTzhVUVVzSUhpbGpxcldLNlBVbjljejlVR0RlRVFQc1N0eUIzUURYRFAyT3Q2b2VwV3BFUUFwUFZQZlBR?oc=5"
+      }
+    ],
+    "marketGap": "There is no dedicated platform that links employers with affordable rental units or mobilises underused public buildings into low‑cost housing for workers.",
+    "executionPlan": "Launch an MVP in Lagos that partners with 3 large employers to subsidise a curated pool of 100 vetted rental units, offering a simple booking and payroll‑deduction payment flow; charge employers a monthly subscription for access and a small service fee on each rent payment; after validating demand, scale to other cities and expand the inventory by converting abandoned public properties.",
+    "competitor": "None directly; closest alternative is PropertyPro, a general property‑listing marketplace",
+    "trend": "Rapid urbanisation and rising rents in Nigeria combined with growing employer focus on employee welfare are driving demand for innovative, employer‑backed housing solutions"
+  },
+  {
     "id": "transparent-data-marketplace",
     "title": "Transparent Data Marketplace",
     "category": "Connectivity",
@@ -456,31 +482,5 @@
     "executionPlan": "The initial MVP scope would involve developing a smart energy management system that can detect impending blackouts and automatically switch to a backup power source, such as solar or batteries. The first build steps would involve partnering with local energy providers and SMEs to test and refine the system. A potential monetization angle could be a subscription-based model, where SMEs pay a monthly fee for access to the energy management system and backup power",
     "competitor": "None exists, as current solutions are either expensive or unreliable",
     "trend": "The growing trend of renewable energy and smart grid technologies is making it more feasible to develop innovative solutions to address energy poverty and reliability issues in Nigeria"
-  },
-  {
-    "id": "rural-diagnostics-access",
-    "title": "Rural Diagnostics Bridge",
-    "category": "Health-tech",
-    "tagline": "Millions of rural Africans lack access to basic healthcare diagnostics, leading to delayed treatment and poor health outcomes",
-    "dateAdded": "2026-08-10",
-    "whyNow": "The COVID-19 pandemic has highlighted the need for accessible healthcare services, and with the growing adoption of telehealth and mobile clinics, now is the time to bridge the diagnostics gap in rural Africa. As the continent's population continues to grow, the demand for healthcare services will only increase",
-    "proof": [
-      {
-        "text": "Expert urges integration of mobile clinics into healthcare system",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmlfclVSNlFKSU94V1gyUUt0bDY5MnNCUTlITFhfWXEybTNNUEtZQTN6cGNtRlBXRC1pVFpCV2NabzRvQS03b0twZTRhZlZhLWd2Q1U5aUp1NS1MYnI4R1dKZUh4aW9LdndTejk3QXY2Wno3dm5xS0pGMnZwS0VNX3ZaZ1JjTG5QajZRd1poUXFYR2d1eEtmc0tQTW9GR2ZVWVBHcg?oc=5"
-      },
-      {
-        "text": "How telehealth is helping close the healthcare gap in rural Zimbabwe",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaDlHaV9MUGJ1VHViWnNZNzl4OFRqLWNmUWI3MFBtM3FMR1Y4b1V2SFFhX3M1dkJLdlJMc1FfZkdLbUNUeDdjd19fYnJuUUVZaXh1dF9SZFlYZ211eURBZDFweGZDOVQtWndMd2tDZkVBLTNZMDJRX0dzak0wMXV5b2pLV0kyMEpBVlZUNndocTU2bERkblB4ZXZoNG1qYnhwdmVLa0cxQTlZNVlOZVHSAbMBQVVfeXFMTXh0VE01THpsRHo1YTdGUDBqWHhobEdBX0RXRUhMcEZqUm5FX0RMOElNTDhpekFBbFZWbVZiaXc0Ti1SV1JOYXJyLVhrVUJpTXhIZkF6T3oybTJycVJjdXlDRmdJeDFuXzFsdC1XaUVaWlFZU0Z3SVFPUWJ5Y285NGZxbnNuY01uSVJmR1RVVUpKWkh5V050VFFjWTZzdDlSRjBCOVRmdXBCSEVmdG1OU0k1SVk?oc=5"
-      },
-      {
-        "text": "Rural Health Hub Revolutionizes Care for Britain's Most Isolated Farmers",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGFRSHhBTUpWVG9JU0V6VmtaeGZTUk01b2pVaUlhbEdHRTRKajNWM1VacWxGWjN3ejNUVi13YkhtenFKdEJyc2ZRVU80Q0RiWWVvWnZBVXlFT29ibkdfY29wNGVISms4R0stR2duSmNKcG9HTmNZSTVkb3JDcFJySUZVazV6SThsN2ZtRjUxT05ZRzIxc3YwVktlN2tUTjZwWXJ4T3F0R2U?oc=5"
-      }
-    ],
-    "marketGap": "While there are existing telehealth and mobile clinic solutions, they often lack the diagnostic capabilities to provide comprehensive care, leaving a significant gap in the market for a solution that can provide accessible and accurate diagnostics to rural communities. Current solutions also tend to focus on urban areas, neglecting the unique needs of rural populations",
-    "executionPlan": "The Rural Diagnostics Bridge will start by developing a mobile diagnostics unit that can be easily transported to rural areas, equipped with basic diagnostic tools such as blood tests and imaging equipment. The unit will be staffed by trained healthcare professionals who can conduct tests and provide preliminary diagnoses. The platform will also integrate with existing telehealth solutions to provide remote consultations and follow-up care. Revenue will be generated through a combination of government partnerships, private insurance reimbursements, and out-of-pocket payments from patients",
-    "competitor": "None exists, but similar solutions such as Medecins Sans Frontieres' mobile clinics provide some diagnostic services, although they are often limited in scope and accessibility",
-    "trend": "The growing adoption of telehealth and mobile health technologies, coupled with the increasing recognition of the need for accessible healthcare services in rural areas, makes this a timely and urgent problem to solve"
   }
 ]
