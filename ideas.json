@@ -1,5 +1,31 @@
 [
   {
+    "id": "water-kiosk-for-pastoralists",
+    "title": "Solar-Powered Water Kiosk Network",
+    "category": "Climate & Water",
+    "tagline": "Pastoralists and small farmers lack affordable, reliable water sources during droughts",
+    "dateAdded": "2026-09-26",
+    "whyNow": "Climate‑driven droughts are intensifying across the Sahel, threatening livestock and crops; immediate access to water can prevent loss of livelihoods and boost food security",
+    "proof": [
+      {
+        "text": "Building resilient futures for pastoral communities",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWJhaGhqRGFkTTJadmtnYmlHbUJyeUpSeG1reHhPQXQtcHlidGUwTzZuS0M4cmRnMWt3SE81SFh3TVBWVFI2Qmsteld4MFNHMngxeVg1aDhic3h4OWlqNzA0c19xdEpGNFIweE12Wk9QQXQxS3E1N0dxaGQyOFB3ag?oc=5"
+      },
+      {
+        "text": "Green Entrepreneurship: Ghana’s Opportunity To Fight Climate Change, Create Jobs And Reduce Poverty",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNVp0dWJPZzUzUUljSFhjSXVnd2lYN1d2X0JFbm14ZHltNkpEMHhWTXBfdktuazNrLTY5ZjFCSWlZV1A1WjVpd3NpQkFEb2dLWEtLbXpoZnE2cE5BSzUxTkkxdkpQLTFYU19YeXVxWjRuNWF2Y253ZjZoZlBnTnhpWHdmcEtRb3huUHVHUldHNUF3MG1J0gGTAUFVX3lxTFBvdHpPYnZRSktZeGE3SzFuV3JYbDd2bWUtTzd2aVhEYkRwVHZqQThHd3VTVktZOWFuTFVKSWFFZzhscF96OThTcWpwN0xGa21aM2V2dk9jWXJHTS1nS0s5UFZQT0tGVlRMbUNFMEh3bVdxdjdQRi1LSjV4MW9SRGJ0d2draDVYQzdwRlRRMmx5cWRJWQ?oc=5"
+      },
+      {
+        "text": "Middle East & Africa Vertical Farming Market Report, 2034 – Market Data Forecast",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQVhhYmJjV1dxU3dXVG1JNjFpb3Vnd3V5WTh3ZzVHSm5yT1BJXzNrWEIxbzBSb1h3UU5ObUlJcE1fTTBOXzlfc3hSZVZKNXRwVm16djNyZTdTVzNVNzd1R1hhX0RUa2M4LWttSU9qaHhYWUdHbnZMT0JicVRMLVhwTTdtTQ?oc=5"
+      }
+    ],
+    "marketGap": "There is no affordable, decentralized water‑as‑a‑service model tailored to mobile pastoralists and smallholder farms; existing solutions rely on costly trucking or distant boreholes",
+    "executionPlan": "Develop a solar‑powered water kiosk equipped with a 5,000‑litre storage tank and IoT‑enabled usage monitoring. Launch a pilot in northern Tanzania, offering a subscription for daily water allotments to livestock owners. Monetize through tiered subscription fees and sell excess water credits to nearby agribusinesses. Iterate based on usage data before scaling to other Sahel regions",
+    "competitor": "None at scale – closest alternatives are static community boreholes and NGO‑run water points, which do not serve mobile pastoralists",
+    "trend": "Rising climate‑induced droughts and growing green‑entrepreneurship incentives are driving demand for resilient, off‑grid water solutions"
+  },
+  {
     "id": "employer-assisted-affordable-rent-platform",
     "title": "Employer-Assisted Affordable Rental Platform",
     "category": "Housing",
@@ -456,31 +482,5 @@
     "executionPlan": "The initial MVP of DataSaver would focus on developing a user-friendly platform that allows users to track and optimize their mobile data usage, providing personalized recommendations for affordable data plans. The first build steps would involve partnering with local mobile operators to offer exclusive discounts and promotions, and integrating AI-powered data analytics to provide users with real-time usage insights. Monetization could be achieved through affiliate partnerships with mobile operators and data plan providers, as well as offering premium features and data optimization tools for a subscription fee",
     "competitor": "None exists",
     "trend": "The increasing demand for digital connectivity and the growing concern over data affordability are driving the need for innovative solutions that address the issue of expensive mobile data, making this a timely and relevant startup idea"
-  },
-  {
-    "id": "electricity-blackout-relief-for-smes",
-    "title": "Blackout Shield",
-    "category": "Energy",
-    "tagline": "Small businesses in Nigeria are struggling to stay afloat due to prolonged electricity blackouts, incurring significant financial losses and reduced productivity",
-    "dateAdded": "2026-08-12",
-    "whyNow": "The frequent and prolonged blackouts in Nigeria are crippling small businesses, making it urgent to find a solution to mitigate these effects. The current electricity monopoly and lack of government intervention are exacerbating the issue",
-    "proof": [
-      {
-        "text": "Group Condemns Prolonged Aba Blackout, Calls For End To Electricity Monopoly, Urgent Govt Intervention",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ1QxelEyNE1KRkFoZVRJZEFUbTZaVEtrSE5Nem5DUmJSZjVCeTdGeC1uQWM4Z0lqSXpfZ2ttLTliS2V6RjBINmtFa2ZMelNqX01Wb0JUV0pmUExkdHVEUGxOWW9wa210WURjUUZuV1JxYV9Ea0lBM1R2UENlc2JYQjkybHRxOHRxSDVNYjBQUTY4dnpYLWtrckpEa1h5MXQ0Y3BaZDZHRTA3S2liZ1BqZ2YydDZJb0s3RGNR"
-      },
-      {
-        "text": "Oye warns of FX market vulnerability, high SMEs’ mortality",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanRWNE1GVjFEQkdvMlFsaEZDcTluZGJFZmNabHJLUFpDQUhyY2ZtRWRUU1VsTHhZaWZDekpnNXh2MTNSQjVORjMzWU1zdUs0dmJQRHNRRm1VSkVkdzNaM01JM0paTlBybXFKdFNGSVdBYnBUNmNNOHlyMTdKb1hxVm8xYmV6VFFhZkxWVFl2MUMtMjFNZzloNm5qWlVaN2duNUZXN0RLR3Q5MGFYZk1XeGdDSnFVMjF4bkpta3ZqSQ"
-      },
-      {
-        "text": "The reform that changed everything except electricity",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGFyUE5IRHZ3LWY1UEtMRXRHRVcwWl9hYUJaUFdLWEloQXdHNDByY1NUdVZHdG5DbUw2M3ZIcTEzNC1kV0dWWjJTRHpCM0lqekZ0SFJZTzNsY3QyclBENDVBcjFzN2lNQjZwOEVJTWszMGhKM3htR0pPZmVuZ3luVm5VdGtBcHg1U0FmMDZDMWJTY0Z0ejlTVGxncw"
-      }
-    ],
-    "marketGap": "There is a lack of innovative solutions to address the issue of electricity blackouts for small businesses in Nigeria, with existing alternatives being expensive or unreliable. A cost-effective and efficient solution is needed to mitigate the effects of blackouts on SMEs",
-    "executionPlan": "The initial MVP scope would involve developing a smart energy management system that can detect impending blackouts and automatically switch to a backup power source, such as solar or batteries. The first build steps would involve partnering with local energy providers and SMEs to test and refine the system. A potential monetization angle could be a subscription-based model, where SMEs pay a monthly fee for access to the energy management system and backup power",
-    "competitor": "None exists, as current solutions are either expensive or unreliable",
-    "trend": "The growing trend of renewable energy and smart grid technologies is making it more feasible to develop innovative solutions to address energy poverty and reliability issues in Nigeria"
   }
 ]
