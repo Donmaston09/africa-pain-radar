@@ -1,5 +1,23 @@
 [
   {
+    "id": "sme-loan-access-gap-ghana",
+    "title": "SME Loan Access Platform",
+    "category": "SME Finance",
+    "tagline": "SMEs struggle to get affordable, timely loans despite high demand",
+    "dateAdded": "2026-09-27",
+    "whyNow": "Post‑COVID recovery and rapid fintech adoption have digitised payments, yet many Ghanaian SMEs still cannot secure working‑capital loans, creating an urgent financing gap.",
+    "proof": [
+      {
+        "text": "Capital is not reaching productive businesses",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcWJKLTNuaVd2TTVkb2xoc0luOHZpZ0g5dlJtSEJYVjFKeEQ4SmtGcU9mbkcwMkp4VnZFaDRwU1JxaFdFbkFlTUVoWkNHZEdxVzRIUkxvNExEWUZXSFBuR1EtS3E3cTEzenlpTGtzazhUcWJjY3VJZVpDbUxpeDFnNzVibVphZ0t5NUNoWk1EQ3p2alIwWEo0ZzJXMTk5ckh5NTJ3WjNR?oc=5"
+      }
+    ],
+    "marketGap": "There is no dedicated marketplace that aggregates alternative lenders and uses real‑time cash‑flow data to assess creditworthiness of Ghanaian SMEs, leaving them dependent on opaque banks or informal lenders.",
+    "executionPlan": "Launch an MVP that integrates with popular accounting SaaS to pull cash‑flow metrics, partner with at least two micro‑finance institutions to list loan products, and provide a simple loan‑matching UI; monetize via a success‑fee commission on funded loans and premium data analytics for lenders.",
+    "competitor": "Branch",
+    "trend": "African fintechs are rapidly expanding digital credit products, making data‑driven SME lending increasingly viable."
+  },
+  {
     "id": "water-kiosk-for-pastoralists",
     "title": "Solar-Powered Water Kiosk Network",
     "category": "Climate & Water",
@@ -460,27 +478,5 @@
     "executionPlan": "RentSaver will start by developing a user-friendly platform that aggregates affordable rental listings from various sources. The MVP will include features such as rent price tracking, neighborhood guides, and tenant reviews. The platform will generate revenue through subscription-based services for landlords and property managers, as well as partnerships with financial institutions to offer affordable housing finance options",
     "competitor": "None exists, but closest alternatives include general property listing platforms like Property24 or OLX",
     "trend": "The trend towards affordable housing is driven by the growing demand for housing and increasing awareness of the need for inclusive and equitable housing solutions"
-  },
-  {
-    "id": "affordable-mobile-data-msr7z15f",
-    "title": "DataSaver",
-    "category": "Connectivity",
-    "tagline": "Parts of major African cities still struggle to access affordable and reliable mobile internet, hindering economic and social development",
-    "dateAdded": "2026-08-13",
-    "whyNow": "The urgent need for affordable mobile data is heightened by the increasing importance of digital connectivity in daily life, and recent concerns over potential collusion among mobile giants that could further exacerbate the issue. As the African continent continues to urbanize, the demand for reliable and affordable internet access is more pressing than ever",
-    "proof": [
-      {
-        "text": "parts of Accra still struggling to get online",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmlEZnp6M3ZtZFBqZWZwcW9vRFdQLXdiTjBkNnZpTDZsc0RuaGVZblJ4Mmx3ZWktYkhBMGxGVHE3X2E5SWEzeWNjRlpFN1JRZ0VZNXNlZDQ5SS11Q0tzOXlDU1N2RWJzeVlpOV9LZjh3VHhEMy1ZNEtxQnpMZk9UVl9zaGw0dGYtZktrZjFlQk1ZM2tvcXl0WW1uRnVqLWpDYnVRLQ?oc=5"
-      },
-      {
-        "text": "Icasa raises fears of collusion among mobile giants",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSlFoejFMUXRBanFDM1ppZS1jdHpucV9oMzJSVXcxYkhKZHBqVVJyUzhRZTJhZ2x6dUMxUEFSLVZkdTRKUUZoaVBzbmhqZHpvZS1hMmZTU1JhZ3NJaXBDX25xcjZLVUIwWDJmeTVhZVZEZzA1Y0JSRmJUS2J0MXgzT25tMHBYWVlJc1dUYU5xZ2lUbnAzSTFCZURRWUU0d2JQeVJUT3BzYlQycEljc01DZ0xTSQ?oc=5"
-      }
-    ],
-    "marketGap": "The current market lacks a comprehensive platform that addresses the issue of affordable mobile data, providing users with options to optimize their data usage and access affordable plans. Existing solutions often focus on specific aspects, such as data compression or ad-blocking, but a holistic approach to affordable mobile data is missing",
-    "executionPlan": "The initial MVP of DataSaver would focus on developing a user-friendly platform that allows users to track and optimize their mobile data usage, providing personalized recommendations for affordable data plans. The first build steps would involve partnering with local mobile operators to offer exclusive discounts and promotions, and integrating AI-powered data analytics to provide users with real-time usage insights. Monetization could be achieved through affiliate partnerships with mobile operators and data plan providers, as well as offering premium features and data optimization tools for a subscription fee",
-    "competitor": "None exists",
-    "trend": "The increasing demand for digital connectivity and the growing concern over data affordability are driving the need for innovative solutions that address the issue of expensive mobile data, making this a timely and relevant startup idea"
   }
 ]
