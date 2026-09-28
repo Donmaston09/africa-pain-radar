@@ -1,5 +1,31 @@
 [
   {
+    "id": "kenya-cold-storage-finance-platform",
+    "title": "ColdChain Credit Hub",
+    "category": "Agri-fintech",
+    "tagline": "Smallholder farmers lack affordable financing to buy or lease refrigerated storage units, limiting their market access and post-harvest loss reduction.",
+    "dateAdded": "2026-09-28",
+    "whyNow": "Post‑harvest loss is rising as climate volatility intensifies, and recent UN‑backed funding announcements signal political will and capital availability to address the cold‑chain bottleneck now.",
+    "proof": [
+      {
+        "text": "Kenya’s cold storage gap is estimated at $2.1 billion, prompting Absa and UN agencies to unlock financing to close it.",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONm05UW12cE1VZUFSN1dTdnhYUXBULWdFNEZ5UVc3OGRZV0k5eDF2Vk5PNmc1YzRWQkpvbng2akJKdEJhaDJGSU1fbk5Mekw4cUZHUnpBaU9Eb1p4R0p0bi1acjdiMkcwTndzWDFnMHNQazJ1MUdTVUlfRTZydXRnc05R?oc=5"
+      },
+      {
+        "text": "UN‑backed funding aims to close Kenya’s Sh272 billion cold storage shortfall.",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmRYWl9sY2RkUUFlZk5QM0k4YnQtRFVONzlDSkVfVG9vbGpyU1djZE5FWlZfNTZOVFdtNFJBbEZ2ZEVDM0haQUJoTWpPdGlqZmRSY2kxSEE2b0U2QUt1QkNoOHdIeGVYU3dBa0FrNEVmSVdJam5rNDFnZ015WkhYYlR6OW5zUkM5dU9DajBUNmpZdnBKTXVob1Mwdm9pOGhUUTZaTEp2RUVmcEVudGdpYg?oc=5"
+      },
+      {
+        "text": "When African smallholders access finance, they can unlock significant agricultural potential.",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtbUE0SVQzOG40bHR4YTgxdUVVdjYwenpvOW10aWFpcmY1SWVhYk9qeG52aDRDYl83SUJKb19CYnRiamtQQ2xIQmpOTmk0S1B3YmlKZy1aOGhwSkpQQ2I40gFkQVVfeXFMT2lHdm1seUlTdUtyWUhRaGNDLUE3OEhheVFPSTl0TW1WRnRBOHdtdFQ1UWJHUjR4VU0yRjhXNFBFdkpuZjVidm12MUQ2RTY1ZE1fV0Q5MlFvNXItckFzS3NmY0piMQ?oc=5"
+      }
+    ],
+    "marketGap": "No dedicated financing product exists for smallholder‑owned cold‑storage units; banks view them as high‑risk, and farmers lack collateral or credit histories to secure loans.",
+    "executionPlan": "Launch a digital credit platform that aggregates data from farm management apps to generate credit scores for cold‑storage purchases. Partner with Absa, UN‑funded blended‑finance pools, and equipment providers to offer lease‑to‑own contracts. Start with a pilot in Kenya’s Rift Valley, targeting 200 farmers, and charge a modest interest margin plus a service fee on equipment leasing.",
+    "competitor": "None offers a dedicated cold‑storage financing solution for smallholders; existing agri‑loan products (e.g., M‑Shwari) do not cover this asset class.",
+    "trend": "Blended finance and climate‑resilient agriculture are gaining momentum, driving capital toward post‑harvest infrastructure across Africa."
+  },
+  {
     "id": "sme-loan-access-gap-ghana",
     "title": "SME Loan Access Platform",
     "category": "SME Finance",
@@ -452,31 +478,5 @@
     "executionPlan": "The initial MVP scope for LoanLadder will focus on developing a digital platform that connects small businesses with alternative lenders, using a credit scoring system based on non-traditional data such as social media and online sales. The first build steps will involve partnering with local lenders and gathering data on small businesses in Ghana and South Africa. LoanLadder can monetize its platform by charging a commission on successful loan applications and offering additional services such as business advisory and financial management tools.",
     "competitor": "None exists",
     "trend": "The growing demand for alternative financing solutions and the increasing use of technology to improve access to financial services makes this a timely opportunity for LoanLadder to fill the market gap."
-  },
-  {
-    "id": "affordable-rental-platform",
-    "title": "RentSaver",
-    "category": "Housing",
-    "tagline": "Millions of Africans struggle to find affordable rental housing, exacerbating the housing crisis",
-    "dateAdded": "2026-08-14",
-    "whyNow": "The housing crisis is worsening, with nearly half of humanity impacted, and Africans are particularly affected due to limited affordable housing options. The urgency to address this issue is heightened by the growing population and increasing demand for housing",
-    "proof": [
-      {
-        "text": "Affordable Housing Often Costs More To Build Than Market‑Rate Housing",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSzhvNm80NDhmbi1JOHplV1pCLXREZE9FdlNyWGtaNG0wSkdYUlp0SFVIcEkxdWtDcUY4QVpiOGZHWlp6WUN6bmNld3FOcmRvajNKRFhaNldOQmR4S3FpSE1tWXJDa3ppbTRpOEJiNWxCM01pdmxDUXliNEw3M25IV0ZPWVpaMG5BTFV6RTZITGw4VE0xNFplWQ?oc=5"
-      },
-      {
-        "text": "World’s housing crisis impacts nearly half of humanity",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3T1QtYTRZVmFYWjFLYlFsM1E2LW9DVmhmZ0VxMF8xS0ZUVGRfX1h2SVJIT2pBWDNPRWZyQVU4OG9IaTZmQy12dzVKLUpBemw4WTNxWjVGVHowenFBcW1tSndNbTBqNXpW?oc=5"
-      },
-      {
-        "text": "Tenant advocates push back on Carney’s plan for thousands of Toronto rentals",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTGFYSTZ2eS10ZlNSb2dZcFBTMU5lUURCM3RDMHVra0ltdzRGUmVVLTkyLWlsXzRlS3lRMVMyS0pRT2l4SGxWNWY0RmNpNlpoMW40V3U3aHpXRkg1eTNqRmlnOEFWUnc4VzB2cmoxYzJvU3dJVndWaUVEZDBxTll0UXd6d2xfZ0lIV0lINHNQdUZpclNUTmotY2o2cnlva2I5MVlweWp2WkFCNXhVR1l3REV4d3VPMWw1?oc=5"
-      }
-    ],
-    "marketGap": "Current housing platforms often prioritize luxury or high-end rentals, neglecting the needs of low- and middle-income individuals. There is a lack of platforms that cater specifically to affordable housing, exacerbating the housing crisis",
-    "executionPlan": "RentSaver will start by developing a user-friendly platform that aggregates affordable rental listings from various sources. The MVP will include features such as rent price tracking, neighborhood guides, and tenant reviews. The platform will generate revenue through subscription-based services for landlords and property managers, as well as partnerships with financial institutions to offer affordable housing finance options",
-    "competitor": "None exists, but closest alternatives include general property listing platforms like Property24 or OLX",
-    "trend": "The trend towards affordable housing is driven by the growing demand for housing and increasing awareness of the need for inclusive and equitable housing solutions"
   }
 ]
