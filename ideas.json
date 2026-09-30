@@ -1,5 +1,31 @@
 [
   {
+    "id": "kenya-rural-lung-diagnostics-hub",
+    "title": "Rural Lung Diagnostic Hub",
+    "category": "Health-tech",
+    "tagline": "Rural patients lack affordable lung disease testing, forcing costly travel",
+    "dateAdded": "2026-09-30",
+    "whyNow": "Non‑TB respiratory illnesses are rising and recent reports highlight major gaps in lung health services beyond tuberculosis, creating urgent need for accessible diagnostics in remote areas.",
+    "proof": [
+      {
+        "text": "Kenya’s Lung Health Services Face Major Gaps Beyond Tuberculosis",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0pwc1FGN29FeW1raXVhaFFrZXRjcXNZeHZMdUpKRktfdEZ4d0VNeDhRZGo4cHRWWHJrMlN5Zl9VaVlEWjQzblpRV0FEZmpNV2NOdl9faWVQa2dqYkcxd21qZ0ljcDhVRDNTTzVvcjVWdDd1OFFVc2tyYmpmRkpmN2JqZ0NhaXhINTJzRF8zN056c0JLTWRNYkdR?oc=5"
+      },
+      {
+        "text": "Smarter Funding and HealthTech Key to Africa’s Healthcare Future",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRndQN0tvR0NkdWMtSVhxZGNlNk0zWGZnLWx6U2VMV3dmbndEVlp0ODk2YjBQbHB5OTZrSUNiajRzamlJR0VIdWozUzI3dmV4NHZ0Y0w5ZHBLcC1sYTd3aF84LTRqY1pQVHd6OGhOXzBvNGRfUnFCRnk5X0FGbEdibDdLbVhDcHFaZnRWSA?oc=5"
+      },
+      {
+        "text": "Kenya’s TB Crisis: Tension as the country faces a Sh4.5 billion funding gap",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQei1ibG15YVRuWFM5OVpLZkk1eW04bmZDSThjTUNlQ1JQbEVWVnJkYktLZE1GQkxkV3FBZy0wblVWWG13LXFSdnlhcWJVN2RHZHYwcXNlaUlHd2Q4cndDaC0xMnM3OUJqSVFRQzhUdFFOS3dlTmdfOW5BaFU1XzZISmFVcFFzZTlNcXJCTnJ1RzN4RnRQSHh6SGZiZUFpRlEtS0YyVVNOeUFyVzF2dk80UFpPYzZsZDRBMnlQMlMxOA?oc=5"
+      }
+    ],
+    "marketGap": "There is no affordable point‑of‑care lung function testing device coupled with a tele‑consult platform for Kenya’s remote clinics, leaving patients to travel long distances for basic diagnostics.",
+    "executionPlan": "Develop an MVP that pairs a low‑cost handheld spirometer with a mobile app that securely transmits results to a network of pulmonologists for remote interpretation. Pilot the solution in 10 rural health centers, charging a modest subscription per clinic and a per‑test fee. Monetize through subscriptions, per‑test fees, and partnerships with NGOs and government health programs for scaling.",
+    "competitor": "None currently offers an integrated portable spirometry‑plus‑tele‑consult solution in Kenya; the closest alternatives are generic telemedicine platforms such as mPharma, which focus on pharmacy services rather than lung diagnostics.",
+    "trend": "Rapid mobile‑health adoption and increasing health‑tech investment across Africa make remote diagnostic hubs both feasible and timely."
+  },
+  {
     "id": "school-fee-financing-platform",
     "title": "Flexible School Fee Financing Hub",
     "category": "Education",
@@ -456,31 +482,5 @@
     "executionPlan": "The MVP scope would involve developing an AI-driven threat detection system, integrated with a user-friendly interface for individuals and businesses to report and respond to cyberattacks. First build steps would include assembling a team of cybersecurity experts and AI engineers to design and train the system. A potential monetization angle could involve offering premium services, such as personalized threat analysis and incident response, to high-risk clients.",
     "competitor": "None exists with the specific focus on AI-powered cybercrime protection for the African market",
     "trend": "The increasing use of AI in cybercrime, coupled with the growing demand for digital financial services in Africa, makes AI-powered cybercrime protection a timely and critical solution."
-  },
-  {
-    "id": "water-rationing-platform",
-    "title": "Drought Defender",
-    "category": "Climate & Water",
-    "tagline": "Helping small businesses and communities cope with water scarcity through innovative rationing and management solutions",
-    "dateAdded": "2026-08-16",
-    "whyNow": "The current drought in England and water scarcity in other parts of the world make it urgent to develop solutions that help small businesses and communities manage their water resources efficiently. With more than two-thirds of England now in drought, the need for water rationing platforms has never been more pressing.",
-    "proof": [
-      {
-        "text": "More than two-thirds of England now in drought",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Sb1llZml0blZHczAwT0dvNUxCT3NCVmhSTXdTV3NNVVpRcS1sVXIxSXloUG8tTEpJSDZEZFRxU1dTRkZyaE56MHRmMERmVmw4Q2Nlako4QmZPQQ"
-      },
-      {
-        "text": "Puerto Rico Will Begin Rationing Water Amid Fresh Crisis",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckFHMGNadGxUX2VrWVNSamZqaEVHVXhLVWFtWmZtVFB4bkJ3dFVNYWdickQzTE9qZnFjRFRySi1wZlBZSGFmd0dJR0dtTDRGUE0zU0VCcmliMmdOMkJsYjhEQWdBMnQzUkItZmdzbzJxUDFxUXlyT1ZOOGFGbk1kSw"
-      },
-      {
-        "text": "The true cost of finance for water infrastructure",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWMzQk4zMTE4ZElFXzlYVVFZekd5cjktV3Fxeng4Y29SUmkxZy1ncHd5Q2hhNWN3aUZWa1J2X1k0RUVJbXJBSng2ZEZuNEYxcW9acFhmVFd4OUZZUkhmaWZsTEgtM1FoRVJjZUNtaG1fY201c3NCdGg2b3JsN3M2UkpDVldKdlA0ZzNBZlNzcXB1clNkNWotNXlWbETSAaQBQVVfeXFMTkd4N21iQmNrYW8zMEZYZVhhUWZiNXRaWXRnWHZxaEJELVE3SnAwd1dIcDRFb3Jnb20ybTFjRjZKV3hOWWNNaFFKRU5GclNRWW9IYmtncHNyZ3dXdkIyeWNscENraWFDSzM5bzNaMEdUZ05SbEtDQ1hXVXFVNXZNOHlMZFVsYzVSUWVPWHowandTcXBjR1pHYnlrMHY1Z2F5WkZzZWE"
-      }
-    ],
-    "marketGap": "While there are existing solutions for water management, there is a lack of platforms that specifically cater to the needs of small businesses and communities in Africa, particularly in the context of drought and water scarcity. A platform that provides innovative rationing and management solutions could fill this gap.",
-    "executionPlan": "The MVP scope will include a user-friendly interface for small businesses and communities to track their water usage, set rationing goals, and receive alerts and recommendations for efficient water management. The first build steps will involve developing a data analytics engine to provide insights on water usage patterns and trends. The platform will generate revenue through subscription-based models and partnerships with water management companies.",
-    "competitor": "None exists",
-    "trend": "The growing concern about climate change and water scarcity is driving the demand for innovative solutions that help small businesses and communities manage their water resources efficiently, making this a timely and urgent problem to solve."
   }
 ]
