@@ -1,5 +1,31 @@
 [
   {
+    "id": "microgrid-sme-subscription",
+    "title": "Microgrid‑as‑a‑Service for Nigerian SMEs",
+    "category": "Energy",
+    "tagline": "Frequent blackouts are draining small business revenues and forcing costly diesel generators",
+    "dateAdded": "2026-10-01",
+    "whyNow": "Nigeria’s chronic grid failures have intensified after the latest six‑year blackout in Oke‑Ogun and the government’s new power‑control centre has yet to restore reliable supply, creating immediate demand for dependable electricity solutions for cash‑strapped SMEs.",
+    "proof": [
+      {
+        "text": "Businesses report erratic power supply causing losses of up to 30% of daily revenue and forcing them to run expensive diesel generators.",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWc5NTN5RzJTdnJhX0VMY081QWdpRXk3S3pzS2htRmlRWnN1V21lMmdKLWM5bEJoQVdBSkdpV01MX011RTkxbjk3SEZCVG1LNllpN1ROT0E1Q2RwbnVzZENUaS0xQ1FCSkFEdVVmaEJjdHBtdGtHN3ZTMER2cG1YdQ?oc=5"
+      },
+      {
+        "text": "Residents of Oke‑Ogun have been living under a six‑year blackout and are pleading with IBEDC and Governor Makinde to restore power, highlighting the depth of the supply crisis.",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS3VWVktlZkVSV3czd2RoVFZ1dzQ1NlF2LUt2dlRmZmM3STN4d2J1QXdhcklQRS1RVGMxMVJqUm14bVcwbGtuT2VRTWZwUnl4UktlYUZzcndfallXamkwaTloRlVTclZlTjVDajNmWkpkbzBQZ2k1YzQ4Q0lWamhibm01dWFxaVU3eWlHNEdKaHRSV1J6RHVVbmREa2ZJWE9v?oc=5"
+      },
+      {
+        "text": "The federal government has launched a new power control centre aimed at curbing blackouts, but implementation delays mean businesses remain without reliable electricity.",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mTnRiUEtybk5oV2dqVjBMU1M2ODA3VHRUTDN6R2FwMXpqMXdIN2U1d0c4Y256bEhYM09KcGdFYXZsNGZsSTBUbDA4Q0NueFVzLTZLZHBoRXNPR21NVlpCNExhdWJFZms5WlBaUUZfUHJuYXUzVDZrS2JJcW9pZw?oc=5"
+      }
+    ],
+    "marketGap": "No affordable, subscription‑based microgrid service exists that aggregates solar, battery and diesel backup to deliver uninterrupted power specifically for small retailers, workshops and kiosks in blackout‑prone Nigerian towns.",
+    "executionPlan": "Launch an MVP microgrid hub in Oke‑Ogun serving 20‑30 nearby SMEs with a pay‑per‑kilowatt‑hour subscription model; partner with local solar installers for hardware, use a cloud‑based energy‑management platform to monitor usage and billing; monetize through monthly subscriptions and a small margin on excess energy sold to the grid.",
+    "competitor": "None offers a turnkey, subscription‑based microgrid tailored to SMEs in Nigeria; closest alternatives are standalone solar home systems (e.g., SolarNow) and diesel generator rentals.",
+    "trend": "Decentralised renewable energy and digital payment platforms are rapidly scaling across Africa, making on‑demand micro‑power services both technically feasible and financially attractive."
+  },
+  {
     "id": "kenya-rural-lung-diagnostics-hub",
     "title": "Rural Lung Diagnostic Hub",
     "category": "Health-tech",
@@ -456,31 +482,5 @@
     "executionPlan": "Build a mobile app for farmers to log field activities and harvest data, integrate satellite NDVI metrics, and generate a credit score algorithm validated with pilot micro‑finance institutions. Launch MVP with 1,000 farmers in Kenya, partner with a regional lender for loan underwriting, and monetize via a 1% loan origination fee plus subscription access for banks to the credit‑score API.",
     "competitor": "FarmDrive (Kenya) – the closest existing agri‑fintech using mobile data for credit scoring, but it does not combine satellite imagery and detailed farm records at scale.",
     "trend": "Accelerating climate‑finance inflows and the rise of digital agriculture platforms are creating a fertile environment for data‑driven farm credit solutions."
-  },
-  {
-    "id": "cybercrime-shield",
-    "title": "AI-Powered Cybercrime Protection",
-    "category": "Fintech & Payments",
-    "tagline": "Nigerians and others are losing millions to AI-fueled cyberattacks, with limited expertise to fight back",
-    "dateAdded": "2026-08-17",
-    "whyNow": "The surge in AI-driven cybercrime across Africa, with losses exceeding $484m, makes it urgent to develop effective countermeasures. Furthermore, the lack of advanced skills among intelligence analysts, with only 8% having the necessary expertise, highlights the need for innovative solutions.",
-    "proof": [
-      {
-        "text": "AI fuels more than half of cybercrime in Africa",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHNVNCWUprYzZWWFFudkJRU1lNRjJxanRfUXBOdGp5SlFZUFpQSVRSMnNBLWNXb1VROWJVcmZZckIyQndKMWp4d01oZ3lWaEtPYTBtQjZsV3A4TzltUklybnJRVUc?oc=5"
-      },
-      {
-        "text": "Cybercrime losses in Africa more than double to $484m as AI accelerates fraud",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHNVNCWUprYzZWWFFudkJRU1lNRjJxanRfUXBOdGp5SlFZUFpQSVRSMnNBLWNXb1VROWJVcmZZckIyQndKMWp4d01oZ3lWaEtPYTBtQjZsV3A4TzltUklybnJRVUc?oc=5"
-      },
-      {
-        "text": "AI is involved in 55% of cybercrime across Africa, but only 8% of intelligence analysts have advanced skills to fight it",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdloyNFIybGUzVkhLUjF3Nk1RdHltQUI5ZlRTQVk0a1ZNakIxaHlQaGlDWmZIalB0WXFMZWZQRHVQaEtOUTZFdm9yY0lqQ1hxUUdneXUyQWRBYW5FS1p0d1hucDFUNFVHd1ZzWDRTN3pTMjJLNjZMWHA0TzdXV3M3Y2lEWXZrcHpzcUtiUlJYbU5FNWc3cTRXdklqU0xHWE1nRktwUDlKYjBlMzFyRzlMT0p6YmxBLWVnQWs0RFNYUFd5UU5YSk5aWGpSQ2ZwN0FkaW9pa21tM2U?oc=5"
-      }
-    ],
-    "marketGap": "Current cybersecurity solutions are not adequately addressing the surge in AI-fueled cybercrime, and there is a significant shortage of experts with the necessary skills to combat these threats. An AI-powered cybercrime protection platform could fill this gap by providing effective and accessible countermeasures.",
-    "executionPlan": "The MVP scope would involve developing an AI-driven threat detection system, integrated with a user-friendly interface for individuals and businesses to report and respond to cyberattacks. First build steps would include assembling a team of cybersecurity experts and AI engineers to design and train the system. A potential monetization angle could involve offering premium services, such as personalized threat analysis and incident response, to high-risk clients.",
-    "competitor": "None exists with the specific focus on AI-powered cybercrime protection for the African market",
-    "trend": "The increasing use of AI in cybercrime, coupled with the growing demand for digital financial services in Africa, makes AI-powered cybercrime protection a timely and critical solution."
   }
 ]
