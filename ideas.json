@@ -1,5 +1,27 @@
 [
   {
+    "id": "edu-data-saver",
+    "title": "EduData Saver",
+    "category": "Connectivity",
+    "tagline": "Students and families are hit by high mobile data costs and confusing billing",
+    "dateAdded": "2026-10-02",
+    "whyNow": "With over 413,000 telecom complaints about data depletion and billing errors and a push for zero‑rated education platforms, the pain is acute and growing now.",
+    "proof": [
+      {
+        "text": "Data depletion and billing woes topped 413,587 telecom complaints",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDNiQ2hQb0xHeFhWSWsyTHhzR2d5U05YdUZaRjg4T3c0bHdoZUtzVnF5cmJuTjZsTEZ5M2o5TzNjN01EQy1jRk5sTERUTGQ0cXd4M0M4TlkxNi10NWhVc1lOcGU5NnEwTWdvUWZndGhwelFZdV9xRkNYWFhXQnJVdW5vMzRwa2FKbWtv?oc=5"
+      },
+      {
+        "text": "Zero‑rated education platforms are being promoted to reduce data costs for learners",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLW5nQ3lEMXNHbUJJNFBnanItNXlaT3czME40b0g2M2I0WkhZMUNDZjNoZUFzWDRLUGFuU1pHX2N3Y2VOTFUtVDRNY2JyRFBTdWdUUVhUMDBHN3JxQ2JaUHhlQV9ya2tlQ2J4aFFKd0hkVTM4NmV2aVBFNkdKdzB3azhicEE3NENtZTQ0MEdCQVQtQQ?oc=5"
+      }
+    ],
+    "marketGap": "No dedicated service aggregates bulk data purchases and offers zero‑rated bundles specifically for education, leaving learners to pay retail rates and deal with opaque billing.",
+    "executionPlan": "Launch an MVP web/app that partners with major Nigerian telecoms to buy bulk data at wholesale rates and resell discounted, zero‑rated packages for approved educational platforms. Start with a pilot in Lagos schools, charge a modest subscription fee per student or a commission on data sales. Iterate based on usage data and expand to other regions.",
+    "competitor": "None – existing telecom bundles are retail‑priced and not education‑focused",
+    "trend": "Rising mobile internet adoption for digital learning across Africa"
+  },
+  {
     "id": "microgrid-sme-subscription",
     "title": "Microgrid‑as‑a‑Service for Nigerian SMEs",
     "category": "Energy",
@@ -456,31 +478,5 @@
     "executionPlan": "Develop a lightweight Android app that runs pretrained AI models for malaria, anemia and chest‑X‑ray interpretation on the phone, pilot it in 5 LGAs with UbuntuCare partnership, and charge a modest monthly subscription per clinic while offering free basic usage for government health programs",
     "competitor": "None offers an offline, AI‑powered diagnostic suite tailored for low‑bandwidth rural clinics in West Africa",
     "trend": "Rapid growth of mobile internet and democratization of AI models is enabling affordable health‑tech solutions in underserved regions"
-  },
-  {
-    "id": "farm-records-credit-score",
-    "title": "FarmCred",
-    "category": "Agri-fintech",
-    "tagline": "Smallholder farmers lack verifiable credit histories, blocking access to essential loans",
-    "dateAdded": "2026-09-12",
-    "whyNow": "Massive climate‑adaptation finance pools (US$200 m and $21 m initiatives) are being unlocked for East African farmers, yet the financing never reaches them because lenders can’t assess risk without reliable farm‑level data. The urgency to bridge this data gap is higher than ever.",
-    "proof": [
-      {
-        "text": "IFAD and Equity Group kick off US$200 million mechanism to make climate adaptation finance reach East Africa's farmers",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVnpaek1pWklwZmNBZVRDVWpXOFo4MUxNT0JjWHRoeU1EVFBNNGRSMTA2QnJCTjBjSURqTk1VOHFNV2R5akw0b2d0RDFEYUVYREU1SkY3ekkxMU5RdGNpajdUbzFiMzlDTndRMzh0Q1gzYnRVbEljT1ExalB2WXNTU2Nndk4wQXNwaUI1d3A3QUtIb2o1dkRBbXMzWUkyS1ppOTlycFZwT1R4dDAwb2ZLakxHbS1SRjZDcWEzN2xJQWphMG5lM29YbFpvOE1adUhVSWxMZmdBUjNSbjhtMk5SQjUzTQ?oc=5"
-      },
-      {
-        "text": "Rwanda, IFAD Unveil $21 Million Initiative to Bridge Farmer Financing Gap",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWhoUk9KX2t4cmhRWUc2eDhqeDBGTzd1VjN3NEZ3MDBlUlQxN1hrbVJhN0FHOXA0ZnZfZ1Y4MXhMT0NuU2FsSHRsOEFPSmo0anNpajBnSUR6a2hNa1l4eEhUWXJKalZLNFJ2X05wTlNYUkRTLVpsSjdORWVlYlJYdmNlU3VGZEtl?oc=5"
-      },
-      {
-        "text": "From Farm Records to Credit: Making African Agriculture Bankable",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNakRUa1FpNlg4VVRsOGt5LTctX1ZTb1NocV9nQm43dXA1S3l2VGlwLXY3UkNFblV0eVlwcFhSalIwQVFvWTh0MktLZFpBLVp1ZzB6RlBtdkdGLWdzTTRla2ROQjZnck81THU5TkhPYThlX3llSjd4ME01WE1hZWdYUHJnZDc3MGlwRDdrWEtKaTh5N3FsNGJpTE1NVE4?oc=5"
-      }
-    ],
-    "marketGap": "No existing platform systematically converts farm production records and satellite data into standardized credit scores that lenders can trust, leaving a financing void for smallholders.",
-    "executionPlan": "Build a mobile app for farmers to log field activities and harvest data, integrate satellite NDVI metrics, and generate a credit score algorithm validated with pilot micro‑finance institutions. Launch MVP with 1,000 farmers in Kenya, partner with a regional lender for loan underwriting, and monetize via a 1% loan origination fee plus subscription access for banks to the credit‑score API.",
-    "competitor": "FarmDrive (Kenya) – the closest existing agri‑fintech using mobile data for credit scoring, but it does not combine satellite imagery and detailed farm records at scale.",
-    "trend": "Accelerating climate‑finance inflows and the rise of digital agriculture platforms are creating a fertile environment for data‑driven farm credit solutions."
   }
 ]
