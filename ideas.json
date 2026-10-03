@@ -1,5 +1,31 @@
 [
   {
+    "id": "rentease-affordable-rentals-nigeria",
+    "title": "RentEase: Verified Affordable Rentals Marketplace",
+    "category": "Housing",
+    "tagline": "Tenants can find trustworthy, affordable homes without hidden fees",
+    "dateAdded": "2026-10-03",
+    "whyNow": "Nigeria’s rent crisis is worsening, leaving many renters unable to keep up with soaring prices, while political parties are now pledging housing reforms and PropTech solutions are gaining traction across Africa, creating a window for digital interventions.",
+    "proof": [
+      {
+        "text": "Nigeria's rent crisis is intensifying, with many tenants unable to afford rising rents.",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKZGo4bXh1bkl2RUd3UHViSmJlYzdWWTZYRmtnN1BRTXZWMXFaSlV4YWx5R1ZCXzJQVlFKVHI3SFBPdmhKYlJ1OTZ6blFjSHpyQl82am5KZVJCX3dXSGVRZE4yYnZzazBjendWRURqcWtma1RLeGVycktmNA?oc=5"
+      },
+      {
+        "text": "Political parties in Nigeria are outlining housing reforms to address the crisis ahead of upcoming elections.",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMlZZRk9RbUpxRDVqVDJzS1hXSjRoSExiZkNMenBWTkJVY25BalBMUFdvd2FlNW5XZ19GUHRBeTgyWHppR2s2T2Nkcjc5ZzFCZ19hT084N1dMUzRRR0pJOHM1NlpybW8zTFJybk9vdVVCajhrSVcwMWdOajBTRjBBLXl4WnZqUTdPSGQ5emZPRzBfOWtLc2dsWkZuenBGd3g4dHRqTkRzZGtjZw?oc=5"
+      },
+      {
+        "text": "PropTech innovations are emerging across Africa, aiming to make real estate more accessible and affordable.",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3YVUxTmNtR0NWTzRMTDdncWFmVWtSNXVmVDVNSkd2OFFrZUcyNkFNOW5pcWxjUUdGcXI4cmFfQUwtNUVOQnpYc05TdHgwdm9lMEExSklWUE1SLUdZLXBSU3BocTVESTA0ZmlzemlYWEM4NF9PSmc?oc=5"
+      }
+    ],
+    "marketGap": "There is no centralized, verified platform that aggregates truly affordable rental listings and offers rent‑to‑own pathways, leaving tenants to rely on fragmented classifieds that lack price transparency.",
+    "executionPlan": "Launch an MVP mobile/web app that curates verified affordable rentals in Lagos and Abuja, using data‑validation tools and partner landlords. Introduce a rent‑to‑own module for low‑income earners. Monetize via subscription fees for landlords and a small transaction fee on rent‑to‑own agreements.",
+    "competitor": "None exists in Nigeria; closest alternatives are general classifieds like Jiji or PropertyPro, which do not verify affordability or offer rent‑to‑own options",
+    "trend": "Rapid PropTech adoption and heightened housing affordability pressure are converging to create demand for digital rental solutions"
+  },
+  {
     "id": "edu-data-saver",
     "title": "EduData Saver",
     "category": "Connectivity",
@@ -452,31 +478,5 @@
     "executionPlan": "Build an MVP platform that provides real‑time diesel fuel price listings, predictive generator run‑time analytics, and a marketplace for renting shared solar‑plus‑storage units. Launch a pilot with 100 Lagos shops, charge a monthly subscription plus a small transaction fee on fuel purchases, and reinvest revenues to expand micro‑grid assets.",
     "competitor": "None offers a combined fuel‑price marketplace and micro‑grid rental for SMEs; closest alternatives are traditional generator rental firms.",
     "trend": "Growing investment in renewable micro‑grids and digital marketplaces across Africa is making scalable backup power solutions increasingly viable."
-  },
-  {
-    "id": "ruraldiag-ai",
-    "title": "RuralDiag AI",
-    "category": "Health-tech",
-    "tagline": "Rural clinics lack affordable, accurate diagnostics, leading to delayed treatment and higher mortality",
-    "dateAdded": "2026-09-12",
-    "whyNow": "Outbreaks like the recent Lassa fever surge highlight the cost of delayed diagnosis, while smartphone penetration and cheaper on‑device AI models make scalable solutions feasible now",
-    "proof": [
-      {
-        "text": "AI Platform bridges rural diagnostic gaps",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSkp2akVlX21ZZ2hrbEFVVmtaV2I1dDAyY1NGeXdpbE1VWHdOa200WmZ4dGFLMXZ2TmwyRy1JZUtvalEwYkRmaFotbElpMEZYY0hUaWdITk5UbzJUcVRHc2Y4aEU3VGVULTVMeVJ6dGNWVFZfbFQ0MG9mNEd3UzhSNndBSXNmUVc4aWc?oc=5"
-      },
-      {
-        "text": "Chil Group unveils E‑Ward Round platform for rural hospitals",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTXNjWmdpTll1QVUyRFdBQmxpcVo1NEg4SXE4N01ESi1yVk1PY0pPa1NaQnliOUNUdzhaSVpVYlMxU01iUVJkVUJ4MkczUk9PbjNLMWlHLWRzN1MxLU5mOWJfMmc5RFk3SFpjTklQYThMQ2V1YlVCcGVDUW8tUDl0SDhsRTNWb09kMDlmOXROdw?oc=5"
-      },
-      {
-        "text": "Closing Health Service Delivery Access Gaps with Geospatial Insights",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdW5jcnVtbmJFbzdCWU1ndUJyZWpxbG5aS0dJeG4zOEdDRG8teXZBdzNWUXBKQ0F3U3pjREZfRkx1TGR0Nkd2U25BdXo3UDVyZzdKeTBESmhuUWticFN0eUZRU2RTenpWQ2psaHF3NHlhMkdlNUJnOVV3clJuMEJUMjJybUxCT1d4THd1WUNzQzlkMlpTdHJaVDlkbE8yZTR0R2doZWhFTGRDUHFLNWpn?oc=5"
-      }
-    ],
-    "marketGap": "There is no low‑cost, on‑device AI diagnostic solution that works offline for common blood and imaging tests in remote African clinics",
-    "executionPlan": "Develop a lightweight Android app that runs pretrained AI models for malaria, anemia and chest‑X‑ray interpretation on the phone, pilot it in 5 LGAs with UbuntuCare partnership, and charge a modest monthly subscription per clinic while offering free basic usage for government health programs",
-    "competitor": "None offers an offline, AI‑powered diagnostic suite tailored for low‑bandwidth rural clinics in West Africa",
-    "trend": "Rapid growth of mobile internet and democratization of AI models is enabling affordable health‑tech solutions in underserved regions"
   }
 ]
