@@ -1,5 +1,31 @@
 [
   {
+    "id": "hydrocool-water-smart-cooling",
+    "title": "HydroCool: Water‑Smart Cooling for AI Hubs",
+    "category": "Climate & Water",
+    "tagline": "Data centers in Ghana lose compute time because water scarcity limits cooling",
+    "dateAdded": "2026-10-04",
+    "whyNow": "AI research and services are expanding rapidly in Africa, but power and especially water shortages are throttling compute capacity. Immediate solutions are needed to keep emerging AI hubs operational as climate stress worsens.",
+    "proof": [
+      {
+        "text": "The article notes that 'compute cannot outrun power and water' in Ghana, highlighting water constraints on AI infrastructure.",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbThtSTZoQUdrb3lzZjZmN1c2RFpyUF9FVm04RmMxZDJEYTVMTE1QVmlaRjVnMEhZQjh2ajBaSUZValBYRFY0bFdCMUVuT29QeHd2dXRmanpZWHhnT2pFc3paVjlYalVoYUVjczhXSFBWa1NIeHJWTmNkOHBnZUZXSHFLWDJSNXk1MG01T1ZBU0NJVWFXa1BpUVUyb0tyZjF2cDlRcHVGZ3dWbHg4NUFtczFORXpVUWtyV2pmWHNYNWJteHVoYzN0UDVhYVQyTXRWTXA1QUxfTUhYTTA?oc=5"
+      },
+      {
+        "text": "Wine farms are struggling with water scarcity as climate change intensifies, according to a government report.",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0NjRjRLNGlDdXhtV090d1JRUDFjdjJYQ0wyNkxnQWRhWU1fZC1QakRiNE9UYVJLb3RpNndhR0Q3TWF6R2xpb01OM3p6LWhocnNvamZXZkJnOV9hOTF4T09tbEt1NmNHX0NHWjVRNEtCYXYySFUza2RBemZmSVlmX29nWFlCRmRjbGFXRXh5UkpVazhTX2E5azNvU2wtSThsR3pPSXZB?oc=5"
+      },
+      {
+        "text": "The African Union is seeking partnerships to mobilise climate finance, signalling a funding gap for climate‑focused tech solutions.",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ1lLNEZtT0FPbmxBZjNnUFduR3lxNHBfN3VzZjdRYUhfa0pPNWxRd2VFWkZlYkRJRFdzVVhqZkEwaU8tblMxY0NtMzl5ZE8wYjVFeVZ2UHBEM1RCR2FWLUdmdFFtUnJmVUk4cVQ2cjJuT3VBdlh1bk9vY3E4T2x3TQ?oc=5"
+      }
+    ],
+    "marketGap": "There is no service that offers water‑efficient, modular cooling solutions tailored for small‑scale AI compute facilities in water‑stressed regions, leaving them dependent on costly, water‑intensive HVAC systems.",
+    "executionPlan": "Build an MVP cooling module that uses reclaimed or gray water for evaporative cooling, packaged as a plug‑and‑play unit for existing server racks. Pilot the system with a university AI lab in Accra, collect performance data, and charge a subscription per kilowatt of cooling delivered. Scale by partnering with co‑working tech hubs and offering financing through climate‑finance channels.",
+    "competitor": "None directly; closest alternatives are traditional HVAC providers such as Carrier or Daikin, which are not water‑optimized for African climates",
+    "trend": "Rising AI compute demand across Africa coincides with escalating water scarcity due to climate change."
+  },
+  {
     "id": "rentease-affordable-rentals-nigeria",
     "title": "RentEase: Verified Affordable Rentals Marketplace",
     "category": "Housing",
@@ -452,31 +478,5 @@
     "executionPlan": "Launch an MVP web portal that purchases bulk data bundles from South African mobile operators at wholesale rates and repackages them into affordable subscription tiers. Start with a pilot in Johannesburg, targeting price‑sensitive users, and generate revenue through a modest per‑GB margin. Once the model proves, expand to other cities and later to Nigeria, adding a mobile app and API for third‑party integration.",
     "competitor": "None offers a dedicated wholesale‑to‑consumer data marketplace; the closest alternatives are carrier‑direct plans and informal resale groups.",
     "trend": "Accelerating mobile internet adoption across Africa combined with inflation‑driven price hikes makes affordable data solutions increasingly critical."
-  },
-  {
-    "id": "generator-fuel-saver",
-    "title": "GenFuel Saver",
-    "category": "Energy",
-    "tagline": "Small businesses lose money to costly generators during chronic blackouts",
-    "dateAdded": "2026-09-13",
-    "whyNow": "Frequent grid failures and new transmission projects that still aren’t delivering reliable power are forcing SMEs to rely on diesel generators, driving up operating costs and making immediate cost‑saving solutions critical.",
-    "proof": [
-      {
-        "text": "Seven Months Without Power: Ayetoro’s blackout cripples homes, shops, classrooms",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnRWNlQxXzlvTC1aVjhITi1yakVmZ0RLMFJxN2RZR2xmaEpoSkpad1g1R0ZqLUxEVmVWYnNVY0JOWTFjYkZCYnJmSWJkTDFSQV8tci1vM2JDcW55T21zQkRTbC1tNjdPWFVKLXprd1pNTFlkZUVSWTNsLWlOQURHaUlXMV9LaURiVkV2WTd2cm4yWnFOTGk3Z3V6UDVLLVN6NVRxU0ZuQ1ZMWmROMGpRWGJkUQ?oc=5"
-      },
-      {
-        "text": "Power Paradox: New Transmission Capacity Yet To Light Up Businesses",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlA4Zl81U2J0NlE4dHRTdm1qSnFja0ZIcWNwTkcxbktpQWliLThsb1lLTmNld2VCNndFYXpSLU9Call6cF9Rb2RGcVlhU1hJU3VNeVd1bnNXbnVNV2ZhZjVKTDRpOHE5enk0TDAyd2JfT0Y0czBLek5xY2ZpZE5VcElqWFI4NThsT0NTcThYaW9oaHZramtv?oc=5"
-      },
-      {
-        "text": "To beat a rickety electric grid, Nigeria’s capital gets creative",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44MUItY2R5Y2lGYnQwR2VUNWE1YUFRdkVtUmFNNW0tSkkxZnhXRHRkMmkzUzdnbmF5SjBJajM4aFVOT2U4bFpIbDFtTVhEN19qZGxLdEVKWjhVQmFhbEI4ZmlZZ1AtbUM0blY3aFhZX3JZM0YwWWNXbjllZ9IBlAFBVV95cUxPWFVldW9DMFNYNlQ1emNyUGk4bnR6bjNRVGVRVFNobkJ4bjdkakxmVmVKb0FuTmVURFlkZHFVaktjbkpRd1dramdoQmFEZGNyS011X1N1MkxTdUJHTUJTb3JxUTlyb0FqcHFPUzd1d3R2VVJrRXl5VXNYOGJmRmlWZFFYMVhoU1dQdy1wNkJzSDBxT05m?oc=5"
-      }
-    ],
-    "marketGap": "There is no affordable, on‑demand service that aggregates generator fuel prices, optimizes usage, and offers shared‑ownership micro‑grid or solar‑plus‑storage rentals specifically for SMEs in Nigeria.",
-    "executionPlan": "Build an MVP platform that provides real‑time diesel fuel price listings, predictive generator run‑time analytics, and a marketplace for renting shared solar‑plus‑storage units. Launch a pilot with 100 Lagos shops, charge a monthly subscription plus a small transaction fee on fuel purchases, and reinvest revenues to expand micro‑grid assets.",
-    "competitor": "None offers a combined fuel‑price marketplace and micro‑grid rental for SMEs; closest alternatives are traditional generator rental firms.",
-    "trend": "Growing investment in renewable micro‑grids and digital marketplaces across Africa is making scalable backup power solutions increasingly viable."
   }
 ]
