@@ -1,5 +1,31 @@
 [
   {
+    "id": "mobile-money-fraud-protection-africa",
+    "title": "SecurePay AI: Real-time Fraud Shield for Mobile Money",
+    "category": "Fintech & Payments",
+    "tagline": "Mobile money users lose money to scams and high transaction fees, eroding trust and inclusion.",
+    "dateAdded": "2026-10-06",
+    "whyNow": "Cybercrime is rising across Africa in 2026, and digital commerce growth is outpacing trust mechanisms, making fraud protection urgent for financial inclusion.",
+    "proof": [
+      {
+        "text": "Cybercrime threats to Africa in 2026",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OVFpqbXdVcUFuV3hJQ2hEZVRBTXM3TmlFTnV5WDVnT3lhZzZ0dzVnZE1DclFnQWlRaFU0T0ZkeWdOUTlVVl9Gdk9ZNDlNZThLVTdwRW9PbnpacFpxc2NYNHduTC1Za2xFYjFOT1FUcTNySGM?oc=5"
+      },
+      {
+        "text": "National Trading Standards Launches AI Scam Watchlist to Fight Sophisticated Fraud",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRnZkYXFpRWlJMEdFcFZ1ZmF3NjEzd182NVlzQ3IxbW1IcnpNbzNycFZ6UkN0aWIwU2dSbWRRZkxQbHVya2RYSzhQRzhhNTRReFA5bHFyQVZkeTNDNTdrc25tUjdmc3NKUVZ5dnRaNjBmZ1AzMm53UGswY1JVeGcwb3JCZE9id0g3VVI2bUR0aVcxN1QzTlFEbW94LTVfOExvSjYxZTRtREVCcE9rQzdR?oc=5"
+      },
+      {
+        "text": "High Digital Transaction Costs, Fraud Gaps Threaten Ethiopia’s Financial Inclusion Targets",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85dVo4WU9VTGMwYVJnQ1VuZ0VSYV9SQzM3dk14QjZNYlRxWU5hUFhndmF5amxRazYyNUhBSVRLX3lUeEhrenU2U1ZWLXNOdEpMUlRLMQ?oc=5"
+      }
+    ],
+    "marketGap": "There is no affordable, AI-driven, plug-and-play fraud detection layer tailored for African mobile money ecosystems, leaving merchants and users exposed.",
+    "executionPlan": "Build an MVP offering a lightweight SDK/API that provides real-time risk scoring using locally trained AI models; pilot with a Nigerian mobile money provider and select merchants; monetize via per-transaction fees or subscription tiers for fraud‑shield access.",
+    "competitor": "M‑Pay's internal fraud detection system exists, but no open third‑party solution; the closest global alternative is Riskified, which does not focus on African mobile money.",
+    "trend": "Rapid digital commerce growth and rising AI‑based scams are driving demand for trustworthy mobile money services."
+  },
+  {
     "id": "hydrocool-water-smart-cooling",
     "title": "HydroCool: Water‑Smart Cooling for AI Hubs",
     "category": "Climate & Water",
@@ -456,27 +482,5 @@
     "executionPlan": "Launch an MVP that catalogs vacant public buildings in Lagos, offers a marketplace for vetted developers to submit refurbishment proposals, and secures financing through impact investors. Start with a pilot refurbishment of one building, generate revenue via a 5% transaction fee on lease agreements and a management fee for ongoing property services.",
     "competitor": "none exists",
     "trend": "Rapid urbanization and rising rent pressures in African megacities are driving demand for innovative, cost‑effective housing solutions."
-  },
-  {
-    "id": "data-deal-affordable-mobile-data",
-    "title": "DataDeal: Affordable Mobile Data Bundles",
-    "category": "Connectivity",
-    "tagline": "Rising mobile data prices are squeezing users; we offer cheaper bundled data.",
-    "dateAdded": "2026-09-14",
-    "whyNow": "Mobile contract prices are climbing faster than inflation in South Africa, making data unaffordable for many while digital services become essential for work, education, and health.",
-    "proof": [
-      {
-        "text": "Mobile contract prices are increasing faster than inflation in South Africa.",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeXFuazVYcTB4ZUt0RElQYmlta0U0TEdDUC1nNkMyZXdNZS1SSUJ3Qm9nRXVNX3BTa1BxaURkOU1aY0Qyd29LRW00eG9QdnRXWTlGZWgwRnRPTFI2NkVWZGxHZk1UVXFTRE9KZGpQWnkzUl9xaUdtNGZRRTZzWEV6aWVrZDR3RGZkSkluZWJaRTAzM3lnTHMzRUxjSkFwcDNGMWJOQUNrYzZZMDNGc0JvcWluZngyZFRURGwxWjkwRENxTmdhdnc?oc=5"
-      },
-      {
-        "text": "The surge is forcing many users to cut back on internet usage or switch to unreliable Wi‑Fi alternatives.",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeXFuazVYcTB4ZUt0RElQYmlta0U0TEdDUC1nNkMyZXdNZS1SSUJ3Qm9nRXVNX3BTa1BxaURkOU1aY0Qyd29LRW00eG9QdnRXWTlGZWgwRnRPTFI2NkVWZGxHZk1UVXFTRE9KZGpQWnkzUl9xaUdtNGZRRTZzWEV6aWVrZDR3RGZkSkluZWJaRTAzM3lnTHMzRUxjSkFwcDNGMWJOQUNrYzZZMDNGc0JvcWluZngyZFRURGwxWjkwRENxTmdhdnc?oc=5"
-      }
-    ],
-    "marketGap": "There is no transparent marketplace that aggregates wholesale data capacity from carriers and resells it at predictable, lower prices to end‑users, leaving consumers stuck with expensive carrier‑only plans.",
-    "executionPlan": "Launch an MVP web portal that purchases bulk data bundles from South African mobile operators at wholesale rates and repackages them into affordable subscription tiers. Start with a pilot in Johannesburg, targeting price‑sensitive users, and generate revenue through a modest per‑GB margin. Once the model proves, expand to other cities and later to Nigeria, adding a mobile app and API for third‑party integration.",
-    "competitor": "None offers a dedicated wholesale‑to‑consumer data marketplace; the closest alternatives are carrier‑direct plans and informal resale groups.",
-    "trend": "Accelerating mobile internet adoption across Africa combined with inflation‑driven price hikes makes affordable data solutions increasingly critical."
   }
 ]
