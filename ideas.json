@@ -1,5 +1,31 @@
 [
   {
+    "id": "irrigation-finance-hub",
+    "title": "IrrigaFund: Credit Platform for Smallholder Irrigation",
+    "category": "Agri-fintech",
+    "tagline": "Smallholder farmers can’t afford the upfront cost of irrigation equipment",
+    "dateAdded": "2026-10-07",
+    "whyNow": "Climate‑induced rainfall variability is intensifying, and Kenya’s government and development partners are now mobilising billions for climate‑smart agriculture, creating an opening for targeted financing solutions.",
+    "proof": [
+      {
+        "text": "Kenya is calling for innovative financing to boost irrigation and smallholder farming",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEpIMy1XLXFpeHNKY1JCR0o2NExOdWJKZ3gzUkJDUkc0T0VVSGVHeHBwNi1TWlU4RzhyeWZXVXNweFdqU2c0czQ5b2p5eGpnUGk1NWxNeEcwb0cwd2wxNkRKS2I0cmRwazgtUlRvUUh6QjdmXzdnWXBLa1FuT3JhR01aa1JiNEktaFlYQUdXX2E2OVk4bDdVYlNDN3ByZ1JHZEpFZA?oc=5"
+      },
+      {
+        "text": "Kenya’s agriculture faces a last‑mile gap due to climate risks and lack of finance for smallholder farms",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBOSlBTTnJYRlg5azNGUmZZU3pBYnVMdC1jQlYyQjFCRGxpb0xCTHFWWk5wclNub1Y3dU1R?oc=5"
+      },
+      {
+        "text": "$200 million is being mobilised to develop climate‑focused lending as a mainstream line of business",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHdFMzhUbUFwQ2Uxam1mRVo0Vzl6YlhPWERaWERmMkVjaHVMX1hDclZjM2FnV2hubFFPakRwRU9ITW1xNnNEMGFqclZEMWRxWDIyMDJ4VHFVTkNDZ0RUN0hURG9haXAzMl93dWVSRTZGQU40WVhBM2VsS1AxdDhLb1NaTFlCMVFJZnlyNHUyOEFJc3dCV0o0czVSaEFLU29sdERUWTNVQS1ScjFCbm1LdV9pQVFIdlNMb0swU3FOclRRdw?oc=5"
+      }
+    ],
+    "marketGap": "No affordable, data‑driven credit products are dedicated to financing irrigation kits for smallholders; banks deem the risk too high and farmers lack collateral.",
+    "executionPlan": "Build a mobile‑first platform that uses satellite‑derived soil moisture and weather data to assess irrigation risk and price loans. Launch an MVP in two rain‑sensitive counties, partnering with local cooperatives for outreach. Monetise through interest margins and a small service fee on equipment purchases.",
+    "competitor": "FarmDrive offers agri‑credit scoring but does not provide dedicated irrigation financing",
+    "trend": "Blended‑finance and climate‑smart agriculture initiatives are rapidly scaling across Africa, unlocking capital for targeted agri‑fintech solutions."
+  },
+  {
     "id": "mobile-money-fraud-protection-africa",
     "title": "SecurePay AI: Real-time Fraud Shield for Mobile Money",
     "category": "Fintech & Payments",
@@ -460,27 +486,5 @@
     "executionPlan": "Develop a mobile app that syncs with school fee schedules, offers zero‑interest installment plans via partner fintechs, and provides a budgeting dashboard; launch a pilot with private schools in Lagos, charge a small service fee per transaction and earn revenue from partner commissions.",
     "competitor": "None directly; existing student‑loan products are limited, high‑interest, and not integrated with schools",
     "trend": "Rising cost‑of‑living pressures and rapid fintech adoption are driving demand for flexible payment solutions."
-  },
-  {
-    "id": "abandoned-buildings-to-affordable-homes",
-    "title": "Repurpose Abandoned Buildings into Affordable Lagos Homes",
-    "category": "Housing",
-    "tagline": "Turning vacant public buildings into low‑cost rental homes for Lagos residents.",
-    "dateAdded": "2026-09-15",
-    "whyNow": "Lagos homeownership has fallen to just 31% as rents surge, and experts are urging the conversion of unused public buildings into affordable housing, making the timing ripe for a tech‑enabled solution.",
-    "proof": [
-      {
-        "text": "Homeownership in Lagos stands at only 31% as housing costs continue to rise.",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY2RXTEp2eXJUc29OVjh1TjFHZ2daWWRuNXJDRmhWRVlpV2Y2UlZCRm9xUndZb2I3ZjM4NHJ3OWpOM2ExM2VwVHdidG9TWWh6eDZyTEZxSUJLSEtlZ1BZUVM2MERYa0pEXzNEdUpydnpMRjY3WnBaSzJxSk5yR0NMSGhmTjV2TTl2U19HbzNPbXhyZk0?oc=5"
-      },
-      {
-        "text": "Experts are calling for the conversion of abandoned public buildings into affordable homes.",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWpRZ1hRbUZldGJ6QmpUNFdFTndnWWxHNmM0TVdjWE81NmMtZklfS3RkNTNrRmg1VmJWWGMzZVFtR0NVUjk1WExieW5PQWhGUFRzbWxYN0VxUTFjamRUc3Y4MjVSX1o0VW1BTzhVUVVzSUhpbGpxcldLNlBVbjljejlVR0RlRVFQc1N0eUIzUURYRFAyT3Q2b2VwV3BFUUFwUFZQZlBR?oc=5"
-      }
-    ],
-    "marketGap": "There is currently no digital platform that matches municipalities, investors, and construction firms to refurbish idle public assets into affordable rental units, leaving a gap between policy intent and implementation.",
-    "executionPlan": "Launch an MVP that catalogs vacant public buildings in Lagos, offers a marketplace for vetted developers to submit refurbishment proposals, and secures financing through impact investors. Start with a pilot refurbishment of one building, generate revenue via a 5% transaction fee on lease agreements and a management fee for ongoing property services.",
-    "competitor": "none exists",
-    "trend": "Rapid urbanization and rising rent pressures in African megacities are driving demand for innovative, cost‑effective housing solutions."
   }
 ]
