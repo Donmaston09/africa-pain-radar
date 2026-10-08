@@ -1,5 +1,27 @@
 [
   {
+    "id": "feeflex-school-fee-financing",
+    "title": "FeeFlex: Affordable School Fee Financing Platform",
+    "category": "Education",
+    "tagline": "Families struggle with soaring school fees and lack transparent, affordable financing options.",
+    "dateAdded": "2026-10-08",
+    "whyNow": "Nigeria’s private school fees are skyrocketing, with primary fees reaching ₦23 million, and students are protesting fee hikes and resorting to high‑cost loan schemes, creating immediate demand for better financing solutions.",
+    "proof": [
+      {
+        "text": "Students sigh fees hike, debt dog loan scheme",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR0ZHNEo2NWVoUG84UDg2c2JxMkhlRWN6eFBRaTk2NjQzLXRVOEVtWnNwcDRqci1EZXRtMW5EV21Oc1huZ3V3Y2xzVllaNnROVHo1UnlFeUNiSnl3bU55eDZIbjh4bEstUHJMbExlZGNnMGNTVUI1eEZYVjFzWXFFWmtLdzJfRWUzdGRreW5oZlowWk9qenJRS3FTaEFCWmY4akExUThtSdIBrAFBVV95cUxPSU5aZnBDUGtJcEdDeGhWQVRNek1YUXYzRGM4T1JsU0JiQWo2cEdlYXQ5YkM0Szh3X1VHcm1xVWdYYmVqYnNFTm9KYkM4ellEckVhMjdVYmlBYVYtMmQ4UkgxODJNMHBoa2lMeUl5WHktWlN3WWttbUdHRlpiSDVzVUJnVmFmV0t0WHBwWHJ2MTREMm9ldEpWN1VZTnA2ZFBUVHJWY2lSTjc0REx4?oc=5"
+      },
+      {
+        "text": "Primary 1 fees reportedly at ₦23M at Charterhouse Lagos",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU3J2MFE2VmVVeTFmWTdZT21WVDdrSVBFVXhiOS1BU1BqUmJHMXh0UmhPdXUyZmpxRjA5UDJpOTdUVG1fN3c5VVo1S1JtZlllbDBqU2pBOTBGcFYzbVc5WldMWXQtTkYzWTFfRGtaNllTMlBXbkctSFlCNF94Q3Zpbi11LTFyNnRGemJvbHYwdXhMdVBpeVotNklOOENVekkxQ1QxdnV3aGNfZ2Q3THprZUJTZkh2UWVVcTF1UnZvTW4xR19DU3Bkb19SLUExTGpNQnJiOVNTVlLSAeABQVVfeXFMTkJfOUcxd215NzRLUzNwVVdTQnJGemlmeGpWanZkS1VWaVJjY3FpREJubEJJcHRPTjdPQjZBdlFfbXJNXzhYNW1FNzFRUnljdnJpd2FwcnZad1RsTUhaZU01YjRVei1SOVV2Z1p3MjJod3EyeEdGWURCa2Q5YW1qZkdTVlU5Q1dYVkJVZ0s3dmV6enJxNTJzcm1uRDQxdXZPVDZEOTRuU2g1MjNhS1o0Q1psbUxXcWxITFQycTMyR0xLdVZQS19DcDJyeUN4WUZVX0tiU1g2NVd4b2tfb2h5WEc?oc=5"
+      }
+    ],
+    "marketGap": "No dedicated platform offers low‑interest, installment‑based financing or fee comparison for Nigerian private schools, leaving families to rely on informal loans or unaffordable cash payments.",
+    "executionPlan": "Launch an MVP that aggregates fee structures of top private schools and offers a simple pay‑later option with partner micro‑finance institutions. Start with Lagos’s elite secondary schools, integrate API for fee data, and charge a modest origination fee on financed payments. Validate demand through a pilot with 100 families and expand nationwide.",
+    "competitor": "None exists as a dedicated school‑fee financing marketplace; closest alternatives are general micro‑finance loans and ad‑hoc payment plans.",
+    "trend": "Rising demand for fintech solutions and increasing private school enrollment in Nigeria make fee‑financing platforms timely."
+  },
+  {
     "id": "irrigation-finance-hub",
     "title": "IrrigaFund: Credit Platform for Smallholder Irrigation",
     "category": "Agri-fintech",
@@ -460,31 +482,5 @@
     "executionPlan": "Develop a solar‑powered, modular water storage unit with built‑in filtration and IoT flow metering. Integrate with mobile‑money APIs for per‑liter pay‑as‑you‑go purchases. Pilot with 10 food‑stall operators in Lagos, charging a usage fee plus a monthly maintenance subscription. Scale by franchising units to other urban markets.",
     "competitor": "None offers a tech‑enabled pay‑as‑you‑go water kiosk for SMEs; the closest alternative is informal water vendors without digital payment or monitoring.",
     "trend": "Rapid mobile‑money adoption combined with escalating urban water scarcity is creating demand for on‑demand water services."
-  },
-  {
-    "id": "school-fee-finance-platform",
-    "title": "FeeFlex: Installment School Fee Financing",
-    "category": "Education",
-    "tagline": "Parents can’t keep up with soaring school fees and textbook costs",
-    "dateAdded": "2026-09-16",
-    "whyNow": "Fees have jumped 40% and textbook prices are soaring, pushing families toward a crisis; the broader cost‑of‑living squeeze from subsidy cuts makes immediate relief essential.",
-    "proof": [
-      {
-        "text": "Parents Groan as Fees Rise by 40%",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZnlwWjh1LVhzRE1JdDJBdkp2Z0dJckVCM3pQdkNzZldGcDRhLUwtaldOZm5JVkdwRmZjai1iU1NWdzBLTUw1TlEyWkxqaTRVTUpoRGdES29ucDV4aTA3eExaTFVmb2NZRTdnUExPUWllRUdqMVRUT0xBazRJdjBMY1NUcmdjc2JUMFE?oc=5"
-      },
-      {
-        "text": "Parents, Students Agonise Over High Fees, Cost Of Textbooks",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWloRzRGN1V0Wm1reFZxUlBDWVBGV1dFYTVfaHAtYmg5aTB4TFo0NmFZdjA2UEZCTzFNdnVnejVQcVBrSDVMTHVHaFBjMDRZTkEyTTBMd1YxQkY2bGwyVWZIVnJ6SXpDd0FaWDl5UWh6NHVheUZOUlROZlFlLW8yZDItVWlCS2M2WFpHTml3?oc=5"
-      },
-      {
-        "text": "Petrol subsidy may cost Nigeria N20tr yearly, cripple nation’s finances",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNWtObl9VU21saGlNUE5ONkl6UkJfOUNRNVB0NXVPdENad3pPcloxeG8zbFliVHF0eUo2VF9PR2RmQVhqUkhRQXJWYnR4RWlsVU1XNzhORHRGc1BaNlpSNUozYTN4bTJIc19xdG5jSXJEN0RyaTBqcEFiUVNoekFmbXdyS1R2ZW5ST1JPQ2NJdUdZMjN1YjFGOXVxbw?oc=5"
-      }
-    ],
-    "marketGap": "No dedicated platform lets parents spread school fees and textbook purchases into affordable, interest‑free installments tied to household cash flow.",
-    "executionPlan": "Develop a mobile app that syncs with school fee schedules, offers zero‑interest installment plans via partner fintechs, and provides a budgeting dashboard; launch a pilot with private schools in Lagos, charge a small service fee per transaction and earn revenue from partner commissions.",
-    "competitor": "None directly; existing student‑loan products are limited, high‑interest, and not integrated with schools",
-    "trend": "Rising cost‑of‑living pressures and rapid fintech adoption are driving demand for flexible payment solutions."
   }
 ]
