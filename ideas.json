@@ -1,5 +1,27 @@
 [
   {
+    "id": "ai-diagnostics-regulation-gap",
+    "title": "Regulated AI Diagnostics for Rural Clinics",
+    "category": "Health-tech",
+    "tagline": "Rural clinics can’t safely adopt AI diagnostic tools due to missing regulations and skill gaps",
+    "dateAdded": "2026-10-09",
+    "whyNow": "AI diagnostic tools are rapidly entering African markets, but without clear regulatory frameworks and trained staff, patients are at risk, making immediate action critical.",
+    "proof": [
+      {
+        "text": "Experts seek regulations to protect patients as AI adoption expands in healthcare",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjdDWHU2aE9pcHJ3QWR2QzdoTUYwRGg4OEY0R014V2ZWUlhQUlJJNFhxQUJ4RUNJbk1BLVE1Y3l1ZTMzTmhIcTZFbXE1cnpiUWpYcWRUd1JqUDdyTG5meHQ4YmRpbEMzNlhFNVZ1eWx5Y2YyQkJiRGZPZXZMMjZOYlNzNnNBTjEwMVc0dFR2VDE3S29yWDA3Zg?oc=5"
+      },
+      {
+        "text": "Cost and skills gaps restrict assistive technology access across Africa",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQXzlNWUdDaEJaSGxJb2c0LXN5QXFYWk1IWXRtak8tSkxsTkVhbWVkbnlHVUNoREE0d2VKYVNoWTdVTy1LRjRpaGZiRnJnV0t2S0hmT2xFTkg5SV8tM3pjUW9kd0tNTHdDTkMwWXJUZlphSC0wSjJaR1dHTE8tWWRVenVfWjBjNEhONF9MZUhUaW5iU2wzS0NWM2VzNENwVTI0Vzl0V3I2a1U?oc=5"
+      }
+    ],
+    "marketGap": "There is no affordable, regulated AI diagnostic platform tailored for low‑resource rural clinics that also provides training and compliance support.",
+    "executionPlan": "Build an MVP that integrates an open‑source AI diagnostic engine with a lightweight tablet, bundled with a regulatory compliance checklist and remote training via mobile. Pilot in 5 Nigerian rural health centers, charge a subscription for software and support, and partner with ministries for certification.",
+    "competitor": "None offers a combined regulatory, training, and AI diagnostic solution for African rural clinics; closest is Babylon Health but it lacks localized compliance support.",
+    "trend": "The surge of AI in global healthcare and increasing mobile connectivity in Africa make AI‑enabled diagnostics timely."
+  },
+  {
     "id": "feeflex-school-fee-financing",
     "title": "FeeFlex: Affordable School Fee Financing Platform",
     "category": "Education",
@@ -456,31 +478,5 @@
     "executionPlan": "Launch an MVP that integrates with popular USSD and WhatsApp payment flows, scanning transaction details against an AI fraud model and a blacklist of compromised codes. Offer an optional escrow service for gift‑card codes that releases the code only after buyer confirmation. Monetize through a subscription fee for merchants and a per‑verification charge for individual users.",
     "competitor": "None provides AI‑powered real‑time verification for mobile‑money and gift‑card transactions in Nigeria",
     "trend": "The surge in mobile payments across Africa combined with advances in AI‑based fraud detection makes this solution timely."
-  },
-  {
-    "id": "aquapay-on-demand-water-kiosk",
-    "title": "AquaPay: On‑demand water kiosks for SMEs",
-    "category": "Climate & Water",
-    "tagline": "Small businesses lose revenue when water runs dry – affordable, on‑demand water access solves it",
-    "dateAdded": "2026-09-18",
-    "whyNow": "Climate‑driven droughts are tightening municipal supplies, and urban water cuts are already forcing businesses to halt operations. Mobile‑payment ecosystems are now mature enough to power a pay‑as‑you‑go water service.",
-    "proof": [
-      {
-        "text": "Many African cities face chronic water shortages, forcing households and businesses to queue for hours each day.",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WTk1mNTJ3Ty1TNmFlRHBlVS03NHE5b2VENWlQVnA1X0NGNEt3aDJiVHhnaDA4RUNwaVE2bDRsMGZuQmlVOHZ5OUI0UGRtcDZFQlk0RkdaTHlVS0Y1NVR4SkMzRklPcF9EcHl0T3NB?oc=5"
-      },
-      {
-        "text": "Tunisians experienced water supply cuts that left households without water for up to 48 hours during the summer.",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGh6OXlHdTN3TFNRMGwyOG1xN2VZZGdUUERfRm0zMjZZWDk2ZkhkRDFGcjd5NFBMckpkdU9kMDZlUVhjQXF3MnNoaUhxYlNKbzlySk11dVUyZG1icHY0c2xLOUJCekZwRUxyV1RmQ00tdE1iRGVJNmVmdF9lbHIxZUhHbmZhSEF6OFdUQlc0d2o?oc=5"
-      },
-      {
-        "text": "A $200 million climate adaptation finance mechanism has been launched to support 260,000 East African farmers facing water stress.",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUnY1ZlFFUTk4YmJaTGE2Z004X291Q01ya1JIZHBLSi1DWG5ubnNCaFNZZk8zNnVMQTMzSGlMVG9SQmM4ZzB3amRxQ2JsR1FTWjhuaGdaQjlJZ243eGZacE9oenJya1ByVjBucFZtY2JGeklwWm9LWHZOZmRzRjMtX0FJVzNJZi10NXZVZ2l2STViUE0tbUZvbTEtX2YybnZnNk5ZMXRHRF9Ddk8wN1RFV3RkYndsMkJvUlp0elg5bTVkdnlCYWR4SGNzSk9yZWtrRlp1a2hTRW9LRThi?oc=5"
-      }
-    ],
-    "marketGap": "There is no affordable, scalable water‑as‑a‑service model tailored to small and micro‑enterprises; existing solutions rely on unreliable municipal taps or costly bulk storage installations.",
-    "executionPlan": "Develop a solar‑powered, modular water storage unit with built‑in filtration and IoT flow metering. Integrate with mobile‑money APIs for per‑liter pay‑as‑you‑go purchases. Pilot with 10 food‑stall operators in Lagos, charging a usage fee plus a monthly maintenance subscription. Scale by franchising units to other urban markets.",
-    "competitor": "None offers a tech‑enabled pay‑as‑you‑go water kiosk for SMEs; the closest alternative is informal water vendors without digital payment or monitoring.",
-    "trend": "Rapid mobile‑money adoption combined with escalating urban water scarcity is creating demand for on‑demand water services."
   }
 ]
