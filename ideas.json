@@ -1,5 +1,31 @@
 [
   {
+    "id": "solarfreeze-subscription-backup",
+    "title": "SolarFreeze: Subscription Solar Backup for Small Shops",
+    "category": "Energy",
+    "tagline": "Frequent blackouts turn shop freezers into cupboards, costing owners thousands",
+    "dateAdded": "2026-10-10",
+    "whyNow": "With 16 power plants shut down and the government only just launching a control centre, blackouts are worsening and small businesses are losing perishable stock daily. The pain is immediate and growing, making a reliable backup solution urgent.",
+    "proof": [
+      {
+        "text": "Our freezers have become cupboards",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHdNRDVKN1dKMFZ1Uk5jaTdoQkdaUTQzWEZSUjhrYkhzWlBER3VVNjBONjhVNHVUZDlPanZVV2YwSXc4bzgzWm94cHhaLUNGY2QtZGZzVFZYNS0zN1ZjRVpscGxmeTlCUlQ3VnR1MDI3dXowRXg5a3ZKRGtNNnl3bjJNbw?oc=5"
+      },
+      {
+        "text": "16 power plants shut down",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UQUlIVE14R0VVWHI3bURZMHJqbllwVnhsT0dqR1RzWEVaSEdFZF9WRm9ibmJCRjFmbVBmZkthUjdTN05aWUN3eDdCY2RpSUFWM3NlODk5U1RaVUlqdlVVY0FrVk5PWXM2MU1TMFJJZC1Tc2FaT2U3OWItcw?oc=5"
+      },
+      {
+        "text": "FG starts new power control centre to curb blackouts",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mTnRiUEtybk5oV2dqVjBMU1M2ODA3VHRUTDN6R2FwMXpqMXdIN2U1d0c4Y256bEhYM09KcGdFYXZsNGZsSTBUbDA4Q0NueFVzLTZLZHBoRXNPR21NVlpCNExhdWJFZms5WlBaUUZfUHJuYXUzVDZrS2JJcW9pZw?oc=5"
+      }
+    ],
+    "marketGap": "No affordable, scalable backup power exists for small retailers; diesel generators are costly, noisy, and polluting, while existing solar home kits lack the capacity for commercial refrigeration.",
+    "executionPlan": "Launch a pilot delivering solar‑panel‑plus‑battery kits sized for freezers to 10 shops, equipped with a simple IoT monitor and a mobile app. Charge a flat monthly subscription covering hardware amortisation, maintenance and energy. Validate demand, then scale regionally and add financing options for larger outlets.",
+    "competitor": "M‑KOPA (pay‑as‑you‑go solar home systems)",
+    "trend": "Rapid growth of renewable energy and pay‑as‑you‑go financing models across Africa"
+  },
+  {
     "id": "ai-diagnostics-regulation-gap",
     "title": "Regulated AI Diagnostics for Rural Clinics",
     "category": "Health-tech",
@@ -452,31 +478,5 @@
     "executionPlan": "Build a mobile MVP that lets farmers apply for short‑term loans tied to climate‑resilient inputs; integrate satellite‑derived yield forecasts for risk assessment; partner with Equity Group to fund the loans using the $200 m IFAD pool; charge a modest interest plus service fee. Launch pilot in Kenya’s Rift Valley, then scale to Uganda and Tanzania.",
     "competitor": "Tulaa provides input financing but lacks climate‑risk‑linked repayment models; YieldLink would be the first to combine climate finance with yield‑linked digital loans.",
     "trend": "Accelerating climate‑finance mobilization and high mobile‑money adoption are converging to make digital agri‑credit viable across Africa."
-  },
-  {
-    "id": "securepay-verify",
-    "title": "SecurePay Verify: AI‑powered fraud guard for mobile money & gift cards",
-    "category": "Fintech & Payments",
-    "tagline": "Users lose money to fake gift‑card and mobile‑money scams with no real protection",
-    "dateAdded": "2026-09-19",
-    "whyNow": "Recent high‑profile romance and gift‑card scams have shown that existing payment channels lack real‑time fraud protection, and rising AI adoption makes sophisticated detection feasible now.",
-    "proof": [
-      {
-        "text": "Microsoft notes that digital trust is a critical challenge in Africa's mobile money ecosystem, hindering user adoption.",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaXFPNGZMVTh6ci1IT3hPTVZYLWhyZkxvSkRLUS1BWENUZWNtS2FJQlcwc0NCTWNuM2kyVjdKZGJRWEZzM3JkTGNDM2NjZC1ZTHpjeEU5Vzkta2JOdXRnSk42Uy1uOVVwbGhYT0J6SExuM05CN0Qwdl9SaUlWdmdCX3VrZTBweEFJT09JNm0yWi00ZklDQ01uaVowYWs5Q3hpYVN6bw?oc=5"
-      },
-      {
-        "text": "Africa Check warns that gift card scams in Nigeria routinely trick users into sending prepaid card codes, leading to significant financial losses.",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS3B5S2VYaFA2Z016dldrQ1lrUTFNRUZtem1fSXdYV3BiWkRaaUc1SmkxMFJWc0haQVVLYTg4eTVwYjdVSThEZDVvaFpRczNTZHgxUFFEekFCQ2VHV1IzNGFzOV9hMFdVS1c5bDdHZ0R4X1djSzF5UnBhamx3QVZ1cVBORzBHaGV4bnc?oc=5"
-      },
-      {
-        "text": "TikTok was found to have ignored impersonation and fraud reports from Ghanaian users, underscoring the need for better fraud detection mechanisms.",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUlpXbkc2UC1OMDc3WUdFb1hOWXZfbFVRSGhwWUpmRWVOVjJkb0tDaHZzc0NZbVZyeEVKN1ZTbUpzUzRyTXRWcFNsemVUa2J5eUZfc1lMa3MyVFk1cFU0YV8ybGhzcW92YVJfWDRkc1RrZ1VFMTg5VGZSR2JDUGc1VlhZcjVuUkNxWV9yTndBU0NzRWg0Wm5KVFY5N0pjdlNZN0twSVkzc3FPcGp2N084WDNkTkhuaXRY?oc=5"
-      }
-    ],
-    "marketGap": "No solution currently offers real‑time, AI‑driven verification and escrow for mobile‑money transfers and gift‑card payments in Nigeria, leaving users exposed to scams.",
-    "executionPlan": "Launch an MVP that integrates with popular USSD and WhatsApp payment flows, scanning transaction details against an AI fraud model and a blacklist of compromised codes. Offer an optional escrow service for gift‑card codes that releases the code only after buyer confirmation. Monetize through a subscription fee for merchants and a per‑verification charge for individual users.",
-    "competitor": "None provides AI‑powered real‑time verification for mobile‑money and gift‑card transactions in Nigeria",
-    "trend": "The surge in mobile payments across Africa combined with advances in AI‑based fraud detection makes this solution timely."
   }
 ]
