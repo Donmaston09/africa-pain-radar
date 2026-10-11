@@ -1,5 +1,31 @@
 [
   {
+    "id": "ethiopia-mobile-money-fraud-costs",
+    "title": "Low-Cost Fraud-Resilient Mobile Money Hub",
+    "category": "Fintech & Payments",
+    "tagline": "Reducing fees and fraud for Ethiopian mobile money users",
+    "dateAdded": "2026-10-11",
+    "whyNow": "With Ethiopia pushing for financial inclusion, rising transaction fees and fraud are eroding trust, and recent reports highlight urgent gaps that threaten targets.",
+    "proof": [
+      {
+        "text": "High digital transaction costs and fraud gaps are threatening Ethiopia’s financial inclusion targets",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85dVo4WU9VTGMwYVJnQ1VuZ0VSYV9SQzM3dk14QjZNYlRxWU5hUFhndmF5amxRazYyNUhBSVRLX3lUeEhrenU2U1ZWLXNOdEpMUlRLMQ?oc=5"
+      },
+      {
+        "text": "Malawi Prison Service installed CCTV to combat mobile money fraud",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGlabWJtYVZBNXNUS2x1bEYzdG8yai1Bc1AybEJ0WXMwbWhxdGQyZ0ZmekEzOU40LW5vSHBDbTM5YjVJM3Q0VmhVVjJxeE9IRmtvSFhwWG8yNWtQblVMYnZ5WlppOE1oRzRweUdxTkhNNmlzcjI5Rmx4eUtkQkJCd1ZyM3d3czFZbXVwc2tCNmpPM1JyeFZOUkF6TjBXTTJnZnh0RVNDRmpscUpJMFVCNnBhZ3VnQQ?oc=5"
+      },
+      {
+        "text": "Ghana‑US operation netted 130 arrests in a $10 million online scam crackdown",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa3VuUWw0YmpCSEFETExJcUVoU1N3bXRRQ29zZkxEbHQxaUxKOVJndU9NYkFIb0ZWRzlsYUhJZGthd1lzNnF5RzI5RmNQaUI1RlNkZnBhMVFKeVhaZEFQc3haMm1la2RtdU9Fa0pkUzRvWUROWjBZNWxYUUFJR0JwQkxRdnV0S2hUdTR4aWcxUm5kVlFDRWs0dVYxTnotQ3JWaUJIbmZWRQ?oc=5"
+      }
+    ],
+    "marketGap": "No affordable platform that bundles low‑fee transfers with built‑in fraud verification for Ethiopian users, leaving them to pay high fees or risk scams.",
+    "executionPlan": "Launch an MVP that partners with existing mobile money operators to offer a white‑label app that aggregates transfers at a capped 0.5% fee and integrates simple KYC and transaction monitoring. First build a fee‑comparison engine and a basic fraud‑alert rule set, then pilot in Addis Ababa. Monetize via a small transaction fee and premium fraud‑protection services for merchants.",
+    "competitor": "M‑Pay (Kenya) offers similar services but does not operate in Ethiopia; locally, no comparable low‑fee, fraud‑focused aggregator exists.",
+    "trend": "Rising digital adoption and regulatory focus on financial inclusion are driving demand for cheaper, safer mobile money solutions."
+  },
+  {
     "id": "solarfreeze-subscription-backup",
     "title": "SolarFreeze: Subscription Solar Backup for Small Shops",
     "category": "Energy",
@@ -452,31 +478,5 @@
     "executionPlan": "Build a mobile app that lets refrigerated truck owners join a fuel pool, prepay for bulk diesel deliveries and access shared portable generators. Launch a pilot in Lagos with 20 operators, charging a small subscription fee plus a transaction margin",
     "competitor": "None directly; closest is generic fuel delivery services like Oando’s fleet fuel, but they don’t offer pooled buying or backup power",
     "trend": "Rising fuel scarcity and the growth of e‑commerce cold‑chain logistics are driving demand for resilient transport solutions"
-  },
-  {
-    "id": "climate-finance-for-smallholders",
-    "title": "YieldLink: Climate‑Adapted Credit for Smallholder Farmers",
-    "category": "Agri-fintech",
-    "tagline": "Smallholder farmers lack affordable credit to adopt climate‑resilient practices, limiting yields and income",
-    "dateAdded": "2026-09-20",
-    "whyNow": "Recent $200 million climate adaptation financing agreements between IFAD and Equity Bank show both donor and commercial appetite for farmer credit, while the broader climate‑finance gap is intensifying risk for smallholders. With digital mobile money penetration high, the window to launch a yield‑linked loan platform is immediate.",
-    "proof": [
-      {
-        "text": "Africa’s climate finance gap is becoming a risk‑sharing problem for farmers and small businesses",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRVhoUXhIVlhVNWR6YjBTWkNsXzVjcjlSODBqbVZFUE5PYWlxekFPS1hMTWZraThsNjdlZnU2TUhOWHJ3WE9aUWJON3I1MENQR0tZY3NnYmVNT05Kd1d2ZDk0T19UblAwYmx3d0JKTUZCLTBLUmlGMjBXbXQ1b0k0TFZvdDNPNUs5Z3BwQjhpLWUyZXpPdnlYczlBQ3RoSWpVVEtHa0RSOTlheU1feU14RWpxZUpoTENfWUhaeGJrdVdLN2lVMW9EWFUwWjVlQkVvb0E?oc=5"
-      },
-      {
-        "text": "$200 million climate adaptation financing deal between IFAD and Equity Bank",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQU92Ynh5ZW5saExkUHM0ajQtclM3aTY5NDNUN2VoT1AtYm44d3VpMVZ0TW5Yb3poc3ZRLXczdC0xSFhIck5OMERtanVzdW5jTEZyRUhVU2EzUmxfUzF2aEw4UU51MlgzQkZNSHhYak51SkI4TkRZOHhPVUNVQ1BVVEZSaTAtMnQzRDNqalJHZTNUbU5PQkdsTGZ1YlM1T1dnNWF6VjZhRVNlTHRtSWZ6NDJEOGRYaUdiV3V3N21iVktWc3FRbV9KZUVmTDQtRjJ3eW1JMHFoVGZzWUl4dzgwYzIyOTNobWNZYkE?oc=5"
-      },
-      {
-        "text": "Closing the finance gap to include more women and young people is not charity, it’s smart business",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPa2pKU3JzYUw1dnVEbmp0SmdBTFg2Ylk2X3FNTjItRXlrSkZuTHZJWF9SUmNmSlJaTlBveTAyRVBycFdycGJPRDN0ZVNvbkViTTNrRlk5aXREc3U5UFAtSHRZVzZlZ0p6UGQyaVEwVG0tQXhuVFRYaWNQTk8xSHRvNklzbUJLTmZ1LTFuWjIteDh2bmc1VjIyN2txcUxjMW84VTJDcDd4TVZ3SEtMRUhNcjAxWkY3T2NZREV6QjFRNzNjYnBMUFJEaFVod3pkQkdIUzhna3NhdlpFUmVSNTFqeWxmUW9EaGFYZ2I1Ync3T2FMTkVFQmpKbExLWFd4QlU?oc=5"
-      }
-    ],
-    "marketGap": "No dedicated platform offers climate‑adapted, yield‑linked financing that aggregates donor funds, bank credit and mobile money to serve smallholders—especially women and youth—at affordable terms.",
-    "executionPlan": "Build a mobile MVP that lets farmers apply for short‑term loans tied to climate‑resilient inputs; integrate satellite‑derived yield forecasts for risk assessment; partner with Equity Group to fund the loans using the $200 m IFAD pool; charge a modest interest plus service fee. Launch pilot in Kenya’s Rift Valley, then scale to Uganda and Tanzania.",
-    "competitor": "Tulaa provides input financing but lacks climate‑risk‑linked repayment models; YieldLink would be the first to combine climate finance with yield‑linked digital loans.",
-    "trend": "Accelerating climate‑finance mobilization and high mobile‑money adoption are converging to make digital agri‑credit viable across Africa."
   }
 ]
