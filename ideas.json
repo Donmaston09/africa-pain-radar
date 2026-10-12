@@ -1,5 +1,31 @@
 [
   {
+    "id": "rent-affordability-platform-nigeria",
+    "title": "RentEase: Shared Lease Platform for Affordable Urban Housing",
+    "category": "Housing",
+    "tagline": "Rising rents are forcing Nigerian families into deprivation, with no affordable rental options",
+    "dateAdded": "2026-10-12",
+    "whyNow": "Nigeria’s urban rent prices have surged in 2026, driving households into deep financial strain just as digital payment adoption is at record highs, creating an opening for tech‑enabled shared leasing solutions.",
+    "proof": [
+      {
+        "text": "high house rents push people into deep deprivation",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPakF5YzlXcFhIb0ZsUVlhYy1xMnhVME50dG1UaGNVblFkQnF0b3ZxUjBVZGdQVk1mOU5lUWVXdURfeC0zcFE4VkVydGpib0p2NnhSeWlRajhUNDRBYVJTY09KNDRySEV1bTZaeW54cHJSVlBXbHpjeGFpRTc4TEh5YmlvWmt6SWpCTmlaYWFKeDZIQQ?oc=5"
+      },
+      {
+        "text": "Housing affordability crisis deepens as rents climb in Asaba",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1ZYdmVVdEltVVJPSm9Eal9JS29VZWtyUTJrZTN4ZUpKRld5bE9MM3k0S1drYkw3MXoyaXZYeGdwUEhHLUxIQXVQS0xKRGw0dXhRWlVXeWwwR3JkOFJhSkNxcHNMdU9wclViOWxBbXVNbmxNZzJ0bGdXeVNIVmNQS3hyci1Rdzg?oc=5"
+      },
+      {
+        "text": "Lagos rent crisis highlighted by Governor Sanwo‑Olu, stating adequate housing goes beyond building houses",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ01xWWtDekxBQnFxcHlsRl95LW9sQkU0R2dVVWhwUzlYWTFubDZ5bmttaDJOcXlJUHFGWVJ4WVpncUEtNFBhc0M5WUlIRXhkalhUd2syVm1QOGtjLThSeDdZeWx5UXE4QS1NUUVsdFktWUE0NDZKOGhMQzhpSng0X1pYVi1ZX2t2TGlfRzhFdEV0MlJYb253UFJQMHBvQVM4NkdOT0RMTEs?oc=5"
+      }
+    ],
+    "marketGap": "No platform currently aggregates under‑occupied units for shared leasing or offers rent‑splitting agreements tailored to low‑income renters in Nigerian cities",
+    "executionPlan": "Build a mobile app that lists spare rooms and small units from landlords willing to rent on a shared basis, with a built‑in rent‑splitting calculator and verification. Launch MVP in Lagos with 100 pilot listings, partner with local property agents, and charge a 5% transaction fee on each lease agreement",
+    "competitor": "None offers a dedicated rent‑splitting marketplace in Nigeria; closest is generic property portals like PropertyPro, but they lack shared lease focus",
+    "trend": "Urbanization and mobile‑first fintech adoption are accelerating demand for digital solutions to housing affordability"
+  },
+  {
     "id": "ethiopia-mobile-money-fraud-costs",
     "title": "Low-Cost Fraud-Resilient Mobile Money Hub",
     "category": "Fintech & Payments",
@@ -460,23 +486,5 @@
     "executionPlan": "Build a mobile diagnostic unit equipped with portable spirometers and AI‑driven interpretation, schedule weekly visits to partner clinics, charge a per‑test fee and offer subscription packages to clinics for unlimited access",
     "competitor": "None directly; closest alternatives are generic telehealth platforms such as Babylon Health Africa",
     "trend": "Rapid growth of telehealth and mobile health devices across Africa is lowering barriers to remote diagnostics"
-  },
-  {
-    "id": "coldchain-fuel-pooling",
-    "title": "ColdChain Fuel Pool",
-    "category": "Logistics & Transport",
-    "tagline": "Transporters lose revenue as fuel scarcity forces freezers to shut down and perishables spoil",
-    "dateAdded": "2026-09-21",
-    "whyNow": "Nigeria’s chronic fuel shortages are worsening after recent refinery outages, inflating transport costs and threatening food security, making an immediate solution critical",
-    "proof": [
-      {
-        "text": "Let The Freezers Freeze, Not Nigerians",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKTEZlVEU0TTZYNGt3aWZHWm85VmxGZWVSdlMyUHYtVEZramtnamI1X0s4MjJDdURLVEhLVm8zWWg3SGJsQWw4a0pONEJnUUJTMlFRY3JYQXFJRjNlcVNEbGZfVHJoRk5ra3ZVNHBMb1A?oc=5"
-      }
-    ],
-    "marketGap": "No service currently aggregates transporters to collectively purchase fuel and share backup power, leaving each operator vulnerable to supply gaps",
-    "executionPlan": "Build a mobile app that lets refrigerated truck owners join a fuel pool, prepay for bulk diesel deliveries and access shared portable generators. Launch a pilot in Lagos with 20 operators, charging a small subscription fee plus a transaction margin",
-    "competitor": "None directly; closest is generic fuel delivery services like Oando’s fleet fuel, but they don’t offer pooled buying or backup power",
-    "trend": "Rising fuel scarcity and the growth of e‑commerce cold‑chain logistics are driving demand for resilient transport solutions"
   }
 ]
