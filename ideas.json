@@ -1,5 +1,23 @@
 [
   {
+    "id": "fuel-hedge-platform",
+    "title": "Fuel Hedge for Transport Operators",
+    "category": "Logistics & Transport",
+    "tagline": "Transport operators can’t afford unpredictable fuel shortages and price spikes",
+    "dateAdded": "2026-10-13",
+    "whyNow": "Fuel scarcity is intensifying in Nigeria, pushing transport costs higher and sparking social tension, so operators need immediate price certainty.",
+    "proof": [
+      {
+        "text": "Nigeria is experiencing severe fuel scarcity, driving up transport costs and threatening social peace",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TRS02b1hyV0s0NGxEQ0JENzU3aW9ZVkdZNkxrOWY5RGVOUDVVR0JpZUt4VGNtZ29NczBZcVdhenpsNi1hZXg2SmN6anREanZrTGtWNlpjSVptS0c5ZkRYSG0wX0p0UkVKVHFMeHJFSUphSnM?oc=5"
+      }
+    ],
+    "marketGap": "There is no affordable, digital platform that lets small fleet owners collectively lock in fuel prices or guarantee daily deliveries, leaving them exposed to volatile market shocks.",
+    "executionPlan": "Launch an MVP mobile app that aggregates fuel demand from mini‑bus and truck owners, partners with licensed fuel depots to secure bulk contracts, and offers a subscription guaranteeing a fixed price per litre; monetize via a modest service fee on each litre delivered.",
+    "competitor": "None exists directly; the closest alternatives are traditional fuel brokers and ad‑hoc cash purchases.",
+    "trend": "Rising fuel price volatility and supply chain disruptions are driving demand for predictable fuel procurement solutions in Nigeria."
+  },
+  {
     "id": "rent-affordability-platform-nigeria",
     "title": "RentEase: Shared Lease Platform for Affordable Urban Housing",
     "category": "Housing",
@@ -464,27 +482,5 @@
     "executionPlan": "Develop a modular kit with a 5kW solar panel, battery storage, inverter and an attachable solar freezer. Launch a pilot with 20 SMEs in Lagos on a subscription model, charging a monthly fee for power and refrigeration. Revenue comes from hardware lease and service fees.",
     "competitor": "Sun King",
     "trend": "Off‑grid solar adoption is accelerating across Africa as component costs fall and governments push for energy diversification."
-  },
-  {
-    "id": "rural-lung-diagnostics-ng",
-    "title": "Rural Lung Diagnostics Hub",
-    "category": "Health-tech",
-    "tagline": "Patients in remote Kenyan villages travel hundreds of kilometers for basic lung tests",
-    "dateAdded": "2026-09-22",
-    "whyNow": "Rising respiratory disease rates and limited clinic capacity make immediate action critical, especially as telehealth uptake accelerates across Africa",
-    "proof": [
-      {
-        "text": "Kenya’s Lung Health Services Face Major Gaps Beyond Tuberculosis",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0w4SXlodHRJSW5yT0YzaVFWSkh3Q0FPYjRaNUJzVExULTlITG9vc25neng1UDk2R3VzWk5FMWRNbGthUkxiVzZNVWFNaGlUa0gtOU80a2pNMFRBSWxoVmExSndRYnVqd3dWRXg4bV9FS04zTjRLakk3SmF5dXZIUVdkUWFvX1JUYjJ2aFpuRDNVby13RjBRdA?oc=5"
-      },
-      {
-        "text": "Telehealth Market Size, Share & Growth Report | MRFR - Market Research Future",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LNGktRThrNE1tNjlpYXhpMVVpZ0pPeG5LdnZxWGpYM3N5YllkTXhpSDVDZFE2ZUt3d3ExbjJlalJMVVBxU2lsdWZUZTZ2Z0NJaWtJcG10N1RMVlh4NzRJQTRrQTk4eXhYMHJGSGVPVENMXzgz?oc=5"
-      }
-    ],
-    "marketGap": "No affordable, portable diagnostic service currently brings spirometry and basic lung testing to rural health centers, forcing patients to travel long distances for care",
-    "executionPlan": "Build a mobile diagnostic unit equipped with portable spirometers and AI‑driven interpretation, schedule weekly visits to partner clinics, charge a per‑test fee and offer subscription packages to clinics for unlimited access",
-    "competitor": "None directly; closest alternatives are generic telehealth platforms such as Babylon Health Africa",
-    "trend": "Rapid growth of telehealth and mobile health devices across Africa is lowering barriers to remote diagnostics"
   }
 ]
