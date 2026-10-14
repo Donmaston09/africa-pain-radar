@@ -1,5 +1,31 @@
 [
   {
+    "id": "water-forecast-sme",
+    "title": "Water Forecast SaaS for African SMEs",
+    "category": "Climate & Water",
+    "tagline": "SMEs lose revenue because they can’t predict water availability for their operations",
+    "dateAdded": "2026-10-14",
+    "whyNow": "El Niño‑driven droughts are intensifying, threatening contract fulfilment for small businesses, while climate financing is expanding to support water resilience solutions.",
+    "proof": [
+      {
+        "text": "CREATES assesses two shared river basins in Eastern Africa, highlighting gaps in on‑ground water security data.",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVk44dnJLUllWTU9QdXV0WlRKUjk1dE1JYTBkN2NzcUVmdTZQYlMybnhtckw1aVVqTXBIaXpOWHBSY3dpMGZhNHF2UDUzUG9rUDVyRVR6MV8xbFYxRmRHbzJwX1hIaVEwdUFVNmg2MEdOMDNhU01rS2NOZzRRTUdxYUNPN2IwUktJaHl4NS0xQTFCRFJ2amtaWlUtdThPN29TYWx4dXJEanY5Z05IbFJHMg?oc=5"
+      },
+      {
+        "text": "El Niño puts business contracts under pressure as drought risks rise.",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTdHZlJTYi1waExkVXRCTEhyUF92OVZhUFBBZjVJU0R2R3hTbFg3R1A5d2lERHhWQ01Oalh4aTBUSU0wRXhvVWtwVHVOMVY3V0ZhRzlOSmNLem9WMHY2U1pmX253OEU2TW9HdGp6X0phWFZKNFRFSC16aFFzVDFqSVNvNnI3WWdxaFEwdDJQNElSWDlGSkxBMzZpc3ZRa1AzUkVGNXl5cw?oc=5"
+      },
+      {
+        "text": "FG targets $500 m climate financing for resilient infrastructure, signaling increased funding for water‑related projects.",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZERHa29YUnRrN1RtMjZNNEd0SDd4UFhGbkRuVkEtTmVDNTJFVUNXRkdkeUdBRzhZd0FVckhHQ1R0VWZ0WHB3MWdhWkkteDN0Z3pyZG90Q2Q1MFU4aTdWWGNNVGwyZjc0VG9mVjM3ZlJOVDYtYjdsRDFIaU9Mcko4T0FmUVAtQTV0WlVqZU9mMjRKYUM2ZWc4?oc=5"
+      }
+    ],
+    "marketGap": "There is no affordable, real‑time water‑availability forecasting SaaS tailored for small and medium enterprises in drought‑prone African markets.",
+    "executionPlan": "Build an MVP that aggregates satellite‑derived precipitation and river‑gauge data into a simple dashboard delivering daily water‑level forecasts for key basins. Pilot with 20 SMEs in Kenya’s agricultural processing sector, charge a US$20/month subscription, and expand to other sectors as data coverage improves.",
+    "competitor": "none exists",
+    "trend": "Rising El Niño‑driven droughts and a surge in climate‑focused financing are pushing African businesses to seek data‑driven water risk solutions."
+  },
+  {
     "id": "fuel-hedge-platform",
     "title": "Fuel Hedge for Transport Operators",
     "category": "Logistics & Transport",
@@ -456,31 +482,5 @@
     "executionPlan": "Build an MVP web/app that crowdsources price data via user submissions and operator APIs, displays side‑by‑side comparisons, and offers a subscription for premium alerts. Partner with telecoms to secure volume‑discount agreements and earn a commission on each bulk purchase. Launch first in South Africa and Mozambique, then expand regionally.",
     "competitor": "MyBroadband price tracker (limited to South Africa)",
     "trend": "Rising mobile data consumption and regulatory pushes for price transparency are driving demand for clear, comparable pricing solutions."
-  },
-  {
-    "id": "solar-backup-sme",
-    "title": "Solar Backup & Cold Chain for Nigerian SMEs",
-    "category": "Energy",
-    "tagline": "Frequent blackouts are forcing small businesses to waste money and spoil inventory",
-    "dateAdded": "2026-09-23",
-    "whyNow": "Nigeria’s grid failures are worsening, and recent reports show off‑grid solar can cut costs while new solar‑powered freezers are hitting the market, creating immediate demand.",
-    "proof": [
-      {
-        "text": "The Businessfront article notes that off‑grid solar can help solve Nigeria’s electricity crisis for small businesses.",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONGxSQVBQUE9tZ3EtcXNIb090XzVWTVpqS0laaFltemcyUl9RcGZlcHZiSlRpN20tV1RPemgyWXc4UHV0MHR0d2VhRDJKeVY0a2pZSGJyenBJUDc0SC1QQ2VySEVMYUZlamxKdjBUYkw5eUVTRlJfLUp6TlVnWkVCVk9hbHQxYk1lQXlUenJ0NUYyN0dhWTdPcy1PX1c?oc=5"
-      },
-      {
-        "text": "Sun King launched a solar‑powered freezer to keep perishable goods cold for businesses.",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzFwUEVUTnJlZU5BQW81c2ZoVnM4OTBmSXR5U042YzlIV3FOLVBYSU03clBlN2x3WUlyaDR1RmxDdW52c0ZvUWM4NjhNcENkX2trbjAzX3VrZEF0VmVHNE1wUWZ2UERvYS1nWmVIWmxPUkxINHNDbThLSGFnM0hXMWU2MW8taVpkaXpDdGF5aFVhWFNfdVdsa1hkcElZMGxReHdnX2JZSFl0a0FF?oc=5"
-      },
-      {
-        "text": "Elektron claims embedded power can cut corporate capital costs by 40% in Nigeria.",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUjJJUHBVR3lTVUNadF9hYzVPdGtBanJEV2J0LVVabzFrNE9MR3dHelQ0bURWeHZjY1FSMDBPZV9NbGVwQXBkZGxjZUk2LWJnaWJYNDVzRDhkOHRNUGlhYnJrMmVQVWZEdEZkMG13dFp6SjhTa09LbDdBcE1sOTlRMlFOcWlSVFo0SkUxaHpnSkhhMm02VUpCSHhWNDJfLVhYb3ZHN0pUZUE3WFdLVEUtbnRzYXM?oc=5"
-      }
-    ],
-    "marketGap": "There is no affordable, plug‑and‑play solar backup system that also provides cold‑chain capability specifically designed for small retailers and food vendors.",
-    "executionPlan": "Develop a modular kit with a 5kW solar panel, battery storage, inverter and an attachable solar freezer. Launch a pilot with 20 SMEs in Lagos on a subscription model, charging a monthly fee for power and refrigeration. Revenue comes from hardware lease and service fees.",
-    "competitor": "Sun King",
-    "trend": "Off‑grid solar adoption is accelerating across Africa as component costs fall and governments push for energy diversification."
   }
 ]
