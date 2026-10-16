@@ -1,5 +1,27 @@
 [
   {
+    "id": "datashare-community-bulk-data",
+    "title": "DataShare: Community Bulk Data Purchase",
+    "category": "Connectivity",
+    "tagline": "High mobile data prices force Africans to limit internet use and miss out on work, education, and entertainment.",
+    "dateAdded": "2026-10-16",
+    "whyNow": "With remote work, online learning, and streaming surging across Africa, the pain of expensive mobile data is intensifying, making affordable bulk purchasing a timely solution.",
+    "proof": [
+      {
+        "text": "Why Amazon Prime video beats Apple TV+ for value in South Africa",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3ZsdHA4OGR4dVI4NzFLaFJMSDBrcUk5dDBPeFBVRWZwZUFURUNnbHlVRi1DNkhPbW1RWmc4eE5pOVcwYW5LSzYwN0lKODRtNUJOckxLY1o4MEdvZUtXbFhfMDhtUjIzU2RHMmJBWjBnYXktVmpOT1lldW1FWjdtSzZkQ2Y1WW5ZVjN3Y0d3LS12YlljeE90MTd4MUp2czJ0WDF6VVh1eXIzVEgwalBOSjFoN1pZamRyVUJGMUpvMFppUWZkNTk2aWowRkw?oc=5"
+      },
+      {
+        "text": "Best Data Removal Services of 2026 (Tested & Ranked) - All About Cookies",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lR1dWYk8ya2VVSmZVSmp6ejVMVk10SXNSbjRYdTBXX0IycGM0cVdVWmFtcGd1eTdsbkxvZUpvWVo1UFFKR01mX0h1WW8wRTBMaC1pd19PVnZ3Xy1TWGZxT0F5SQ?oc=5"
+      }
+    ],
+    "marketGap": "There is no platform that lets individuals or neighbourhood groups pool their data needs to negotiate wholesale rates with carriers, leaving users to pay retail prices.",
+    "executionPlan": "Launch an MVP web/app where users create or join community data pools, the platform aggregates demand and purchases bulk data from telcos at discounted rates, then distributes credits to members. Start with South Africa's major carriers, charge a small service fee per megabyte distributed.",
+    "competitor": "None exists as a dedicated community bulk‑data marketplace; existing carrier bundles are individual only.",
+    "trend": "Rising mobile‑first internet usage and streaming demand are driving up data consumption across Africa."
+  },
+  {
     "id": "water-forecast-sme",
     "title": "Water Forecast SaaS for African SMEs",
     "category": "Climate & Water",
@@ -460,27 +482,5 @@
     "executionPlan": "Launch an MVP in Lagos that partners with 3 large employers to subsidise a curated pool of 100 vetted rental units, offering a simple booking and payroll‑deduction payment flow; charge employers a monthly subscription for access and a small service fee on each rent payment; after validating demand, scale to other cities and expand the inventory by converting abandoned public properties.",
     "competitor": "None directly; closest alternative is PropertyPro, a general property‑listing marketplace",
     "trend": "Rapid urbanisation and rising rents in Nigeria combined with growing employer focus on employee welfare are driving demand for innovative, employer‑backed housing solutions"
-  },
-  {
-    "id": "transparent-data-marketplace",
-    "title": "Transparent Data Marketplace",
-    "category": "Connectivity",
-    "tagline": "Consumers can see and compare real mobile data prices across operators to avoid hidden costs",
-    "dateAdded": "2026-09-24",
-    "whyNow": "Mobile data prices in Africa are soaring and regulators are beginning to act, as seen in South Africa’s new plan to cut prices and Mozambique’s demand for pricing transparency. Immediate consumer pain creates a window for a solution that brings clarity now.",
-    "proof": [
-      {
-        "text": "Mozambique seeks mobile data transparency",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbHFKbXhTSnJ4cU51RzBhQTdfZm5jZi14dlBXLUFBOVhZTEhjZzdMY3lsZHlqenlyUUd1Q3BMQjY5RVRkdDhabGluSGtHQUZWdE8tZWNmOXp2ejhEMVdTS1RkdUZCS0VMNFdnNVViQ0IxTVBybVNFcERrNVF0N2hvV0I0ZlRTalNlNDNNTEZiWkc?oc=5"
-      },
-      {
-        "text": "Plan to reduce mobile data prices in South Africa",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWDl6MGZTc1pSdkZwc0lFeEk1X0tPWUlpeE9ma0hlNHNPaVNGUEp0amVlbnd0VDJqak1ycUlGVzJtd1NyeDBNdEtlNzBXazJWU1NpaG5ub0NtN0ltU3JnMHZLNV9rT0c1UEFtYmJTRUJKWFgyMWtzTkpmSFd0dnNxX09JQXhGaWxnYXpNbjhxUzhwaWlMYlRDaXpTb2ZCOWxiSk44?oc=5"
-      }
-    ],
-    "marketGap": "There is no unified, real‑time platform that aggregates mobile data tariffs from all African operators, lets users compare them transparently, and negotiates bulk discounts for consumers and SMEs.",
-    "executionPlan": "Build an MVP web/app that crowdsources price data via user submissions and operator APIs, displays side‑by‑side comparisons, and offers a subscription for premium alerts. Partner with telecoms to secure volume‑discount agreements and earn a commission on each bulk purchase. Launch first in South Africa and Mozambique, then expand regionally.",
-    "competitor": "MyBroadband price tracker (limited to South Africa)",
-    "trend": "Rising mobile data consumption and regulatory pushes for price transparency are driving demand for clear, comparable pricing solutions."
   }
 ]
