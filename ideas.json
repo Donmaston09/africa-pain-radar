@@ -1,5 +1,27 @@
 [
   {
+    "category": "Trade & Logistics",
+    "competitor": "None offers a dedicated Nigerian landed‑cost calculator; closest alternatives are generic trade data services like TradeMap.",
+    "dateAdded": "2026-10-17",
+    "executionPlan": "Develop a web‑app that pulls Nigerian customs tariff data and global anti‑dumping lists via APIs, then calculates total landed cost for any HS code. Launch MVP with a searchable cost calculator for the top 100 imported goods used by SMEs. Monetize through a subscription tier offering bulk API access and compliance alerts.",
+    "id": "customs-cost-calculator",
+    "marketGap": "No localized Nigerian platform aggregates customs tariffs, anti‑dumping duties, and other hidden fees into a single landed‑cost estimate for SMEs.",
+    "proof": [
+      {
+        "text": "India launches anti-dumping probes into five Chinese products after domestic industry complaints",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaU1VTV9VQUxUcTgtbmZ5amFaM3JyNjV2SzZ1ampPZXFLdmNLN0Q1OVFVWjFaMmZXQUFFYUtpWlVNb0tBQ1luREo4NzM3bkpxR2tnVTVfX1Y2eW11cGwzVnZWWm00ekU1MXh1ZXpLeWdsVWNMMVhRR1hudzhvY2JfNTlHbFlLN19nMGFEZ3RWZXQ2VDV6a0hFdjB0N3lIVXp1Yy16d1ZxTWNrX1J0cFc4aVprdV91a05Ob3haTEx5TUxvZHZKRjh1UzIzOU00dFFwVWxUNWVUZXVSWWNyREZ0a1BDWnN4em9FcldobTJnM1dyek9ueEZMa0tMX0R0emNvNTVXc2pSS1jSAY4CQVVfeXFMTzB1YTZIYlREckNzMExkOFh5bUlfcExKcDZLeGVEQm5NTzNEcE1rUVNBXzFGNFZqZmhzZi1RbnhISmFvUXFMZjlUQmxPYUtpVlk3LVk1cFRWenh5dHQxOXpUMlpCOHlqNWYzUHBKeG9GRHQzeHlfMURMNVlBYmJlb1lxbjdCWG1hSVNXeXRUckpDbkR2YXRQcWpfTzUtMkYyclh0QzEyYUU4eFdJdnE4X2dRNVpfcHNFWVhFRW9MU0c5VDBrRy0zd0xhZmppdkNBSnZXQk1abGN6VWhnWUt5OGlubmNXY2luc0REVUN1VGE3MUF4MElGS0d3bHc4Q19wMzBxYXl1WEhZeXJVRDhB?oc=5"
+      },
+      {
+        "text": "Domestic industry complaints are prompting anti‑dumping investigations, highlighting hidden costs for importers",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaU1VTV9VQUxUcTgtbmZ5amFaM3JyNjV2SzZ1ampPZXFLdmNLN0Q1OVFVWjFaMmZXQUFFYUtpWlVNb0tBQ1luREo4NzM3bkpxR2tnVTVfX1Y2eW11cGwzVnZWWm00ekU1MXh1ZXpLeWdsVWNMMVhRR1hudzhvY2JfNTlHbFlLN19nMGFEZ3RWZXQ2VDV6a0hFdjB0N3lIVXp1Yy16d1ZxTWNrX1J0cFc4aVprdV91a05Ob3haTEx5TUxvZHZKRjh1UzIzOU00dFFwVWxUNWVUZXVSWWNyREZ0a1BDWnN4em9FcldobTJnM1dyek9ueEZMa0tMX0R0emNvNTVXc2pSS1jSAY4CQVVfeXFMTzB1YTZIYlREckNzMExkOFh5bUlfcExKcDZLeGVEQm5NTzNEcE1rUVNBXzFGNFZqZmhzZi1RbnhISmFvUXFMZjlUQmxPYUtpVlk3LVk1cFRWenh5dHQxOXpUMlpCOHlqNWYzUHBKeG9GRHQzeHlfMURMNVlBYmJlb1lxbjdCWG1hSVNXeXRUckpDbkR2YXRQcWpfTzUtMkYyclh0QzEyYUU4eFdJdnE4X2dRNVpfcHNFWVhFRW9MU0c5VDBrRy0zd0xhZmppdkNBSnZXQk1abGN6VWhnWUt5OGlubmNXY2luc0REVUN1VGE3MUF4MElGS0d3bHc4Q19wMzBxYXl1WEhZeXJVRDhB?oc=5"
+      }
+    ],
+    "tagline": "SMEs can’t predict total import costs due to hidden anti-dumping duties and customs fees",
+    "title": "Customs Cost Calculator for Nigerian SMEs",
+    "trend": "Rising protectionist measures and anti‑dumping probes worldwide are increasing import cost complexity, driving demand for transparent cost tools.",
+    "whyNow": "Global anti‑dumping investigations are rising, adding unpredictable surcharges to imported goods. Nigerian SMEs already struggle with opaque customs fees, making timely cash‑flow planning critical now."
+  },
+  {
     "id": "datashare-community-bulk-data",
     "title": "DataShare: Community Bulk Data Purchase",
     "category": "Connectivity",
@@ -456,31 +478,5 @@
     "executionPlan": "Develop a solar‑powered water kiosk equipped with a 5,000‑litre storage tank and IoT‑enabled usage monitoring. Launch a pilot in northern Tanzania, offering a subscription for daily water allotments to livestock owners. Monetize through tiered subscription fees and sell excess water credits to nearby agribusinesses. Iterate based on usage data before scaling to other Sahel regions",
     "competitor": "None at scale – closest alternatives are static community boreholes and NGO‑run water points, which do not serve mobile pastoralists",
     "trend": "Rising climate‑induced droughts and growing green‑entrepreneurship incentives are driving demand for resilient, off‑grid water solutions"
-  },
-  {
-    "id": "employer-assisted-affordable-rent-platform",
-    "title": "Employer-Assisted Affordable Rental Platform",
-    "category": "Housing",
-    "tagline": "Employees can’t afford soaring rents, causing financial strain and turnover risk",
-    "dateAdded": "2026-09-25",
-    "whyNow": "Rent prices in Nigeria have surged, pushing millions out of affordable housing just as companies compete for talent and need to improve employee retention.",
-    "proof": [
-      {
-        "text": "Soaring Property Prices Shut Millions Out of Homeownership",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1ZBZU16eWtuR3NSdzNGdERuUTdGU3RVb1NrcW5xUGowMVVJSV92dVIxS0NDYzYwNXVxRTRGMnlrZXJTdmJnenVnRzU3OW1jMGhPRjhIWkFGTkZ2ZHU2UmpZY29vM1Z2cUN4NzZpMW5VWWFfa1lMeDVsWFJPTVBibGhLS0dpQWR3T0Nsek5kaGNlS3k1bVR2dkY4ZTd1dWc?oc=5"
-      },
-      {
-        "text": "Nigeria’s Housing Crisis Needs More Than Housing Projects, Expert Says",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3I5RWNid29LLXRKcGx4ZGQ5UkNsUGE5THNLSEc3bUFiOXI5R2hJWldMUXVBMS15WkNuY1NEbVNiMEJQRDVEcFpZOXl0aWVFU09za3A0NGh3bWk1WDFvX0o4a0ZTNDg0VnBySlVMOUp5MEF6bVdvcmVJRU5hNVkxcmhTTHQyV1hfOTJUN3FlV0E?oc=5"
-      },
-      {
-        "text": "Experts seek conversion of abandoned public buildings to affordable homes",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWpRZ1hRbUZldGJ6QmpUNFdFTndnWWxHNmM0TVdjWE81NmMtZklfS3RkNTNrRmg1VmJWWGMzZVFtR0NVUjk1WExieW5PQWhGUFRzbWxYN0VxUTFjamRUc3Y4MjVSX1o0VW1BTzhVUVVzSUhpbGpxcldLNlBVbjljejlVR0RlRVFQc1N0eUIzUURYRFAyT3Q2b2VwV3BFUUFwUFZQZlBR?oc=5"
-      }
-    ],
-    "marketGap": "There is no dedicated platform that links employers with affordable rental units or mobilises underused public buildings into low‑cost housing for workers.",
-    "executionPlan": "Launch an MVP in Lagos that partners with 3 large employers to subsidise a curated pool of 100 vetted rental units, offering a simple booking and payroll‑deduction payment flow; charge employers a monthly subscription for access and a small service fee on each rent payment; after validating demand, scale to other cities and expand the inventory by converting abandoned public properties.",
-    "competitor": "None directly; closest alternative is PropertyPro, a general property‑listing marketplace",
-    "trend": "Rapid urbanisation and rising rents in Nigeria combined with growing employer focus on employee welfare are driving demand for innovative, employer‑backed housing solutions"
   }
 ]
