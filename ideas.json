@@ -1,5 +1,27 @@
 [
   {
+    "id": "legal-structure-loan-access",
+    "title": "Legal Structure Loan Access Platform",
+    "category": "SME Finance",
+    "tagline": "Ghanaian SMEs struggle to secure loans because they lack the proper legal entity structure",
+    "dateAdded": "2026-10-19",
+    "whyNow": "With recent regulatory reforms and increased lender interest, SMEs that formalize correctly can tap new financing streams, but many still operate under informal structures.",
+    "proof": [
+      {
+        "text": "The right legal structure is Ghanaian MSMEs’ greatest scaling tool",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmdldVhmbHhYRGN6OW94V215ei0tMEo4cTZhcVFqZWxGUzBYc1B2RzNSaGd2UWJEbEJnVlNhODdUMDhLejRNdkV1bW1jUlhJblBkYl9aZm1RWVFScWxGc1UySXNLQlkwUHc3ZUJ1YzdPYzA1QzVqWEpoS2g5QVRkcFNyQi1UM3JJbmMyeGUwd0M2NkFzdHZxR2lDaFhXSVZmamdIMXJEVEM3anJEYnN4SkF3TmlndDdYSjVQOFNYMkRYODF6WEllcDRB?oc=5"
+      },
+      {
+        "text": "Published on Sun, 18 Oct 2026",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmdldVhmbHhYRGN6OW94V215ei0tMEo4cTZhcVFqZWxGUzBYc1B2RzNSaGd2UWJEbEJnVlNhODdUMDhLejRNdkV1bW1jUlhJblBkYl9aZm1RWVFScWxGc1UySXNLQlkwUHc3ZUJ1YzdPYzA1QzVqWEpoS2g5QVRkcFNyQi1UM3JJbmMyeGUwd0M2NkFzdHZxR2lDaFhXSVZmamdIMXJEVEM3anJEYnN4SkF3TmlndDdYSjVQOFNYMkRYODF6WEllcDRB?oc=5"
+      }
+    ],
+    "marketGap": "No service currently guides SMEs through choosing and registering the optimal legal entity to meet lender requirements, leaving a gap between business formation and loan eligibility.",
+    "executionPlan": "Build an SaaS platform that assesses an SME’s activities and recommends the optimal legal entity, then offers end‑to‑end registration assistance via partnered legal firms. Launch MVP with a questionnaire and automated filing for Ghana, monetize via a registration fee and a success‑based commission from lenders.",
+    "competitor": "None exists as a dedicated legal‑structure‑to‑loan matchmaking service in Ghana",
+    "trend": "Increasing financial inclusion initiatives and digital registration reforms are encouraging formalization of African SMEs."
+  },
+  {
     "id": "school-fee-disbursement-platform",
     "title": "FeeFlow: Transparent School Grant Disbursement",
     "category": "Education",
@@ -456,23 +478,5 @@
     "executionPlan": "Launch a digital credit platform that aggregates data from farm management apps to generate credit scores for cold‑storage purchases. Partner with Absa, UN‑funded blended‑finance pools, and equipment providers to offer lease‑to‑own contracts. Start with a pilot in Kenya’s Rift Valley, targeting 200 farmers, and charge a modest interest margin plus a service fee on equipment leasing.",
     "competitor": "None offers a dedicated cold‑storage financing solution for smallholders; existing agri‑loan products (e.g., M‑Shwari) do not cover this asset class.",
     "trend": "Blended finance and climate‑resilient agriculture are gaining momentum, driving capital toward post‑harvest infrastructure across Africa."
-  },
-  {
-    "id": "sme-loan-access-gap-ghana",
-    "title": "SME Loan Access Platform",
-    "category": "SME Finance",
-    "tagline": "SMEs struggle to get affordable, timely loans despite high demand",
-    "dateAdded": "2026-09-27",
-    "whyNow": "Post‑COVID recovery and rapid fintech adoption have digitised payments, yet many Ghanaian SMEs still cannot secure working‑capital loans, creating an urgent financing gap.",
-    "proof": [
-      {
-        "text": "Capital is not reaching productive businesses",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcWJKLTNuaVd2TTVkb2xoc0luOHZpZ0g5dlJtSEJYVjFKeEQ4SmtGcU9mbkcwMkp4VnZFaDRwU1JxaFdFbkFlTUVoWkNHZEdxVzRIUkxvNExEWUZXSFBuR1EtS3E3cTEzenlpTGtzazhUcWJjY3VJZVpDbUxpeDFnNzVibVphZ0t5NUNoWk1EQ3p2alIwWEo0ZzJXMTk5ckh5NTJ3WjNR?oc=5"
-      }
-    ],
-    "marketGap": "There is no dedicated marketplace that aggregates alternative lenders and uses real‑time cash‑flow data to assess creditworthiness of Ghanaian SMEs, leaving them dependent on opaque banks or informal lenders.",
-    "executionPlan": "Launch an MVP that integrates with popular accounting SaaS to pull cash‑flow metrics, partner with at least two micro‑finance institutions to list loan products, and provide a simple loan‑matching UI; monetize via a success‑fee commission on funded loans and premium data analytics for lenders.",
-    "competitor": "Branch",
-    "trend": "African fintechs are rapidly expanding digital credit products, making data‑driven SME lending increasingly viable."
   }
 ]
