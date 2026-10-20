@@ -1,5 +1,31 @@
 [
   {
+    "id": "simguard-fraud-protection",
+    "title": "SIMGuard: Real-time SIM‑Swap Protection for Mobile Money",
+    "category": "Fintech & Payments",
+    "tagline": "Mobile money users lose funds when their SIM is hijacked, leaving them powerless to stop fraud.",
+    "dateAdded": "2026-10-20",
+    "whyNow": "Mobile money usage is booming across Africa, but SIM‑swap attacks are surging, causing millions in losses and eroding trust in digital payments.",
+    "proof": [
+      {
+        "text": "SIM swap fraud is on the rise, with attackers hijacking phone numbers to steal mobile money balances.",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QdWI3d096dmk1Ukx0NzBycjY2MUktQmR2X3pGU3VlY2Z4c2dNX29qWWhlLV9EMTFpd2RDNnpoOFAzZFJDXzJCUzIyVlhmbDA3SVFsVWNYcHhTUkVIUEFCaEY0aXp4WGszYmVORTV2RQ?oc=5"
+      },
+      {
+        "text": "A Ghana‑US joint operation arrested 130 people in a $10 million online scam crackdown, highlighting the scale of digital fraud in Africa.",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa3VuUWw0YmpCSEFETExJcUVoU1N3bXRRQ29zZkxEbHQxaUxKOVJndU9NYkFIb0ZWRzlsYUhJZGthd1lzNnF5RzI5RmNQaUI1RlNkZnBhMVFKeVhaZEFQc3haMm1la2RtdU9Fa0pkUzRvWUROWjBZNWxYUUFJR0JwQkxRdnV0S2hUdTR4aWcxUm5kVlFDRWs0dVYxTnotQ3JWaUJIbmZWRQ?oc=5"
+      },
+      {
+        "text": "BBC reports a wave of ‘Add me on WhatsApp’ scam calls targeting users, showing how social‑media scams complement SIM‑swap attacks.",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TWUxzbzZXaWY4b21kU0ViM2wwdVNob2w3NTRjakNoQ3ZybXhORmRxb0UzZTZJUlJNRDNwYV91eTdqR3lTSzNwTHQxSFhPMEtqWjNpNExIZDlwNEFaNGc?oc=5"
+      }
+    ],
+    "marketGap": "No existing service offers real‑time detection of SIM changes linked to mobile money accounts and automatic temporary account lockout to prevent unauthorized transfers.",
+    "executionPlan": "Build an API that ingests telecom SIM‑change events and cross‑checks with mobile money provider accounts, triggering instant OTP verification and a temporary hold on transactions. Launch a pilot with one telecom and one mobile money operator, charging a per‑user subscription fee. Scale by licensing the engine to other operators across West Africa.",
+    "competitor": "None provides an end‑to‑end SIM‑swap protection platform for mobile money.",
+    "trend": "Rapid mobile money adoption combined with rising digital fraud makes real‑time SIM‑swap defense critical."
+  },
+  {
     "id": "legal-structure-loan-access",
     "title": "Legal Structure Loan Access Platform",
     "category": "SME Finance",
@@ -452,31 +478,5 @@
     "executionPlan": "Build a mobile MVP that lists school fee schedules, lets parents apply for micro‑loans with repayment tied to salary or future refunds, and integrates with NELFUND’s API for refund status. Partner with local banks for credit and charge a 5% transaction fee on disbursed amounts.",
     "competitor": "None offers combined fee financing and refund tracking; existing payment processors like Paystack only handle transactions.",
     "trend": "Digital fintech adoption is accelerating in Nigeria alongside rising education costs."
-  },
-  {
-    "id": "kenya-cold-storage-finance-platform",
-    "title": "ColdChain Credit Hub",
-    "category": "Agri-fintech",
-    "tagline": "Smallholder farmers lack affordable financing to buy or lease refrigerated storage units, limiting their market access and post-harvest loss reduction.",
-    "dateAdded": "2026-09-28",
-    "whyNow": "Post‑harvest loss is rising as climate volatility intensifies, and recent UN‑backed funding announcements signal political will and capital availability to address the cold‑chain bottleneck now.",
-    "proof": [
-      {
-        "text": "Kenya’s cold storage gap is estimated at $2.1 billion, prompting Absa and UN agencies to unlock financing to close it.",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONm05UW12cE1VZUFSN1dTdnhYUXBULWdFNEZ5UVc3OGRZV0k5eDF2Vk5PNmc1YzRWQkpvbng2akJKdEJhaDJGSU1fbk5Mekw4cUZHUnpBaU9Eb1p4R0p0bi1acjdiMkcwTndzWDFnMHNQazJ1MUdTVUlfRTZydXRnc05R?oc=5"
-      },
-      {
-        "text": "UN‑backed funding aims to close Kenya’s Sh272 billion cold storage shortfall.",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmRYWl9sY2RkUUFlZk5QM0k4YnQtRFVONzlDSkVfVG9vbGpyU1djZE5FWlZfNTZOVFdtNFJBbEZ2ZEVDM0haQUJoTWpPdGlqZmRSY2kxSEE2b0U2QUt1QkNoOHdIeGVYU3dBa0FrNEVmSVdJam5rNDFnZ015WkhYYlR6OW5zUkM5dU9DajBUNmpZdnBKTXVob1Mwdm9pOGhUUTZaTEp2RUVmcEVudGdpYg?oc=5"
-      },
-      {
-        "text": "When African smallholders access finance, they can unlock significant agricultural potential.",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtbUE0SVQzOG40bHR4YTgxdUVVdjYwenpvOW10aWFpcmY1SWVhYk9qeG52aDRDYl83SUJKb19CYnRiamtQQ2xIQmpOTmk0S1B3YmlKZy1aOGhwSkpQQ2I40gFkQVVfeXFMT2lHdm1seUlTdUtyWUhRaGNDLUE3OEhheVFPSTl0TW1WRnRBOHdtdFQ1UWJHUjR4VU0yRjhXNFBFdkpuZjVidm12MUQ2RTY1ZE1fV0Q5MlFvNXItckFzS3NmY0piMQ?oc=5"
-      }
-    ],
-    "marketGap": "No dedicated financing product exists for smallholder‑owned cold‑storage units; banks view them as high‑risk, and farmers lack collateral or credit histories to secure loans.",
-    "executionPlan": "Launch a digital credit platform that aggregates data from farm management apps to generate credit scores for cold‑storage purchases. Partner with Absa, UN‑funded blended‑finance pools, and equipment providers to offer lease‑to‑own contracts. Start with a pilot in Kenya’s Rift Valley, targeting 200 farmers, and charge a modest interest margin plus a service fee on equipment leasing.",
-    "competitor": "None offers a dedicated cold‑storage financing solution for smallholders; existing agri‑loan products (e.g., M‑Shwari) do not cover this asset class.",
-    "trend": "Blended finance and climate‑resilient agriculture are gaining momentum, driving capital toward post‑harvest infrastructure across Africa."
   }
 ]
