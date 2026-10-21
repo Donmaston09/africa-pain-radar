@@ -1,5 +1,23 @@
 [
   {
+    "id": "agent-connect-reliable-pos",
+    "title": "AgentConnect: Reliable POS & Agent Banking Network",
+    "category": "POS & Agent Banking",
+    "tagline": "Merchants lose sales when POS agents go offline due to network instability",
+    "dateAdded": "2026-10-21",
+    "whyNow": "The recent exit of Onafriq from Nigeria’s agent banking network, driven by Naira depreciation, has exposed how fragile the POS ecosystem is, causing immediate revenue loss for merchants. With inflation and currency volatility accelerating, the risk of further agent outages is rising.",
+    "proof": [
+      {
+        "text": "Onafriq has exited Nigeria’s agent banking network amid Naira depreciation, leaving merchants without POS services.",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaVc4R29jcDhURmxUTlRURFZROFNfS1BKYjVpdTY5UGE5N0FEVkI0dDNPWkszM2t6cHhDS2ZyOUZ5Tlg5VWtsb1d5ZFBnb2RxMFBabGxjQ08yWkViWnR5VFRHb1gwTDdsZEIxTTZxbmRyLVljaTZrYVRhOW53MFdOQkZjRG1KZTJyenlPYmtDSTFaV3lRNEJn0gGcAUFVX3lxTE01bUFIOEZlNERDWTI3ck1tbnZuQ0JNQzdUZV9oNEhnYWxnQnU5S3YzYmpXN1BVOU50SmZITk80U284aHdlV3B4ODFIWFAyTlFqNEFOUGZHam53MnJXYUJTeTVTa3BOMVVjeUszckFNVm1SVTdIM3dpUEFlcWFnOTdQVXk1c2ZfTE9iRFllbXotMjhRWVJZeVhrM1NUMA?oc=5"
+      }
+    ],
+    "marketGap": "There is no platform that provides real‑time monitoring, redundancy and automatic routing to alternative agents when a POS goes down, leaving merchants without a fallback option.",
+    "executionPlan": "Launch an MVP that aggregates existing POS agents into a cloud‑based dashboard, offers real‑time status alerts, and a simple API for merchants to auto‑switch to backup agents. Partner with a few agents for beta testing, charge merchants a monthly subscription for uptime guarantees, and later add transaction‑based fees for premium routing services.",
+    "competitor": "None offers a dedicated redundancy and real‑time monitoring service for POS agents in Nigeria",
+    "trend": "Digital payments are surging across Africa, but infrastructure reliability is becoming a critical differentiator."
+  },
+  {
     "id": "simguard-fraud-protection",
     "title": "SIMGuard: Real-time SIM‑Swap Protection for Mobile Money",
     "category": "Fintech & Payments",
@@ -456,27 +474,5 @@
     "executionPlan": "Develop an MVP that pairs a low‑cost handheld spirometer with a mobile app that securely transmits results to a network of pulmonologists for remote interpretation. Pilot the solution in 10 rural health centers, charging a modest subscription per clinic and a per‑test fee. Monetize through subscriptions, per‑test fees, and partnerships with NGOs and government health programs for scaling.",
     "competitor": "None currently offers an integrated portable spirometry‑plus‑tele‑consult solution in Kenya; the closest alternatives are generic telemedicine platforms such as mPharma, which focus on pharmacy services rather than lung diagnostics.",
     "trend": "Rapid mobile‑health adoption and increasing health‑tech investment across Africa make remote diagnostic hubs both feasible and timely."
-  },
-  {
-    "id": "school-fee-financing-platform",
-    "title": "Flexible School Fee Financing Hub",
-    "category": "Education",
-    "tagline": "Parents can’t keep up with soaring school fees and delayed refunds.",
-    "dateAdded": "2026-09-29",
-    "whyNow": "With fees soaring and NELFUND refunds delayed, families are facing cash‑flow crises, making immediate financing solutions critical.",
-    "proof": [
-      {
-        "text": "Parents are struggling to pay school fees as costs soar",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZFc1bFJOMmlEa2lOQlo5aFowSlQwcXNuWklpVEloa1FDYzFsMzBId2hrRExhREhEUUZVeUhCMW9xRmNsYTVJNXNBaEI5ZFlETnVOejl4b0pIa1pzdXEwdHFHczJzeWJETGw4QjFHNW9ZUVdEQUJWTy1MT1ZIa3piV19LX0tpUk9UTlFoZVdOY2JQbGhqM2xPXy1LSVdvd044Sk91MGxTaExiMzF3eExsSkpFUGvSAbwBQVVfeXFMTVFQNDJ6RDlrWjlEWmdCM2dGdFJMTHdEOTFhek02RUlndEdNMVR6TnZYN3RaNnFFdm1JWnY5aTdjTlVXYlp0a3drdC1nTGxEWEdoWi1EZ1k0WnhWZzMwSkdkRm5lOWZJR1N5YUlUbUY1dDBvNjhmZ2g1MmFOSko4WlU2UHNLVkFoNktLTE40MWowUWV6VURVOEh4MXVRZUJIUW9LVVVjNXBKekRWdVNyb2wzZFJRNkFrdVpZemI?oc=5"
-      },
-      {
-        "text": "NANS questions Fulafia over delayed NELFUND refunds and alleged deductions",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ19URl9BeUNPQ1RPZ0Zra2xQeUpzdHpWeTI1RVpDOU1ONXY5eE1jZDN4TGJPckFudUZnMXo0LV83bjV3ejV5S2ZHYUtjZ0x4cHIyeEdpdVo3bzlrX2JadFJ0SzlUM09sVmQ5alhQbkZta1NpLTZNRkUzS2pRbUNsWk1CamlmX0hSRjZ1clFvbV9Ld1h5MC1pZzRYY09pQVRPLXJ3WGF5R2JoeWtoVk5PM2M2YWpDRms3Z2c?oc=5"
-      }
-    ],
-    "marketGap": "No existing service offers low‑interest installment plans combined with real‑time tracking of government education refunds, leaving parents to juggle cash and uncertain reimbursements.",
-    "executionPlan": "Build a mobile MVP that lists school fee schedules, lets parents apply for micro‑loans with repayment tied to salary or future refunds, and integrates with NELFUND’s API for refund status. Partner with local banks for credit and charge a 5% transaction fee on disbursed amounts.",
-    "competitor": "None offers combined fee financing and refund tracking; existing payment processors like Paystack only handle transactions.",
-    "trend": "Digital fintech adoption is accelerating in Nigeria alongside rising education costs."
   }
 ]
