@@ -1,5 +1,31 @@
 [
   {
+    "id": "kenya-smallholder-finance-platform",
+    "title": "AgriCredit Hub",
+    "category": "Agri-fintech",
+    "tagline": "Smallholder farmers in Kenya can’t get affordable loans without land titles",
+    "dateAdded": "2026-10-22",
+    "whyNow": "Food security concerns are rising as climate pressures tighten yields, and new agri‑tech funding streams are emerging, making it urgent to bridge the credit gap for Kenya’s 4 million smallholders now.",
+    "proof": [
+      {
+        "text": "The Gates Foundation reports that smallholder farmers are finding it harder to grow food because they lack affordable financing.",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVBpRW9ZekRLTVppVFJ1blJxVGpsN2wzS2R2bUR4WTlSaDVlZVVaVEk3VmVaNks0RE9seWFqQVoxWFRKN2xtQWlhTUtRX3Q5RjNRdHVWa20zMzBnWW5LNkZHUmpBMjlpSjFCanVaMDlQTEUyV3RLcFg0bkJLblhzdlFOY3RXelVKYS1YUjRJNjAyMmhRX294WEpR?oc=5"
+      },
+      {
+        "text": "Beyond Collateral: dfcu is piloting collateral‑free loans for Ugandan agribusinesses, highlighting the demand for similar models in Kenya.",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEJsR0g2a0dOV0hQY19ra0ZRNDRBclZsczJiWEpmWk1IaG1fSGhzZkE4V3BPMHVMbUN2cGpJSGJiQXJsdURfdXdyS2lfM1dSeWd4S3IyXzRIZzN2MzJaZW5RZDNlanlSVk9CeEFtb05hR1hxcC1ScmtJam40eEp5SXF5VG9oX3NLLXJoWnZfOUtOVUU2Qy10aw?oc=5"
+      },
+      {
+        "text": "Ground Up Investing has just raised $6 million for African agri‑finance, underscoring investor interest but also the existing financing shortfall for smallholders.",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVV6amdyazBoOFN6V3gxYm52WGt4NVR0blltVEpVZUlMcVZma2ZPRU1kTG9HY3hmMGxLdjZiNWk3X3g5VzNqMVRENFRJS2dNSG1Yc2dxQlp2d0ZDdnJjSkZSLXJ2ZndWRXpkNkIxblF0OGQ4cTNQNGxiSjNlNThrTjluU3VmTHM2ME1tY0RKT2xPd3VBcHFZ?oc=5"
+      }
+    ],
+    "marketGap": "There is no digital platform that offers collateral‑free, data‑driven micro‑loans to Kenyan smallholders, leaving them dependent on informal lenders at exorbitant rates.",
+    "executionPlan": "Build a mobile MVP that connects farmers to partner micro‑finance institutions, using alternative credit data (satellite‑derived weather, soil test results, sales history) to assess risk. Pilot the app in two counties with 1,000 farmers, charging a modest interest‑rate share on each loan. Scale by adding more lenders and integrating input‑purchase bundles.",
+    "competitor": "Tulaa (provides input financing but limited collateral‑free credit scoring)",
+    "trend": "Growing agri‑tech investment and AI‑driven weather analytics are unlocking new credit assessment tools for smallholder finance."
+  },
+  {
     "id": "agent-connect-reliable-pos",
     "title": "AgentConnect: Reliable POS & Agent Banking Network",
     "category": "POS & Agent Banking",
@@ -448,31 +474,5 @@
     "executionPlan": "Launch an MVP microgrid hub in Oke‑Ogun serving 20‑30 nearby SMEs with a pay‑per‑kilowatt‑hour subscription model; partner with local solar installers for hardware, use a cloud‑based energy‑management platform to monitor usage and billing; monetize through monthly subscriptions and a small margin on excess energy sold to the grid.",
     "competitor": "None offers a turnkey, subscription‑based microgrid tailored to SMEs in Nigeria; closest alternatives are standalone solar home systems (e.g., SolarNow) and diesel generator rentals.",
     "trend": "Decentralised renewable energy and digital payment platforms are rapidly scaling across Africa, making on‑demand micro‑power services both technically feasible and financially attractive."
-  },
-  {
-    "id": "kenya-rural-lung-diagnostics-hub",
-    "title": "Rural Lung Diagnostic Hub",
-    "category": "Health-tech",
-    "tagline": "Rural patients lack affordable lung disease testing, forcing costly travel",
-    "dateAdded": "2026-09-30",
-    "whyNow": "Non‑TB respiratory illnesses are rising and recent reports highlight major gaps in lung health services beyond tuberculosis, creating urgent need for accessible diagnostics in remote areas.",
-    "proof": [
-      {
-        "text": "Kenya’s Lung Health Services Face Major Gaps Beyond Tuberculosis",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0pwc1FGN29FeW1raXVhaFFrZXRjcXNZeHZMdUpKRktfdEZ4d0VNeDhRZGo4cHRWWHJrMlN5Zl9VaVlEWjQzblpRV0FEZmpNV2NOdl9faWVQa2dqYkcxd21qZ0ljcDhVRDNTTzVvcjVWdDd1OFFVc2tyYmpmRkpmN2JqZ0NhaXhINTJzRF8zN056c0JLTWRNYkdR?oc=5"
-      },
-      {
-        "text": "Smarter Funding and HealthTech Key to Africa’s Healthcare Future",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRndQN0tvR0NkdWMtSVhxZGNlNk0zWGZnLWx6U2VMV3dmbndEVlp0ODk2YjBQbHB5OTZrSUNiajRzamlJR0VIdWozUzI3dmV4NHZ0Y0w5ZHBLcC1sYTd3aF84LTRqY1pQVHd6OGhOXzBvNGRfUnFCRnk5X0FGbEdibDdLbVhDcHFaZnRWSA?oc=5"
-      },
-      {
-        "text": "Kenya’s TB Crisis: Tension as the country faces a Sh4.5 billion funding gap",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQei1ibG15YVRuWFM5OVpLZkk1eW04bmZDSThjTUNlQ1JQbEVWVnJkYktLZE1GQkxkV3FBZy0wblVWWG13LXFSdnlhcWJVN2RHZHYwcXNlaUlHd2Q4cndDaC0xMnM3OUJqSVFRQzhUdFFOS3dlTmdfOW5BaFU1XzZISmFVcFFzZTlNcXJCTnJ1RzN4RnRQSHh6SGZiZUFpRlEtS0YyVVNOeUFyVzF2dk80UFpPYzZsZDRBMnlQMlMxOA?oc=5"
-      }
-    ],
-    "marketGap": "There is no affordable point‑of‑care lung function testing device coupled with a tele‑consult platform for Kenya’s remote clinics, leaving patients to travel long distances for basic diagnostics.",
-    "executionPlan": "Develop an MVP that pairs a low‑cost handheld spirometer with a mobile app that securely transmits results to a network of pulmonologists for remote interpretation. Pilot the solution in 10 rural health centers, charging a modest subscription per clinic and a per‑test fee. Monetize through subscriptions, per‑test fees, and partnerships with NGOs and government health programs for scaling.",
-    "competitor": "None currently offers an integrated portable spirometry‑plus‑tele‑consult solution in Kenya; the closest alternatives are generic telemedicine platforms such as mPharma, which focus on pharmacy services rather than lung diagnostics.",
-    "trend": "Rapid mobile‑health adoption and increasing health‑tech investment across Africa make remote diagnostic hubs both feasible and timely."
   }
 ]
