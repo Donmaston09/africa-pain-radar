@@ -1,5 +1,27 @@
 [
   {
+    "id": "fuel-price-transparency-platform",
+    "title": "Fuel Price Transparency Platform",
+    "category": "Logistics & Transport",
+    "tagline": "Drivers and logistics firms can’t predict fuel costs, inflating transport prices.",
+    "dateAdded": "2026-10-23",
+    "whyNow": "With recent fuel price gambles and IMF warnings, fuel costs are volatile, hitting transport margins now.",
+    "proof": [
+      {
+        "text": "Nigeria’s Fuel Price Gamble: Cheaper Petrol, Uneven Relief",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd2Z4TUVlaVN5aVFNUGIxRm9mU0RjZFJINVhHcV85TDFsQjg2R2tKM3J0SW1EblpRdUNQOEVzaWI5a3FtZHNEdF93cFpHdDZpU3czd0lyM2wyRDRLTnFLWktkT3JhdzNzLWdDdFYwb0RlSnpTMHJrUzBtQWEzaTNGR0EzZW5uSVBwOWQ2UkNDRGFLVzJJck93S20xNA?oc=5"
+      },
+      {
+        "text": "IMF warns Nigeria against restoring petrol subsidy, recommends targeted relief",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY04wM0ZzVnpLXzZ0VWlMRTFaaG94XzBpVC0tSkdHdXpaRVhDVklqS3MtWm9HMEVaR2Z1a1F4UV9jRXhoXzBXQ2NDT2JyR2UzWUttVTYtMFBvZ3h2eWp6Nmxza1pHd3lfSHpZUFdFbHBfUkdvd3NfOW43OTJ1cnM2Q0R1bXdaV3pmVWY5MTQ3dWdwOHhRREM5ZjJCNVk2RUNKdFY1eXlqUU93blVYZGxwZA?oc=5"
+      }
+    ],
+    "marketGap": "No real‑time, localized fuel price comparison app exists for Nigerian drivers to plan routes and budgets.",
+    "executionPlan": "Build a mobile app that aggregates fuel station prices via crowdsourcing and API partnerships, starting in Lagos and Abuja; launch a free tier with ads and a premium subscription for alerts and analytics; monetize via ads, data licensing to fleet operators.",
+    "competitor": "None directly; closest is general price‑watch apps but none focus on fuel for transport in Nigeria.",
+    "trend": "Rising digital adoption and volatile oil markets are driving demand for price transparency."
+  },
+  {
     "id": "kenya-smallholder-finance-platform",
     "title": "AgriCredit Hub",
     "category": "Agri-fintech",
@@ -448,31 +470,5 @@
     "executionPlan": "Launch an MVP web/app that partners with major Nigerian telecoms to buy bulk data at wholesale rates and resell discounted, zero‑rated packages for approved educational platforms. Start with a pilot in Lagos schools, charge a modest subscription fee per student or a commission on data sales. Iterate based on usage data and expand to other regions.",
     "competitor": "None – existing telecom bundles are retail‑priced and not education‑focused",
     "trend": "Rising mobile internet adoption for digital learning across Africa"
-  },
-  {
-    "id": "microgrid-sme-subscription",
-    "title": "Microgrid‑as‑a‑Service for Nigerian SMEs",
-    "category": "Energy",
-    "tagline": "Frequent blackouts are draining small business revenues and forcing costly diesel generators",
-    "dateAdded": "2026-10-01",
-    "whyNow": "Nigeria’s chronic grid failures have intensified after the latest six‑year blackout in Oke‑Ogun and the government’s new power‑control centre has yet to restore reliable supply, creating immediate demand for dependable electricity solutions for cash‑strapped SMEs.",
-    "proof": [
-      {
-        "text": "Businesses report erratic power supply causing losses of up to 30% of daily revenue and forcing them to run expensive diesel generators.",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWc5NTN5RzJTdnJhX0VMY081QWdpRXk3S3pzS2htRmlRWnN1V21lMmdKLWM5bEJoQVdBSkdpV01MX011RTkxbjk3SEZCVG1LNllpN1ROT0E1Q2RwbnVzZENUaS0xQ1FCSkFEdVVmaEJjdHBtdGtHN3ZTMER2cG1YdQ?oc=5"
-      },
-      {
-        "text": "Residents of Oke‑Ogun have been living under a six‑year blackout and are pleading with IBEDC and Governor Makinde to restore power, highlighting the depth of the supply crisis.",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS3VWVktlZkVSV3czd2RoVFZ1dzQ1NlF2LUt2dlRmZmM3STN4d2J1QXdhcklQRS1RVGMxMVJqUm14bVcwbGtuT2VRTWZwUnl4UktlYUZzcndfallXamkwaTloRlVTclZlTjVDajNmWkpkbzBQZ2k1YzQ4Q0lWamhibm01dWFxaVU3eWlHNEdKaHRSV1J6RHVVbmREa2ZJWE9v?oc=5"
-      },
-      {
-        "text": "The federal government has launched a new power control centre aimed at curbing blackouts, but implementation delays mean businesses remain without reliable electricity.",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mTnRiUEtybk5oV2dqVjBMU1M2ODA3VHRUTDN6R2FwMXpqMXdIN2U1d0c4Y256bEhYM09KcGdFYXZsNGZsSTBUbDA4Q0NueFVzLTZLZHBoRXNPR21NVlpCNExhdWJFZms5WlBaUUZfUHJuYXUzVDZrS2JJcW9pZw?oc=5"
-      }
-    ],
-    "marketGap": "No affordable, subscription‑based microgrid service exists that aggregates solar, battery and diesel backup to deliver uninterrupted power specifically for small retailers, workshops and kiosks in blackout‑prone Nigerian towns.",
-    "executionPlan": "Launch an MVP microgrid hub in Oke‑Ogun serving 20‑30 nearby SMEs with a pay‑per‑kilowatt‑hour subscription model; partner with local solar installers for hardware, use a cloud‑based energy‑management platform to monitor usage and billing; monetize through monthly subscriptions and a small margin on excess energy sold to the grid.",
-    "competitor": "None offers a turnkey, subscription‑based microgrid tailored to SMEs in Nigeria; closest alternatives are standalone solar home systems (e.g., SolarNow) and diesel generator rentals.",
-    "trend": "Decentralised renewable energy and digital payment platforms are rapidly scaling across Africa, making on‑demand micro‑power services both technically feasible and financially attractive."
   }
 ]
