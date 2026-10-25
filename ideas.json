@@ -1,5 +1,31 @@
 [
   {
+    "id": "rural-breast-cancer-diagnostics-tanzania",
+    "title": "Mobile Breast Cancer Screening Hub",
+    "category": "Health-tech",
+    "tagline": "Women in remote Tanzanian villages travel hours for a breast cancer check, risking late detection.",
+    "dateAdded": "2026-10-25",
+    "whyNow": "Rising breast cancer rates and documented care gaps in northern Tanzania make timely detection critical, and the 2027 health budget debate underscores urgent investment in rural diagnostics; affordable AI and solar tech now enable rapid rollout.",
+    "proof": [
+      {
+        "text": "Distance decides diagnosis: Breast cancer clusters reveal hidden care gaps in Northern Tanzania.",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFVBSVY5S2JsMnBvNHNQN1hOVElQTmQzQ21kQXI1aHhBVXB3ZnNTRHZSTE83VU9TNHctSWFCSzg2ZzdkaWExaWl5WFVMb1pubzktdWpvNHRldGxDTkdOYkpielE3M1k0U1pXdmlWaW9qUXVHbTZtUXZxUWFBUFZ6Sk5LUWRLeDZ6bEhWX0lDQVFncmRObkpqcjZZV3lBOG9VT1B6M2lPbXZQemNoU2hqVlZWTGxZaDJ1bXlr"
+      },
+      {
+        "text": "Kenya’s Ebola readiness faces test as experts flag border surveillance gaps, highlighting broader rural diagnostic shortcomings.",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3prVkhROFh5UUQ3cVdtNHVUTjNHVzk5ZkVjZkRvOTJvaUdRQWtHNnNLTENpaUdPbkR1amtVOXJjazl3RzIxWmNRV1V5eHlGaHRqVUU0bFpuUEc2WE5Rd3VUdXhpbXhFVExNTTRYU2dvd3Z6SVRTRmhaT05LMDl5bkp5RjNRd0tzOXZYa3VSeDh6bTduMTVZLTRVX3R5MGI3dnNYUWE1M0J3aHJ2aEp3"
+      },
+      {
+        "text": "Exochos Innovations earns global recognition for maternal, infant health initiative, underscoring demand for innovative health‑tech solutions in Africa.",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOREtQNGRrdEhvRjB0bS1MSFZZZExlbDNhT1A2N2FlUXVpQUFXMS1NYi05RWxQTzF1U0JCUEJCZ2dwTHlfNUgzRHhOZFBzUU5MWThHbkFQb2I0V1hMOXhiYUdIa2FESUpIVXRxMW5iU2hlNGFKbkF3d1NaVDhBNERObk5PYmtWV3Fxcm9MaWx6ME4xRFBDbkpOSmprczVrOW92OUhaWXpwbFd1eTdLb0dYMGY5eC1VU040ajZobWFsQkVpMUJrUTFNUkxTNA?oc=5"
+      }
+    ],
+    "marketGap": "There is no affordable, portable breast cancer screening service tailored for remote Tanzanian communities; existing facilities are distant and tele‑radiology coverage is limited.",
+    "executionPlan": "Develop a solar‑powered mobile unit equipped with low‑cost ultrasound and AI‑driven image analysis to flag suspicious lesions. Pilot the unit in Kilimanjaro region, partner with local clinics for referrals, and charge a modest per‑screening fee while seeking NGO subsidies. Scale by franchising units and selling anonymized diagnostic data to health ministries.",
+    "competitor": "None directly; closest is general tele‑radiology platforms such as Radiology Anywhere, which lack dedicated mobile breast‑cancer screening for rural Africa.",
+    "trend": "AI‑enabled point‑of‑care diagnostics and increased donor focus on early cancer detection are accelerating across sub‑Saharan Africa."
+  },
+  {
     "id": "fuel-price-transparency-platform",
     "title": "Fuel Price Transparency Platform",
     "category": "Logistics & Transport",
@@ -448,27 +474,5 @@
     "executionPlan": "Launch an MVP mobile/web app that curates verified affordable rentals in Lagos and Abuja, using data‑validation tools and partner landlords. Introduce a rent‑to‑own module for low‑income earners. Monetize via subscription fees for landlords and a small transaction fee on rent‑to‑own agreements.",
     "competitor": "None exists in Nigeria; closest alternatives are general classifieds like Jiji or PropertyPro, which do not verify affordability or offer rent‑to‑own options",
     "trend": "Rapid PropTech adoption and heightened housing affordability pressure are converging to create demand for digital rental solutions"
-  },
-  {
-    "id": "edu-data-saver",
-    "title": "EduData Saver",
-    "category": "Connectivity",
-    "tagline": "Students and families are hit by high mobile data costs and confusing billing",
-    "dateAdded": "2026-10-02",
-    "whyNow": "With over 413,000 telecom complaints about data depletion and billing errors and a push for zero‑rated education platforms, the pain is acute and growing now.",
-    "proof": [
-      {
-        "text": "Data depletion and billing woes topped 413,587 telecom complaints",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDNiQ2hQb0xHeFhWSWsyTHhzR2d5U05YdUZaRjg4T3c0bHdoZUtzVnF5cmJuTjZsTEZ5M2o5TzNjN01EQy1jRk5sTERUTGQ0cXd4M0M4TlkxNi10NWhVc1lOcGU5NnEwTWdvUWZndGhwelFZdV9xRkNYWFhXQnJVdW5vMzRwa2FKbWtv?oc=5"
-      },
-      {
-        "text": "Zero‑rated education platforms are being promoted to reduce data costs for learners",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLW5nQ3lEMXNHbUJJNFBnanItNXlaT3czME40b0g2M2I0WkhZMUNDZjNoZUFzWDRLUGFuU1pHX2N3Y2VOTFUtVDRNY2JyRFBTdWdUUVhUMDBHN3JxQ2JaUHhlQV9ya2tlQ2J4aFFKd0hkVTM4NmV2aVBFNkdKdzB3azhicEE3NENtZTQ0MEdCQVQtQQ?oc=5"
-      }
-    ],
-    "marketGap": "No dedicated service aggregates bulk data purchases and offers zero‑rated bundles specifically for education, leaving learners to pay retail rates and deal with opaque billing.",
-    "executionPlan": "Launch an MVP web/app that partners with major Nigerian telecoms to buy bulk data at wholesale rates and resell discounted, zero‑rated packages for approved educational platforms. Start with a pilot in Lagos schools, charge a modest subscription fee per student or a commission on data sales. Iterate based on usage data and expand to other regions.",
-    "competitor": "None – existing telecom bundles are retail‑priced and not education‑focused",
-    "trend": "Rising mobile internet adoption for digital learning across Africa"
   }
 ]
