@@ -1,5 +1,31 @@
 [
   {
+    "id": "solarpay-small-retailers",
+    "title": "SolarPay for Small Shops",
+    "category": "Energy",
+    "tagline": "Small retailers lose sales every time the grid goes down",
+    "dateAdded": "2026-10-26",
+    "whyNow": "Frequent blackouts and soaring diesel generator costs are squeezing margins of micro‑enterprises, making an affordable, reliable power alternative urgent now.",
+    "proof": [
+      {
+        "text": "Residents and business owners in Abuja reported significant revenue losses during recent power outages.",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQU1SUmJGRnpHYi1xQUVfN2dxMXJRR0YxWkl0Mk1EazNIejZLZ3F3SjJMRU1BaXdKSE0tc3I0TzRXVWIxYnJRREpjREFBYnFCVU5NS1N3YVJBQWRUTnltRzdVWV9VLWdyOFlsRkNHZlJhdzNodUY0SS12SU04eVl0MkRVb1Z2QW1zNmFNUzRSZw?oc=5"
+      },
+      {
+        "text": "Frozen‑food traders are turning to solar power to offset high petrol costs and unreliable grid supply.",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT05DMlVzT2tiaUZjZm81aC1COVhiQkdrR0Z5ZjFoVnNISXc1U3VRMGJzZUpVSTk3UzRQUVFwTEhhWF95UXc4cWp3YXpLQU03YlNOaVNsVElFanZBTEJMaXgzWjY1N20xLWFTVmhkdU9QVWx4MWZsWkcwZHNvRGxiN3RNazZOWG1Vc3hZYmVCRW8zZEltMC15VDF0RU03SHRCWFHSAacBQVVfeXFMTmtZb1VlTjd5ZnoyZzlzbWVwU3kwLUpmdk41WHZyMGNtclNEM0E1Wk11a0htcmtDc25zc09zS1hxX04yY0l4cmRZaVd1bmVlVm9rVHdwaXd1Mm9BOEN4blJrRlM3clF0cTRXZ0l6NWxaLUE5WHhjQ0JreHczSDBFUmphd1BvbS01ZWMzd05OcTFMdFVpSS1UblNKRTk3NlYxVE9OaVpzWk0?oc=5"
+      },
+      {
+        "text": "The Lagos Chamber of Commerce & Industry demands a constant electricity supply for industrial clusters and technology parks.",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT29VOFk3MlQwT3RaYVdwS1lGVWl5X1VhbC1YUl9HbFlqdkJuYXItRkRxWEdMQzR5WFdOZXE5RWtkai14emF3VENySVEtRTNqUlExZ3RjNW0zX0d2V0xkWWZ1WGlDUW1SWWdnZ2RONGZ3OXJkMGNYSGVSLUl5dTQzd0pZakdDNFo0ejFWWGZLbjNIT3FCVVF0cEZTTGxJaHRpNlUyN3VBWWxHQnRlN242VWcxVUQ4WmFrd01NWUdra0ZScjNsYjJ2NXFEV0JuZm1Vb0JYY0NCcw?oc=5"
+      }
+    ],
+    "marketGap": "No pay‑as‑you‑go solar solution is tailored to the cash‑flow realities of small retail shops; existing providers target households or large enterprises, leaving micro‑entrepreneurs without affordable backup power.",
+    "executionPlan": "Launch a pilot with 20 Abuja shops, installing 5 kW solar‑plus‑battery kits financed through a low‑monthly subscription. The MVP app tracks energy usage and automates payments via mobile money. Monetize through the subscription fee and a modest per‑kWh charge for excess usage, with upsell options for larger capacity as businesses grow.",
+    "competitor": "SolarNow (offers solar kits but not a subscription model for small retailers)",
+    "trend": "Africa’s rapid fintech adoption is enabling pay‑as‑you‑go energy models, while renewable‑energy costs continue to fall."
+  },
+  {
     "id": "rural-breast-cancer-diagnostics-tanzania",
     "title": "Mobile Breast Cancer Screening Hub",
     "category": "Health-tech",
@@ -448,31 +474,5 @@
     "executionPlan": "Build an MVP cooling module that uses reclaimed or gray water for evaporative cooling, packaged as a plug‑and‑play unit for existing server racks. Pilot the system with a university AI lab in Accra, collect performance data, and charge a subscription per kilowatt of cooling delivered. Scale by partnering with co‑working tech hubs and offering financing through climate‑finance channels.",
     "competitor": "None directly; closest alternatives are traditional HVAC providers such as Carrier or Daikin, which are not water‑optimized for African climates",
     "trend": "Rising AI compute demand across Africa coincides with escalating water scarcity due to climate change."
-  },
-  {
-    "id": "rentease-affordable-rentals-nigeria",
-    "title": "RentEase: Verified Affordable Rentals Marketplace",
-    "category": "Housing",
-    "tagline": "Tenants can find trustworthy, affordable homes without hidden fees",
-    "dateAdded": "2026-10-03",
-    "whyNow": "Nigeria’s rent crisis is worsening, leaving many renters unable to keep up with soaring prices, while political parties are now pledging housing reforms and PropTech solutions are gaining traction across Africa, creating a window for digital interventions.",
-    "proof": [
-      {
-        "text": "Nigeria's rent crisis is intensifying, with many tenants unable to afford rising rents.",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKZGo4bXh1bkl2RUd3UHViSmJlYzdWWTZYRmtnN1BRTXZWMXFaSlV4YWx5R1ZCXzJQVlFKVHI3SFBPdmhKYlJ1OTZ6blFjSHpyQl82am5KZVJCX3dXSGVRZE4yYnZzazBjendWRURqcWtma1RLeGVycktmNA?oc=5"
-      },
-      {
-        "text": "Political parties in Nigeria are outlining housing reforms to address the crisis ahead of upcoming elections.",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMlZZRk9RbUpxRDVqVDJzS1hXSjRoSExiZkNMenBWTkJVY25BalBMUFdvd2FlNW5XZ19GUHRBeTgyWHppR2s2T2Nkcjc5ZzFCZ19hT084N1dMUzRRR0pJOHM1NlpybW8zTFJybk9vdVVCajhrSVcwMWdOajBTRjBBLXl4WnZqUTdPSGQ5emZPRzBfOWtLc2dsWkZuenBGd3g4dHRqTkRzZGtjZw?oc=5"
-      },
-      {
-        "text": "PropTech innovations are emerging across Africa, aiming to make real estate more accessible and affordable.",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3YVUxTmNtR0NWTzRMTDdncWFmVWtSNXVmVDVNSkd2OFFrZUcyNkFNOW5pcWxjUUdGcXI4cmFfQUwtNUVOQnpYc05TdHgwdm9lMEExSklWUE1SLUdZLXBSU3BocTVESTA0ZmlzemlYWEM4NF9PSmc?oc=5"
-      }
-    ],
-    "marketGap": "There is no centralized, verified platform that aggregates truly affordable rental listings and offers rent‑to‑own pathways, leaving tenants to rely on fragmented classifieds that lack price transparency.",
-    "executionPlan": "Launch an MVP mobile/web app that curates verified affordable rentals in Lagos and Abuja, using data‑validation tools and partner landlords. Introduce a rent‑to‑own module for low‑income earners. Monetize via subscription fees for landlords and a small transaction fee on rent‑to‑own agreements.",
-    "competitor": "None exists in Nigeria; closest alternatives are general classifieds like Jiji or PropertyPro, which do not verify affordability or offer rent‑to‑own options",
-    "trend": "Rapid PropTech adoption and heightened housing affordability pressure are converging to create demand for digital rental solutions"
   }
 ]
