@@ -1,5 +1,27 @@
 [
   {
+    "id": "co-living-match-nigeria",
+    "title": "Co‑Living Match: Affordable Shared Housing Platform",
+    "category": "Housing",
+    "tagline": "Tenants forced to choose between rent and basic needs need a low‑cost shared‑housing solution",
+    "dateAdded": "2026-10-28",
+    "whyNow": "Rising rents are outpacing wage growth across Nigeria’s megacities, pushing low‑income households into unsustainable trade‑offs. With urbanisation accelerating, the pressure on housing supply will only intensify, making an affordable co‑living solution urgent now.",
+    "proof": [
+      {
+        "text": "Rising rents outpace incomes, forcing tenants into hard trade‑offs.",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOejlDNzlHSFlJTHdYMWRJNEQ5SS1Hc1BQWUJ4Sktka3dqNnVKZHR6dFkzcFZKcEdlZmplQlQ4Ul9KV0dOTm94ODh0eERJOGF1S1JEZHRQYW9LRDJRMDhqTGc1UkNFcFF0emJyUXRTLWczNURWanhwemJYc3dhWGI3Q2lJa3RzTHdhaWpkX2xBZ3NLS3JuTkppdA?oc=5"
+      },
+      {
+        "text": "The persistent housing deficit drives rent hikes and limits supply.",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TZXU5WGdkeHk3Mncxc1dHR0JWeXYzUFRKZGpYc2hqQjJ3MS00WTRuWGVzQUt3ejdNeHBvR2VQUG1ZVnJfU041dUVTMzBMNlRsN01sQlJfRVFRb0cxS3k5TXFLM0IzV0drWXpBTlR0NFTSAXBBVV95cUxNU2V1OVhnZHh5NzJ3MXNXR0dCVnl2M1BUSmRqWHNoakIydzEtNFk0blhlc0FLd3o3TXhwb0dlUFBtWVZyX1NONXVFUzMwTDZUbDdNbEJSX0VRUW9HMUt5OU1xSzNCM1dHa1l6QU5UdDRU?oc=5"
+      }
+    ],
+    "marketGap": "There is no dedicated digital marketplace that aggregates verified spare rooms or under‑utilised units for low‑income renters, leaving them to rely on informal networks or expensive listings.",
+    "executionPlan": "Launch an MVP mobile app that lets verified landlords list spare rooms with basic amenities, and renters filter by price, location, and roommate preferences. Begin with a pilot in Lagos, partnering with local NGOs for trust verification. Monetize via a small transaction fee on each rental agreement and optional premium listings for landlords.",
+    "competitor": "Jumia House (general real‑estate portal) – does not focus on affordable co‑living for low‑income segments",
+    "trend": "Rapid urbanisation and smartphone penetration in Africa are creating a market for tech‑enabled, cost‑saving housing solutions."
+  },
+  {
     "id": "data-transparency-dashboard",
     "title": "DataGuard: Real‑time Mobile Data Transparency Platform",
     "category": "Connectivity",
@@ -448,31 +470,5 @@
     "executionPlan": "Build a mobile‑first platform that uses satellite‑derived soil moisture and weather data to assess irrigation risk and price loans. Launch an MVP in two rain‑sensitive counties, partnering with local cooperatives for outreach. Monetise through interest margins and a small service fee on equipment purchases.",
     "competitor": "FarmDrive offers agri‑credit scoring but does not provide dedicated irrigation financing",
     "trend": "Blended‑finance and climate‑smart agriculture initiatives are rapidly scaling across Africa, unlocking capital for targeted agri‑fintech solutions."
-  },
-  {
-    "id": "mobile-money-fraud-protection-africa",
-    "title": "SecurePay AI: Real-time Fraud Shield for Mobile Money",
-    "category": "Fintech & Payments",
-    "tagline": "Mobile money users lose money to scams and high transaction fees, eroding trust and inclusion.",
-    "dateAdded": "2026-10-06",
-    "whyNow": "Cybercrime is rising across Africa in 2026, and digital commerce growth is outpacing trust mechanisms, making fraud protection urgent for financial inclusion.",
-    "proof": [
-      {
-        "text": "Cybercrime threats to Africa in 2026",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OVFpqbXdVcUFuV3hJQ2hEZVRBTXM3TmlFTnV5WDVnT3lhZzZ0dzVnZE1DclFnQWlRaFU0T0ZkeWdOUTlVVl9Gdk9ZNDlNZThLVTdwRW9PbnpacFpxc2NYNHduTC1Za2xFYjFOT1FUcTNySGM?oc=5"
-      },
-      {
-        "text": "National Trading Standards Launches AI Scam Watchlist to Fight Sophisticated Fraud",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRnZkYXFpRWlJMEdFcFZ1ZmF3NjEzd182NVlzQ3IxbW1IcnpNbzNycFZ6UkN0aWIwU2dSbWRRZkxQbHVya2RYSzhQRzhhNTRReFA5bHFyQVZkeTNDNTdrc25tUjdmc3NKUVZ5dnRaNjBmZ1AzMm53UGswY1JVeGcwb3JCZE9id0g3VVI2bUR0aVcxN1QzTlFEbW94LTVfOExvSjYxZTRtREVCcE9rQzdR?oc=5"
-      },
-      {
-        "text": "High Digital Transaction Costs, Fraud Gaps Threaten Ethiopia’s Financial Inclusion Targets",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85dVo4WU9VTGMwYVJnQ1VuZ0VSYV9SQzM3dk14QjZNYlRxWU5hUFhndmF5amxRazYyNUhBSVRLX3lUeEhrenU2U1ZWLXNOdEpMUlRLMQ?oc=5"
-      }
-    ],
-    "marketGap": "There is no affordable, AI-driven, plug-and-play fraud detection layer tailored for African mobile money ecosystems, leaving merchants and users exposed.",
-    "executionPlan": "Build an MVP offering a lightweight SDK/API that provides real-time risk scoring using locally trained AI models; pilot with a Nigerian mobile money provider and select merchants; monetize via per-transaction fees or subscription tiers for fraud‑shield access.",
-    "competitor": "M‑Pay's internal fraud detection system exists, but no open third‑party solution; the closest global alternative is Riskified, which does not focus on African mobile money.",
-    "trend": "Rapid digital commerce growth and rising AI‑based scams are driving demand for trustworthy mobile money services."
   }
 ]
