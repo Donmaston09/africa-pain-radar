@@ -1,5 +1,31 @@
 [
   {
+    "id": "waterwise-on-demand-supply",
+    "title": "WaterWise: On‑Demand Water Supply for Small Businesses",
+    "category": "Climate & Water",
+    "tagline": "Unreliable water supply forces street vendors and small shops to halt operations or risk health violations",
+    "dateAdded": "2026-10-29",
+    "whyNow": "With climate‑driven droughts intensifying across Africa and a recent $487 million African Development Bank package for climate resilience, water shortages are becoming acute for informal businesses now.",
+    "proof": [
+      {
+        "text": "The African Development Bank approved a $487 million package to enhance climate resilience reforms.",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQVZFTWdUYldKLTBsaHdFdjU1ZGk1Nl85dE9LZzdoRFVvUVdnRTNjTkhqaTJOeS1hblJVR09tNEFoYUR5NkJ3UUdnQmhReWVsSFA1LUlLeVJLQ0RPcTk3djRsUy1ycjB6MHdBY000Y1FhUkM4OWhWR2FxU2U5MHJpUGNNRVZHSkZ4aFhCM21mUTV2T0VIdnp4Nl82eEltSXp4N2JTajVvUUcwUWdtOFZz?oc=5"
+      },
+      {
+        "text": "The Gates Foundation notes that increasing temperatures and water scarcity are making it harder to grow food across Africa.",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVBpRW9ZekRLTVppVFJ1blJxVGpsN2wzS2R2bUR4WTlSaDVlZVVaVEk3VmVaNks0RE9seWFqQVoxWFRKN2xtQWlhTUtRX3Q5RjNRdHVWa20zMzBnWW5LNkZHUmpBMjlpSjFCanVaMDlQTEUyV3RLcFg0bkJLblhzdlFOY3RXelVKYS1YUjRJNjAyMmhRX294WEpR?oc=5"
+      },
+      {
+        "text": "Drought and invasive vegetation are worsening wildfires, underscoring escalating water stress across the continent.",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR0RyU0c3dkVYcDNhSm5TMHJ4WVRnekNwczJSMV8zMlhhZ0xIcmQwd3h1bElnMmZYczNPc01UR0k1Ylg2dTlsVUVLdi1saXJ5Ty1uUS13WmdsQVFjUndNSUZiYS1zMFd0NklHTG96MkZjYUlnZldEVmR2VUcwQk4xcDNfZjd4SjBHRVlFZzJDYmViZnFPZFZZMG9MckpnRzlubVJPTFU3U1BPSmt2TXRCd2dybVVDcWoxQ0HSAccBQVVfeXFMTkhPZDhVdmgzbnRmRGV6MkhZTEx4RDJqajRMeHRGV3M1Y1QyeURFcUtTaVdXYm4yVlpLNFRtVXV5UGo3UnFWUHdyZkNibG95cnBaR0NGVjRvWkhiT2dSbmhmc3BmZFRtazJuYkp0T283ZVhCVXUtNW5YUElaZFItR1ozbkRZUmlWWGcwM3hmdHo3bm5tUlFwaExlbldsUEdiRWJNcmtNNUQ5RjBrRXN6RTllSnk3UEhUbktLb2JNSTZLYVZSckpPbw?oc=5"
+      }
+    ],
+    "marketGap": "No digital platform currently offers scheduled, on‑demand water deliveries tailored to the cash‑flow cycles of micro‑enterprises, leaving vendors dependent on unreliable informal suppliers.",
+    "executionPlan": "Launch an MVP mobile app that aggregates local water tanker operators and lets vendors book deliveries within 24‑hour windows, using a prepaid credit system. Pilot in Lagos and Dakar with 200 vendors, charging a 5% transaction fee and an optional subscription for priority scheduling. Scale by adding IoT tank‑level monitoring and expanding to other West African cities.",
+    "competitor": "None – existing water delivery services are informal and lack a digital marketplace",
+    "trend": "Accelerating climate‑induced water scarcity is driving demand for reliable water logistics solutions"
+  },
+  {
     "id": "co-living-match-nigeria",
     "title": "Co‑Living Match: Affordable Shared Housing Platform",
     "category": "Housing",
@@ -444,31 +470,5 @@
     "executionPlan": "Launch an MVP that aggregates fee structures of top private schools and offers a simple pay‑later option with partner micro‑finance institutions. Start with Lagos’s elite secondary schools, integrate API for fee data, and charge a modest origination fee on financed payments. Validate demand through a pilot with 100 families and expand nationwide.",
     "competitor": "None exists as a dedicated school‑fee financing marketplace; closest alternatives are general micro‑finance loans and ad‑hoc payment plans.",
     "trend": "Rising demand for fintech solutions and increasing private school enrollment in Nigeria make fee‑financing platforms timely."
-  },
-  {
-    "id": "irrigation-finance-hub",
-    "title": "IrrigaFund: Credit Platform for Smallholder Irrigation",
-    "category": "Agri-fintech",
-    "tagline": "Smallholder farmers can’t afford the upfront cost of irrigation equipment",
-    "dateAdded": "2026-10-07",
-    "whyNow": "Climate‑induced rainfall variability is intensifying, and Kenya’s government and development partners are now mobilising billions for climate‑smart agriculture, creating an opening for targeted financing solutions.",
-    "proof": [
-      {
-        "text": "Kenya is calling for innovative financing to boost irrigation and smallholder farming",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEpIMy1XLXFpeHNKY1JCR0o2NExOdWJKZ3gzUkJDUkc0T0VVSGVHeHBwNi1TWlU4RzhyeWZXVXNweFdqU2c0czQ5b2p5eGpnUGk1NWxNeEcwb0cwd2wxNkRKS2I0cmRwazgtUlRvUUh6QjdmXzdnWXBLa1FuT3JhR01aa1JiNEktaFlYQUdXX2E2OVk4bDdVYlNDN3ByZ1JHZEpFZA?oc=5"
-      },
-      {
-        "text": "Kenya’s agriculture faces a last‑mile gap due to climate risks and lack of finance for smallholder farms",
-        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBOSlBTTnJYRlg5azNGUmZZU3pBYnVMdC1jQlYyQjFCRGxpb0xCTHFWWk5wclNub1Y3dU1R?oc=5"
-      },
-      {
-        "text": "$200 million is being mobilised to develop climate‑focused lending as a mainstream line of business",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHdFMzhUbUFwQ2Uxam1mRVo0Vzl6YlhPWERaWERmMkVjaHVMX1hDclZjM2FnV2hubFFPakRwRU9ITW1xNnNEMGFqclZEMWRxWDIyMDJ4VHFVTkNDZ0RUN0hURG9haXAzMl93dWVSRTZGQU40WVhBM2VsS1AxdDhLb1NaTFlCMVFJZnlyNHUyOEFJc3dCV0o0czVSaEFLU29sdERUWTNVQS1ScjFCbm1LdV9pQVFIdlNMb0swU3FOclRRdw?oc=5"
-      }
-    ],
-    "marketGap": "No affordable, data‑driven credit products are dedicated to financing irrigation kits for smallholders; banks deem the risk too high and farmers lack collateral.",
-    "executionPlan": "Build a mobile‑first platform that uses satellite‑derived soil moisture and weather data to assess irrigation risk and price loans. Launch an MVP in two rain‑sensitive counties, partnering with local cooperatives for outreach. Monetise through interest margins and a small service fee on equipment purchases.",
-    "competitor": "FarmDrive offers agri‑credit scoring but does not provide dedicated irrigation financing",
-    "trend": "Blended‑finance and climate‑smart agriculture initiatives are rapidly scaling across Africa, unlocking capital for targeted agri‑fintech solutions."
   }
 ]
