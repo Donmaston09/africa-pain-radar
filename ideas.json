@@ -1,5 +1,31 @@
 [
   {
+    "id": "feeguard-school-fee-transparency",
+    "title": "FeeGuard: Transparent School Fee Platform",
+    "category": "Education",
+    "tagline": "Parents are hit with hidden extra school fees and unpredictable hikes.",
+    "dateAdded": "2026-10-30",
+    "whyNow": "Recent reports of extra fees and soaring tuition across Nigeria, alongside legislative attempts to curb fee hikes, create urgent demand for a tool that guarantees fee transparency and protects family budgets.",
+    "proof": [
+      {
+        "text": "Parents report being charged extra school fees despite government restrictions.",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb3h5TllVc0k1dVJGblhQOW1KYzdqdDViUkhaRjVFVzMwX1l3dGVoM0RacjZLQXJlNThLV1pPQ3dFcF85ZG1DVmNwS1cycjRPX0d1OG1hLS1KTVh1Tjg4MkJ3cWJtOGVHTDhLamZoSFlpQTdyX2V6Z1NmRGVZY1hLdlZrc2EyNHZTa25VNjZubS0zeThnYzVQeG1Rd2FNcTFaOUF6NGEtRTdMT0pJUlV4cktENThfZzFIYnN4VExRZWhxN29GdXhB?oc=5"
+      },
+      {
+        "text": "Parents in Kogi describe education as a luxury due to rising school fees.",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0d3LWxHNXZBOTA3OXNXQUpsV3huY2lQcTR5eXRPYzZadVVKNndleWFRRFNlZFAzMWFWZU1LNU9nZVhiTXJ2M2pNTjhlT1V3WHc0WUpTekhiQ2kwel9Ha2tEcEM5d0FxZEpDUk5CdTltTld3ZGt5a1JDM0l5MDRvR2NReExUc0pvckotWG5PcEpDbHVfLTJYbmpDWW1UTFU1?oc=5"
+      },
+      {
+        "text": "Legislators are seeking to suspend fee increases at tertiary institutions.",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVHRWSHgwM18xVmVTWGwySHFkVHBGeGhrNG41LWZvNUJzQVozQWFlMDFlYXNYdjUzc0lnNWl0eTVxdWFPQ25kMDVuc0Q1REhuVmYxNG54dVBSdkZid2dLdkQ0WU84cVBsek43WFZxYTdwLWpiSjV0NGlBbHk0NVE0RnE3R0o4YkNBZ3g5T1ZRa2VEUDV1MVhmWXZUYTk?oc=5"
+      }
+    ],
+    "marketGap": "No existing private platform offers real‑time, blockchain‑backed fee breakdowns and escrowed payments for schools, leaving parents exposed to hidden and sudden fee hikes.",
+    "executionPlan": "Develop an MVP mobile app that integrates with schools' fee management systems to publish standardized fee structures and lock tuition payments in a token‑based escrow until verification. Pilot with a handful of secondary schools in Lagos and Kogi, charging a modest transaction fee and offering schools a subscription for premium analytics and compliance reporting.",
+    "competitor": "NELFUND token payment system – government‑backed but does not provide a private SaaS solution with transparent fee breakdowns and escrow for schools.",
+    "trend": "The rapid rise of blockchain and digital wallet adoption in Africa is making tokenized, transparent payment solutions increasingly viable."
+  },
+  {
     "id": "waterwise-on-demand-supply",
     "title": "WaterWise: On‑Demand Water Supply for Small Businesses",
     "category": "Climate & Water",
@@ -448,27 +474,5 @@
     "executionPlan": "Build an MVP that integrates an open‑source AI diagnostic engine with a lightweight tablet, bundled with a regulatory compliance checklist and remote training via mobile. Pilot in 5 Nigerian rural health centers, charge a subscription for software and support, and partner with ministries for certification.",
     "competitor": "None offers a combined regulatory, training, and AI diagnostic solution for African rural clinics; closest is Babylon Health but it lacks localized compliance support.",
     "trend": "The surge of AI in global healthcare and increasing mobile connectivity in Africa make AI‑enabled diagnostics timely."
-  },
-  {
-    "id": "feeflex-school-fee-financing",
-    "title": "FeeFlex: Affordable School Fee Financing Platform",
-    "category": "Education",
-    "tagline": "Families struggle with soaring school fees and lack transparent, affordable financing options.",
-    "dateAdded": "2026-10-08",
-    "whyNow": "Nigeria’s private school fees are skyrocketing, with primary fees reaching ₦23 million, and students are protesting fee hikes and resorting to high‑cost loan schemes, creating immediate demand for better financing solutions.",
-    "proof": [
-      {
-        "text": "Students sigh fees hike, debt dog loan scheme",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR0ZHNEo2NWVoUG84UDg2c2JxMkhlRWN6eFBRaTk2NjQzLXRVOEVtWnNwcDRqci1EZXRtMW5EV21Oc1huZ3V3Y2xzVllaNnROVHo1UnlFeUNiSnl3bU55eDZIbjh4bEstUHJMbExlZGNnMGNTVUI1eEZYVjFzWXFFWmtLdzJfRWUzdGRreW5oZlowWk9qenJRS3FTaEFCWmY4akExUThtSdIBrAFBVV95cUxPSU5aZnBDUGtJcEdDeGhWQVRNek1YUXYzRGM4T1JsU0JiQWo2cEdlYXQ5YkM0Szh3X1VHcm1xVWdYYmVqYnNFTm9KYkM4ellEckVhMjdVYmlBYVYtMmQ4UkgxODJNMHBoa2lMeUl5WHktWlN3WWttbUdHRlpiSDVzVUJnVmFmV0t0WHBwWHJ2MTREMm9ldEpWN1VZTnA2ZFBUVHJWY2lSTjc0REx4?oc=5"
-      },
-      {
-        "text": "Primary 1 fees reportedly at ₦23M at Charterhouse Lagos",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU3J2MFE2VmVVeTFmWTdZT21WVDdrSVBFVXhiOS1BU1BqUmJHMXh0UmhPdXUyZmpxRjA5UDJpOTdUVG1fN3c5VVo1S1JtZlllbDBqU2pBOTBGcFYzbVc5WldMWXQtTkYzWTFfRGtaNllTMlBXbkctSFlCNF94Q3Zpbi11LTFyNnRGemJvbHYwdXhMdVBpeVotNklOOENVekkxQ1QxdnV3aGNfZ2Q3THprZUJTZkh2UWVVcTF1UnZvTW4xR19DU3Bkb19SLUExTGpNQnJiOVNTVlLSAeABQVVfeXFMTkJfOUcxd215NzRLUzNwVVdTQnJGemlmeGpWanZkS1VWaVJjY3FpREJubEJJcHRPTjdPQjZBdlFfbXJNXzhYNW1FNzFRUnljdnJpd2FwcnZad1RsTUhaZU01YjRVei1SOVV2Z1p3MjJod3EyeEdGWURCa2Q5YW1qZkdTVlU5Q1dYVkJVZ0s3dmV6enJxNTJzcm1uRDQxdXZPVDZEOTRuU2g1MjNhS1o0Q1psbUxXcWxITFQycTMyR0xLdVZQS19DcDJyeUN4WUZVX0tiU1g2NVd4b2tfb2h5WEc?oc=5"
-      }
-    ],
-    "marketGap": "No dedicated platform offers low‑interest, installment‑based financing or fee comparison for Nigerian private schools, leaving families to rely on informal loans or unaffordable cash payments.",
-    "executionPlan": "Launch an MVP that aggregates fee structures of top private schools and offers a simple pay‑later option with partner micro‑finance institutions. Start with Lagos’s elite secondary schools, integrate API for fee data, and charge a modest origination fee on financed payments. Validate demand through a pilot with 100 families and expand nationwide.",
-    "competitor": "None exists as a dedicated school‑fee financing marketplace; closest alternatives are general micro‑finance loans and ad‑hoc payment plans.",
-    "trend": "Rising demand for fintech solutions and increasing private school enrollment in Nigeria make fee‑financing platforms timely."
   }
 ]
