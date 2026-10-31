@@ -1,5 +1,31 @@
 [
   {
+    "id": "mobile-money-fraud-protection",
+    "title": "SecurePay Guard",
+    "category": "Fintech & Payments",
+    "tagline": "Every day Nigerians lose money to hidden mobile‑money scams",
+    "dateAdded": "2026-10-31",
+    "whyNow": "Cyber‑fraud arrests have spiked – 1,462 suspects were just detained in a continent‑wide crackdown and AI‑driven scams are doubling worldwide, making real‑time protection urgent.",
+    "proof": [
+      {
+        "text": "1,462 suspects arrested for yahoo‑yahoo and cyber fraud across African countries",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tS3NYN0xKNjR6RGtQSU5FLWVrNHlMSmowdVNzaXVqSkVjaTVPM0IwZ1RncVd6UzJDcE1Yd0xkY29GV2xvQTk4SFRSQ19pNnZjMXhxUTJvTzVPbTY4Y3fSAWNBVV95cUxNQmgzczAzZ01ZWG1jY3NmcUhhY253M2VhT2x4SFp1Sl81bm9zLTI3QnFRMVdGQ0o5enhVc1F4dUI0R0RBMkV3X2lRbm5LMFVMS01JU2s3QnpCTllIR3ZvQWFIZkE?oc=5"
+      },
+      {
+        "text": "Mobile money scammers keep hiding in plain sight, exploiting users of mobile money services",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzdPd3B6VGNRZ194UU9iV1Q0dF90WXY4eXFYNko0RzdyVEM3QWx2MExWSDlwQUdmWW84elhFdFNkbF9xYWIySFpoOHJhSlg5TUplRWVKeUdJMXhYTGxwdUVfbXVfNkt1ZTFEcDBnVWlIRU80NXVMS3RVN1ZVOHh3N0tic3NVbmpmaDI3RmZwM0pQdzNiME9PRUdKMURmTzNJN1ctTnI1MlJIU2pud1dmYl9RZw?oc=5"
+      },
+      {
+        "text": "AI‑driven digital deception is surging, with online scams doubling globally",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2JPVGxlb29XOGV0MlBGNFpzRklOUmo1cDQxTlM3QVQ4LWpvWmYxVlF6QXdRV0dvR2VEZ2huOFhwRVRaOEk0TC12NlVLSzZOSk9qZFRPOERaanhib2dxRkl6U3B2d0hBbm83Yjd2VWI5Z0lqdDlzQk9jTnlvMXIzNnZPa1BPNjJkNEhiZnltVlZac193MTNKOGZSMTlpeHE2TlBTVDVJblZDRzRWQ1F3?oc=5"
+      }
+    ],
+    "marketGap": "Consumers have no real‑time, user‑facing alerts or insurance for suspicious mobile‑money transactions; existing bank‑level fraud tools are opaque and do not reimburse victims.",
+    "executionPlan": "Build an MVP mobile app that plugs into the APIs of major mobile‑money operators to monitor transactions in real time using AI‑driven risk scoring. Launch a beta in Nigeria with a limited set of high‑risk transaction types, partner with a micro‑insurer to offer instant reimbursement for confirmed fraud, and charge a small fee per protected transaction or a subscription for premium alerts.",
+    "competitor": "None offers a consumer‑level, real‑time fraud‑alert and instant reimbursement service for mobile money – the closest is internal bank fraud detection, which is not accessible to end‑users.",
+    "trend": "Rising AI‑driven scams and exploding mobile‑money adoption across Africa make instant fraud protection a timely necessity."
+  },
+  {
     "id": "feeguard-school-fee-transparency",
     "title": "FeeGuard: Transparent School Fee Platform",
     "category": "Education",
@@ -452,27 +478,5 @@
     "executionPlan": "Launch a pilot delivering solar‑panel‑plus‑battery kits sized for freezers to 10 shops, equipped with a simple IoT monitor and a mobile app. Charge a flat monthly subscription covering hardware amortisation, maintenance and energy. Validate demand, then scale regionally and add financing options for larger outlets.",
     "competitor": "M‑KOPA (pay‑as‑you‑go solar home systems)",
     "trend": "Rapid growth of renewable energy and pay‑as‑you‑go financing models across Africa"
-  },
-  {
-    "id": "ai-diagnostics-regulation-gap",
-    "title": "Regulated AI Diagnostics for Rural Clinics",
-    "category": "Health-tech",
-    "tagline": "Rural clinics can’t safely adopt AI diagnostic tools due to missing regulations and skill gaps",
-    "dateAdded": "2026-10-09",
-    "whyNow": "AI diagnostic tools are rapidly entering African markets, but without clear regulatory frameworks and trained staff, patients are at risk, making immediate action critical.",
-    "proof": [
-      {
-        "text": "Experts seek regulations to protect patients as AI adoption expands in healthcare",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjdDWHU2aE9pcHJ3QWR2QzdoTUYwRGg4OEY0R014V2ZWUlhQUlJJNFhxQUJ4RUNJbk1BLVE1Y3l1ZTMzTmhIcTZFbXE1cnpiUWpYcWRUd1JqUDdyTG5meHQ4YmRpbEMzNlhFNVZ1eWx5Y2YyQkJiRGZPZXZMMjZOYlNzNnNBTjEwMVc0dFR2VDE3S29yWDA3Zg?oc=5"
-      },
-      {
-        "text": "Cost and skills gaps restrict assistive technology access across Africa",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQXzlNWUdDaEJaSGxJb2c0LXN5QXFYWk1IWXRtak8tSkxsTkVhbWVkbnlHVUNoREE0d2VKYVNoWTdVTy1LRjRpaGZiRnJnV0t2S0hmT2xFTkg5SV8tM3pjUW9kd0tNTHdDTkMwWXJUZlphSC0wSjJaR1dHTE8tWWRVenVfWjBjNEhONF9MZUhUaW5iU2wzS0NWM2VzNENwVTI0Vzl0V3I2a1U?oc=5"
-      }
-    ],
-    "marketGap": "There is no affordable, regulated AI diagnostic platform tailored for low‑resource rural clinics that also provides training and compliance support.",
-    "executionPlan": "Build an MVP that integrates an open‑source AI diagnostic engine with a lightweight tablet, bundled with a regulatory compliance checklist and remote training via mobile. Pilot in 5 Nigerian rural health centers, charge a subscription for software and support, and partner with ministries for certification.",
-    "competitor": "None offers a combined regulatory, training, and AI diagnostic solution for African rural clinics; closest is Babylon Health but it lacks localized compliance support.",
-    "trend": "The surge of AI in global healthcare and increasing mobile connectivity in Africa make AI‑enabled diagnostics timely."
   }
 ]
