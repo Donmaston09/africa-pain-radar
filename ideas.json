@@ -1,5 +1,31 @@
 [
   {
+    "id": "farmcredit-ai-kenya",
+    "title": "FarmCredit AI",
+    "category": "Agri-fintech",
+    "tagline": "Smallholder farmers in Kenya can’t secure affordable credit because traditional lenders deem them high‑risk.",
+    "dateAdded": "2026-11-01",
+    "whyNow": "Donor funding cuts and a decline in agricultural financing are leaving digital services for farmers vulnerable, while AI and mobile data penetration now make alternative credit scoring feasible.",
+    "proof": [
+      {
+        "text": "Donor funding pressures are putting digital services for smallholder farmers at risk.",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmdTMU9IaEJaQWtjQ2NINTZjQ2FqdEhsc3pjN2hlVlV3RzB4OGc0OG5zUHlnVkZHdTZ1cmNnMnhxeDViXzh0ZlJFOS11bXM4T3loSzRObFRIMi1KRHdHWUhuLW5IYUxWdUNLQmhqTnRhWDZPczRYdUptS2ZqMDlyQnR3VDJ1STZvdVZIV0YtN2xzaWhCLTdBNjJGWVdLMUtuQXVOVQ?oc=5"
+      },
+      {
+        "text": "Declining agriculture funding is pushing innovators to seek new financing models in Kenya.",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZW1SOWhpcGZkaG5WUnF4U01ITWFNZktvaGFFOGgzN2l6VjRnWjlvWGl4SFdWRlJUTEdQRmVBRXVxdkhTV2l4MWlmQkFldWluWjVid1JQU01MMGRHVkNub3F0RndMUzVBNTlQT0NXOFVGWnlmU1k5VFBleEE4R2ZqQXUxY3NaMmNVa2hCSlZQc2tkZTI1MzRQZWlDZmQ1TkFJeDEwNWNYUmEzVHpXMXVPMTZOcmVwVzRrMVdsSldCLVZFZlM4UUx2NzVIbw?oc=5"
+      },
+      {
+        "text": "AgriFin is looking for affordable AI tools to reach smallholder farmers.",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSEpPdUpGZmhtZGFaU2lIMHdfNnRLd3JxLW5UTUJqSXJvaTB0TlJaQ0FISFAxdHVfMG53bDlVWDRiSnhhTkItclg5YUZocUtxQ3hnUkRoR2ZQcHNydldBY1hRUWlXYmp5TWt6amJSUmdfTEFnakZOT2lTTHktcWx1X2VoZmlSdTI4NmtfOGZnd0duR2dKT3c?oc=5"
+      }
+    ],
+    "marketGap": "No fintech currently offers credit to Kenyan smallholders using affordable AI‑driven alternative data; existing digital lenders are constrained by shrinking donor support.",
+    "executionPlan": "Develop an MVP that combines mobile transaction data, satellite NDVI imagery and weather patterns to generate a farm‑specific credit score. Pilot the service with 500 farmers in western Kenya through a local cooperative, offering loans via a mobile app. Monetize through interest margins and a modest data‑access fee for agribusiness partners seeking farmer insights.",
+    "competitor": "M‑Shwari provides micro‑loans but lacks farm‑specific AI credit scoring; no direct competitor offers this solution today.",
+    "trend": "Rapid growth of AI‑enabled mobile fintech across Africa is intersecting with decreasing donor‑funded agricultural services, creating a timing window for data‑driven farm credit."
+  },
+  {
     "id": "mobile-money-fraud-protection",
     "title": "SecurePay Guard",
     "category": "Fintech & Payments",
@@ -452,31 +478,5 @@
     "executionPlan": "Launch an MVP that partners with existing mobile money operators to offer a white‑label app that aggregates transfers at a capped 0.5% fee and integrates simple KYC and transaction monitoring. First build a fee‑comparison engine and a basic fraud‑alert rule set, then pilot in Addis Ababa. Monetize via a small transaction fee and premium fraud‑protection services for merchants.",
     "competitor": "M‑Pay (Kenya) offers similar services but does not operate in Ethiopia; locally, no comparable low‑fee, fraud‑focused aggregator exists.",
     "trend": "Rising digital adoption and regulatory focus on financial inclusion are driving demand for cheaper, safer mobile money solutions."
-  },
-  {
-    "id": "solarfreeze-subscription-backup",
-    "title": "SolarFreeze: Subscription Solar Backup for Small Shops",
-    "category": "Energy",
-    "tagline": "Frequent blackouts turn shop freezers into cupboards, costing owners thousands",
-    "dateAdded": "2026-10-10",
-    "whyNow": "With 16 power plants shut down and the government only just launching a control centre, blackouts are worsening and small businesses are losing perishable stock daily. The pain is immediate and growing, making a reliable backup solution urgent.",
-    "proof": [
-      {
-        "text": "Our freezers have become cupboards",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHdNRDVKN1dKMFZ1Uk5jaTdoQkdaUTQzWEZSUjhrYkhzWlBER3VVNjBONjhVNHVUZDlPanZVV2YwSXc4bzgzWm94cHhaLUNGY2QtZGZzVFZYNS0zN1ZjRVpscGxmeTlCUlQ3VnR1MDI3dXowRXg5a3ZKRGtNNnl3bjJNbw?oc=5"
-      },
-      {
-        "text": "16 power plants shut down",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UQUlIVE14R0VVWHI3bURZMHJqbllwVnhsT0dqR1RzWEVaSEdFZF9WRm9ibmJCRjFmbVBmZkthUjdTN05aWUN3eDdCY2RpSUFWM3NlODk5U1RaVUlqdlVVY0FrVk5PWXM2MU1TMFJJZC1Tc2FaT2U3OWItcw?oc=5"
-      },
-      {
-        "text": "FG starts new power control centre to curb blackouts",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mTnRiUEtybk5oV2dqVjBMU1M2ODA3VHRUTDN6R2FwMXpqMXdIN2U1d0c4Y256bEhYM09KcGdFYXZsNGZsSTBUbDA4Q0NueFVzLTZLZHBoRXNPR21NVlpCNExhdWJFZms5WlBaUUZfUHJuYXUzVDZrS2JJcW9pZw?oc=5"
-      }
-    ],
-    "marketGap": "No affordable, scalable backup power exists for small retailers; diesel generators are costly, noisy, and polluting, while existing solar home kits lack the capacity for commercial refrigeration.",
-    "executionPlan": "Launch a pilot delivering solar‑panel‑plus‑battery kits sized for freezers to 10 shops, equipped with a simple IoT monitor and a mobile app. Charge a flat monthly subscription covering hardware amortisation, maintenance and energy. Validate demand, then scale regionally and add financing options for larger outlets.",
-    "competitor": "M‑KOPA (pay‑as‑you‑go solar home systems)",
-    "trend": "Rapid growth of renewable energy and pay‑as‑you‑go financing models across Africa"
   }
 ]
