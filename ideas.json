@@ -1,5 +1,31 @@
 [
   {
+    "id": "fuellock-price-locked-fuel",
+    "title": "FuelLock: Price‑Guaranteed Fuel for Transport Operators",
+    "category": "Logistics & Transport",
+    "tagline": "Transport operators lose money as fuel scarcity drives unpredictable, soaring costs",
+    "dateAdded": "2026-11-02",
+    "whyNow": "Nigeria is experiencing acute fuel shortages and price spikes, with a looming N66 per litre discount deadline that threatens to push transport costs even higher, creating immediate cash‑flow pressure for logistics businesses.",
+    "proof": [
+      {
+        "text": "Transport costs have gone through the roof as fuel becomes scarce, forcing drivers to raise fares dramatically.",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVNxVXNlMVZOTk5lWnFROUdSbXBTMnphQzNmRGhpSHNleGxORHg4NU9KQVdMN2Z3QzJ0WTI1LUtsb01qeHY2YzFWMlh5ZWU0NWUxZzlzNE9UR2w4MHYxcjVmMTVpVGhxd204SFNBN3gtWktrYmNKTGRSN1NOTFNKQQ?oc=5"
+      },
+      {
+        "text": "Motorists are bracing for a N66 per litre PMS discount deadline, intensifying concerns over fuel affordability.",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GczUyZ09uQklGcVFKbXJ5ZmhzNjhCdDM3bXB2aldJcXJfYlNpb2JuSHhIdE42MFI5TGJTeWZVdGZfZ2Qxd2dPZGNvZ0xkQQ?oc=5"
+      },
+      {
+        "text": "Petrol stocks have fallen below the safety threshold, triggering supply drops across the country.",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1JCeEc1WDZHc0NkUG1qVnpRR1VxUUQ2Ti16TWN3S19ZdHgtbUZQaVplWk1VR205cmNCY3FsaEhhWkw3UzRhZVpTczhWSEo3N3N4NVF2SWlranBPQ0V2THNUdlFKRzRWbTFKVDN4MnduRXp1bzFsR1RCcGh3T0VKR0xKUXZGbnJZcVp3MW90NVNPVDdG?oc=5"
+      }
+    ],
+    "marketGap": "No existing service offers forward‑contracted, price‑locked fuel deliveries tailored to small and medium transport fleets, leaving operators exposed to volatile spot prices.",
+    "executionPlan": "Launch a mobile MVP where fleet owners subscribe to a monthly fuel quota at a fixed price; partner with major fuel distributors to secure bulk purchases and lock prices; use GPS‑enabled delivery scheduling to bring fuel directly to depots; monetize via a subscription fee plus a modest margin on each litre delivered.",
+    "competitor": "None offers a subscription‑based, price‑guaranteed fuel solution for transport operators; the closest alternatives are generic fuel cards without price locking.",
+    "trend": "Rising fuel volatility combined with rapid fintech adoption in logistics makes a price‑guaranteed fuel platform especially timely."
+  },
+  {
     "id": "farmcredit-ai-kenya",
     "title": "FarmCredit AI",
     "category": "Agri-fintech",
@@ -452,31 +478,5 @@
     "executionPlan": "Build a mobile app that lists spare rooms and small units from landlords willing to rent on a shared basis, with a built‑in rent‑splitting calculator and verification. Launch MVP in Lagos with 100 pilot listings, partner with local property agents, and charge a 5% transaction fee on each lease agreement",
     "competitor": "None offers a dedicated rent‑splitting marketplace in Nigeria; closest is generic property portals like PropertyPro, but they lack shared lease focus",
     "trend": "Urbanization and mobile‑first fintech adoption are accelerating demand for digital solutions to housing affordability"
-  },
-  {
-    "id": "ethiopia-mobile-money-fraud-costs",
-    "title": "Low-Cost Fraud-Resilient Mobile Money Hub",
-    "category": "Fintech & Payments",
-    "tagline": "Reducing fees and fraud for Ethiopian mobile money users",
-    "dateAdded": "2026-10-11",
-    "whyNow": "With Ethiopia pushing for financial inclusion, rising transaction fees and fraud are eroding trust, and recent reports highlight urgent gaps that threaten targets.",
-    "proof": [
-      {
-        "text": "High digital transaction costs and fraud gaps are threatening Ethiopia’s financial inclusion targets",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85dVo4WU9VTGMwYVJnQ1VuZ0VSYV9SQzM3dk14QjZNYlRxWU5hUFhndmF5amxRazYyNUhBSVRLX3lUeEhrenU2U1ZWLXNOdEpMUlRLMQ?oc=5"
-      },
-      {
-        "text": "Malawi Prison Service installed CCTV to combat mobile money fraud",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGlabWJtYVZBNXNUS2x1bEYzdG8yai1Bc1AybEJ0WXMwbWhxdGQyZ0ZmekEzOU40LW5vSHBDbTM5YjVJM3Q0VmhVVjJxeE9IRmtvSFhwWG8yNWtQblVMYnZ5WlppOE1oRzRweUdxTkhNNmlzcjI5Rmx4eUtkQkJCd1ZyM3d3czFZbXVwc2tCNmpPM1JyeFZOUkF6TjBXTTJnZnh0RVNDRmpscUpJMFVCNnBhZ3VnQQ?oc=5"
-      },
-      {
-        "text": "Ghana‑US operation netted 130 arrests in a $10 million online scam crackdown",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa3VuUWw0YmpCSEFETExJcUVoU1N3bXRRQ29zZkxEbHQxaUxKOVJndU9NYkFIb0ZWRzlsYUhJZGthd1lzNnF5RzI5RmNQaUI1RlNkZnBhMVFKeVhaZEFQc3haMm1la2RtdU9Fa0pkUzRvWUROWjBZNWxYUUFJR0JwQkxRdnV0S2hUdTR4aWcxUm5kVlFDRWs0dVYxTnotQ3JWaUJIbmZWRQ?oc=5"
-      }
-    ],
-    "marketGap": "No affordable platform that bundles low‑fee transfers with built‑in fraud verification for Ethiopian users, leaving them to pay high fees or risk scams.",
-    "executionPlan": "Launch an MVP that partners with existing mobile money operators to offer a white‑label app that aggregates transfers at a capped 0.5% fee and integrates simple KYC and transaction monitoring. First build a fee‑comparison engine and a basic fraud‑alert rule set, then pilot in Addis Ababa. Monetize via a small transaction fee and premium fraud‑protection services for merchants.",
-    "competitor": "M‑Pay (Kenya) offers similar services but does not operate in Ethiopia; locally, no comparable low‑fee, fraud‑focused aggregator exists.",
-    "trend": "Rising digital adoption and regulatory focus on financial inclusion are driving demand for cheaper, safer mobile money solutions."
   }
 ]
