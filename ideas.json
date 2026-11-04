@@ -1,5 +1,31 @@
 [
   {
+    "id": "solar-as-a-service-smbs",
+    "title": "Solar-as-a-Service for Small Businesses",
+    "category": "Energy",
+    "tagline": "Small retailers can’t afford diesel generators or endure grid outages, need affordable solar power",
+    "dateAdded": "2026-11-04",
+    "whyNow": "Frequent blackouts and soaring diesel prices are crippling small traders, while recent green‑energy financing programmes show appetite for clean power solutions now.",
+    "proof": [
+      {
+        "text": "Frozen‑food traders are turning to solar because the power crisis and high petrol costs make diesel generators unaffordable.",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT05DMlVzT2tiaUZjZm81aC1COVhiQkdrR0Z5ZjFoVnNISXc1U3VRMGJzZUpVSTk3UzRQUVFwTEhhWF95UXc4cWp3YXpLQU03YlNOaVNsVElFanZBTEJMaXgzWjY1N20xLWFTVmhkdU9QVWx4MWZsWkcwZHNvRGxiN3RNazZOWG1Vc3hZYmVCRW8zZEltMC15VDF0RU03SHRCWFHSAacBQVVfeXFMTmtZb1VlTjd5ZnoyZzlzbWVwU3kwLUpmdk41WHZyMGNtclNEM0E1Wk11a0htcmtDc25zc09zS1hxX04yY0l4cmRZaVd1bmVlVm9rVHdwaXd1Mm9BOEN4blJrRlM3clF0cTRXZ0l6NWxaLUE5WHhjQ0JreHczSDBFUmphd1BvbS01ZWMzd05OcTFMdFVpSS1UblNKRTk3NlYxVE9OaVpzWk0?oc=5"
+      },
+      {
+        "text": "Green energy financing helped Nigerian SMEs cut power costs and boost productivity.",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVBQaGFzWXJaRS1SZmtfR01JODI0dWNWekV1WERiVnBiVzRfTVYtemxWM25GM2tpU21sM20tYjdhRVFZTnVSeDZXYVdSOWI2ajdlaW0xTkQxMUdFVVREUERfcXRjNW1CMlpoMDVEcXN0QWJRSGNRallwd1ZIN1pEVEo0Q3RVSm5vZzZHOTVZMVp0MEo1T1FDd3ZRT1BNTVhwYmdtbDJ1UXlLN0NHeE83TjdzajBMZlJhRGhlWU9rUE0?oc=5"
+      },
+      {
+        "text": "The Lagos Chamber of Commerce & Industry is pushing a gas‑based solution to Nigeria’s power crisis, underscoring the lack of affordable clean energy for businesses.",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52anA0NGVDdW9INzI4RXBKdUFGMHdnaXhNUF9zV205V2lWOC12THcxTU9fSHFxYm5fbTRZOGp5QjVQUmtlQkxQMlZlTmVKM3ZXdXhkeGNpdUduNFJJanhWbkhuNElzSFhOejZFS2VLajNDQm5URUlR?oc=5"
+      }
+    ],
+    "marketGap": "No Nigerian provider currently offers a pay‑as‑you‑go solar leasing model tailored to small retail and food‑service businesses that need reliable, low‑cost power without upfront capital.",
+    "executionPlan": "Launch an MVP in Lagos and Delta states by partnering with local solar installers to provide 5‑kW rooftop kits on a subscription basis; users pay a modest monthly fee covering equipment, maintenance and insurance; a mobile app monitors usage and alerts for service. Monetize through the subscription fee and optional add‑ons like battery storage. Validate demand with a pilot of 50 traders before scaling nationwide.",
+    "competitor": "M‑KOPA (Kenya) – similar pay‑as‑you‑go solar model, but no direct Nigerian equivalent yet",
+    "trend": "Accelerating renewable‑energy financing and rising diesel costs are driving African SMEs toward affordable solar solutions."
+  },
+  {
     "id": "rural-diagnostics-platform",
     "title": "Rural Diagnostic Hub",
     "category": "Health-tech",
@@ -460,23 +486,5 @@
     "executionPlan": "Build an MVP that aggregates satellite‑derived precipitation and river‑gauge data into a simple dashboard delivering daily water‑level forecasts for key basins. Pilot with 20 SMEs in Kenya’s agricultural processing sector, charge a US$20/month subscription, and expand to other sectors as data coverage improves.",
     "competitor": "none exists",
     "trend": "Rising El Niño‑driven droughts and a surge in climate‑focused financing are pushing African businesses to seek data‑driven water risk solutions."
-  },
-  {
-    "id": "fuel-hedge-platform",
-    "title": "Fuel Hedge for Transport Operators",
-    "category": "Logistics & Transport",
-    "tagline": "Transport operators can’t afford unpredictable fuel shortages and price spikes",
-    "dateAdded": "2026-10-13",
-    "whyNow": "Fuel scarcity is intensifying in Nigeria, pushing transport costs higher and sparking social tension, so operators need immediate price certainty.",
-    "proof": [
-      {
-        "text": "Nigeria is experiencing severe fuel scarcity, driving up transport costs and threatening social peace",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TRS02b1hyV0s0NGxEQ0JENzU3aW9ZVkdZNkxrOWY5RGVOUDVVR0JpZUt4VGNtZ29NczBZcVdhenpsNi1hZXg2SmN6anREanZrTGtWNlpjSVptS0c5ZkRYSG0wX0p0UkVKVHFMeHJFSUphSnM?oc=5"
-      }
-    ],
-    "marketGap": "There is no affordable, digital platform that lets small fleet owners collectively lock in fuel prices or guarantee daily deliveries, leaving them exposed to volatile market shocks.",
-    "executionPlan": "Launch an MVP mobile app that aggregates fuel demand from mini‑bus and truck owners, partners with licensed fuel depots to secure bulk contracts, and offers a subscription guaranteeing a fixed price per litre; monetize via a modest service fee on each litre delivered.",
-    "competitor": "None exists directly; the closest alternatives are traditional fuel brokers and ad‑hoc cash purchases.",
-    "trend": "Rising fuel price volatility and supply chain disruptions are driving demand for predictable fuel procurement solutions in Nigeria."
   }
 ]
