@@ -1,5 +1,31 @@
 [
   {
+    "id": "clear-data-app",
+    "title": "ClearData: Real‑Time Data Usage Tracker",
+    "category": "Connectivity",
+    "tagline": "Consumers can’t see why their mobile data vanishes, leading to frustration and wasted money.",
+    "dateAdded": "2026-11-05",
+    "whyNow": "Regulators are demanding explanations from MTN, Airtel and Glo over poor service, and recent MTN statements admit data disappears quickly, highlighting urgent consumer demand for transparency.",
+    "proof": [
+      {
+        "text": "Nigeria’s reps give MTN, Airtel, Glo until October 28 to explain poor service",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KMFJrb3h4cGRJQk5BbWhVT2ZLQU5PTVplLTFCUWJPdGxOcmRwcE1kZkxEQnJnelZRVWJwOUc4dTA5NWl3NGNPYVRMdXYwcE0yV0ttQkhWWXFLdjN0SUNTNHkwVnhkUQ?oc=5"
+      },
+      {
+        "text": "Why mobile data finishes quickly — MTN explains",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44T29CVGNDQ0R6cTV3c1JCLXJXUWcyazNUREQzbHpNMzFBSmFMdzVmNktuVFp0aF9pRnBFMWQ2LU1mRDRCS2p6V0xSSThUUmVLOFozdF9zbkkxR3drMzRlaEN1OF96ZC1MREo4OVgxTWpwdi1PRE1wb2hNUXVRUU3SAYQBQVVfeXFMT2tiOGNEUVRSQU5BMUFuZ09RbUdQSHI4aVJkZWtzV1BuS01ZXzBDb1A3Y3doS0M2N3JmaHBuUHB6aE5rQjgzdUpQWldRWG9CcE1ETVRJR1NKdllJekhrdVZLUTc5enVMY0JIZHd6d21xTlZvTXlKRFlJUWNqcjJKMTZNdUlS?oc=5"
+      },
+      {
+        "text": "“Who’s eating my data?” MTN finally explains why your data disappears like jollof at a party",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZUpMTHFSZE84X1daUVlybjVjX3N0anhpcGtDVVFsZWJwYUVESHptbzVhY1d1MWlONncxSkwxcTI3R3BrTE5kTWZlOUs1a1N4cGJ4Z1c1R1lvN2RXUVlPQmRac0pDMHBPV1FhU3ZpQnNId09UN2FwSFJLdWtLbjZqVWJJT0NYa0I0VllFaWF2ZjY?oc=5"
+      }
+    ],
+    "marketGap": "No consumer‑focused tool offers real‑time, per‑app data usage visibility and alerts, leaving users to guess why their data depletes.",
+    "executionPlan": "Build an Android MVP that reads OS network stats, displays per‑app consumption, and sends threshold alerts; launch beta with a small user group and partner with local carriers for API‑based bundle recommendations; monetize via a freemium model with premium insights and affiliate commissions on data purchases.",
+    "competitor": "none exists",
+    "trend": "Rising mobile data costs and growing consumer frustration with opaque usage are driving demand for transparent data management solutions."
+  },
+  {
     "id": "solar-as-a-service-smbs",
     "title": "Solar-as-a-Service for Small Businesses",
     "category": "Energy",
@@ -460,31 +486,5 @@
     "executionPlan": "Launch an MVP web/app where users create or join community data pools, the platform aggregates demand and purchases bulk data from telcos at discounted rates, then distributes credits to members. Start with South Africa's major carriers, charge a small service fee per megabyte distributed.",
     "competitor": "None exists as a dedicated community bulk‑data marketplace; existing carrier bundles are individual only.",
     "trend": "Rising mobile‑first internet usage and streaming demand are driving up data consumption across Africa."
-  },
-  {
-    "id": "water-forecast-sme",
-    "title": "Water Forecast SaaS for African SMEs",
-    "category": "Climate & Water",
-    "tagline": "SMEs lose revenue because they can’t predict water availability for their operations",
-    "dateAdded": "2026-10-14",
-    "whyNow": "El Niño‑driven droughts are intensifying, threatening contract fulfilment for small businesses, while climate financing is expanding to support water resilience solutions.",
-    "proof": [
-      {
-        "text": "CREATES assesses two shared river basins in Eastern Africa, highlighting gaps in on‑ground water security data.",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVk44dnJLUllWTU9QdXV0WlRKUjk1dE1JYTBkN2NzcUVmdTZQYlMybnhtckw1aVVqTXBIaXpOWHBSY3dpMGZhNHF2UDUzUG9rUDVyRVR6MV8xbFYxRmRHbzJwX1hIaVEwdUFVNmg2MEdOMDNhU01rS2NOZzRRTUdxYUNPN2IwUktJaHl4NS0xQTFCRFJ2amtaWlUtdThPN29TYWx4dXJEanY5Z05IbFJHMg?oc=5"
-      },
-      {
-        "text": "El Niño puts business contracts under pressure as drought risks rise.",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTdHZlJTYi1waExkVXRCTEhyUF92OVZhUFBBZjVJU0R2R3hTbFg3R1A5d2lERHhWQ01Oalh4aTBUSU0wRXhvVWtwVHVOMVY3V0ZhRzlOSmNLem9WMHY2U1pmX253OEU2TW9HdGp6X0phWFZKNFRFSC16aFFzVDFqSVNvNnI3WWdxaFEwdDJQNElSWDlGSkxBMzZpc3ZRa1AzUkVGNXl5cw?oc=5"
-      },
-      {
-        "text": "FG targets $500 m climate financing for resilient infrastructure, signaling increased funding for water‑related projects.",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZERHa29YUnRrN1RtMjZNNEd0SDd4UFhGbkRuVkEtTmVDNTJFVUNXRkdkeUdBRzhZd0FVckhHQ1R0VWZ0WHB3MWdhWkkteDN0Z3pyZG90Q2Q1MFU4aTdWWGNNVGwyZjc0VG9mVjM3ZlJOVDYtYjdsRDFIaU9Mcko4T0FmUVAtQTV0WlVqZU9mMjRKYUM2ZWc4?oc=5"
-      }
-    ],
-    "marketGap": "There is no affordable, real‑time water‑availability forecasting SaaS tailored for small and medium enterprises in drought‑prone African markets.",
-    "executionPlan": "Build an MVP that aggregates satellite‑derived precipitation and river‑gauge data into a simple dashboard delivering daily water‑level forecasts for key basins. Pilot with 20 SMEs in Kenya’s agricultural processing sector, charge a US$20/month subscription, and expand to other sectors as data coverage improves.",
-    "competitor": "none exists",
-    "trend": "Rising El Niño‑driven droughts and a surge in climate‑focused financing are pushing African businesses to seek data‑driven water risk solutions."
   }
 ]
