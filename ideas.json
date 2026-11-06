@@ -1,5 +1,31 @@
 [
   {
+    "id": "rentassist-nysc-abuja",
+    "title": "RentAssist",
+    "category": "Housing",
+    "tagline": "NYSC graduates can’t afford Abuja’s soaring rents, forcing them into debt or unsafe housing",
+    "dateAdded": "2026-11-06",
+    "whyNow": "Rising rent prices in Nigeria’s capital are outpacing entry‑level salaries, and NYSC members – who receive a modest stipend – are feeling the squeeze now more than ever. The urgency is heightened by a widening housing deficit and escalating construction costs that threaten to make affordable rentals even scarcer.",
+    "proof": [
+      {
+        "text": "\"Abuja’s Rising Rents Push NYSC Members Into Financial Strain\"",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2RFUkxSeGtjLTJaZWlwbnhoZkpxRTlVbUxoV3NTWjctal9FSVFSQ3VZX05sSWNJN1BuTkVWdDQxa1lxckF1c2doVmhlVnp2WHdmY0ROc1BQbUpYa250U2ZZNnEzRWxXZmYwSzFfZFJ3Y0RoRVdLXzRVRVdUdksxVDdqYWJhcU5kOHNlNElYTDBOOEltYl9PUWZLNzQ5VTNH?oc=5"
+      },
+      {
+        "text": "\"Nigeria’s Housing Affordability Crisis: Tackling Soaring Rents Through Sustainable Solutions\"",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUEVRY1k0VVRrZDJyVUEyYWRxZklrUFV0UVc5ajU5anNGLTV5OGxBQmt0TEd3WXRseHM1NHkyYjFTZTFEeGNCRTgwTWt2N1UyaExsR0tGaVpQNmdCRkppN2VJbFdFYkxxN3VvNk50SG13RjVEd2Eyd1ZUUzVGNVdCaUZ6aXdiSmNMQ0FmeXJPTkxGVlk2LUJoWDBQY3ZLSzZLYnRaS1ZtN1FnSkJyOFc4a09IN294cEJHT1JtQTA2b05ObmhhRFJsZ2dB?oc=5"
+      },
+      {
+        "text": "\"Housing Advocacy Network Seeks 100‑day Emergency Plan To Crash Building Materials Prices\"",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaTJNUWtOenI1RHItUkZfN1k1LXNCZFpTUHZraVlaTHpJRFQ5anVSRE5MRnpyb1R4VEM4VzdMVEwxZlB6N0U5ZVp4M1lkeU12YmJ5dXMwVkxudjZ4ZmNaeUV2aTNEYzA4UUNLTDlLRmR6dFJLdGNKN3RldWctSFVSaDJCeVJxWGQ0YTZkdElLNVpyejVYYV9ia3FVNFNWS205Z1Z6bjZFSThETXRYdkFldw?oc=5"
+      }
+    ],
+    "marketGap": "No existing platform links rent payments to the cash‑flow timing of early‑career civil servants, leaving NYSC members to rely on informal loans or sub‑standard housing. Current rental marketplaces treat all tenants the same and do not address income volatility.",
+    "executionPlan": "Launch a mobile MVP in Abuja that partners with landlords near NYSC camps to offer income‑linked lease agreements – tenants pay a fixed percentage of their monthly stipend, and the platform guarantees rent to landlords. Phase 1 builds the matching engine and payment escrow; Phase 2 adds a small subscription fee for landlords and a 2% service fee on each transaction. Revenue is generated from landlord subscriptions and transaction fees while data on rent affordability is collected for future fintech products.",
+    "competitor": "None – existing rental platforms (e.g., PropertyPro) do not provide income‑linked rent solutions for NYSC members.",
+    "trend": "Rapid urbanisation and digital fintech adoption are converging with a housing supply crunch, making income‑aligned rental models both viable and timely."
+  },
+  {
     "id": "clear-data-app",
     "title": "ClearData: Real‑Time Data Usage Tracker",
     "category": "Connectivity",
@@ -464,27 +490,5 @@
     "title": "Customs Cost Calculator for Nigerian SMEs",
     "trend": "Rising protectionist measures and anti‑dumping probes worldwide are increasing import cost complexity, driving demand for transparent cost tools.",
     "whyNow": "Global anti‑dumping investigations are rising, adding unpredictable surcharges to imported goods. Nigerian SMEs already struggle with opaque customs fees, making timely cash‑flow planning critical now."
-  },
-  {
-    "id": "datashare-community-bulk-data",
-    "title": "DataShare: Community Bulk Data Purchase",
-    "category": "Connectivity",
-    "tagline": "High mobile data prices force Africans to limit internet use and miss out on work, education, and entertainment.",
-    "dateAdded": "2026-10-16",
-    "whyNow": "With remote work, online learning, and streaming surging across Africa, the pain of expensive mobile data is intensifying, making affordable bulk purchasing a timely solution.",
-    "proof": [
-      {
-        "text": "Why Amazon Prime video beats Apple TV+ for value in South Africa",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3ZsdHA4OGR4dVI4NzFLaFJMSDBrcUk5dDBPeFBVRWZwZUFURUNnbHlVRi1DNkhPbW1RWmc4eE5pOVcwYW5LSzYwN0lKODRtNUJOckxLY1o4MEdvZUtXbFhfMDhtUjIzU2RHMmJBWjBnYXktVmpOT1lldW1FWjdtSzZkQ2Y1WW5ZVjN3Y0d3LS12YlljeE90MTd4MUp2czJ0WDF6VVh1eXIzVEgwalBOSjFoN1pZamRyVUJGMUpvMFppUWZkNTk2aWowRkw?oc=5"
-      },
-      {
-        "text": "Best Data Removal Services of 2026 (Tested & Ranked) - All About Cookies",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lR1dWYk8ya2VVSmZVSmp6ejVMVk10SXNSbjRYdTBXX0IycGM0cVdVWmFtcGd1eTdsbkxvZUpvWVo1UFFKR01mX0h1WW8wRTBMaC1pd19PVnZ3Xy1TWGZxT0F5SQ?oc=5"
-      }
-    ],
-    "marketGap": "There is no platform that lets individuals or neighbourhood groups pool their data needs to negotiate wholesale rates with carriers, leaving users to pay retail prices.",
-    "executionPlan": "Launch an MVP web/app where users create or join community data pools, the platform aggregates demand and purchases bulk data from telcos at discounted rates, then distributes credits to members. Start with South Africa's major carriers, charge a small service fee per megabyte distributed.",
-    "competitor": "None exists as a dedicated community bulk‑data marketplace; existing carrier bundles are individual only.",
-    "trend": "Rising mobile‑first internet usage and streaming demand are driving up data consumption across Africa."
   }
 ]
