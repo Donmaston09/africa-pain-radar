@@ -1,5 +1,31 @@
 [
   {
+    "id": "feeflex-installment-platform",
+    "title": "FeeFlex: Installment & Transparency Platform for School Fees",
+    "category": "Education",
+    "tagline": "Parents can spread school fees into affordable installments and track payments in real time",
+    "dateAdded": "2026-11-07",
+    "whyNow": "School fees are soaring across Nigeria, turning education into a luxury for many families, while the government’s tuition‑fee reviews signal a volatile pricing environment. Digital payment adoption is high, creating a window to introduce a tailored, transparent fee‑installment solution now.",
+    "proof": [
+      {
+        "text": "Rising school fees are forcing parents to struggle to afford education, as reported in the NASS Roundup.",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd1BUNzVIUUp5c3NKOFhEZ2otVm50X3BrMmloR3dkVWJDZEREZlY0ejBkc3JYZmF3YmVWRU9Hem9TeGVVNXc0MElUamFrcjViYWtmZDFDQktybGZsZnBGMHhGTHNQWTBlZGs0QzZfMk1TbjJkLWFxR3FiLXM5RmNLdk40VHZlREVBNXVCaTY1OWNySzVlWmVlNUlZRWQxUTdDTXo1dXQzR1RRZEpxOHhiZlpTT3lGN2NqT2NROWVGZjlmSkZXSjhwcktyNllwdFE3OHA3VmZrLWRzR0NJMkg2eXNmNV9yT2tV?oc=5"
+      },
+      {
+        "text": "Parents in Kogi describe education as becoming a luxury due to soaring school fees.",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0d3LWxHNXZBOTA3OXNXQUpsV3huY2lQcTR5eXRPYzZadVVKNndleWFRRFNlZFAzMWFWZU1LNU9nZVhiTXJ2M2pNTjhlT1V3WHc0WUpTekhiQ2kwel9Ha2tEcEM5d0FxZEpDUk5CdTltTld3ZGt5a1JDM0l5MDRvR2NReExUc0pvckotWG5PcEpDbHVfLTJYbmpDWW1UTFU1?oc=5"
+      },
+      {
+        "text": "The government is reviewing tuition fees in state‑owned tertiary institutions, underscoring the need for fee transparency.",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHRVM3RwclhibEd4WGxMS2poUmJlRlBTYlc3OEpJcmREX0lTb1JpRnRCUGZfTXJYUFFTSWpUWmk5WGJRWThabzgtVDNra3NTczZ2QmNJckM4ZF9IQW1rUHRyR1hXdFdaa1FSeEw1MFEzajI3Z0dEUDIxWHczNkFaVUs4Sm5ybkE?oc=5"
+      }
+    ],
+    "marketGap": "No dedicated platform currently lets parents set up, monitor, and pay school fees in manageable installments while providing schools with transparent fee schedules and escrow protection. Existing payment gateways are generic and lack education‑specific features.",
+    "executionPlan": "Build an MVP mobile/web app that integrates with Nigerian banks and payment processors to offer zero‑interest installment plans for school fees. Start with a pilot in Kogi and Lagos, onboarding 5–10 schools and offering parents a simple dashboard to schedule payments and view fee breakdowns. Monetize through a small transaction fee on each installment and a subscription tier for schools to access analytics and escrow services.",
+    "competitor": "None exists that focuses specifically on school‑fee installment management; the closest alternatives are generic payment processors like Paystack or Flutterwave.",
+    "trend": "Accelerating digital payments and growing concerns over tuition fee inflation are driving demand for transparent, affordable education financing solutions."
+  },
+  {
     "id": "rentassist-nysc-abuja",
     "title": "RentAssist",
     "category": "Housing",
@@ -468,27 +494,5 @@
     "executionPlan": "Build an MVP that integrates with NELFUND and government grant APIs to verify eligibility, issue digital wallets, and release funds instantly via mobile money. Pilot with two universities, charge a small transaction fee on disbursements and offer premium analytics to institutions.",
     "competitor": "None directly; closest is generic fintech wallets like Paystack, but they lack education-specific verification.",
     "trend": "Rise of digital financial services and increasing government education subsidies are driving the need for tech-enabled fund distribution."
-  },
-  {
-    "category": "Trade & Logistics",
-    "competitor": "None offers a dedicated Nigerian landed‑cost calculator; closest alternatives are generic trade data services like TradeMap.",
-    "dateAdded": "2026-10-17",
-    "executionPlan": "Develop a web‑app that pulls Nigerian customs tariff data and global anti‑dumping lists via APIs, then calculates total landed cost for any HS code. Launch MVP with a searchable cost calculator for the top 100 imported goods used by SMEs. Monetize through a subscription tier offering bulk API access and compliance alerts.",
-    "id": "customs-cost-calculator",
-    "marketGap": "No localized Nigerian platform aggregates customs tariffs, anti‑dumping duties, and other hidden fees into a single landed‑cost estimate for SMEs.",
-    "proof": [
-      {
-        "text": "India launches anti-dumping probes into five Chinese products after domestic industry complaints",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaU1VTV9VQUxUcTgtbmZ5amFaM3JyNjV2SzZ1ampPZXFLdmNLN0Q1OVFVWjFaMmZXQUFFYUtpWlVNb0tBQ1luREo4NzM3bkpxR2tnVTVfX1Y2eW11cGwzVnZWWm00ekU1MXh1ZXpLeWdsVWNMMVhRR1hudzhvY2JfNTlHbFlLN19nMGFEZ3RWZXQ2VDV6a0hFdjB0N3lIVXp1Yy16d1ZxTWNrX1J0cFc4aVprdV91a05Ob3haTEx5TUxvZHZKRjh1UzIzOU00dFFwVWxUNWVUZXVSWWNyREZ0a1BDWnN4em9FcldobTJnM1dyek9ueEZMa0tMX0R0emNvNTVXc2pSS1jSAY4CQVVfeXFMTzB1YTZIYlREckNzMExkOFh5bUlfcExKcDZLeGVEQm5NTzNEcE1rUVNBXzFGNFZqZmhzZi1RbnhISmFvUXFMZjlUQmxPYUtpVlk3LVk1cFRWenh5dHQxOXpUMlpCOHlqNWYzUHBKeG9GRHQzeHlfMURMNVlBYmJlb1lxbjdCWG1hSVNXeXRUckpDbkR2YXRQcWpfTzUtMkYyclh0QzEyYUU4eFdJdnE4X2dRNVpfcHNFWVhFRW9MU0c5VDBrRy0zd0xhZmppdkNBSnZXQk1abGN6VWhnWUt5OGlubmNXY2luc0REVUN1VGE3MUF4MElGS0d3bHc4Q19wMzBxYXl1WEhZeXJVRDhB?oc=5"
-      },
-      {
-        "text": "Domestic industry complaints are prompting anti‑dumping investigations, highlighting hidden costs for importers",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaU1VTV9VQUxUcTgtbmZ5amFaM3JyNjV2SzZ1ampPZXFLdmNLN0Q1OVFVWjFaMmZXQUFFYUtpWlVNb0tBQ1luREo4NzM3bkpxR2tnVTVfX1Y2eW11cGwzVnZWWm00ekU1MXh1ZXpLeWdsVWNMMVhRR1hudzhvY2JfNTlHbFlLN19nMGFEZ3RWZXQ2VDV6a0hFdjB0N3lIVXp1Yy16d1ZxTWNrX1J0cFc4aVprdV91a05Ob3haTEx5TUxvZHZKRjh1UzIzOU00dFFwVWxUNWVUZXVSWWNyREZ0a1BDWnN4em9FcldobTJnM1dyek9ueEZMa0tMX0R0emNvNTVXc2pSS1jSAY4CQVVfeXFMTzB1YTZIYlREckNzMExkOFh5bUlfcExKcDZLeGVEQm5NTzNEcE1rUVNBXzFGNFZqZmhzZi1RbnhISmFvUXFMZjlUQmxPYUtpVlk3LVk1cFRWenh5dHQxOXpUMlpCOHlqNWYzUHBKeG9GRHQzeHlfMURMNVlBYmJlb1lxbjdCWG1hSVNXeXRUckpDbkR2YXRQcWpfTzUtMkYyclh0QzEyYUU4eFdJdnE4X2dRNVpfcHNFWVhFRW9MU0c5VDBrRy0zd0xhZmppdkNBSnZXQk1abGN6VWhnWUt5OGlubmNXY2luc0REVUN1VGE3MUF4MElGS0d3bHc4Q19wMzBxYXl1WEhZeXJVRDhB?oc=5"
-      }
-    ],
-    "tagline": "SMEs can’t predict total import costs due to hidden anti-dumping duties and customs fees",
-    "title": "Customs Cost Calculator for Nigerian SMEs",
-    "trend": "Rising protectionist measures and anti‑dumping probes worldwide are increasing import cost complexity, driving demand for transparent cost tools.",
-    "whyNow": "Global anti‑dumping investigations are rising, adding unpredictable surcharges to imported goods. Nigerian SMEs already struggle with opaque customs fees, making timely cash‑flow planning critical now."
   }
 ]
