@@ -1,5 +1,31 @@
 [
   {
+    "id": "mobile-money-fraud-guard",
+    "title": "FraudShield: Real-Time Mobile Money Fraud Detection",
+    "category": "Fintech & Payments",
+    "tagline": "Stop scammers from draining your mobile money wallets",
+    "dateAdded": "2026-11-08",
+    "whyNow": "With mobile money fraud cases doubling globally and a surge of scams targeting African youth, immediate protection is critical.",
+    "proof": [
+      {
+        "text": "Ghana’s youth are being caught in Ponzi traps that siphon their mobile money savings",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2ItWThJSWVoTFhjOVJuaXNyem1JMHJ3OGlxbFZqT285cUl5U2NJSWZZRk5pdXNBemo3bnZ6SXRfTXpxTzZPbFN1NTgtcXZTVlI1M0ZSOHBkeTJ5WVY3eFFDQXZxX0JudWFmVDhyV2ZNTFBtcmhnSU5GNmZVVUZNUFY5UWVfTmRnN2dKSmlDc3N4MDNoWmhsMkxkUUlLY2lVbFJtQkJXaw?oc=5"
+      },
+      {
+        "text": "Banks are facing a trust meltdown as fraud cases surge across mobile money services",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcER2aFMyYU9saXA0aGFGSzdQTGszY1QzZEp5YXl2blJlcVRUV3kxeGtlb3NqRDJsQjEyaEZ0aDJLeDNtSlJKT1pranhVc0d6aUt6Z29oYzlxcEhxaFhsazFLQVJmd0ZINVJaSzRqZy0wTW1Gam1mU1hqc2FNY0FMM2hDOGhxNmVycWJrQ1JsbUxFTjhvTzFvbEg3RGFHWnlmb3JnbUdrbw?oc=5"
+      },
+      {
+        "text": "A hackathon is being organized to tackle mobile money fraud, highlighting the urgent need for solutions",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdXpSbjA3ZXM2OHdCMzlXd2dUeVpWLWJnUXhZeWV4eVVDZmwxOUV2ZnUwbmh2b3ZQVElIbFhMWXpyajNYazNKd21PdmRUQUtFZS1qN010eVlRYnl2R05LVVF4bXkyUEcwblUxUW5LOU9JTzFrMDIxT1FMN292OFZ0a2VrVWFsOGJEUnViWXZTRTZhVHk4aUM2b21PT1IxOVRselJVb1VkTDlYNVI4QjBWcHFLeHhTV2NqWFFtTFYxS1dQbmI4UE12dDJFSHFsVHU0R3p2ZXlNMA?oc=5"
+      }
+    ],
+    "marketGap": "Mobile money providers rely on reactive, manual reviews that miss many fraudulent transactions, leaving users exposed and eroding trust.",
+    "executionPlan": "Develop an API that plugs into mobile money platforms to score transactions in real time using machine‑learning models trained on known fraud patterns. The MVP will include a rule‑based engine and a simple dashboard for operators to view alerts. Pilot with a regional operator and charge a subscription per‑transaction‑volume fee.",
+    "competitor": "none exists as a dedicated AI‑powered real‑time fraud detection SaaS for African mobile money",
+    "trend": "AI‑driven digital deception and rising mobile money adoption are fueling a surge in fraud across Africa"
+  },
+  {
     "id": "feeflex-installment-platform",
     "title": "FeeFlex: Installment & Transparency Platform for School Fees",
     "category": "Education",
@@ -472,27 +498,5 @@
     "executionPlan": "Build an SaaS platform that assesses an SME’s activities and recommends the optimal legal entity, then offers end‑to‑end registration assistance via partnered legal firms. Launch MVP with a questionnaire and automated filing for Ghana, monetize via a registration fee and a success‑based commission from lenders.",
     "competitor": "None exists as a dedicated legal‑structure‑to‑loan matchmaking service in Ghana",
     "trend": "Increasing financial inclusion initiatives and digital registration reforms are encouraging formalization of African SMEs."
-  },
-  {
-    "id": "school-fee-disbursement-platform",
-    "title": "FeeFlow: Transparent School Grant Disbursement",
-    "category": "Education",
-    "tagline": "Students lose weeks waiting for promised school fee funds.",
-    "dateAdded": "2026-10-18",
-    "whyNow": "With recent NELFUND payout controversies and the new ₦20,000 Tinubu grant rollout, the demand for reliable, real-time distribution of education funds is acute.",
-    "proof": [
-      {
-        "text": "NELFUND paid ₦30.7 million to students in two institutions, but faced complaints over disbursement delays.",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdU9CMlNLZEVjQ1hJTElHT0o4QmFaVjNneGJHbmw5TVZGZmZSbGFOdUNreVk3SDN3ZUtCRm9tYzIybTJYUmlKRHNGS2w0S1Q1cVF5ajI4eW5wZnJQUHV1enh6dktfZjMtUzY5UkltMHpiQ3FQaXhIekNlUlR0SEk5WnlLeU1CRV95S2FpVnljb19LTk4zS0ZkNzdxNk1iel9LMU0yOFpBRkJ1QUpkdmU1UzNn?oc=5"
-      },
-      {
-        "text": "Oluremi Tinubu announced ₦20,000 support for 100,000 beneficiaries, targeting school fee assistance.",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlQ0d211Y0lhZGlYV2lZeW1nTFhxTWFjeXpkMjQxdHctR0VBZVRVUkZrd0RvTXVybXlVMlFhdmFudWU5WXZObXBDVG10R1RpUVdFVFBlOXZzVFJ1WVZkZTVRQ2dQNktfUkYwUVZsbkpmSllxSnlBX1VvajF4bi15eWR4VzNKNERqeDZpME5FejZWbkhsQ2Z3ZnJnOTVCNG5XMERwMkZmVHZxci01RjN3a0dRTFcxVkFMRVRKR3pBT1NhSnfSAcsBQVVfeXFMUHBkVElWNFVjR25lb2hCZTdnckM0T2wzbVBmdHdYSGpjbHJ0U1NkX2VMSHdmZVhLSjB2VlJqNzZqRUROV1lnNEdkTjdWS0w5M2ZfMF9xbG9Ob2ZNLUthQTVOUXFGaFd6bzFMckFKUkZpVXd5VVM3MG1ZUHE3ckloNGJkN3dmTmhneUtId09HR1lsNExhSHRpNzRmd2RrZTJEQ2dCNkRZLWZvb3ktZW1VTGVSLWYxZWRKT19oX2RMdUJpSWd0aXFSeEJjNzQ?oc=5"
-      }
-    ],
-    "marketGap": "No existing digital platform in Nigeria offers end-to-end verification, tracking, and instant release of government or loan funds to students, leaving families to chase paperwork.",
-    "executionPlan": "Build an MVP that integrates with NELFUND and government grant APIs to verify eligibility, issue digital wallets, and release funds instantly via mobile money. Pilot with two universities, charge a small transaction fee on disbursements and offer premium analytics to institutions.",
-    "competitor": "None directly; closest is generic fintech wallets like Paystack, but they lack education-specific verification.",
-    "trend": "Rise of digital financial services and increasing government education subsidies are driving the need for tech-enabled fund distribution."
   }
 ]
