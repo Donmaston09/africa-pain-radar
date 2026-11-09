@@ -1,5 +1,31 @@
 [
   {
+    "id": "farm-credit-bridge-kenya",
+    "title": "FarmCred Connect",
+    "category": "Agri-fintech",
+    "tagline": "Kenyan smallholder farmers can’t secure affordable credit because digital financing platforms are underfunded and fragmented",
+    "dateAdded": "2026-11-09",
+    "whyNow": "With major banks and Mastercard only just launching a pilot platform and donor funding drying up, the financing gap is widening, making it critical to create a sustainable, low‑cost credit marketplace now",
+    "proof": [
+      {
+        "text": "FCMB and MasterCard have launched a farmer financing platform",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc1NzanZDbmNRdnRWVFI0Y2kwY2o1cHdMYnNkY3RpbWZZQVZXcjVLUkotV3NlYldCUjFVYWc3R2E5ZHlnaWdIaHlwcTlqazUwYmpPbXgwWW9uRXJfcVNPSHAwamx5b1VHSlBndlE3el9hM2xCR3RkSzhydWxmMlNqTC02X05XWFVydmplVUhtQ2lKbS1JVnlMZVVn?oc=5"
+      },
+      {
+        "text": "Donor funding pressures are putting digital services for smallholder farmers at risk",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmdTMU9IaEJaQWtjQ2NINTZjQ2FqdEhsc3pjN2hlVlV3RzB4OGc0OG5zUHlnVkZHdTZ1cmNnMnhxeDViXzh0ZlJFOS11bXM4T3loSzRObFRIMi1KRHdHWUhuLW5IYUxWdUNLQmhqTnRhWDZPczRYdUptS2ZqMDlyQnR3VDJ1STZvdVZIV0YtN2xzaWhCLTdBNjJGWVdLMUtuQXVOVQ?oc=5"
+      },
+      {
+        "text": "Declining agriculture funding is pushing innovators to seek new financing models",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZW1SOWhpcGZkaG5WUnF4U01ITWFNZktvaGFFOGgzN2l6VjRnWjlvWGl4SFdWRlJUTEdQRmVBRXVxdkhTV2l4MWlmQkFldWluWjVid1JQU01MMGRHVkNub3F0RndMUzVBNTlQT0NXOFVGWnlmU1k5VFBleEE4R2ZqQXUxY3NaMmNVa2hCSlZQc2tkZTI1MzRQZWlDZmQ1TkFJeDEwNWNYUmEzVHpXMXVPMTZOcmVwVzRrMVdsSldCLVZFZlM4UUx2NzVIbw?oc=5"
+      }
+    ],
+    "marketGap": "There is no end‑to‑end, farmer‑centric credit marketplace that aggregates bank, fintech, and impact‑investor liquidity while offering transparent terms and mobile‑first access",
+    "executionPlan": "Build an MVP mobile app that connects farmers to a pool of pre‑qualified micro‑lenders via API integrations with banks like FCMB and Mastercard’s platform. Pilot in Kenya’s Rift Valley using satellite‑imagery and transaction data for credit scoring. Monetize through a small origination fee and interest spread shared with lenders",
+    "competitor": "M‑Shwari offers micro‑loans but isn’t tailored to seasonal agricultural cycles, so it’s not a direct competitor",
+    "trend": "Digital agriculture financing is accelerating as mobile penetration and data‑driven credit scoring become mainstream across Africa"
+  },
+  {
     "id": "mobile-money-fraud-guard",
     "title": "FraudShield: Real-Time Mobile Money Fraud Detection",
     "category": "Fintech & Payments",
@@ -476,27 +502,5 @@
     "executionPlan": "Build an API that ingests telecom SIM‑change events and cross‑checks with mobile money provider accounts, triggering instant OTP verification and a temporary hold on transactions. Launch a pilot with one telecom and one mobile money operator, charging a per‑user subscription fee. Scale by licensing the engine to other operators across West Africa.",
     "competitor": "None provides an end‑to‑end SIM‑swap protection platform for mobile money.",
     "trend": "Rapid mobile money adoption combined with rising digital fraud makes real‑time SIM‑swap defense critical."
-  },
-  {
-    "id": "legal-structure-loan-access",
-    "title": "Legal Structure Loan Access Platform",
-    "category": "SME Finance",
-    "tagline": "Ghanaian SMEs struggle to secure loans because they lack the proper legal entity structure",
-    "dateAdded": "2026-10-19",
-    "whyNow": "With recent regulatory reforms and increased lender interest, SMEs that formalize correctly can tap new financing streams, but many still operate under informal structures.",
-    "proof": [
-      {
-        "text": "The right legal structure is Ghanaian MSMEs’ greatest scaling tool",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmdldVhmbHhYRGN6OW94V215ei0tMEo4cTZhcVFqZWxGUzBYc1B2RzNSaGd2UWJEbEJnVlNhODdUMDhLejRNdkV1bW1jUlhJblBkYl9aZm1RWVFScWxGc1UySXNLQlkwUHc3ZUJ1YzdPYzA1QzVqWEpoS2g5QVRkcFNyQi1UM3JJbmMyeGUwd0M2NkFzdHZxR2lDaFhXSVZmamdIMXJEVEM3anJEYnN4SkF3TmlndDdYSjVQOFNYMkRYODF6WEllcDRB?oc=5"
-      },
-      {
-        "text": "Published on Sun, 18 Oct 2026",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmdldVhmbHhYRGN6OW94V215ei0tMEo4cTZhcVFqZWxGUzBYc1B2RzNSaGd2UWJEbEJnVlNhODdUMDhLejRNdkV1bW1jUlhJblBkYl9aZm1RWVFScWxGc1UySXNLQlkwUHc3ZUJ1YzdPYzA1QzVqWEpoS2g5QVRkcFNyQi1UM3JJbmMyeGUwd0M2NkFzdHZxR2lDaFhXSVZmamdIMXJEVEM3anJEYnN4SkF3TmlndDdYSjVQOFNYMkRYODF6WEllcDRB?oc=5"
-      }
-    ],
-    "marketGap": "No service currently guides SMEs through choosing and registering the optimal legal entity to meet lender requirements, leaving a gap between business formation and loan eligibility.",
-    "executionPlan": "Build an SaaS platform that assesses an SME’s activities and recommends the optimal legal entity, then offers end‑to‑end registration assistance via partnered legal firms. Launch MVP with a questionnaire and automated filing for Ghana, monetize via a registration fee and a success‑based commission from lenders.",
-    "competitor": "None exists as a dedicated legal‑structure‑to‑loan matchmaking service in Ghana",
-    "trend": "Increasing financial inclusion initiatives and digital registration reforms are encouraging formalization of African SMEs."
   }
 ]
