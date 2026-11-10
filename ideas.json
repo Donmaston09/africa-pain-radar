@@ -1,5 +1,31 @@
 [
   {
+    "id": "permitpal-water-compliance-platform",
+    "title": "PermitPal: Water Compliance Platform for African SMBs",
+    "category": "Climate & Water",
+    "tagline": "SMBs lose hours and revenue juggling water schedules and permits",
+    "dateAdded": "2026-11-10",
+    "whyNow": "Climate‑driven water scarcity is prompting municipalities to tighten allocation schedules, making compliance paperwork increasingly complex for small businesses right now.",
+    "proof": [
+      {
+        "text": "Lagos households spend N45,000 monthly on water due to the worsening crisis",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGJENGFVdW1NbXFjRlVzamRRVzlrVTFGemZaMkRWdE9iUGVneDRSOVlaWGV5d01Kbl9tbUxLZFE2R1lxaGljTEZLckc0a1JFQldQMWZWVEpDenUwUU1uZmdrSjF1cFZYTFdqZWo5YUVSV2RKXzFhUkt2dU1BTmNsbGZ5Ty0wLV9GN3o0MERpVmxmTjBwU0JueQ?oc=5"
+      },
+      {
+        "text": "SMEs are often excluded from sanitation transformation initiatives, despite being on the frontlines",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMmFtVTVjUGNkS1RiMUlfS1FRWmp1WnJJMndaQ1lGbmpoS2I5R2pTVE9uMDQ0RjdiWGtYUDVMZVhhS0ZwdU81czFKSUkxTkN2aDVaRkZZR3RWbFBGRGpRT3FHZExQQ0tnYV8zUmVqbTR6aTYxc3RaalZNbS1FdWRwVnBzZHNIYWltRnJ2dl9xeGRhb0lVZTIwSktZSFNjQXlKQjhtZEVFYXhyUkNvdkRiSnAwaFhmNmZFMTBfZDFrS0ZJVTBXX25nWg?oc=5"
+      },
+      {
+        "text": "Water schedules and paperwork are a daily test of keeping a small business open",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWgzUHJFQ2xtdmcxVUdkQWpBUVBnVW5yLWM0eWJNNFJqbGNIakx6MUtjaUNHenRzYzV5Q2VPcllmNGRLRUNyd2RjeWZ5bzR0OG9ZOGNEcUEybjVnT0x2WFZDZDdibXlabUhpN1RZZGRDRndSZkg4ZEJibzA4SXYxSzVPbEtYaDhWUFMxSjVJcXVnRUlDOU9VQVBQa2VEdVF4QUtuZ3dIT2RFOFpfYnFMdDRKQjY3elJtZklDNE9mcUs?oc=5"
+      }
+    ],
+    "marketGap": "There is no dedicated digital solution in Africa that centralises water permit applications, schedules and compliance reminders for small and medium enterprises; they rely on fragmented manual processes and generic document tools.",
+    "executionPlan": "Launch an MVP web/mobile app that lets businesses input their water permit details, view allocation schedules on a calendar, receive automated reminders, and store required documents. Partner with municipal water authorities in Lagos and Johannesburg to integrate API feeds where possible. Pilot with 20 retailers and food stalls, iterate based on feedback, and charge a low monthly subscription plus a fee for each permit filing service.",
+    "competitor": "None exists as a water‑specific compliance SaaS in Africa; the closest alternatives are generic document management tools like Google Workspace, which lack industry‑specific features.",
+    "trend": "Escalating climate‑induced water scarcity is driving stricter regulation and creating demand for tech‑enabled compliance solutions."
+  },
+  {
     "id": "farm-credit-bridge-kenya",
     "title": "FarmCred Connect",
     "category": "Agri-fintech",
@@ -476,31 +502,5 @@
     "executionPlan": "Launch an MVP that aggregates existing POS agents into a cloud‑based dashboard, offers real‑time status alerts, and a simple API for merchants to auto‑switch to backup agents. Partner with a few agents for beta testing, charge merchants a monthly subscription for uptime guarantees, and later add transaction‑based fees for premium routing services.",
     "competitor": "None offers a dedicated redundancy and real‑time monitoring service for POS agents in Nigeria",
     "trend": "Digital payments are surging across Africa, but infrastructure reliability is becoming a critical differentiator."
-  },
-  {
-    "id": "simguard-fraud-protection",
-    "title": "SIMGuard: Real-time SIM‑Swap Protection for Mobile Money",
-    "category": "Fintech & Payments",
-    "tagline": "Mobile money users lose funds when their SIM is hijacked, leaving them powerless to stop fraud.",
-    "dateAdded": "2026-10-20",
-    "whyNow": "Mobile money usage is booming across Africa, but SIM‑swap attacks are surging, causing millions in losses and eroding trust in digital payments.",
-    "proof": [
-      {
-        "text": "SIM swap fraud is on the rise, with attackers hijacking phone numbers to steal mobile money balances.",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QdWI3d096dmk1Ukx0NzBycjY2MUktQmR2X3pGU3VlY2Z4c2dNX29qWWhlLV9EMTFpd2RDNnpoOFAzZFJDXzJCUzIyVlhmbDA3SVFsVWNYcHhTUkVIUEFCaEY0aXp4WGszYmVORTV2RQ?oc=5"
-      },
-      {
-        "text": "A Ghana‑US joint operation arrested 130 people in a $10 million online scam crackdown, highlighting the scale of digital fraud in Africa.",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa3VuUWw0YmpCSEFETExJcUVoU1N3bXRRQ29zZkxEbHQxaUxKOVJndU9NYkFIb0ZWRzlsYUhJZGthd1lzNnF5RzI5RmNQaUI1RlNkZnBhMVFKeVhaZEFQc3haMm1la2RtdU9Fa0pkUzRvWUROWjBZNWxYUUFJR0JwQkxRdnV0S2hUdTR4aWcxUm5kVlFDRWs0dVYxTnotQ3JWaUJIbmZWRQ?oc=5"
-      },
-      {
-        "text": "BBC reports a wave of ‘Add me on WhatsApp’ scam calls targeting users, showing how social‑media scams complement SIM‑swap attacks.",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TWUxzbzZXaWY4b21kU0ViM2wwdVNob2w3NTRjakNoQ3ZybXhORmRxb0UzZTZJUlJNRDNwYV91eTdqR3lTSzNwTHQxSFhPMEtqWjNpNExIZDlwNEFaNGc?oc=5"
-      }
-    ],
-    "marketGap": "No existing service offers real‑time detection of SIM changes linked to mobile money accounts and automatic temporary account lockout to prevent unauthorized transfers.",
-    "executionPlan": "Build an API that ingests telecom SIM‑change events and cross‑checks with mobile money provider accounts, triggering instant OTP verification and a temporary hold on transactions. Launch a pilot with one telecom and one mobile money operator, charging a per‑user subscription fee. Scale by licensing the engine to other operators across West Africa.",
-    "competitor": "None provides an end‑to‑end SIM‑swap protection platform for mobile money.",
-    "trend": "Rapid mobile money adoption combined with rising digital fraud makes real‑time SIM‑swap defense critical."
   }
 ]
