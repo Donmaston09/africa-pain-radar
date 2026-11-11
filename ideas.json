@@ -1,5 +1,31 @@
 [
   {
+    "id": "tbdetect-ai-mobile-screening",
+    "title": "TBDetect: AI‑Powered Mobile TB Screening for Rural Nigeria",
+    "category": "Health-tech",
+    "tagline": "Rural Nigerians lack timely TB testing, leading to hidden cases and preventable deaths",
+    "dateAdded": "2026-11-11",
+    "whyNow": "Nigeria now tops Africa in undetected TB cases, exposing a deadly diagnostic gap, while AI and cloud providers are pouring funding into affordable health solutions for underserved markets.",
+    "proof": [
+      {
+        "text": "Nigeria tops Africa in undetected TB cases as experts warn of deadly diagnostic gaps",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXRCLWZOZjVUWHE5Mm9JcGtFV045dERUS0RTazc3QXZmcnd5eDhSUVRneG1ZWndhcFZpel9mYjVSeGtRN21wMUlaNDRGSExldC1GdE5zWFNIeGgxdk1EZVJ3aEFDQjJpLW1lQThsVXdfYkVCYU1YT3gxcXZtSHpOUmdwMUxFN29zc05OTjZpbmhJa0hJMFdQMVdMWXF6X1RzX1Rjc1NFZUtzOFc5WE45Q0Fya1M5MkxYZEFLU0FR0gHDAUFVX3lxTE5Xd2l2Z0pkcVFlTkZrM0hTVmhxZ19EazhOZElDcGY1dWU0TlpfMmFIcUR4Ql9OaWZqQWh2UzlFUVEyNlhpd01veWFUaXZUd2xOZFFiMENMcVdwU1pNZk5sTHJiYzlXV2FXT1czVzF5aGFZb0xYcE9CRXg5c3lBMldnLU43UDgza3lmQXdPNUplREgwcnVMLURxSVRkUzRpUkZBVExIeDBwMzNmZWpvLWx0WVJBWHhLMTRyMXlhZHRWTktkVQ?oc=5"
+      },
+      {
+        "text": "AI could help bridge Africa’s healthcare workforce gap",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmtHNVFvaHFUX21jVmNTRUZPVk9FVHRmbWhreXVWeUNpOWJTdDNFS0NDNEpzdnNZZ0JUZk9fUlFQZ1hGeDQ1N1lkbEJVam5hYW85VjY5Yk9CZXd6RFRaYkEyM2pfWHBobUJRZTRuSS1WVlpzZThzdC1PYmIwcW1JM1doaHBRYmpGUEZB?oc=5"
+      },
+      {
+        "text": "AWS Commits $100 Million To Expand AI Use In Healthcare, Targeting Underserved Markets",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa19LaUxiUDVlTzNUYkpXY0x5V3lNbVhjdUxvSmxfV3pCMm14WkV1RHJybXMwR3diZDlLTldQa1pGNk82bU4yNG8wOWlXVHlmUjQyb19UNW1hM3BITEhaemdSWk9zMWxJTkFOMW4ybjh2Rzh2Yi03Zzl2SVZwcDl5QmtHcHV4YmxoSUZ6NWlkWFl5Y0hteVdldHlpSWljWjhpZ0hRUlc4QTAtdw?oc=5"
+      }
+    ],
+    "marketGap": "There is no low‑cost, point‑of‑care TB diagnostic tool that can be deployed in remote clinics; existing GeneXpert machines are expensive and require stable electricity and lab infrastructure.",
+    "executionPlan": "Develop a smartphone‑compatible AI app that analyses sputum smear images captured with a cheap attachable microscope; pilot the MVP in five rural LGAs partnering with local health centers; charge a per‑test fee and secure subsidies from NGOs and government health programs to achieve scale.",
+    "competitor": "GeneXpert (Cepheid) – high‑cost lab‑based solution, not suited for mobile low‑resource settings",
+    "trend": "AI‑driven mobile health diagnostics are accelerating globally, backed by major cloud investments and growing telemedicine adoption in Africa."
+  },
+  {
     "id": "permitpal-water-compliance-platform",
     "title": "PermitPal: Water Compliance Platform for African SMBs",
     "category": "Climate & Water",
@@ -484,23 +510,5 @@
     "executionPlan": "Build a mobile MVP that connects farmers to partner micro‑finance institutions, using alternative credit data (satellite‑derived weather, soil test results, sales history) to assess risk. Pilot the app in two counties with 1,000 farmers, charging a modest interest‑rate share on each loan. Scale by adding more lenders and integrating input‑purchase bundles.",
     "competitor": "Tulaa (provides input financing but limited collateral‑free credit scoring)",
     "trend": "Growing agri‑tech investment and AI‑driven weather analytics are unlocking new credit assessment tools for smallholder finance."
-  },
-  {
-    "id": "agent-connect-reliable-pos",
-    "title": "AgentConnect: Reliable POS & Agent Banking Network",
-    "category": "POS & Agent Banking",
-    "tagline": "Merchants lose sales when POS agents go offline due to network instability",
-    "dateAdded": "2026-10-21",
-    "whyNow": "The recent exit of Onafriq from Nigeria’s agent banking network, driven by Naira depreciation, has exposed how fragile the POS ecosystem is, causing immediate revenue loss for merchants. With inflation and currency volatility accelerating, the risk of further agent outages is rising.",
-    "proof": [
-      {
-        "text": "Onafriq has exited Nigeria’s agent banking network amid Naira depreciation, leaving merchants without POS services.",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaVc4R29jcDhURmxUTlRURFZROFNfS1BKYjVpdTY5UGE5N0FEVkI0dDNPWkszM2t6cHhDS2ZyOUZ5Tlg5VWtsb1d5ZFBnb2RxMFBabGxjQ08yWkViWnR5VFRHb1gwTDdsZEIxTTZxbmRyLVljaTZrYVRhOW53MFdOQkZjRG1KZTJyenlPYmtDSTFaV3lRNEJn0gGcAUFVX3lxTE01bUFIOEZlNERDWTI3ck1tbnZuQ0JNQzdUZV9oNEhnYWxnQnU5S3YzYmpXN1BVOU50SmZITk80U284aHdlV3B4ODFIWFAyTlFqNEFOUGZHam53MnJXYUJTeTVTa3BOMVVjeUszckFNVm1SVTdIM3dpUEFlcWFnOTdQVXk1c2ZfTE9iRFllbXotMjhRWVJZeVhrM1NUMA?oc=5"
-      }
-    ],
-    "marketGap": "There is no platform that provides real‑time monitoring, redundancy and automatic routing to alternative agents when a POS goes down, leaving merchants without a fallback option.",
-    "executionPlan": "Launch an MVP that aggregates existing POS agents into a cloud‑based dashboard, offers real‑time status alerts, and a simple API for merchants to auto‑switch to backup agents. Partner with a few agents for beta testing, charge merchants a monthly subscription for uptime guarantees, and later add transaction‑based fees for premium routing services.",
-    "competitor": "None offers a dedicated redundancy and real‑time monitoring service for POS agents in Nigeria",
-    "trend": "Digital payments are surging across Africa, but infrastructure reliability is becoming a critical differentiator."
   }
 ]
