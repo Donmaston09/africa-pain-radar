@@ -1,5 +1,27 @@
 [
   {
+    "id": "fuelflex-on-demand-fuel-delivery",
+    "title": "FuelFlex: On‑Demand Fuel Delivery for Transport Fleets",
+    "category": "Logistics & Transport",
+    "tagline": "Truck drivers and fleet operators waste hours and money queuing for fuel amid Nigeria’s scarcity",
+    "dateAdded": "2026-11-13",
+    "whyNow": "With crude oil prices falling, regulators have warned of impending petrol price hikes, tightening fuel availability for transport operators right now.",
+    "proof": [
+      {
+        "text": "Petrol Prices in Nigeria: FCCPC Warns Marketers as Crude Oil Falls Below",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa25jby1uTFBHaUFuc1JsVWF4MWdsYVJxbkRSUGVFTld4N0hiNzdRb1pHeWNYVHI5U0Zxck5Sdm9NbGZNM2g3Zm5qeUd4VkV0Y3c4Z3E0LXg4ZndpUEVKVGV1NW5wWGlVdFFfWjhZMzZVNzhRZ3pBUmp0d252eEl2dHJSb0Q2b3FHZFBOWDFYVkFyUkxVN0wtRXd4LWItdW81LUFwWUI5N0FXSUhjNlNJRW9WekpnSm8wZ2h2MmhUbDBfNUJiY2pkcA?oc=5"
+      },
+      {
+        "text": "Inside Nigeria’s Flight Delay Crisis: Why Grounded Aircraft Leave Passengers Stranded",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTEl5S1VFbk5SdEFZUU5yMjV2M0lzbEpxTENTdUJWT3lwV1E2SDNiOVZWSVlxb3VHLXY5T2Q3M2pYdTdzWlUzYlZWYk5wcWdseWFROEViQmNBdEF1aE9SeFJVd0NUOVRyR1cyZ3FENjRjSWY2QmdKWnh0aFFIMTNoYTlHdEt5TXAyamphT3R3TWl0a3FwN1FwT1hGXzgwcXluV3BGWW9lVWNOa1RqVy04Y1hVMzhtTGFCeUNMQ3Q2RTF3SU4yak0xMzlCQQ?oc=5"
+      }
+    ],
+    "marketGap": "No existing service offers real‑time, app‑based fuel ordering and delivery directly to trucks on the road, forcing drivers to rely on distant stations or wait in long queues.",
+    "executionPlan": "Build a mobile app that lets drivers request fuel, view nearby vetted suppliers, and pay via mobile money. Launch a pilot in Lagos with 50 fleet partners, partner with local fuel depots for inventory and delivery logistics. Monetize through a 5‑10% transaction fee on each fuel order.",
+    "competitor": "None exists – current options are fixed‑station purchases with no on‑demand delivery",
+    "trend": "Accelerating adoption of mobile commerce and on‑demand logistics platforms across Africa"
+  },
+  {
     "id": "tbdetect-ai-mobile-screening",
     "title": "TBDetect: AI‑Powered Mobile TB Screening for Rural Nigeria",
     "category": "Health-tech",
@@ -484,31 +506,5 @@
     "executionPlan": "Build a mobile app that aggregates fuel station prices via crowdsourcing and API partnerships, starting in Lagos and Abuja; launch a free tier with ads and a premium subscription for alerts and analytics; monetize via ads, data licensing to fleet operators.",
     "competitor": "None directly; closest is general price‑watch apps but none focus on fuel for transport in Nigeria.",
     "trend": "Rising digital adoption and volatile oil markets are driving demand for price transparency."
-  },
-  {
-    "id": "kenya-smallholder-finance-platform",
-    "title": "AgriCredit Hub",
-    "category": "Agri-fintech",
-    "tagline": "Smallholder farmers in Kenya can’t get affordable loans without land titles",
-    "dateAdded": "2026-10-22",
-    "whyNow": "Food security concerns are rising as climate pressures tighten yields, and new agri‑tech funding streams are emerging, making it urgent to bridge the credit gap for Kenya’s 4 million smallholders now.",
-    "proof": [
-      {
-        "text": "The Gates Foundation reports that smallholder farmers are finding it harder to grow food because they lack affordable financing.",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVBpRW9ZekRLTVppVFJ1blJxVGpsN2wzS2R2bUR4WTlSaDVlZVVaVEk3VmVaNks0RE9seWFqQVoxWFRKN2xtQWlhTUtRX3Q5RjNRdHVWa20zMzBnWW5LNkZHUmpBMjlpSjFCanVaMDlQTEUyV3RLcFg0bkJLblhzdlFOY3RXelVKYS1YUjRJNjAyMmhRX294WEpR?oc=5"
-      },
-      {
-        "text": "Beyond Collateral: dfcu is piloting collateral‑free loans for Ugandan agribusinesses, highlighting the demand for similar models in Kenya.",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEJsR0g2a0dOV0hQY19ra0ZRNDRBclZsczJiWEpmWk1IaG1fSGhzZkE4V3BPMHVMbUN2cGpJSGJiQXJsdURfdXdyS2lfM1dSeWd4S3IyXzRIZzN2MzJaZW5RZDNlanlSVk9CeEFtb05hR1hxcC1ScmtJam40eEp5SXF5VG9oX3NLLXJoWnZfOUtOVUU2Qy10aw?oc=5"
-      },
-      {
-        "text": "Ground Up Investing has just raised $6 million for African agri‑finance, underscoring investor interest but also the existing financing shortfall for smallholders.",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVV6amdyazBoOFN6V3gxYm52WGt4NVR0blltVEpVZUlMcVZma2ZPRU1kTG9HY3hmMGxLdjZiNWk3X3g5VzNqMVRENFRJS2dNSG1Yc2dxQlp2d0ZDdnJjSkZSLXJ2ZndWRXpkNkIxblF0OGQ4cTNQNGxiSjNlNThrTjluU3VmTHM2ME1tY0RKT2xPd3VBcHFZ?oc=5"
-      }
-    ],
-    "marketGap": "There is no digital platform that offers collateral‑free, data‑driven micro‑loans to Kenyan smallholders, leaving them dependent on informal lenders at exorbitant rates.",
-    "executionPlan": "Build a mobile MVP that connects farmers to partner micro‑finance institutions, using alternative credit data (satellite‑derived weather, soil test results, sales history) to assess risk. Pilot the app in two counties with 1,000 farmers, charging a modest interest‑rate share on each loan. Scale by adding more lenders and integrating input‑purchase bundles.",
-    "competitor": "Tulaa (provides input financing but limited collateral‑free credit scoring)",
-    "trend": "Growing agri‑tech investment and AI‑driven weather analytics are unlocking new credit assessment tools for smallholder finance."
   }
 ]
