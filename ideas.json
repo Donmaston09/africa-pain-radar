@@ -1,5 +1,31 @@
 [
   {
+    "id": "solarboost-smb",
+    "title": "SolarBoost: Subscription Solar Power for Small Businesses",
+    "category": "Energy",
+    "tagline": "Frequent blackouts are draining small business profits and forcing costly diesel generators",
+    "dateAdded": "2026-11-14",
+    "whyNow": "El Niño is intensifying grid blackouts and power reforms have failed to deliver reliable supply, leaving SMBs scrambling for backup power today.",
+    "proof": [
+      {
+        "text": "Electricity-starved Nigerians hard hit by El Niño as blackout worsens",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGM3YkhURHAtZ1FYb3RUMWxaUWxLUk5XTmc1WDFsRlljczZYdUVxcmxyVUF3OTRQVGwweF84aUJtTUluUWk2WmtGY1hDZDFsandMR0tyQ1N3dElKYS1vc010NXMybGRMOGZEOVB1VWJBb1JuTVhiUUc5WFlGQXRNY1EwbTIyRXZrWjV3MHV5Q1c5cWZIVWVBbW1CZUpteFdLcGFXSzFnSXo3cTRDaHc?oc=5"
+      },
+      {
+        "text": "Two decades of power reforms, yet Nigerians remain in darkness as households, businesses count their losses",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNlRBV1pEaEdia1pjaVNPMEUtUVMxLUQtcnZ4N2lzNEprS0I5QXQycGZxY1NTSkJYakZuNjFGOVIzNzVicGxTenpQSTZ5M3VsdENhM2RuS0JYa0NCZVNzXy1KaFJvQTZrMXhMclY2WG4zUWtPdXNYOHoyY2pPSDRjV0cwS3ZOU2NYRHhiX2ZkNFRaemNzVVdlWWtkYmxycmdiSjNUbnhoSDZQQXJvVEJBTDJ4NUVQbDV3ZC11cl9MMWFEZG4tNWUzUG1zUjJYa0RSeUxqWk84SlhNUzBjQ2c?oc=5"
+      },
+      {
+        "text": "Incessant power outage: FCT residents turn to alternative power supply",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdE5HdThMY0xfWVJMRXlfc2NnT1ZZa1NKWXFaVlVxOXljLUtlUHJMZV9mMFp0ZFIxN0pObTZ1UjhWT09VaDlKZVNaS3pEby1FR0x5NVRleVI3SThfQ3AzMUFGRTVoSUhkVkxrSFZ3RXplQjQtWW5iSGVLTVhwZDZzb1doZGowYV9rQl9mLW13ZlR5d2kzRXg5NXc5YW9LOURf?oc=5"
+      }
+    ],
+    "marketGap": "There is no affordable, pay‑as‑you‑go solar‑plus‑battery solution tailored to Nigerian small businesses; existing options are costly diesel generators or full‑install solar systems beyond most SMB budgets.",
+    "executionPlan": "Launch an MVP offering modular solar panel and battery kits on a subscription model, installable within a day. Pilot with 20 retail shops in Lagos, charging a monthly fee covering equipment, maintenance, and energy usage. Monetize via the subscription fee and optional add‑on services such as remote monitoring and analytics.",
+    "competitor": "SolarHome (pay‑as‑you‑go home solar) – but no dedicated SMB offering",
+    "trend": "Rising adoption of renewable micro‑grids and mobile financing across Africa"
+  },
+  {
     "id": "fuelflex-on-demand-fuel-delivery",
     "title": "FuelFlex: On‑Demand Fuel Delivery for Transport Fleets",
     "category": "Logistics & Transport",
@@ -484,27 +510,5 @@
     "executionPlan": "Develop a solar‑powered mobile unit equipped with low‑cost ultrasound and AI‑driven image analysis to flag suspicious lesions. Pilot the unit in Kilimanjaro region, partner with local clinics for referrals, and charge a modest per‑screening fee while seeking NGO subsidies. Scale by franchising units and selling anonymized diagnostic data to health ministries.",
     "competitor": "None directly; closest is general tele‑radiology platforms such as Radiology Anywhere, which lack dedicated mobile breast‑cancer screening for rural Africa.",
     "trend": "AI‑enabled point‑of‑care diagnostics and increased donor focus on early cancer detection are accelerating across sub‑Saharan Africa."
-  },
-  {
-    "id": "fuel-price-transparency-platform",
-    "title": "Fuel Price Transparency Platform",
-    "category": "Logistics & Transport",
-    "tagline": "Drivers and logistics firms can’t predict fuel costs, inflating transport prices.",
-    "dateAdded": "2026-10-23",
-    "whyNow": "With recent fuel price gambles and IMF warnings, fuel costs are volatile, hitting transport margins now.",
-    "proof": [
-      {
-        "text": "Nigeria’s Fuel Price Gamble: Cheaper Petrol, Uneven Relief",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd2Z4TUVlaVN5aVFNUGIxRm9mU0RjZFJINVhHcV85TDFsQjg2R2tKM3J0SW1EblpRdUNQOEVzaWI5a3FtZHNEdF93cFpHdDZpU3czd0lyM2wyRDRLTnFLWktkT3JhdzNzLWdDdFYwb0RlSnpTMHJrUzBtQWEzaTNGR0EzZW5uSVBwOWQ2UkNDRGFLVzJJck93S20xNA?oc=5"
-      },
-      {
-        "text": "IMF warns Nigeria against restoring petrol subsidy, recommends targeted relief",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY04wM0ZzVnpLXzZ0VWlMRTFaaG94XzBpVC0tSkdHdXpaRVhDVklqS3MtWm9HMEVaR2Z1a1F4UV9jRXhoXzBXQ2NDT2JyR2UzWUttVTYtMFBvZ3h2eWp6Nmxza1pHd3lfSHpZUFdFbHBfUkdvd3NfOW43OTJ1cnM2Q0R1bXdaV3pmVWY5MTQ3dWdwOHhRREM5ZjJCNVk2RUNKdFY1eXlqUU93blVYZGxwZA?oc=5"
-      }
-    ],
-    "marketGap": "No real‑time, localized fuel price comparison app exists for Nigerian drivers to plan routes and budgets.",
-    "executionPlan": "Build a mobile app that aggregates fuel station prices via crowdsourcing and API partnerships, starting in Lagos and Abuja; launch a free tier with ads and a premium subscription for alerts and analytics; monetize via ads, data licensing to fleet operators.",
-    "competitor": "None directly; closest is general price‑watch apps but none focus on fuel for transport in Nigeria.",
-    "trend": "Rising digital adoption and volatile oil markets are driving demand for price transparency."
   }
 ]
