@@ -1,5 +1,31 @@
 [
   {
+    "id": "data-guard-ai-data-saver",
+    "title": "DataGuard: AI‑Powered Mobile Data Saver",
+    "category": "Connectivity",
+    "tagline": "Stop your data disappearing due to hidden app usage and early bundle depletion",
+    "dateAdded": "2026-11-15",
+    "whyNow": "Mobile data prices are soaring and network congestion is worsening, making every megabyte precious. Consumers are increasingly frustrated as background apps silently drain their bundles, creating an urgent need for real‑time protection.",
+    "proof": [
+      {
+        "text": "Subscribers complain that background apps are causing their data bundles to vanish.",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOElSNU42SnJERjhKOGkyQ1Jjd2pkSnNFRWFFVF80TDdYRUI1YjBwV1J5RXRZWVFPQnJ6TS1vTW5PUG5CMlBtcElpYm4ycWZTczYwTThBVEVYZE8tUGNLODMxVFh5cVZFWFQyMFJMQkJZM0I4Y2locHBKUlNqbmlfS0oyNE9SdEdkSEh6VXBrOUdnczF4Y3hDS1ZXa2NLMDRDa2pBTjlzNE1sOS13U1c4eHlibVQ?oc=5"
+      },
+      {
+        "text": "Data bundle depletion is the top complaint among telco users.",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNazc0TjFIeGR4UmVTVk1CLTdRQnNIeHhYZWROV1QwOXFub1Zyc3laM01iVE1DTUt5S2pYOTJ1eDFybmUtNWswbk80Q2JwNkVPb2dwLUp3NWhlanNiSHdQTzFHaWJRbW9DeTNzcXNUSUIzbFBWdnhkRWdVRXMwdHoyNzYxSnlHcHdDem9YckpfTzJFZnJxd0FicHZiRQ?oc=5"
+      },
+      {
+        "text": "Safaricom and Airtel are under scrutiny for premature depletion of data bundles.",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX0wyUW1PUC1TSC0wUWZwLVIzMmN2WTRMSFM1SWZVZmp5azRUeFo1S2pUYjRIOUxtOEtJanhQTlFFRGRwb1EyVG41Y0hqYUVRUGtRdVpHNTNKRHF2bmh2RGtqYm8wNVBxSmxfUlA0amhwdmNQeWh3SFB2Ym9sdFZZTWpHTFRfRVNXbnBFdDJrb3luWnNXR0ktdUI0enJPc1RNb240MklycWdBRGthdHRnRmdxTVltX1RHYkdCc2RvVV8wVXdZQlZn?oc=5"
+      }
+    ],
+    "marketGap": "No Nigerian solution currently offers AI‑driven, per‑app data monitoring with automatic top‑up integration; existing tools are limited to generic usage stats or carrier‑only dashboards.",
+    "executionPlan": "Launch an Android MVP that scans installed apps for background data consumption, alerts users to abnormal usage, and lets them set auto‑top‑up rules via carrier APIs. Pilot with 1,000 beta users in Lagos, gather usage data, and refine the AI model. Monetize through a freemium subscription and a revenue‑share partnership with telcos for top‑up transactions.",
+    "competitor": "Android Data Saver (built‑in) – no dedicated AI‑optimised solution exists yet",
+    "trend": "Rising mobile data demand and cost pressures are driving demand for smarter consumption tools across Africa"
+  },
+  {
     "id": "solarboost-smb",
     "title": "SolarBoost: Subscription Solar Power for Small Businesses",
     "category": "Energy",
@@ -484,31 +510,5 @@
     "executionPlan": "Launch a pilot with 20 Abuja shops, installing 5 kW solar‑plus‑battery kits financed through a low‑monthly subscription. The MVP app tracks energy usage and automates payments via mobile money. Monetize through the subscription fee and a modest per‑kWh charge for excess usage, with upsell options for larger capacity as businesses grow.",
     "competitor": "SolarNow (offers solar kits but not a subscription model for small retailers)",
     "trend": "Africa’s rapid fintech adoption is enabling pay‑as‑you‑go energy models, while renewable‑energy costs continue to fall."
-  },
-  {
-    "id": "rural-breast-cancer-diagnostics-tanzania",
-    "title": "Mobile Breast Cancer Screening Hub",
-    "category": "Health-tech",
-    "tagline": "Women in remote Tanzanian villages travel hours for a breast cancer check, risking late detection.",
-    "dateAdded": "2026-10-25",
-    "whyNow": "Rising breast cancer rates and documented care gaps in northern Tanzania make timely detection critical, and the 2027 health budget debate underscores urgent investment in rural diagnostics; affordable AI and solar tech now enable rapid rollout.",
-    "proof": [
-      {
-        "text": "Distance decides diagnosis: Breast cancer clusters reveal hidden care gaps in Northern Tanzania.",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFVBSVY5S2JsMnBvNHNQN1hOVElQTmQzQ21kQXI1aHhBVXB3ZnNTRHZSTE83VU9TNHctSWFCSzg2ZzdkaWExaWl5WFVMb1pubzktdWpvNHRldGxDTkdOYkpielE3M1k0U1pXdmlWaW9qUXVHbTZtUXZxUWFBUFZ6Sk5LUWRLeDZ6bEhWX0lDQVFncmRObkpqcjZZV3lBOG9VT1B6M2lPbXZQemNoU2hqVlZWTGxZaDJ1bXlr"
-      },
-      {
-        "text": "Kenya’s Ebola readiness faces test as experts flag border surveillance gaps, highlighting broader rural diagnostic shortcomings.",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3prVkhROFh5UUQ3cVdtNHVUTjNHVzk5ZkVjZkRvOTJvaUdRQWtHNnNLTENpaUdPbkR1amtVOXJjazl3RzIxWmNRV1V5eHlGaHRqVUU0bFpuUEc2WE5Rd3VUdXhpbXhFVExNTTRYU2dvd3Z6SVRTRmhaT05LMDl5bkp5RjNRd0tzOXZYa3VSeDh6bTduMTVZLTRVX3R5MGI3dnNYUWE1M0J3aHJ2aEp3"
-      },
-      {
-        "text": "Exochos Innovations earns global recognition for maternal, infant health initiative, underscoring demand for innovative health‑tech solutions in Africa.",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOREtQNGRrdEhvRjB0bS1MSFZZZExlbDNhT1A2N2FlUXVpQUFXMS1NYi05RWxQTzF1U0JCUEJCZ2dwTHlfNUgzRHhOZFBzUU5MWThHbkFQb2I0V1hMOXhiYUdIa2FESUpIVXRxMW5iU2hlNGFKbkF3d1NaVDhBNERObk5PYmtWV3Fxcm9MaWx6ME4xRFBDbkpOSmprczVrOW92OUhaWXpwbFd1eTdLb0dYMGY5eC1VU040ajZobWFsQkVpMUJrUTFNUkxTNA?oc=5"
-      }
-    ],
-    "marketGap": "There is no affordable, portable breast cancer screening service tailored for remote Tanzanian communities; existing facilities are distant and tele‑radiology coverage is limited.",
-    "executionPlan": "Develop a solar‑powered mobile unit equipped with low‑cost ultrasound and AI‑driven image analysis to flag suspicious lesions. Pilot the unit in Kilimanjaro region, partner with local clinics for referrals, and charge a modest per‑screening fee while seeking NGO subsidies. Scale by franchising units and selling anonymized diagnostic data to health ministries.",
-    "competitor": "None directly; closest is general tele‑radiology platforms such as Radiology Anywhere, which lack dedicated mobile breast‑cancer screening for rural Africa.",
-    "trend": "AI‑enabled point‑of‑care diagnostics and increased donor focus on early cancer detection are accelerating across sub‑Saharan Africa."
   }
 ]
