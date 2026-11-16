@@ -1,5 +1,27 @@
 [
   {
+    "id": "rent-assist-lagos",
+    "title": "RentAssist: Affordable Rental Marketplace",
+    "category": "Housing",
+    "tagline": "Skyrocketing rents are pushing Lagos residents out of the market",
+    "dateAdded": "2026-11-16",
+    "whyNow": "Lagos rent prices have surged while supply of affordable units remains stagnant, and recent political debate underscores the urgency for concrete solutions to keep low‑ and middle‑income families housed.",
+    "proof": [
+      {
+        "text": "Lagos Debate: oppositions fault housing, rent, taxes as Hamzat defends APC’s record",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVc2SUNUdzFCa0oxdS1wcFZaa3ZGVnB6YmtmRXQtemNQN3VKNlJBR29vOG9kSjhJVVdxZVM3cGtQTHZMbFdTVjl0V2ZLTDVtOHZpMWNySW9FYmZFT0w1a1Q1QTVuN3YzdV9GbWozb21uYXh2ekx1UmwyaGlBOTBRdjF4Sm81M1VRLVVGY053UV9iVnVTNUpVemRaS2gzZXkyZ1FhUFFiZFU4RFdodGZnWjFLMVBPREI4SGh1VnRFSXN4OXc?oc=5"
+      },
+      {
+        "text": "Why more investment is not making housing affordable in Ghana - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM216clcwY2hCQWlBa2VlWXFEeU5tOVhtYWFndkxPdWdkakdMOFdBTWsySkV5cUhTUnZQUmpBeGZPVlN1WjF3TU4xYTN1bmplZ3dMc1lZN1g2VThWYWhPSlk0c2U1dzJXLXRacTJuVC1nNWNiRm9XN0xCNFZ3YTJZZDgzcGxlRWFtblZLbDdEZWtHM19KcS1EOUlyZmh4YnFnREtVONIBqgFBVV95cUxOVWZrUE96WXl2dnZDaTRFazE0OHRGV01TM2lVc0ZwejNqd2U4OVg4YjZJX0ViWTBUWlNLMmNRa0d2Z1pwNHNwUWJ5V1NRblNKVkRJU2ttWW1PQm1tclQ5RVZ0ZzV5N0pDSzlrRk5ZaHpHSGo4a1gyUlBia1dWVDBrVnBheW95VHNNdkdaQ3YwTWw3R3p5bDV3VjBvUEp4NWdWaThrTUNKS2o2dw?oc=5"
+      }
+    ],
+    "marketGap": "There is no dedicated platform that aggregates verified low‑cost rentals and offers rent‑to‑own pathways for Lagos’ low‑ and middle‑income earners, leaving them to rely on fragmented listings and informal brokers.",
+    "executionPlan": "Build a mobile MVP that lists vetted affordable apartments and rooms in Lagos, sourced through partnerships with community landlords and NGOs. Offer a simple subscription for renters to access listings and a rent‑to‑own calculator. Monetize via a modest booking commission and premium landlord subscriptions. Expand to include micro‑financing partners for rent‑to‑own schemes after traction.",
+    "competitor": "None that focuses exclusively on affordable, verified rentals and rent‑to‑own options in Nigeria (existing portals like Jumia House target broader market)",
+    "trend": "Rapid urbanization and rising middle‑class incomes are driving rent inflation across African megacities, making affordable‑rental tech solutions increasingly vital"
+  },
+  {
     "id": "data-guard-ai-data-saver",
     "title": "DataGuard: AI‑Powered Mobile Data Saver",
     "category": "Connectivity",
@@ -484,31 +506,5 @@
     "executionPlan": "Develop a mobile app that hooks into carrier APIs or uses device‑level monitoring to break down per‑app data usage, flag anomalies and suggest optimal data bundles. Launch an MVP in Nigeria covering the three major operators, partner with carriers for bundle commissions, and monetize via a freemium model with premium alerts and a data‑bundle marketplace.",
     "competitor": "None directly; carrier dashboards are opaque and existing third‑party apps lack carrier‑level accuracy",
     "trend": "Rising mobile data demand and regulatory pressure are driving demand for transparent, user‑centric data‑usage solutions"
-  },
-  {
-    "id": "solarpay-small-retailers",
-    "title": "SolarPay for Small Shops",
-    "category": "Energy",
-    "tagline": "Small retailers lose sales every time the grid goes down",
-    "dateAdded": "2026-10-26",
-    "whyNow": "Frequent blackouts and soaring diesel generator costs are squeezing margins of micro‑enterprises, making an affordable, reliable power alternative urgent now.",
-    "proof": [
-      {
-        "text": "Residents and business owners in Abuja reported significant revenue losses during recent power outages.",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQU1SUmJGRnpHYi1xQUVfN2dxMXJRR0YxWkl0Mk1EazNIejZLZ3F3SjJMRU1BaXdKSE0tc3I0TzRXVWIxYnJRREpjREFBYnFCVU5NS1N3YVJBQWRUTnltRzdVWV9VLWdyOFlsRkNHZlJhdzNodUY0SS12SU04eVl0MkRVb1Z2QW1zNmFNUzRSZw?oc=5"
-      },
-      {
-        "text": "Frozen‑food traders are turning to solar power to offset high petrol costs and unreliable grid supply.",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT05DMlVzT2tiaUZjZm81aC1COVhiQkdrR0Z5ZjFoVnNISXc1U3VRMGJzZUpVSTk3UzRQUVFwTEhhWF95UXc4cWp3YXpLQU03YlNOaVNsVElFanZBTEJMaXgzWjY1N20xLWFTVmhkdU9QVWx4MWZsWkcwZHNvRGxiN3RNazZOWG1Vc3hZYmVCRW8zZEltMC15VDF0RU03SHRCWFHSAacBQVVfeXFMTmtZb1VlTjd5ZnoyZzlzbWVwU3kwLUpmdk41WHZyMGNtclNEM0E1Wk11a0htcmtDc25zc09zS1hxX04yY0l4cmRZaVd1bmVlVm9rVHdwaXd1Mm9BOEN4blJrRlM3clF0cTRXZ0l6NWxaLUE5WHhjQ0JreHczSDBFUmphd1BvbS01ZWMzd05OcTFMdFVpSS1UblNKRTk3NlYxVE9OaVpzWk0?oc=5"
-      },
-      {
-        "text": "The Lagos Chamber of Commerce & Industry demands a constant electricity supply for industrial clusters and technology parks.",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT29VOFk3MlQwT3RaYVdwS1lGVWl5X1VhbC1YUl9HbFlqdkJuYXItRkRxWEdMQzR5WFdOZXE5RWtkai14emF3VENySVEtRTNqUlExZ3RjNW0zX0d2V0xkWWZ1WGlDUW1SWWdnZ2RONGZ3OXJkMGNYSGVSLUl5dTQzd0pZakdDNFo0ejFWWGZLbjNIT3FCVVF0cEZTTGxJaHRpNlUyN3VBWWxHQnRlN242VWcxVUQ4WmFrd01NWUdra0ZScjNsYjJ2NXFEV0JuZm1Vb0JYY0NCcw?oc=5"
-      }
-    ],
-    "marketGap": "No pay‑as‑you‑go solar solution is tailored to the cash‑flow realities of small retail shops; existing providers target households or large enterprises, leaving micro‑entrepreneurs without affordable backup power.",
-    "executionPlan": "Launch a pilot with 20 Abuja shops, installing 5 kW solar‑plus‑battery kits financed through a low‑monthly subscription. The MVP app tracks energy usage and automates payments via mobile money. Monetize through the subscription fee and a modest per‑kWh charge for excess usage, with upsell options for larger capacity as businesses grow.",
-    "competitor": "SolarNow (offers solar kits but not a subscription model for small retailers)",
-    "trend": "Africa’s rapid fintech adoption is enabling pay‑as‑you‑go energy models, while renewable‑energy costs continue to fall."
   }
 ]
