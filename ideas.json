@@ -1,5 +1,31 @@
 [
   {
+    "id": "edu-flex-pay",
+    "title": "EduFlexPay – Flexible Tuition Financing",
+    "category": "Education",
+    "tagline": "Parents struggle to pay soaring school fees without clear, affordable financing",
+    "dateAdded": "2026-11-17",
+    "whyNow": "School fees are climbing sharply, as shown by recent reports, and government loan schemes like NELFUND are under‑utilised due to low awareness and lack of transparency. Immediate fintech solutions can bridge the gap before the next academic year.",
+    "proof": [
+      {
+        "text": "Parents now pay up to N500,000 per term for secondary school fees, a steep increase over previous years.",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkxRRnFtSnZZOW0xMTRLVk5mM3hzZUZmWjZlOTlDZzhUQjBuejRBcnZXWm1DZFgzUlhReWVSR0lUSkhsZ0FMeXUtYkhMSTRPWWdjVWl2QTYzQ2RoTlJyMlowRnAwd3ZMUFJmeF9uTE91UjNqanpYVHpjUjZZRmJlemZkQmZ6RFVjOUpjdVlPaHQ2OXMza2N2U25Yc09hV3PSAacBQVVfeXFMTjFqdGdjSGRQXzc1TGRHRXRUNjBrbElZNjJiYmdBbUdzOU11dWExbG9tRzlOWXRSUkVfQTRfWWF1TUZEQ1NoSnZzTE1mc2RDVzBOZG0xTEo2Z1FQTy1EaWltdVNSRTZOSGNXNUk1anEtODM5TnRwRmU5WnNCVDFKNFhQaDNCQ3dlNGJ6OUI2Y054MlJxOGhWd0VPc0NZbW1yTFIzZExZLW8?oc=5"
+      },
+      {
+        "text": "NELFUND has disbursed N375.28 billion to 1.67 million students but many are unaware of the loan options.",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2doemVmQndMR0YyaEFkN0ZZWURzLURvbjhidE5qNEVDbXAwYjRac2VhSFpUdG1zWERBSHJJVVJtbk0tNXBHaEFVOUQ4c3dGOWdQQUlDSkN0cE5qeDNuMEVKaldkYkJhZlpNbGRfV2NxVHpyeGhOMENObk5FZTd0RUNqeWF5RUd3alFhRjBrLXRKRkt0TUdYRW13NHR5bE10VzBwYXRZUWY?oc=5"
+      },
+      {
+        "text": "The fund will not publish the names of loan beneficiaries, limiting transparency for prospective borrowers.",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTm1KSXc2ajJ2VDhDei03NnI5dmJOMkJpMDRnVmVZTGpoREViNnZRczdyY09hN1MzcV9FN2tOVDNSNjJweVV5Y1l1dlR0R0NlbXByWW0zTXlXNlFXSFhKTkZEcmNGakttUDhtNldVcFduMWxzdnpFckJPZHVVdVFzcjg3bllNd1U?oc=5"
+      }
+    ],
+    "marketGap": "There is no dedicated platform that aggregates tuition financing options, offers transparent installment plans, and connects parents directly with government loan schemes and scholarships.",
+    "executionPlan": "Develop a mobile MVP that integrates with NELFUND APIs to pre‑qualify students, provides a simple tuition‑installment calculator, and enables schools to receive payments directly. Pilot the app with five Lagos schools, charging a modest processing fee on each loan disbursed and earning revenue from partner schools for enrollment leads.",
+    "competitor": "None directly; closest alternatives are general fintech loan apps like Carbon, which do not specialize in education financing",
+    "trend": "Rapid fintech adoption in Nigeria combined with rising education costs is driving demand for tailored financing solutions"
+  },
+  {
     "id": "rent-assist-lagos",
     "title": "RentAssist: Affordable Rental Marketplace",
     "category": "Housing",
@@ -480,31 +506,5 @@
     "executionPlan": "Launch an MVP mobile app that lets verified landlords list spare rooms with basic amenities, and renters filter by price, location, and roommate preferences. Begin with a pilot in Lagos, partnering with local NGOs for trust verification. Monetize via a small transaction fee on each rental agreement and optional premium listings for landlords.",
     "competitor": "Jumia House (general real‑estate portal) – does not focus on affordable co‑living for low‑income segments",
     "trend": "Rapid urbanisation and smartphone penetration in Africa are creating a market for tech‑enabled, cost‑saving housing solutions."
-  },
-  {
-    "id": "data-transparency-dashboard",
-    "title": "DataGuard: Real‑time Mobile Data Transparency Platform",
-    "category": "Connectivity",
-    "tagline": "Stop hidden data drains and get reliable connectivity insights",
-    "dateAdded": "2026-10-27",
-    "whyNow": "Consumers are increasingly frustrated by unexplained data loss and poor service, and regulators are pressing telecoms for accountability, making a transparent data‑usage solution urgently needed.",
-    "proof": [
-      {
-        "text": "MTN acknowledges unexplained data loss, with users reporting data disappearing without clear cause.",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZUpMTHFSZE84X1daUVlybjVjX3N0anhpcGtDVVFsZWJwYUVESHptbzVhY1d1MWlONncxSkwxcTI3R3BrTE5kTWZlOUs1a1N4cGJ4Z1c1R1lvN2RXUVlPQmRac0pDMHBPV1FhU3ZpQnNId09UN2FwSFJLdWtLbjZqVWJJT0NYa0I0VllFaWF2ZjY?oc=5"
-      },
-      {
-        "text": "Nigeria’s telecom regulators gave MTN, Airtel and Glo a deadline to explain poor service, highlighting widespread dissatisfaction.",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KMFJrb3h4cGRJQk5BbWhVT2ZLQU5PTVplLTFCUWJPdGxOcmRwcE1kZkxEQnJnelZRVWJwOUc4dTA5NWl3NGNPYVRMdXYwcE0yV0ttQkhWWXFLdjN0SUNTNHkwVnhkUQ?oc=5"
-      },
-      {
-        "text": "A study found less than half of targeted schools and clinics are actually online, showing connectivity gaps in critical institutions.",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMm1VLTRuZ2Q4djdUUTRhZExvQ09wSmltQnFablJwdXdqX1hPbHBMWFN4RUN5MS05ajFmZDQzZE5pd2ZyUU9kSFVnZkp1bHhLRWkyLWVEbWNxYW1xdDVadmsyM2d6UWJQUUlzR200emxTX0ZCQlRmX3FJUDU2VlhGdTJJSjQ2Y3FhRHJQcVBRQ1Bwc3VkaC1HYkF0M19pSDNaVGJLdng5ZWdRRmk0ckwxemloMmNmT08xeGxWeHBJNHRuWjBoWHBMX3R2NA?oc=5"
-      }
-    ],
-    "marketGap": "No independent tool offers users granular, real‑time visibility into their mobile data consumption across carriers, nor proactive alerts for abnormal usage patterns.",
-    "executionPlan": "Develop a mobile app that hooks into carrier APIs or uses device‑level monitoring to break down per‑app data usage, flag anomalies and suggest optimal data bundles. Launch an MVP in Nigeria covering the three major operators, partner with carriers for bundle commissions, and monetize via a freemium model with premium alerts and a data‑bundle marketplace.",
-    "competitor": "None directly; carrier dashboards are opaque and existing third‑party apps lack carrier‑level accuracy",
-    "trend": "Rising mobile data demand and regulatory pressure are driving demand for transparent, user‑centric data‑usage solutions"
   }
 ]
