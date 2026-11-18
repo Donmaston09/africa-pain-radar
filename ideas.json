@@ -1,5 +1,31 @@
 [
   {
+    "id": "real-time-mobile-money-fraud-protection",
+    "title": "FraudShield: Real‑time AI Guard for Mobile Money",
+    "category": "Fintech & Payments",
+    "tagline": "African mobile money users lose money to scams because fraud alerts arrive too late.",
+    "dateAdded": "2026-11-18",
+    "whyNow": "With AI now driving over half of cybercrime in Africa and 85% of consumers reporting exposure, the urgency to protect mobile money transactions is higher than ever.",
+    "proof": [
+      {
+        "text": "AI is linked to more than half of cybercrime in Africa",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMVowQWdnelZGMkZOc2psdTZCR3p2U3JXczhaWkNaV1pna2UwSHRkYWlaWEFxYWJ3SDlZWkNVclFiNnNiMnloSC1mRHU2ZFoyNFVwYXJBQmZtUC1VVnYySFROeDh5M0l2YXRwTHpkU2Fpa2p2SmNxZEFUbGZoSXZPVG40cUpmMHZHRHJaT2tzNTJoMDYxTTdrcEMxcGJoMWxj?oc=5"
+      },
+      {
+        "text": "85% of consumers report exposure to fraud",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLUJEMDhCSFB4RVFqX2VjWjRBZkVOTy15a2FfX1VZWDNfU1dHWHhiY2liZm9FRlh1eXJEb1EwTVMtenY0MnprbXpUQVBhR09NQnZhckhNSnZFa0dvQ0lKWFRXdlhrS21UcUVIQVRYU1lvZzlpMGd1T2dEekxkM3dyR1BGV0ktRXRzVHFVODBCTGRBRWZjSWVmX242T3RiY2c?oc=5"
+      },
+      {
+        "text": "Fraudsters use fake bank messages and cloned websites to trick customers",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVHVDTGNPN2d0Z2c0aHVaZjdHTTVoU1JoWmExRG9QWkgyNHFaSVBySW1Fd3dGMjR4QmhLWkhBcGhOOWNHWmpGYTd1S1VydGlIMHhKcllFVHgzaEdfNGdYX0JEZEk5RmJBTWlmZkVHb3Y0MTJJVG1GUFhETTI1MGIwLW9Wanp1X3oydGE4Y2NpVWJaTUpzeDJrb3k2RjA2VG9yMk5veV9ZZlhxY0Ixa0tjdjFXN1pVMnRXcFF0WFZkRQ?oc=5"
+      }
+    ],
+    "marketGap": "Current mobile money platforms rely on slow, back‑office AML reporting and lack real‑time, AI‑driven fraud detection that can instantly warn or block suspicious transactions.",
+    "executionPlan": "Develop a lightweight SDK that plugs into mobile money APIs to analyze transaction patterns with on‑device AI models. Launch an MVP pilot in Nigeria with a partner bank (e.g., UBA) offering free basic alerts and a premium subscription for real‑time blocking. Monetize via SaaS licensing to telcos and a per‑alert fee for premium users.",
+    "competitor": "None provides embedded real‑time AI fraud protection for mobile money; the closest alternative is traditional AML reporting services guided by FATF guidelines.",
+    "trend": "AI‑enabled cyber threats are rising alongside rapid mobile money adoption across Africa."
+  },
+  {
     "id": "edu-flex-pay",
     "title": "EduFlexPay – Flexible Tuition Financing",
     "category": "Education",
@@ -484,27 +510,5 @@
     "executionPlan": "Launch an MVP mobile app that aggregates local water tanker operators and lets vendors book deliveries within 24‑hour windows, using a prepaid credit system. Pilot in Lagos and Dakar with 200 vendors, charging a 5% transaction fee and an optional subscription for priority scheduling. Scale by adding IoT tank‑level monitoring and expanding to other West African cities.",
     "competitor": "None – existing water delivery services are informal and lack a digital marketplace",
     "trend": "Accelerating climate‑induced water scarcity is driving demand for reliable water logistics solutions"
-  },
-  {
-    "id": "co-living-match-nigeria",
-    "title": "Co‑Living Match: Affordable Shared Housing Platform",
-    "category": "Housing",
-    "tagline": "Tenants forced to choose between rent and basic needs need a low‑cost shared‑housing solution",
-    "dateAdded": "2026-10-28",
-    "whyNow": "Rising rents are outpacing wage growth across Nigeria’s megacities, pushing low‑income households into unsustainable trade‑offs. With urbanisation accelerating, the pressure on housing supply will only intensify, making an affordable co‑living solution urgent now.",
-    "proof": [
-      {
-        "text": "Rising rents outpace incomes, forcing tenants into hard trade‑offs.",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOejlDNzlHSFlJTHdYMWRJNEQ5SS1Hc1BQWUJ4Sktka3dqNnVKZHR6dFkzcFZKcEdlZmplQlQ4Ul9KV0dOTm94ODh0eERJOGF1S1JEZHRQYW9LRDJRMDhqTGc1UkNFcFF0emJyUXRTLWczNURWanhwemJYc3dhWGI3Q2lJa3RzTHdhaWpkX2xBZ3NLS3JuTkppdA?oc=5"
-      },
-      {
-        "text": "The persistent housing deficit drives rent hikes and limits supply.",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TZXU5WGdkeHk3Mncxc1dHR0JWeXYzUFRKZGpYc2hqQjJ3MS00WTRuWGVzQUt3ejdNeHBvR2VQUG1ZVnJfU041dUVTMzBMNlRsN01sQlJfRVFRb0cxS3k5TXFLM0IzV0drWXpBTlR0NFTSAXBBVV95cUxNU2V1OVhnZHh5NzJ3MXNXR0dCVnl2M1BUSmRqWHNoakIydzEtNFk0blhlc0FLd3o3TXhwb0dlUFBtWVZyX1NONXVFUzMwTDZUbDdNbEJSX0VRUW9HMUt5OU1xSzNCM1dHa1l6QU5UdDRU?oc=5"
-      }
-    ],
-    "marketGap": "There is no dedicated digital marketplace that aggregates verified spare rooms or under‑utilised units for low‑income renters, leaving them to rely on informal networks or expensive listings.",
-    "executionPlan": "Launch an MVP mobile app that lets verified landlords list spare rooms with basic amenities, and renters filter by price, location, and roommate preferences. Begin with a pilot in Lagos, partnering with local NGOs for trust verification. Monetize via a small transaction fee on each rental agreement and optional premium listings for landlords.",
-    "competitor": "Jumia House (general real‑estate portal) – does not focus on affordable co‑living for low‑income segments",
-    "trend": "Rapid urbanisation and smartphone penetration in Africa are creating a market for tech‑enabled, cost‑saving housing solutions."
   }
 ]
