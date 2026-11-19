@@ -1,5 +1,31 @@
 [
   {
+    "id": "water-scarcity-farmers-ink",
+    "title": "AquaHarvest: On‑site Rainwater Capture & Micro‑Irrigation for Smallholder Farmers",
+    "category": "Climate & Water",
+    "tagline": "Farmers losing crops because they can’t access water during El Niño‑driven droughts.",
+    "dateAdded": "2026-11-19",
+    "whyNow": "El Niño is currently at one of its strongest levels, triggering severe droughts in southern Africa, and climate projections show worsening water stress, making immediate solutions critical for food security.",
+    "proof": [
+      {
+        "text": "Water scarcity and El Niño raise concerns for Mhlangatane farmers",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUdJZTJpNUhhUjBYa2xiaGYybjJFT2JDTGpnRVdKVWZSamRfRWRHbmN3Sk1Ba3dhR0xqOXo1Ymszb0d3SDBfNDZNTk9Cb1VhYm1CYk5oMlpzcDZIelRXSjBiOVBkVktadXcxS1hIZG54RUJJWFJhSml0aEdlTlktMkM2T0lCclpsb2NtUVd1ZDBMNTd0SUZMT1dtSGlLbHlOaWxzTk14TnVrbE5fYVJn"
+      },
+      {
+        "text": "Climate change is worsening droughts across Africa, increasing the frequency of heatwaves and water shortages",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBha2hSMWluWVdKUHpEZUNyTVFmVC1idnd2cFY5eDNxckF6OFE2NGxzb2lSVnNMYlA5aklTVk5CdldkSXpzV3ptX1YxVEdEdG5vaXU2b2FkUHR3QQ"
+      },
+      {
+        "text": "The private sector, especially SMEs, must be included in the sanitation transformation to address water challenges",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdEpPYk9ZNnduYURvMXRqRFgzTVhHTVBPUW9FRXRPbjVVMGZWWGluM3luWi1UbVVmWHR0TkMzZVk4U09nNE1WYy1DY2VoSWpKU1FwZDRlX2FCd3FfMFRicUtWQXhmbHYwem1GTEF2aUhNYUJZUnZoNjJrcWJ6Z01Lay1WT21MMGpSNnV3ZnQzVVhjajVBLUU4eWxMNnYwdVU5U0lFYjlVT0Y4OEhTMGkyQi13S052ZHhYSDZoZkpMSThnLTdKUEl3"
+      }
+    ],
+    "marketGap": "No affordable, locally‑manufactured rainwater harvesting kits coupled with low‑cost drip irrigation exist for smallholder farms; existing solutions are either too expensive or require extensive infrastructure.",
+    "executionPlan": "Build a modular kit that combines a 5,000‑litre plastic tank, simple gutter system, and a solar‑powered low‑flow drip pump. Pilot with 20 farms in the Mhlangatane area, collect data on yield improvement, and charge a subscription fee per hectare for water‑as‑a‑service. Scale by partnering with agricultural co‑ops and micro‑finance for upfront kit financing.",
+    "competitor": "None offers an integrated, low‑cost rainwater capture and micro‑irrigation service tailored to smallholders; closest is Netafim’s drip systems, which are expensive and not bundled with storage.",
+    "trend": "Rising climate‑induced droughts and growing focus on climate‑adaptation agritech are driving demand for resilient water solutions."
+  },
+  {
     "id": "real-time-mobile-money-fraud-protection",
     "title": "FraudShield: Real‑time AI Guard for Mobile Money",
     "category": "Fintech & Payments",
@@ -484,31 +510,5 @@
     "executionPlan": "Develop an MVP mobile app that integrates with schools' fee management systems to publish standardized fee structures and lock tuition payments in a token‑based escrow until verification. Pilot with a handful of secondary schools in Lagos and Kogi, charging a modest transaction fee and offering schools a subscription for premium analytics and compliance reporting.",
     "competitor": "NELFUND token payment system – government‑backed but does not provide a private SaaS solution with transparent fee breakdowns and escrow for schools.",
     "trend": "The rapid rise of blockchain and digital wallet adoption in Africa is making tokenized, transparent payment solutions increasingly viable."
-  },
-  {
-    "id": "waterwise-on-demand-supply",
-    "title": "WaterWise: On‑Demand Water Supply for Small Businesses",
-    "category": "Climate & Water",
-    "tagline": "Unreliable water supply forces street vendors and small shops to halt operations or risk health violations",
-    "dateAdded": "2026-10-29",
-    "whyNow": "With climate‑driven droughts intensifying across Africa and a recent $487 million African Development Bank package for climate resilience, water shortages are becoming acute for informal businesses now.",
-    "proof": [
-      {
-        "text": "The African Development Bank approved a $487 million package to enhance climate resilience reforms.",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQVZFTWdUYldKLTBsaHdFdjU1ZGk1Nl85dE9LZzdoRFVvUVdnRTNjTkhqaTJOeS1hblJVR09tNEFoYUR5NkJ3UUdnQmhReWVsSFA1LUlLeVJLQ0RPcTk3djRsUy1ycjB6MHdBY000Y1FhUkM4OWhWR2FxU2U5MHJpUGNNRVZHSkZ4aFhCM21mUTV2T0VIdnp4Nl82eEltSXp4N2JTajVvUUcwUWdtOFZz?oc=5"
-      },
-      {
-        "text": "The Gates Foundation notes that increasing temperatures and water scarcity are making it harder to grow food across Africa.",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVBpRW9ZekRLTVppVFJ1blJxVGpsN2wzS2R2bUR4WTlSaDVlZVVaVEk3VmVaNks0RE9seWFqQVoxWFRKN2xtQWlhTUtRX3Q5RjNRdHVWa20zMzBnWW5LNkZHUmpBMjlpSjFCanVaMDlQTEUyV3RLcFg0bkJLblhzdlFOY3RXelVKYS1YUjRJNjAyMmhRX294WEpR?oc=5"
-      },
-      {
-        "text": "Drought and invasive vegetation are worsening wildfires, underscoring escalating water stress across the continent.",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR0RyU0c3dkVYcDNhSm5TMHJ4WVRnekNwczJSMV8zMlhhZ0xIcmQwd3h1bElnMmZYczNPc01UR0k1Ylg2dTlsVUVLdi1saXJ5Ty1uUS13WmdsQVFjUndNSUZiYS1zMFd0NklHTG96MkZjYUlnZldEVmR2VUcwQk4xcDNfZjd4SjBHRVlFZzJDYmViZnFPZFZZMG9MckpnRzlubVJPTFU3U1BPSmt2TXRCd2dybVVDcWoxQ0HSAccBQVVfeXFMTkhPZDhVdmgzbnRmRGV6MkhZTEx4RDJqajRMeHRGV3M1Y1QyeURFcUtTaVdXYm4yVlpLNFRtVXV5UGo3UnFWUHdyZkNibG95cnBaR0NGVjRvWkhiT2dSbmhmc3BmZFRtazJuYkp0T283ZVhCVXUtNW5YUElaZFItR1ozbkRZUmlWWGcwM3hmdHo3bm5tUlFwaExlbldsUEdiRWJNcmtNNUQ5RjBrRXN6RTllSnk3UEhUbktLb2JNSTZLYVZSckpPbw?oc=5"
-      }
-    ],
-    "marketGap": "No digital platform currently offers scheduled, on‑demand water deliveries tailored to the cash‑flow cycles of micro‑enterprises, leaving vendors dependent on unreliable informal suppliers.",
-    "executionPlan": "Launch an MVP mobile app that aggregates local water tanker operators and lets vendors book deliveries within 24‑hour windows, using a prepaid credit system. Pilot in Lagos and Dakar with 200 vendors, charging a 5% transaction fee and an optional subscription for priority scheduling. Scale by adding IoT tank‑level monitoring and expanding to other West African cities.",
-    "competitor": "None – existing water delivery services are informal and lack a digital marketplace",
-    "trend": "Accelerating climate‑induced water scarcity is driving demand for reliable water logistics solutions"
   }
 ]
