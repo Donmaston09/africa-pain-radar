@@ -1,5 +1,31 @@
 [
   {
+    "id": "agri-credit-bridge-kenya-nigeria",
+    "title": "AgriCredit Bridge",
+    "category": "Agri-fintech",
+    "tagline": "Smallholder farmers can’t secure affordable credit to invest in inputs and irrigation",
+    "dateAdded": "2026-11-20",
+    "whyNow": "With $102 million already mobilised in Nigeria and Kenya seeking $252 million for irrigation, large funding pipelines are opening, yet individual farmers still lack direct, digital access to these loans now.",
+    "proof": [
+      {
+        "text": "AfDB provided US$102 million through Sterling Bank to support SMEs and smallholder farmers in Nigeria.",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYUVrWTEtSUJVRjZhOTRCZW02dy1DWWhZVlh0T1RLZlY4X0hDNHFSN1kxQnZITVN1SDZhQlV5WlFOYkFsRC1JQ0RvN0ZDME1aUmJuMm1IV2RKeWNpb2g0MTBKN3dZTmJpbUdhMEdrWEZ3RTNCUUVwWnZ0UnNYeUhCMHJiU0JCTHpjbWpUSHNrZVVCNndOelY5bkg3aTdSalVFWE9oSW13QQ?oc=5"
+      },
+      {
+        "text": "Kenya is seeking $252 million in World Bank financing to expand agricultural irrigation and strengthen food security for smallholder farmers.",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPckdJNFIzV18yUDRMSWNNdmxvN3VpVzd1dWVSeGw2ZE9TbE9NQmRSbTZRcWtDNWdGcFllZHBBWHNCVk5kQ3hlbVhzM0VYRVkzSDFQWGdTdnhqQWRQUWlyZHJ0bUNjTnVySkZVTXpXelR6cUZkakt6ZkFzNXRRYnZMUDk5T2ROT1FfZGRjcG16SHY5VWVoQlA5dW53MkwtbHMxTC03eFdqb0Naa3F4eUJxSU13NDFwZDdJSk9LNUZKMkF0cURFYkRINWVIclJCNlBYYy04RVMtRWdRZlJFQkNKVUtR?oc=5"
+      },
+      {
+        "text": "Kenya plans to expand Farmer Service Centres in arid and semi‑arid counties to strengthen smallholder agriculture services.",
+        "url": "https://news.google.com/rss/articles/CBMi4glBVV95cUxPcWlUSXJMR3I1eDlsMVZVWXZzalMtLW82Tzk3U1R4NEwxcmFKUzhNUm1nNUxJU1JVeTJ4ZHAxajA5bHQwb1VqNEVFOXhfVEdGRC1CdFNmNUl4d2ZTb1gxVWtGUEl6eHZPb3VLSXlLRnBGZUhMdTB6WTJIX1p0aGhGbzh6eEViMlYzZ3RNdzJFUVFKakZpQ2llbzZuUkFCdmQtNU5JQnc4TWlLbjZzMkoybGRqZDJuUTlOMlY4Zm9zNDIyWlFfUlVSY3ZPTUw0VktZX25JRWl3RmJTdVVLQmVyNzFjSzNIVXBBeWlVa3h2b1lldk42RlpxV2NBdkRLMVRpOWJBX2ZFSUNSR2x1czB0U2ZZcHNBR0xUanVYUGQzWjN0WDhNckxiWG1KRzYzZDNNd3JsUjdVaS01VnV4RF8yTFExWGltZHZ3bzdGZVFRUjVQQTJMeDdUM1JsQlRQLWc1SlRLZ3ZLMTVYbmMtdEJGOEJXdEdCUzFSZ0FEMGthYnlTU3lsZ1d6bGhjSFJFUTNuSnFVMzYtbmE3dW5GOHBlNmJtc2NpUkVvRlpwak00RnEwQlBUR0Y5MUR3Z1ZKZU9jbGUwQlBGU3Q4Rjg1MDczcXRyLWVlaHVBM0hIUVgyYUpmMjJ0VkgxX3VhVnNnY0xfcjFfUWdtWUI2eUNaWmpzeTZoajdiOW9OU21pdlRXZWk0NUpCU1IzMkR3YUNoRm1VdEdlZy1CQk9DZ0FkdGlCbEdxUnl1cTJPdERFVXRBdDlkZVhoVzFOVDVGS3dfUU1jdklMbUdKazhMWDltMjJnSXV3UVFKRW5UNXZfcUpncl9QN3VqTkNGcDRLN0o2eE9paThaZGNrTlpJaGhEeFphQ2VCLWNKQndqOEdjUk9xM0psZzNnM1pMcVp6TzBnVEdhTFN6ME41T1BZR3FRRkE4WVRpRkdxRG90dXQ0cGdDaUROUmFLWXBPYl9hZ1VkaXI4NVp1RjNnbnJjSHU5M29jc2hUU1RzNmp0ZlA2OUh6Sm9RZGhlcnBVY2RKSnZHSmNBYXBQZ1NRT1NhS0RKTDFSOXl2aXRzc1hVc2IzdlpidS1oTFE3UFdRNHBJYnFZdmdOSzB2cUxFQ0JCUUFHNXJWclRFWjF4THFVcTlfTE1FUGo1Ym5OY1NyMmhWTWxGY0pvQjM2V3B5am1Gd292dUZKZXY0dU1EVGFhMm9rMUZwd0RYQzRHOGkxbmF5T3NObWNqa1R6Z1J2SnFzaUlWeWZ2SkJhQ2M1S3J3SUlCVHF4eHpoSk16Ml9wa0x6b25RUGt4cDBpR09KT1MxdEpHY2E5Q3RVRko1RkRxSmtFeEEyVkdmSzh6MUJhUTRTb3IyZ1hEdGxVVmZteGRnSlJSZ09oOEc3Z0pUMW9mTHJMLUxGVFNBZ1lKQ1I1MkVBQUJOOUhFV1NTenJ1eE80Zy1yTFB3UVhvaVhzWGNxNFBycFEwSzZ3aTZyVVpGaDJkNnltcjBqZGtTR3ZDMklkV3h1NEs0THgwR1hFZkNUaGdjN3NRS285RktSZG1iN1dvQU5JY1UxWk9EOG5lUWhTWW9Edk5fanFXTWcyN1I1S0ZaVlZhZjRQeHhadXl0WjZ1c1RSS2xpUU9TeFRuTC00eWU3QnZRSVRkYTVWbzNoVnNrb1RxWC1UQQ?oc=5"
+      }
+    ],
+    "marketGap": "Large development‑fund programmes are channeled through banks and NGOs, leaving individual farmers without quick, low‑cost credit tailored to their seasonal needs.",
+    "executionPlan": "Develop a mobile‑first app that uses alternative data (mobile airtime, satellite NDVI) to generate credit scores, partner with Sterling Bank and World Bank‑linked lenders to offer micro‑loans of $500‑$5,000, and charge a 2% origination fee. Launch the MVP in Kenya’s arid counties and a pilot in Nigeria, iterating the scoring model based on repayment data.",
+    "competitor": "None offers a digital credit platform that directly links development‑fund pipelines to farmer‑level micro‑loans; closest alternatives are traditional bank loan desks.",
+    "trend": "Digital lending and climate‑adaptation finance are converging, creating a fertile environment for fintech solutions in agriculture."
+  },
+  {
     "id": "water-scarcity-farmers-ink",
     "title": "AquaHarvest: On‑site Rainwater Capture & Micro‑Irrigation for Smallholder Farmers",
     "category": "Climate & Water",
@@ -484,31 +510,5 @@
     "executionPlan": "Build an MVP mobile app that plugs into the APIs of major mobile‑money operators to monitor transactions in real time using AI‑driven risk scoring. Launch a beta in Nigeria with a limited set of high‑risk transaction types, partner with a micro‑insurer to offer instant reimbursement for confirmed fraud, and charge a small fee per protected transaction or a subscription for premium alerts.",
     "competitor": "None offers a consumer‑level, real‑time fraud‑alert and instant reimbursement service for mobile money – the closest is internal bank fraud detection, which is not accessible to end‑users.",
     "trend": "Rising AI‑driven scams and exploding mobile‑money adoption across Africa make instant fraud protection a timely necessity."
-  },
-  {
-    "id": "feeguard-school-fee-transparency",
-    "title": "FeeGuard: Transparent School Fee Platform",
-    "category": "Education",
-    "tagline": "Parents are hit with hidden extra school fees and unpredictable hikes.",
-    "dateAdded": "2026-10-30",
-    "whyNow": "Recent reports of extra fees and soaring tuition across Nigeria, alongside legislative attempts to curb fee hikes, create urgent demand for a tool that guarantees fee transparency and protects family budgets.",
-    "proof": [
-      {
-        "text": "Parents report being charged extra school fees despite government restrictions.",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb3h5TllVc0k1dVJGblhQOW1KYzdqdDViUkhaRjVFVzMwX1l3dGVoM0RacjZLQXJlNThLV1pPQ3dFcF85ZG1DVmNwS1cycjRPX0d1OG1hLS1KTVh1Tjg4MkJ3cWJtOGVHTDhLamZoSFlpQTdyX2V6Z1NmRGVZY1hLdlZrc2EyNHZTa25VNjZubS0zeThnYzVQeG1Rd2FNcTFaOUF6NGEtRTdMT0pJUlV4cktENThfZzFIYnN4VExRZWhxN29GdXhB?oc=5"
-      },
-      {
-        "text": "Parents in Kogi describe education as a luxury due to rising school fees.",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0d3LWxHNXZBOTA3OXNXQUpsV3huY2lQcTR5eXRPYzZadVVKNndleWFRRFNlZFAzMWFWZU1LNU9nZVhiTXJ2M2pNTjhlT1V3WHc0WUpTekhiQ2kwel9Ha2tEcEM5d0FxZEpDUk5CdTltTld3ZGt5a1JDM0l5MDRvR2NReExUc0pvckotWG5PcEpDbHVfLTJYbmpDWW1UTFU1?oc=5"
-      },
-      {
-        "text": "Legislators are seeking to suspend fee increases at tertiary institutions.",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVHRWSHgwM18xVmVTWGwySHFkVHBGeGhrNG41LWZvNUJzQVozQWFlMDFlYXNYdjUzc0lnNWl0eTVxdWFPQ25kMDVuc0Q1REhuVmYxNG54dVBSdkZid2dLdkQ0WU84cVBsek43WFZxYTdwLWpiSjV0NGlBbHk0NVE0RnE3R0o4YkNBZ3g5T1ZRa2VEUDV1MVhmWXZUYTk?oc=5"
-      }
-    ],
-    "marketGap": "No existing private platform offers real‑time, blockchain‑backed fee breakdowns and escrowed payments for schools, leaving parents exposed to hidden and sudden fee hikes.",
-    "executionPlan": "Develop an MVP mobile app that integrates with schools' fee management systems to publish standardized fee structures and lock tuition payments in a token‑based escrow until verification. Pilot with a handful of secondary schools in Lagos and Kogi, charging a modest transaction fee and offering schools a subscription for premium analytics and compliance reporting.",
-    "competitor": "NELFUND token payment system – government‑backed but does not provide a private SaaS solution with transparent fee breakdowns and escrow for schools.",
-    "trend": "The rapid rise of blockchain and digital wallet adoption in Africa is making tokenized, transparent payment solutions increasingly viable."
   }
 ]
