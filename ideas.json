@@ -1,5 +1,27 @@
 [
   {
+    "id": "cocoafin-ghana-sme-capital",
+    "title": "CocoaFin: Fast Working Capital for Ghanaian Cocoa Processors",
+    "category": "SME Finance",
+    "tagline": "Small cocoa processors can’t secure affordable loans to upgrade equipment and meet export standards",
+    "dateAdded": "2026-11-21",
+    "whyNow": "Dangote’s announced 500,000‑tonne cocoa processing plant signals a surge in demand for local processing capacity, but Ghanaian SMEs lack the financing to scale quickly. The timing is ripe as digital lending ecosystems are expanding across West Africa.",
+    "proof": [
+      {
+        "text": "Dangote Eyes 500,000‑Tonne Cocoa Processing Investment in Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc1VpSFpaTUZSOXJtSW9yVktSMmVENHZ4NDZaSmFwVUV1b2hwc1NIQzIxMnR4elktTHhaT0xlMWNsNzBuRDhuX1dYM3pLSDhiOFR3UHJTekh0Qk5PWk1jay0wQU1EamtIZEpqVmdLeEpKc3d2M0dScTlDLWhiWjlWS3MtdUtDRm5GY2N5V3hOVE1XNkhua3dj?oc=5"
+      },
+      {
+        "text": "The announcement highlights a massive market opportunity but also underscores financing gaps for local processors",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc1VpSFpaTUZSOXJtSW9yVktSMmVENHZ4NDZaSmFwVUV1b2hwc1NIQzIxMnR4elktTHhaT0xlMWNsNzBuRDhuX1dYM3pLSDhiOFR3UHJTekh0Qk5PWk1jay0wQU1EamtIZEpqVmdLeEpKc3d2M0dScTlDLWhiWjlWS3MtdUtDRm5GY2N5V3hOVE1XNkhua3dj?oc=5"
+      }
+    ],
+    "marketGap": "No dedicated, collateral‑light loan product exists for cocoa‑processing SMEs, leaving them reliant on costly informal lenders or unable to expand",
+    "executionPlan": "Launch a mobile‑first platform that partners with local micro‑finance institutions to offer short‑term, revenue‑share loans tied to cocoa sales. Pilot in the Ashanti region with a minimum viable product that automates credit scoring using farm data. Monetize via a 5% origination fee and a modest revenue‑share on sales growth.",
+    "competitor": "Carbon (formerly Paylater) – broader SME lender but no cocoa‑specific product",
+    "trend": "Accelerating digital lending and agri‑tech financing across West Africa"
+  },
+  {
     "id": "agri-credit-bridge-kenya-nigeria",
     "title": "AgriCredit Bridge",
     "category": "Agri-fintech",
@@ -484,31 +506,5 @@
     "executionPlan": "Develop an MVP that combines mobile transaction data, satellite NDVI imagery and weather patterns to generate a farm‑specific credit score. Pilot the service with 500 farmers in western Kenya through a local cooperative, offering loans via a mobile app. Monetize through interest margins and a modest data‑access fee for agribusiness partners seeking farmer insights.",
     "competitor": "M‑Shwari provides micro‑loans but lacks farm‑specific AI credit scoring; no direct competitor offers this solution today.",
     "trend": "Rapid growth of AI‑enabled mobile fintech across Africa is intersecting with decreasing donor‑funded agricultural services, creating a timing window for data‑driven farm credit."
-  },
-  {
-    "id": "mobile-money-fraud-protection",
-    "title": "SecurePay Guard",
-    "category": "Fintech & Payments",
-    "tagline": "Every day Nigerians lose money to hidden mobile‑money scams",
-    "dateAdded": "2026-10-31",
-    "whyNow": "Cyber‑fraud arrests have spiked – 1,462 suspects were just detained in a continent‑wide crackdown and AI‑driven scams are doubling worldwide, making real‑time protection urgent.",
-    "proof": [
-      {
-        "text": "1,462 suspects arrested for yahoo‑yahoo and cyber fraud across African countries",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tS3NYN0xKNjR6RGtQSU5FLWVrNHlMSmowdVNzaXVqSkVjaTVPM0IwZ1RncVd6UzJDcE1Yd0xkY29GV2xvQTk4SFRSQ19pNnZjMXhxUTJvTzVPbTY4Y3fSAWNBVV95cUxNQmgzczAzZ01ZWG1jY3NmcUhhY253M2VhT2x4SFp1Sl81bm9zLTI3QnFRMVdGQ0o5enhVc1F4dUI0R0RBMkV3X2lRbm5LMFVMS01JU2s3QnpCTllIR3ZvQWFIZkE?oc=5"
-      },
-      {
-        "text": "Mobile money scammers keep hiding in plain sight, exploiting users of mobile money services",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzdPd3B6VGNRZ194UU9iV1Q0dF90WXY4eXFYNko0RzdyVEM3QWx2MExWSDlwQUdmWW84elhFdFNkbF9xYWIySFpoOHJhSlg5TUplRWVKeUdJMXhYTGxwdUVfbXVfNkt1ZTFEcDBnVWlIRU80NXVMS3RVN1ZVOHh3N0tic3NVbmpmaDI3RmZwM0pQdzNiME9PRUdKMURmTzNJN1ctTnI1MlJIU2pud1dmYl9RZw?oc=5"
-      },
-      {
-        "text": "AI‑driven digital deception is surging, with online scams doubling globally",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2JPVGxlb29XOGV0MlBGNFpzRklOUmo1cDQxTlM3QVQ4LWpvWmYxVlF6QXdRV0dvR2VEZ2huOFhwRVRaOEk0TC12NlVLSzZOSk9qZFRPOERaanhib2dxRkl6U3B2d0hBbm83Yjd2VWI5Z0lqdDlzQk9jTnlvMXIzNnZPa1BPNjJkNEhiZnltVlZac193MTNKOGZSMTlpeHE2TlBTVDVJblZDRzRWQ1F3?oc=5"
-      }
-    ],
-    "marketGap": "Consumers have no real‑time, user‑facing alerts or insurance for suspicious mobile‑money transactions; existing bank‑level fraud tools are opaque and do not reimburse victims.",
-    "executionPlan": "Build an MVP mobile app that plugs into the APIs of major mobile‑money operators to monitor transactions in real time using AI‑driven risk scoring. Launch a beta in Nigeria with a limited set of high‑risk transaction types, partner with a micro‑insurer to offer instant reimbursement for confirmed fraud, and charge a small fee per protected transaction or a subscription for premium alerts.",
-    "competitor": "None offers a consumer‑level, real‑time fraud‑alert and instant reimbursement service for mobile money – the closest is internal bank fraud detection, which is not accessible to end‑users.",
-    "trend": "Rising AI‑driven scams and exploding mobile‑money adoption across Africa make instant fraud protection a timely necessity."
   }
 ]
