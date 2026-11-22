@@ -1,5 +1,23 @@
 [
   {
+    "id": "uptimepos-reliable-pos-connectivity",
+    "title": "UptimePOS: Reliable POS Connectivity for Agents",
+    "category": "POS & Agent Banking",
+    "tagline": "Agents lose sales when POS terminals go offline – we guarantee 99.9% uptime",
+    "dateAdded": "2026-11-22",
+    "whyNow": "The new SunTrust‑OPay partnership is rolling out POS terminals at scale, but agents are already reporting network outages that halt transactions. Immediate reliability solutions are needed to protect revenue as financial inclusion accelerates.",
+    "proof": [
+      {
+        "text": "SunTrust Bank partners OPay to power POS terminals nationwide in push for financial inclusion",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXZVM25RWWk2WnpMOG9SNWFnempraTc3cXNLVC1VY0ZBSEY5aUY2eGE2SzNSTWhRNEViMzVZOGczSHhWWVMzR0pkQmNSMEtraWRHM0tTUnlYa0tEVEtjMVJIMkczblhkODhTS0hlMjlxR09hVllEX2RvVU1EUDJoM2pFSDY2X0FZSE53MDdzUDgxOVRQbTFGb0ZPUXVjVUlJMnNYOFNJd21OUXdxTFNWTFBiNDZwSGxnV1pGNUhfWUxpOVlrLWZOMUREdXpjdDMt0gHYAUFVX3lxTE5ra09jNVJWek5rY2c1WjZNc3k4cnEyNnYyYTdVWGFPQVdGdGNDc3RfX2RzdDV3YmZheGNMcUJ3MjdqYlZwWGdTUGNBOXRFY1Z3UWx4WTlyWThMRm9WZEN2Z3hHbzJUY2t4cUt6ZC1MdEF5clZlcHA4SEhORVlDU2VrSEF2RjQyMVE0cldLeHlCNDk5SzlMWGllNGxoV3dqZUgzSmJLeXhDdkZULUxHbEZZVGNPd3VCSm5GU092dXNfdldZZ0k0dS1kNnpqbGw0VjlfVm5OVkx6VQ?oc=5"
+      }
+    ],
+    "marketGap": "No dedicated service ensures POS agents have continuous connectivity; agents rely on unstable mobile data, causing transaction loss during outages.",
+    "executionPlan": "Develop a plug‑in edge device that caches transactions offline and auto‑syncs when signal returns, coupled with a SaaS dashboard that alerts agents to connectivity issues. Pilot with 100 agents in Lagos, charge a monthly subscription per terminal, and upsell premium analytics.",
+    "competitor": "None – existing mobile network providers do not offer transaction‑level uptime guarantees for POS agents",
+    "trend": "Africa’s digital payments ecosystem is expanding rapidly, with agent banking and POS deployments surging across Nigeria."
+  },
+  {
     "id": "cocoafin-ghana-sme-capital",
     "title": "CocoaFin: Fast Working Capital for Ghanaian Cocoa Processors",
     "category": "SME Finance",
@@ -480,31 +498,5 @@
     "executionPlan": "Launch a mobile MVP where fleet owners subscribe to a monthly fuel quota at a fixed price; partner with major fuel distributors to secure bulk purchases and lock prices; use GPS‑enabled delivery scheduling to bring fuel directly to depots; monetize via a subscription fee plus a modest margin on each litre delivered.",
     "competitor": "None offers a subscription‑based, price‑guaranteed fuel solution for transport operators; the closest alternatives are generic fuel cards without price locking.",
     "trend": "Rising fuel volatility combined with rapid fintech adoption in logistics makes a price‑guaranteed fuel platform especially timely."
-  },
-  {
-    "id": "farmcredit-ai-kenya",
-    "title": "FarmCredit AI",
-    "category": "Agri-fintech",
-    "tagline": "Smallholder farmers in Kenya can’t secure affordable credit because traditional lenders deem them high‑risk.",
-    "dateAdded": "2026-11-01",
-    "whyNow": "Donor funding cuts and a decline in agricultural financing are leaving digital services for farmers vulnerable, while AI and mobile data penetration now make alternative credit scoring feasible.",
-    "proof": [
-      {
-        "text": "Donor funding pressures are putting digital services for smallholder farmers at risk.",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmdTMU9IaEJaQWtjQ2NINTZjQ2FqdEhsc3pjN2hlVlV3RzB4OGc0OG5zUHlnVkZHdTZ1cmNnMnhxeDViXzh0ZlJFOS11bXM4T3loSzRObFRIMi1KRHdHWUhuLW5IYUxWdUNLQmhqTnRhWDZPczRYdUptS2ZqMDlyQnR3VDJ1STZvdVZIV0YtN2xzaWhCLTdBNjJGWVdLMUtuQXVOVQ?oc=5"
-      },
-      {
-        "text": "Declining agriculture funding is pushing innovators to seek new financing models in Kenya.",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZW1SOWhpcGZkaG5WUnF4U01ITWFNZktvaGFFOGgzN2l6VjRnWjlvWGl4SFdWRlJUTEdQRmVBRXVxdkhTV2l4MWlmQkFldWluWjVid1JQU01MMGRHVkNub3F0RndMUzVBNTlQT0NXOFVGWnlmU1k5VFBleEE4R2ZqQXUxY3NaMmNVa2hCSlZQc2tkZTI1MzRQZWlDZmQ1TkFJeDEwNWNYUmEzVHpXMXVPMTZOcmVwVzRrMVdsSldCLVZFZlM4UUx2NzVIbw?oc=5"
-      },
-      {
-        "text": "AgriFin is looking for affordable AI tools to reach smallholder farmers.",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSEpPdUpGZmhtZGFaU2lIMHdfNnRLd3JxLW5UTUJqSXJvaTB0TlJaQ0FISFAxdHVfMG53bDlVWDRiSnhhTkItclg5YUZocUtxQ3hnUkRoR2ZQcHNydldBY1hRUWlXYmp5TWt6amJSUmdfTEFnakZOT2lTTHktcWx1X2VoZmlSdTI4NmtfOGZnd0duR2dKT3c?oc=5"
-      }
-    ],
-    "marketGap": "No fintech currently offers credit to Kenyan smallholders using affordable AI‑driven alternative data; existing digital lenders are constrained by shrinking donor support.",
-    "executionPlan": "Develop an MVP that combines mobile transaction data, satellite NDVI imagery and weather patterns to generate a farm‑specific credit score. Pilot the service with 500 farmers in western Kenya through a local cooperative, offering loans via a mobile app. Monetize through interest margins and a modest data‑access fee for agribusiness partners seeking farmer insights.",
-    "competitor": "M‑Shwari provides micro‑loans but lacks farm‑specific AI credit scoring; no direct competitor offers this solution today.",
-    "trend": "Rapid growth of AI‑enabled mobile fintech across Africa is intersecting with decreasing donor‑funded agricultural services, creating a timing window for data‑driven farm credit."
   }
 ]
