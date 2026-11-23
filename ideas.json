@@ -1,5 +1,27 @@
 [
   {
+    "id": "flight-delay-relief",
+    "title": "AirAssist: On‑Demand Support for Stranded Flight Passengers",
+    "category": "Logistics & Transport",
+    "tagline": "Passengers stuck at airports because of fuel‑related flight delays have no immediate help",
+    "dateAdded": "2026-11-23",
+    "whyNow": "Nigeria’s fuel scarcity is causing a surge in grounded aircraft, leaving thousands of travelers stranded daily. With high mobile penetration, a digital solution can be rolled out quickly to meet this urgent need.",
+    "proof": [
+      {
+        "text": "Grounded aircraft leave passengers stranded due to fuel scarcity",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRXZBYnRwSnZ1TkhteGxYbzlNbWxWMk5zQ0lUbXBfb0ZQQUZvZ3pITjBiZnMzcmFmLXdNTG9lX3IyUHhQczVhQlIwRlN3QVIwYndCcFZ5N3J2Y1J1Zjg2T0hrUXdINW9PcERJUUtMRWVlTGRrVGU2MUlZV2RBZlQtTWk5VnRVSHNpdmF2WDA0Q1BrRHcxWUtQcWVUQUlVRjVPc2huZmVJQWlWS2ZtdXI2dktyTmhvR3NYYlRkQTJXY3dzMTDSAcsBQVVfeXFMTkxJeUtVRW5OUnRBWVFOcjI1djNJc2xKcUxDU3VCVk95cFdRNkgzYjlWVklZcW91Ry12OU9kNzNqWHU3c1pVM2JWVmJOcHFnbHlhUThFYkJjQXRBdWhPUnhSVXdDVDlUckdXMmdxRDY0Y0lmNkJnSlp4dGhRSDEzaGE5R3RLeU1wMmpqYU90d01pdGtxcDdRcE9YRl84MHF5bldwRllvZVVjTmtUalctOGNYVTM4bUxhQnlDTEN0NkUxd0lOMmpNMTM5QkE?oc=5"
+      },
+      {
+        "text": "Flight delays are rising as Nigeria faces fuel shortages",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRXZBYnRwSnZ1TkhteGxYbzlNbWxWMk5zQ0lUbXBfb0ZQQUZvZ3pITjBiZnMzcmFmLXdNTG9lX3IyUHhQczVhQlIwRlN3QVIwYndCcFZ5N3J2Y1J1Zjg2T0hrUXdINW9PcERJUUtMRWVlTGRrVGU2MUlZV2RBZlQtTWk5VnRVSHNpdmF2WDA0Q1BrRHcxWUtQcWVUQUlVRjVPc2huZmVJQWlWS2ZtdXI2dktyTmhvR3NYYlRkQTJXY3dzMTDSAcsBQVVfeXFMTkxJeUtVRW5OUnRBWVFOcjI1djNJc2xKcUxDU3VCVk95cFdRNkgzYjlWVklZcW91Ry12OU9kNzNqWHU3c1pVM2JWVmJOcHFnbHlhUThFYkJjQXRBdWhPUnhSVXdDVDlUckdXMmdxRDY0Y0lmNkJnSlp4dGhRSDEzaGE5R3RLeU1wMmpqYU90d01pdGtxcDdRcE9YRl84MHF5bldwRllvZVVjTmtUalctOGNYVTM4bUxhQnlDTEN0NkUxd0lOMmpNMTM5QkE?oc=5"
+      }
+    ],
+    "marketGap": "There is no local platform that instantly connects stranded passengers with alternative ground transport, accommodation, or compensation services during fuel‑induced flight delays.",
+    "executionPlan": "Launch a mobile MVP that pulls real‑time flight status from airlines and displays delay alerts. Partner with shuttle, taxi, and hotel providers to offer on‑the‑spot bookings, taking a commission per transaction. Monetize through booking fees and premium airline partnership subscriptions.",
+    "competitor": "AirHelp offers compensation claims globally but does not provide immediate on‑ground assistance in Nigeria",
+    "trend": "Fuel scarcity and rising digital adoption are driving demand for agile, on‑demand travel support solutions."
+  },
+  {
     "id": "uptimepos-reliable-pos-connectivity",
     "title": "UptimePOS: Reliable POS Connectivity for Agents",
     "category": "POS & Agent Banking",
@@ -472,31 +494,5 @@
     "executionPlan": "Launch an MVP mobile app that lets patients book same‑day sample collection by trained community health workers equipped with rapid test kits and handheld devices; an AI triage engine prioritises urgent cases and routes results to doctors for tele‑consultation. Partner with existing lab networks for confirmatory testing and charge a per‑test fee plus a subscription for clinics to access the platform’s analytics dashboard.",
     "competitor": "None offers a full end‑to‑end AI‑driven rural diagnostic service; closest is mPharma’s drug distribution network but it does not provide point‑of‑care testing.",
     "trend": "Rapid growth in mobile connectivity and AI‑based telehealth across Africa is lowering the cost of remote diagnostics."
-  },
-  {
-    "id": "fuellock-price-locked-fuel",
-    "title": "FuelLock: Price‑Guaranteed Fuel for Transport Operators",
-    "category": "Logistics & Transport",
-    "tagline": "Transport operators lose money as fuel scarcity drives unpredictable, soaring costs",
-    "dateAdded": "2026-11-02",
-    "whyNow": "Nigeria is experiencing acute fuel shortages and price spikes, with a looming N66 per litre discount deadline that threatens to push transport costs even higher, creating immediate cash‑flow pressure for logistics businesses.",
-    "proof": [
-      {
-        "text": "Transport costs have gone through the roof as fuel becomes scarce, forcing drivers to raise fares dramatically.",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVNxVXNlMVZOTk5lWnFROUdSbXBTMnphQzNmRGhpSHNleGxORHg4NU9KQVdMN2Z3QzJ0WTI1LUtsb01qeHY2YzFWMlh5ZWU0NWUxZzlzNE9UR2w4MHYxcjVmMTVpVGhxd204SFNBN3gtWktrYmNKTGRSN1NOTFNKQQ?oc=5"
-      },
-      {
-        "text": "Motorists are bracing for a N66 per litre PMS discount deadline, intensifying concerns over fuel affordability.",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GczUyZ09uQklGcVFKbXJ5ZmhzNjhCdDM3bXB2aldJcXJfYlNpb2JuSHhIdE42MFI5TGJTeWZVdGZfZ2Qxd2dPZGNvZ0xkQQ?oc=5"
-      },
-      {
-        "text": "Petrol stocks have fallen below the safety threshold, triggering supply drops across the country.",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1JCeEc1WDZHc0NkUG1qVnpRR1VxUUQ2Ti16TWN3S19ZdHgtbUZQaVplWk1VR205cmNCY3FsaEhhWkw3UzRhZVpTczhWSEo3N3N4NVF2SWlranBPQ0V2THNUdlFKRzRWbTFKVDN4MnduRXp1bzFsR1RCcGh3T0VKR0xKUXZGbnJZcVp3MW90NVNPVDdG?oc=5"
-      }
-    ],
-    "marketGap": "No existing service offers forward‑contracted, price‑locked fuel deliveries tailored to small and medium transport fleets, leaving operators exposed to volatile spot prices.",
-    "executionPlan": "Launch a mobile MVP where fleet owners subscribe to a monthly fuel quota at a fixed price; partner with major fuel distributors to secure bulk purchases and lock prices; use GPS‑enabled delivery scheduling to bring fuel directly to depots; monetize via a subscription fee plus a modest margin on each litre delivered.",
-    "competitor": "None offers a subscription‑based, price‑guaranteed fuel solution for transport operators; the closest alternatives are generic fuel cards without price locking.",
-    "trend": "Rising fuel volatility combined with rapid fintech adoption in logistics makes a price‑guaranteed fuel platform especially timely."
   }
 ]
