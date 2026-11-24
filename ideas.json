@@ -1,5 +1,31 @@
 [
   {
+    "id": "post-stroke-headache-diagnostics",
+    "title": "NeuroCheck: Remote Post‑Stroke Headache Diagnosis",
+    "category": "Health-tech",
+    "tagline": "Rural patients cannot get timely diagnosis for post‑stroke headaches, risking serious complications",
+    "dateAdded": "2026-11-24",
+    "whyNow": "Stroke rates are climbing in Africa and mobile internet coverage now reaches most rural districts, making remote neurological assessment feasible and urgent.",
+    "proof": [
+      {
+        "text": "Post‑stroke headache diagnosis is severely limited across Africa, with a critical shortage of clinical expertise.",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQlF2S0R0aEhUWXVvWWlfcERzUlF0UG9BNEJtVjhkOG5BWm5lRktXWkZnMXZsbGxsS1dVWFZ1M1BsY1doQlBmeEV3UXFrT3hGTWFET2NrekczRmhLVDdwOEpzbUl0OFhsUHZMcjFzQmM0SkxCVDdrQ2hTMV9pUDdBV2FCSWZ0SHNiRzdLVkpIbENxbURXeTlMQjFwZ1dpWEVJOGp1dmxmSUFDLTFHOUd3"
+      },
+      {
+        "text": "Diagnostic and rehabilitation services for coma patients are critically lacking in low‑resource African nations, highlighting systemic gaps in neuro‑care.",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZENxR2tXeXlPaEdpYk0yX2xBcEU1alhnVkRSdGdvQXVqbmdwSEtfcXdsVmUxT25hYmFqMTRfVmZ1ZURCOU5fRXo0bHpzN0NCZFFTbXRTd0pKVHlZZU9QY3JJb24zRDJFY2RObm5sRXdqVDBpOVZXR2Nfc1h1X0tQT1VnazJoaDhsem1IWHg2M05oN1N0Q05LaEctTDJKVzRnZy05X0Y3SEdNUmE5T256X3JoQmlYNnNH"
+      },
+      {
+        "text": "Mobile clinics are delivering eye treatment to 15,000 people, proving that itinerant health services can reach underserved African communities.",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPREMxNV80MGI2RlRwWWdmN05tVnQzVGtmakhJSm9fZjZkRWN0VHdaSkgzeHdrc3RVbzU1OG42TUNOOUhwWjJTaEtXcDdJSmtXdFlNNmREeEM4ZTRkM3Z0d3NTWjNxTUNCN3hqWmwwYUtzeEw0c0NjSXVVOUJIRjJkWUpCQVBIT2RxMFNOMHdHaFljZTVVTFo5emhOMXZaSV9ycERCNTIzQVk0d21TWmVVazJXMVRSeE9QN2lJX19B"
+      }
+    ],
+    "marketGap": "There is no affordable, portable diagnostic solution that enables rural health workers to assess post‑stroke neurological symptoms, forcing patients to travel long distances to hospitals that are scarce and overburdened.",
+    "executionPlan": "Build an MVP smartphone app that captures patient‑reported symptoms and a short video of facial and motor function, then runs a lightweight AI model to flag possible post‑stroke headache complications. Pair the app with a low‑cost handheld neuro‑assessment kit for community health workers. Pilot in two Nigerian districts, charging clinics a monthly subscription per active user while offering free basic screenings to patients.",
+    "competitor": "Closest existing offering is generic tele‑neurology platforms such as Babylon Health, but none target post‑stroke headache diagnostics for rural African settings.",
+    "trend": "Rapid growth in mobile internet penetration and AI‑driven tele‑health tools across Africa makes remote neuro‑diagnosis viable now."
+  },
+  {
     "id": "flight-delay-relief",
     "title": "AirAssist: On‑Demand Support for Stranded Flight Passengers",
     "category": "Logistics & Transport",
@@ -468,31 +494,5 @@
     "executionPlan": "Launch an MVP in Lagos and Delta states by partnering with local solar installers to provide 5‑kW rooftop kits on a subscription basis; users pay a modest monthly fee covering equipment, maintenance and insurance; a mobile app monitors usage and alerts for service. Monetize through the subscription fee and optional add‑ons like battery storage. Validate demand with a pilot of 50 traders before scaling nationwide.",
     "competitor": "M‑KOPA (Kenya) – similar pay‑as‑you‑go solar model, but no direct Nigerian equivalent yet",
     "trend": "Accelerating renewable‑energy financing and rising diesel costs are driving African SMEs toward affordable solar solutions."
-  },
-  {
-    "id": "rural-diagnostics-platform",
-    "title": "Rural Diagnostic Hub",
-    "category": "Health-tech",
-    "tagline": "Rural patients wait days and travel hundreds of kilometres for basic tests",
-    "dateAdded": "2026-11-03",
-    "whyNow": "Mobile phone penetration is now above 80% in many African regions and AI‑driven telemedicine tools are becoming affordable, making it possible to bring diagnostics to remote villages just as reports highlight widening diagnostic gaps.",
-    "proof": [
-      {
-        "text": "Foundation seeks collective action to bridge healthcare gap, noting many rural Nigerians travel over 100 km for basic diagnostic tests.",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb0VkcGxlamg4UUpKOWprUWF0S1RZc3VNekFfRmR5Z2J5bjJ1am1CTmxiX0JnQnNOUWtUZ2RrNUlnTFhOT25EM2lJWGg2WVB1bG8wMXZkWG9aYzJPelFqMTRmclNCTzY1YjFtYmxpOEpZNmk3b1IwdXpQVE5RTmxsTlNOUW9PRjZraFBPNTBRZlBodWtpX0RPSnp3Rlc?oc=5"
-      },
-      {
-        "text": "AI and telemedicine are identified as solutions to tackle doctor shortages and improve remote diagnostics.",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcVdqUDgzeUdCMm1XZlNpTy1LMTQ5YVNCNG13UWUtZTJXRGdsSlJsc05sRFVER1Y4RnVmUjMzM2xvX1dFQUw5Mks3SVpUQkh6anpvTEExSzQ0Y2NYcjM0M2ZLWmRvN0Fwb1VPdUxpeHdERFp3NHpDaXpUOHpTV2dFNl83TzA5SFZfN0txS3dyelBEdkpEei1ReG9fbFR5LWF5bWNhaVZXeHk?oc=5"
-      },
-      {
-        "text": "A study in northern Tanzania shows that distance decides breast‑cancer diagnosis, with patients facing delayed care due to lack of nearby labs.",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFVBSVY5S2JsMnBvNHNQN1hOVElQTmQzQ21kQXI1aHhBVXB3ZnNTRHZSTE83VU9TNHctSWFCSzg2ZzdkaWExaWl5WFVMb1pubzktdWpvNHRldGxDTkdOYkpielE3M1k0U1pXdmlWaW9qUXVHbTZtUXZxUWFBUFZ6Sk5LUWRLeDZ6bEhWX0lDQVFncmRObkpqcjZZV3lBOG9VT1B6M2lPbXZQemNoU2hqVlZWTGxZaDJ1bXlr?oc=5"
-      }
-    ],
-    "marketGap": "There is no affordable, AI‑enabled platform that links rural patients with community health workers and centralized labs to deliver point‑of‑care diagnostics and tele‑consultations at scale in Africa.",
-    "executionPlan": "Launch an MVP mobile app that lets patients book same‑day sample collection by trained community health workers equipped with rapid test kits and handheld devices; an AI triage engine prioritises urgent cases and routes results to doctors for tele‑consultation. Partner with existing lab networks for confirmatory testing and charge a per‑test fee plus a subscription for clinics to access the platform’s analytics dashboard.",
-    "competitor": "None offers a full end‑to‑end AI‑driven rural diagnostic service; closest is mPharma’s drug distribution network but it does not provide point‑of‑care testing.",
-    "trend": "Rapid growth in mobile connectivity and AI‑based telehealth across Africa is lowering the cost of remote diagnostics."
   }
 ]
