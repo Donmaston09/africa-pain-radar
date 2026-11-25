@@ -1,5 +1,31 @@
 [
   {
+    "id": "battery-as-a-service-sme",
+    "title": "Battery‑as‑a‑Service for SMEs",
+    "category": "Energy",
+    "tagline": "Frequent blackouts force small manufacturers and food vendors to spoil stock or rely on costly diesel generators",
+    "dateAdded": "2026-11-25",
+    "whyNow": "Nigeria’s grid failures are worsening as climate‑driven heat waves hit, making outages more frequent and costly for businesses right now. Immediate relief is needed to protect perishable inventory and curb operating expenses.",
+    "proof": [
+      {
+        "text": "Manufacturers, frozen food dealers groan as blackouts persist",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1R2cDlYYzRmUmNOUTVfOVlRVmg5OG5SMUJiaTVIQUVrZXdadXR5Nl9feU1SOWgyc2lnTjliQXlHcUhBY1E4NEY5QUdSNFYzWjM0Q0stSzI0dzRCSUNJOTBZbDVlelZiMVlzZEhfY3JBRVFPWTZvQkhXMTV4QlNTb0ZlSEdiMGI3ajlWT0Rn?oc=5"
+      },
+      {
+        "text": "Businesses count their losses as power reforms fail to stop darkness",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNlRBV1pEaEdia1pjaVNPMEUtUVMxLUQtcnZ4N2lzNEprS0I5QXQycGZxY1NTSkJYakZuNjFGOVIzNzVicGxTenpQSTZ5M3VsdENhM2RuS0JYa0NCZVNzXy1KaFJvQTZrMXhMclY2WG4zUWtPdXNYOHoyY2pPSDRjV0cwS3ZOU2NYRHhiX2ZkNFRaemNzVVdlWWtkYmxycmdiSjNUbnhoSDZQQXJvVEJBTDJ4NUVQbDV3ZC11cl9MMWFEZG4tNWUzUG1zUjJYa0RSeUxqWk84SlhNUzBjQ2c?oc=5"
+      },
+      {
+        "text": "When El Niño meets blackout, supply disruptions intensify",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5meE9JR2ZncGJKb3Nxd0EtN1UzdjVOeFlEYXl1R3ZkbDNnMzk2MG9LV2dtMVphN082Q3N4N01FbEVRc3hsNTREcW1OMkRKX2VVdGR6NTQ3bEl4QQ?oc=5"
+      }
+    ],
+    "marketGap": "No on‑demand, subscription‑based modular battery solution exists that lets small businesses secure backup power without large upfront CAPEX or diesel fuel costs.",
+    "executionPlan": "Launch a pilot offering plug‑and‑play battery packs with solar charging on a monthly subscription to 10 frozen‑food vendors in Lagos. Build a lightweight IoT platform to monitor charge levels and schedule maintenance. Monetize through a flat monthly fee plus a pay‑per‑kWh usage surcharge once the subscription cap is reached.",
+    "competitor": "None offers a dedicated Battery‑as‑a‑Service model for Nigerian SMEs; existing options are diesel generators or one‑off solar installations.",
+    "trend": "Rising climate volatility and digital‑first business models are driving demand for affordable, clean backup power solutions across Africa."
+  },
+  {
     "id": "post-stroke-headache-diagnostics",
     "title": "NeuroCheck: Remote Post‑Stroke Headache Diagnosis",
     "category": "Health-tech",
@@ -468,31 +494,5 @@
     "executionPlan": "Build an Android MVP that reads OS network stats, displays per‑app consumption, and sends threshold alerts; launch beta with a small user group and partner with local carriers for API‑based bundle recommendations; monetize via a freemium model with premium insights and affiliate commissions on data purchases.",
     "competitor": "none exists",
     "trend": "Rising mobile data costs and growing consumer frustration with opaque usage are driving demand for transparent data management solutions."
-  },
-  {
-    "id": "solar-as-a-service-smbs",
-    "title": "Solar-as-a-Service for Small Businesses",
-    "category": "Energy",
-    "tagline": "Small retailers can’t afford diesel generators or endure grid outages, need affordable solar power",
-    "dateAdded": "2026-11-04",
-    "whyNow": "Frequent blackouts and soaring diesel prices are crippling small traders, while recent green‑energy financing programmes show appetite for clean power solutions now.",
-    "proof": [
-      {
-        "text": "Frozen‑food traders are turning to solar because the power crisis and high petrol costs make diesel generators unaffordable.",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT05DMlVzT2tiaUZjZm81aC1COVhiQkdrR0Z5ZjFoVnNISXc1U3VRMGJzZUpVSTk3UzRQUVFwTEhhWF95UXc4cWp3YXpLQU03YlNOaVNsVElFanZBTEJMaXgzWjY1N20xLWFTVmhkdU9QVWx4MWZsWkcwZHNvRGxiN3RNazZOWG1Vc3hZYmVCRW8zZEltMC15VDF0RU03SHRCWFHSAacBQVVfeXFMTmtZb1VlTjd5ZnoyZzlzbWVwU3kwLUpmdk41WHZyMGNtclNEM0E1Wk11a0htcmtDc25zc09zS1hxX04yY0l4cmRZaVd1bmVlVm9rVHdwaXd1Mm9BOEN4blJrRlM3clF0cTRXZ0l6NWxaLUE5WHhjQ0JreHczSDBFUmphd1BvbS01ZWMzd05OcTFMdFVpSS1UblNKRTk3NlYxVE9OaVpzWk0?oc=5"
-      },
-      {
-        "text": "Green energy financing helped Nigerian SMEs cut power costs and boost productivity.",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVBQaGFzWXJaRS1SZmtfR01JODI0dWNWekV1WERiVnBiVzRfTVYtemxWM25GM2tpU21sM20tYjdhRVFZTnVSeDZXYVdSOWI2ajdlaW0xTkQxMUdFVVREUERfcXRjNW1CMlpoMDVEcXN0QWJRSGNRallwd1ZIN1pEVEo0Q3RVSm5vZzZHOTVZMVp0MEo1T1FDd3ZRT1BNTVhwYmdtbDJ1UXlLN0NHeE83TjdzajBMZlJhRGhlWU9rUE0?oc=5"
-      },
-      {
-        "text": "The Lagos Chamber of Commerce & Industry is pushing a gas‑based solution to Nigeria’s power crisis, underscoring the lack of affordable clean energy for businesses.",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52anA0NGVDdW9INzI4RXBKdUFGMHdnaXhNUF9zV205V2lWOC12THcxTU9fSHFxYm5fbTRZOGp5QjVQUmtlQkxQMlZlTmVKM3ZXdXhkeGNpdUduNFJJanhWbkhuNElzSFhOejZFS2VLajNDQm5URUlR?oc=5"
-      }
-    ],
-    "marketGap": "No Nigerian provider currently offers a pay‑as‑you‑go solar leasing model tailored to small retail and food‑service businesses that need reliable, low‑cost power without upfront capital.",
-    "executionPlan": "Launch an MVP in Lagos and Delta states by partnering with local solar installers to provide 5‑kW rooftop kits on a subscription basis; users pay a modest monthly fee covering equipment, maintenance and insurance; a mobile app monitors usage and alerts for service. Monetize through the subscription fee and optional add‑ons like battery storage. Validate demand with a pilot of 50 traders before scaling nationwide.",
-    "competitor": "M‑KOPA (Kenya) – similar pay‑as‑you‑go solar model, but no direct Nigerian equivalent yet",
-    "trend": "Accelerating renewable‑energy financing and rising diesel costs are driving African SMEs toward affordable solar solutions."
   }
 ]
