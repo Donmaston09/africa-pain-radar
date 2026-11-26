@@ -1,5 +1,27 @@
 [
   {
+    "id": "low-cost-borderless-remit",
+    "title": "Low‑Cost Borderless Remit",
+    "category": "Fintech & Payments",
+    "tagline": "High fees and delays eat away from African remittances.",
+    "dateAdded": "2026-11-26",
+    "whyNow": "Remittance volumes from the African diaspora are surging, yet users lose up to 10% of each transfer to fees and slow settlement, making affordable, instant solutions urgently needed.",
+    "proof": [
+      {
+        "text": "Cross‑border payments in Africa still suffer from high fees and slow processing times, costing users up to 10% per transaction.",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFd2bnp6a2cxclkzcGU1M0RlRlVOal9WektPYWFRQVp5dUc5N1BibWpGSjFlUnVwTUZCN012UDBBR2QyVFRaOWx3YlFtbGVKWkVmSWlQTFdhdTlwdkxsbTZjTUNCQkZwbldCbWxiMzFVeERsSG1kQmN1azNuU040dVpvM2R2RXB0Nm9jZmhFV1lwOTRpOVpCbnFiNC0?oc=5"
+      },
+      {
+        "text": "The lack of seamless, affordable solutions hampers the flow of money for families and businesses across African borders.",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFd2bnp6a2cxclkzcGU1M0RlRlVOal9WektPYWFRQVp5dUc5N1BibWpGSjFlUnVwTUZCN012UDBBR2QyVFRaOWx3YlFtbGVKWkVmSWlQTFdhdTlwdkxsbTZjTUNCQkZwbldCbWxiMzFVeERsSG1kQmN1azNuU040dVpvM2R2RXB0Nm9jZmhFV1lwOTRpOVpCbnFiNC0?oc=5"
+      }
+    ],
+    "marketGap": "No low‑fee, real‑time platform aggregates multiple mobile‑money networks to offer transparent pricing for intra‑African remittances.",
+    "executionPlan": "Build an MVP app that integrates with Nigeria’s and Ghana’s mobile‑money APIs, offering a flat 1% fee and instant settlement; pilot with diaspora users and monetize via transaction fees and a premium instant‑transfer option; expand to additional corridors after validating demand.",
+    "competitor": "WorldRemit – higher fees and limited instant settlement",
+    "trend": "Rapid mobile‑money adoption and emerging open‑banking frameworks are unlocking cross‑border payment opportunities across Africa"
+  },
+  {
     "id": "battery-as-a-service-sme",
     "title": "Battery‑as‑a‑Service for SMEs",
     "category": "Energy",
@@ -468,31 +490,5 @@
     "executionPlan": "Launch a mobile MVP in Abuja that partners with landlords near NYSC camps to offer income‑linked lease agreements – tenants pay a fixed percentage of their monthly stipend, and the platform guarantees rent to landlords. Phase 1 builds the matching engine and payment escrow; Phase 2 adds a small subscription fee for landlords and a 2% service fee on each transaction. Revenue is generated from landlord subscriptions and transaction fees while data on rent affordability is collected for future fintech products.",
     "competitor": "None – existing rental platforms (e.g., PropertyPro) do not provide income‑linked rent solutions for NYSC members.",
     "trend": "Rapid urbanisation and digital fintech adoption are converging with a housing supply crunch, making income‑aligned rental models both viable and timely."
-  },
-  {
-    "id": "clear-data-app",
-    "title": "ClearData: Real‑Time Data Usage Tracker",
-    "category": "Connectivity",
-    "tagline": "Consumers can’t see why their mobile data vanishes, leading to frustration and wasted money.",
-    "dateAdded": "2026-11-05",
-    "whyNow": "Regulators are demanding explanations from MTN, Airtel and Glo over poor service, and recent MTN statements admit data disappears quickly, highlighting urgent consumer demand for transparency.",
-    "proof": [
-      {
-        "text": "Nigeria’s reps give MTN, Airtel, Glo until October 28 to explain poor service",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KMFJrb3h4cGRJQk5BbWhVT2ZLQU5PTVplLTFCUWJPdGxOcmRwcE1kZkxEQnJnelZRVWJwOUc4dTA5NWl3NGNPYVRMdXYwcE0yV0ttQkhWWXFLdjN0SUNTNHkwVnhkUQ?oc=5"
-      },
-      {
-        "text": "Why mobile data finishes quickly — MTN explains",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44T29CVGNDQ0R6cTV3c1JCLXJXUWcyazNUREQzbHpNMzFBSmFMdzVmNktuVFp0aF9pRnBFMWQ2LU1mRDRCS2p6V0xSSThUUmVLOFozdF9zbkkxR3drMzRlaEN1OF96ZC1MREo4OVgxTWpwdi1PRE1wb2hNUXVRUU3SAYQBQVVfeXFMT2tiOGNEUVRSQU5BMUFuZ09RbUdQSHI4aVJkZWtzV1BuS01ZXzBDb1A3Y3doS0M2N3JmaHBuUHB6aE5rQjgzdUpQWldRWG9CcE1ETVRJR1NKdllJekhrdVZLUTc5enVMY0JIZHd6d21xTlZvTXlKRFlJUWNqcjJKMTZNdUlS?oc=5"
-      },
-      {
-        "text": "“Who’s eating my data?” MTN finally explains why your data disappears like jollof at a party",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZUpMTHFSZE84X1daUVlybjVjX3N0anhpcGtDVVFsZWJwYUVESHptbzVhY1d1MWlONncxSkwxcTI3R3BrTE5kTWZlOUs1a1N4cGJ4Z1c1R1lvN2RXUVlPQmRac0pDMHBPV1FhU3ZpQnNId09UN2FwSFJLdWtLbjZqVWJJT0NYa0I0VllFaWF2ZjY?oc=5"
-      }
-    ],
-    "marketGap": "No consumer‑focused tool offers real‑time, per‑app data usage visibility and alerts, leaving users to guess why their data depletes.",
-    "executionPlan": "Build an Android MVP that reads OS network stats, displays per‑app consumption, and sends threshold alerts; launch beta with a small user group and partner with local carriers for API‑based bundle recommendations; monetize via a freemium model with premium insights and affiliate commissions on data purchases.",
-    "competitor": "none exists",
-    "trend": "Rising mobile data costs and growing consumer frustration with opaque usage are driving demand for transparent data management solutions."
   }
 ]
